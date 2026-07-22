@@ -149,46 +149,106 @@
       "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/squad2b_0.sql",
       "raw": 33,
       "kept": 32
-    }
-  ],
-  "unique_records": 502,
-  "min_fit": 6,
-  "fit_distribution": {
-    "9": 82,
-    "8": 129,
-    "7": 176,
-    "6": 115
-  },
-  "batches": [
+    },
     {
       "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_0.sql",
-      "records": 100,
-      "kb": 60
+      "raw": 100,
+      "kept": 100
     },
     {
       "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_1.sql",
-      "records": 100,
-      "kb": 75
+      "raw": 100,
+      "kept": 100
     },
     {
       "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_2.sql",
-      "records": 100,
-      "kb": 80
+      "raw": 100,
+      "kept": 100
     },
     {
       "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_3.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_4.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_5.sql",
+      "raw": 2,
+      "kept": 2
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_v2/import_batch_0.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_v2/import_batch_1.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_v2/import_batch_2.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_v2/import_batch_3.sql",
+      "raw": 77,
+      "kept": 77
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_v3/import_batch_0.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_v3/import_batch_1.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_v3/import_batch_2.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_v3/import_batch_3.sql",
+      "raw": 100,
+      "kept": 100
+    }
+  ],
+  "unique_records": 400,
+  "min_fit": 6,
+  "fit_distribution": {
+    "9": 57,
+    "8": 105,
+    "7": 138,
+    "6": 100
+  },
+  "batches": [
+    {
+      "file": "data/scout-import-2026-07/import_batch_0.sql",
+      "records": 100,
+      "kb": 68
+    },
+    {
+      "file": "data/scout-import-2026-07/import_batch_1.sql",
+      "records": 100,
+      "kb": 72
+    },
+    {
+      "file": "data/scout-import-2026-07/import_batch_2.sql",
       "records": 100,
       "kb": 74
     },
     {
-      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_4.sql",
+      "file": "data/scout-import-2026-07/import_batch_3.sql",
       "records": 100,
-      "kb": 78
-    },
-    {
-      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_5.sql",
-      "records": 2,
-      "kb": 2
+      "kb": 77
     }
   ]
 }

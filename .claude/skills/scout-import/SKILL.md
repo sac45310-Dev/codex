@@ -26,6 +26,19 @@ The importer also accepts legacy formats: SQL files with
 `jsonb_to_recordset('[...]')` payloads (short keys n/t/w/s/f/r/q/m or long
 keys), and `{"candidates": [...]}` JSON.
 
+## Step 0b — (optional) give hunters a skip-list
+
+To stop hunters re-finding contacts already in the CRM, before the hunt run
+`export_existing.sql` via `execute_sql`, save the JSON result, then:
+
+```bash
+python3 tools/scout-import/scout_import.py snapshot existing.json --out <workdir>
+# -> <workdir>/hunter_skiplist.txt  — paste into the hunter prompts
+```
+
+This is a convenience (fewer wasted searches); Step 2's import guards are the
+real dedup and run regardless.
+
 ## Step 1 — Collect & generate batch SQL
 
 ```bash
@@ -33,8 +46,10 @@ python3 tools/scout-import/scout_import.py collect <hunter-output-dir> \
   --min-fit 6 --out <workdir>/scout_import_out
 ```
 
-This normalizes, clamps fit scores, dedupes by org name (keeps highest fit),
-and writes `import_batch_*.sql` + `verify.sql` + `manifest.json`. Report the
+This normalizes, clamps fit scores, dedupes by org name AND by normalized
+website (same person / different name spelling / same URL → merged; a URL
+shared by 3+ records is a roster page and is kept, not collapsed), then
+writes `import_batch_*.sql` + `verify.sql` + `manifest.json`. Report the
 unique-record count and fit distribution to the user before importing.
 
 ## Step 2 — Execute against the database
@@ -70,7 +85,8 @@ Run the queries in `verify.sql` and report to the user:
 
 - `ON CONFLICT DO NOTHING` does NOT dedupe this table (no unique constraint
   on org_name) — the NOT EXISTS guards are the dedup. Don't "simplify" them
-  away.
+  away. The website guard deliberately skips only *singleton* URLs
+  (`es.n = 1`) so shared roster/platform pages never cause false skips.
 - Fit scale: 9+ hottest, 7-8 solid, 6 marginal, <6 excluded by default.
 - Only discover people/orgs with a PUBLIC support-raising presence (giving
   pages, prayer letters, ministry sites). Do not mine directories for

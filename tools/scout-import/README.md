@@ -46,6 +46,36 @@ python3 scout_import.py report ./hunts --min-fit 8
 - Strips `https://` and trailing `/` from websites (matches app convention)
 - Stamps `meta.import_source` with the originating filename
 - Dedupes by `lower(trim(org_name))`, keeping the highest-fit copy
+- **Then dedupes by normalized website** (scheme/`www.`/trailing-slash
+  stripped), which catches the same person under two name spellings
+  (e.g. "Aaron & Stacy Jex" vs "Aaron and Stacy Jex" on the same URL).
+  A URL shared by 3+ records is treated as a roster/platform page, not
+  one person, and is **not** collapsed — so distinct missionaries who
+  all cite an agency deputation list are preserved.
+
+## Avoiding duplicates against the live CRM
+
+Two layers guard against re-importing contacts you already have:
+
+1. **Import-time (automatic):** the generated SQL skips any candidate whose
+   name matches an existing `sales.scout_candidates` or `sales.leads` row,
+   **or** whose website matches an existing *person-specific* URL (one that
+   appears on exactly one existing row — shared roster URLs never trigger a
+   skip). This is the real safety net; re-running a batch is always safe.
+
+2. **Hunt-time (optional, saves wasted searches):** before launching a new
+   hunter wave, export what the CRM already has and hand hunters a skip-list:
+
+   ```bash
+   # 1. Run export_existing.sql via the Supabase execute_sql tool, save the
+   #    JSON result to existing.json
+   # 2. Turn it into a prompt snippet:
+   python3 scout_import.py snapshot existing.json --out ./snap
+   # -> ./snap/hunter_skiplist.txt  (paste into hunter prompts)
+   ```
+
+   Hunters still occasionally re-find known contacts; layer 1 catches those.
+   The skip-list just means they spend fewer searches doing so.
 
 ## Why the generated SQL looks the way it does
 

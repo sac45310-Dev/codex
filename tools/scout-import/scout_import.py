@@ -41,6 +41,21 @@ CANON_KEYS = ["org_name", "org_type", "website", "city", "state", "summary",
 VALID_STATUS = {"pending", "approved", "rejected", "skipped"}
 
 
+def norm_site(w):
+    """Normalize a website for equality matching: drop scheme, leading www.,
+    and trailing slashes, lowercase. Returns None for empty/missing.
+
+    Kept deliberately in lockstep with the SQL guard in emit_sql() so the
+    Python within-batch dedup and the database-side dedup agree on what
+    counts as 'the same site'.
+    """
+    if not w:
+        return None
+    s = re.sub(r"^https?://", "", str(w).strip(), flags=re.I)
+    s = re.sub(r"^www\.", "", s, flags=re.I)
+    return s.rstrip("/").lower() or None
+
+
 def extract_json_arrays_from_sql(text):
     """Yield every jsonb_to_recordset('[...]') payload in a SQL file."""
     marker = "jsonb_to_recordset('"
@@ -143,13 +158,34 @@ def collect(directory, min_fit):
         if kept:
             records.extend(kept)
             manifest.append({"file": path, "raw": len(raw), "kept": len(kept)})
-    # Within-batch dedupe by name, keep the highest fit score.
-    best = {}
+    # Within-batch dedupe, keeping the highest fit score at each step.
+    # Pass 1: by normalized org name.
+    by_name = {}
     for r in records:
         key = r["org_name"].lower().strip()
-        if key not in best or r["fit_score"] > best[key]["fit_score"]:
-            best[key] = r
-    return list(best.values()), manifest
+        if key not in by_name or r["fit_score"] > by_name[key]["fit_score"]:
+            by_name[key] = r
+    # Pass 2: by normalized website — collapses the same person found under
+    # slightly different name spellings but a shared giving/ministry URL.
+    # BUT a URL shared by 3+ name-distinct records is almost certainly a
+    # roster/directory/platform page (e.g. an agency deputation list), not
+    # one person's page — collapsing those would delete real distinct leads,
+    # so we only treat a URL as an identity key when at most 2 records carry
+    # it. Records without a website, or on a shared URL, pass through intact.
+    site_freq = {}
+    for r in by_name.values():
+        site = norm_site(r["website"])
+        if site:
+            site_freq[site] = site_freq.get(site, 0) + 1
+    by_site, out = {}, []
+    for r in by_name.values():
+        site = norm_site(r["website"])
+        if site is None or site_freq[site] >= 3:
+            out.append(r)
+        elif site not in by_site or r["fit_score"] > by_site[site]["fit_score"]:
+            by_site[site] = r
+    out.extend(by_site.values())
+    return out, manifest
 
 
 def emit_sql(records, out_dir, batch_size):
@@ -158,10 +194,25 @@ def emit_sql(records, out_dir, batch_size):
     for i in range(0, len(records), batch_size):
         chunk = records[i:i + batch_size]
         payload = json.dumps(chunk).replace("'", "''")
+        # normhost(x): strip scheme, leading www., trailing slashes, lowercase
+        # — kept identical to norm_site() in Python so both sides agree.
+        normhost = "rtrim(lower(regexp_replace({col}, '^https?://(www\\.)?', '', 'i')), '/')"
         sql = (
             "with src as (select * from jsonb_to_recordset('" + payload + "'::jsonb)\n"
             "  as x(org_name text, org_type text, website text, city text, state text,\n"
-            "       summary text, fit_score int, fit_reason text, source_query text, meta jsonb))\n"
+            "       summary text, fit_score int, fit_reason text, source_query text, meta jsonb)),\n"
+            "-- Count how many existing rows (queue + pipeline) share each URL.\n"
+            "-- A URL on exactly one row is a person-specific page safe to dedup\n"
+            "-- against; a URL shared by many is a roster/platform page and must\n"
+            "-- NOT cause a skip, or we'd drop distinct people who list it.\n"
+            "existing_sites as (\n"
+            "  select site, count(*) as n from (\n"
+            "    select " + normhost.format(col="website") + " as site\n"
+            "      from sales.scout_candidates where website is not null and btrim(website) <> ''\n"
+            "    union all\n"
+            "    select " + normhost.format(col="website") + " as site\n"
+            "      from sales.leads where website is not null and btrim(website) <> ''\n"
+            "  ) w group by site)\n"
             "insert into sales.scout_candidates\n"
             "  (org_name, org_type, website, city, state, summary,\n"
             "   fit_score, fit_reason, source_query, status, meta)\n"
@@ -171,7 +222,11 @@ def emit_sql(records, out_dir, batch_size):
             "where not exists (select 1 from sales.scout_candidates c\n"
             "                  where lower(trim(c.org_name)) = lower(trim(s.org_name)))\n"
             "  and not exists (select 1 from sales.leads l\n"
-            "                  where lower(trim(l.org_name)) = lower(trim(s.org_name)));"
+            "                  where lower(trim(l.org_name)) = lower(trim(s.org_name)))\n"
+            "  and not exists (select 1 from existing_sites es\n"
+            "                  where s.website is not null and btrim(s.website) <> ''\n"
+            "                    and es.n = 1\n"
+            "                    and es.site = " + normhost.format(col="s.website") + ");"
         )
         path = os.path.join(out_dir, f"import_batch_{i // batch_size}.sql")
         open(path, "w").write(sql)
@@ -203,17 +258,79 @@ from sales.scout_candidates order by created_at desc limit 5;
     return files
 
 
+def build_snapshot(rows, limit):
+    """Turn a live-DB export (rows of {org_name, website}) into a skip-list
+    for hunter prompts, so hunters don't burn time re-finding contacts the
+    CRM already has. Import-time dedup remains the real guard; this just
+    reduces wasted searches.
+
+    `rows` is the JSON array returned by export_existing.sql. Returns
+    (prompt_snippet_text, stats).
+    """
+    domains, names = {}, []
+    for row in rows:
+        name = str(row.get("org_name") or "").strip()
+        if name:
+            names.append(name)
+        site = norm_site(row.get("website"))
+        if site:
+            # keep the registrable-ish host (strip path) for compactness
+            domains[site.split("/")[0]] = True
+    domain_list = sorted(domains)
+    shown = domain_list[:limit]
+    header = (
+        "ALREADY IN THE DONORSEND CRM — do NOT return these; find NEW "
+        f"prospects. The CRM already has {len(names)} contacts across "
+        f"{len(domain_list)} domains. Known domains include:\n"
+    )
+    snippet = header + ", ".join(shown)
+    if len(domain_list) > limit:
+        snippet += f", …(+{len(domain_list) - limit} more)"
+    snippet += (
+        "\nIf a prospect's giving page or site is on one of these domains, "
+        "assume we already have them unless it's a clearly different person."
+    )
+    return snippet, {"known_contacts": len(names),
+                     "known_domains": len(domain_list),
+                     "domains_shown": len(shown)}
+
+
+def _load_rows(path):
+    """Read export_existing.sql output. Accepts a JSON array, or the
+    {rows:[...]}/{data:[...]} wrappers some SQL runners emit."""
+    data = json.loads(open(path, encoding="utf-8").read())
+    if isinstance(data, list):
+        return data
+    for key in ("rows", "data", "result"):
+        if isinstance(data, dict) and isinstance(data.get(key), list):
+            return data[key]
+    raise SystemExit(f"{path}: expected a JSON array of {{org_name, website}} rows")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("command", choices=["collect", "report"])
-    ap.add_argument("directory", help="directory containing hunter output files")
+    ap.add_argument("command", choices=["collect", "report", "snapshot"])
+    ap.add_argument("path", help="hunter-output directory (collect/report), "
+                                 "or existing-contacts JSON file (snapshot)")
     ap.add_argument("--min-fit", type=int, default=6)
     ap.add_argument("--out", default="./scout_import_out")
     ap.add_argument("--batch-size", type=int, default=100)
+    ap.add_argument("--limit", type=int, default=200,
+                    help="snapshot: max domains to inline in the prompt snippet")
     args = ap.parse_args()
 
-    records, manifest = collect(args.directory, args.min_fit)
+    if args.command == "snapshot":
+        snippet, stats = build_snapshot(_load_rows(args.path), args.limit)
+        os.makedirs(args.out, exist_ok=True)
+        snip_path = os.path.join(args.out, "hunter_skiplist.txt")
+        open(snip_path, "w").write(snippet + "\n")
+        stats["skiplist_file"] = snip_path
+        json.dump(stats, sys.stdout, indent=2)
+        print()
+        return
+
+    records, manifest = collect(args.path, args.min_fit)
     dist = {}
     for r in records:
         dist[r["fit_score"]] = dist.get(r["fit_score"], 0) + 1
