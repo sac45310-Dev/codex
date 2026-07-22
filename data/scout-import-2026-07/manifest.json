@@ -1,0 +1,194 @@
+{
+  "sources": [
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/batch3_0.sql",
+      "raw": 34,
+      "kept": 20
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/batch3_1.sql",
+      "raw": 34,
+      "kept": 33
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/batch3_2.sql",
+      "raw": 34,
+      "kept": 34
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/batch3_3.sql",
+      "raw": 11,
+      "kept": 11
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/import_batch_0.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/import_batch_1.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/import_batch_2.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/import_batch_3.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/import_batch_4.sql",
+      "raw": 96,
+      "kept": 96
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/insert_chunk_0.sql",
+      "raw": 55,
+      "kept": 51
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/insert_chunk_1.sql",
+      "raw": 55,
+      "kept": 52
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/insert_chunk_2.sql",
+      "raw": 55,
+      "kept": 53
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/insert_chunk_3.sql",
+      "raw": 52,
+      "kept": 52
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/lean_0.sql",
+      "raw": 36,
+      "kept": 36
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/lean_1.sql",
+      "raw": 36,
+      "kept": 30
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/lean_2.sql",
+      "raw": 36,
+      "kept": 35
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/lean_3.sql",
+      "raw": 36,
+      "kept": 35
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/lean_4.sql",
+      "raw": 36,
+      "kept": 35
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/lean_5.sql",
+      "raw": 36,
+      "kept": 36
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/lean_6.sql",
+      "raw": 1,
+      "kept": 1
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/named_0.sql",
+      "raw": 36,
+      "kept": 36
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/named_1.sql",
+      "raw": 36,
+      "kept": 30
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/named_2.sql",
+      "raw": 36,
+      "kept": 35
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/named_3.sql",
+      "raw": 36,
+      "kept": 35
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/named_4.sql",
+      "raw": 36,
+      "kept": 35
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/named_5.sql",
+      "raw": 36,
+      "kept": 36
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/named_6.sql",
+      "raw": 1,
+      "kept": 1
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/squad2_0.sql",
+      "raw": 34,
+      "kept": 34
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/squad2_1.sql",
+      "raw": 29,
+      "kept": 27
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/squad2b_0.sql",
+      "raw": 33,
+      "kept": 32
+    }
+  ],
+  "unique_records": 502,
+  "min_fit": 6,
+  "fit_distribution": {
+    "9": 82,
+    "8": 129,
+    "7": 176,
+    "6": 115
+  },
+  "batches": [
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_0.sql",
+      "records": 100,
+      "kb": 60
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_1.sql",
+      "records": 100,
+      "kb": 75
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_2.sql",
+      "records": 100,
+      "kb": 80
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_3.sql",
+      "records": 100,
+      "kb": 74
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_4.sql",
+      "records": 100,
+      "kb": 78
+    },
+    {
+      "file": "/tmp/claude-0/-home-user-codex/4a2badea-60b4-5e23-ba5a-df0bfac47842/scratchpad/tool_test_out/import_batch_5.sql",
+      "records": 2,
+      "kb": 2
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+with src as (select * from jsonb_to_recordset('[{"org_name": "David''s Well Incorporated", "org_type": "organization", "website": "davidswell.org", "city": null, "state": null, "summary": "Paul Daniel Crosley (co-founder) | Small US mission org (founded 1987) taking the Gospel to native villages in Panama with water systems, clinics, schools, and Bible institutes; donations via Give Lively including memorial campaigns. | Field: Panama and Central America | Comms: Give Lively memorial campaign ''In Memory of Pastor Juan'' and Facebook", "fit_score": 7, "fit_reason": "Small individual-donor-funded mission nonprofit on a generic donation platform with mission-trip supporter base to steward.", "source_query": "hunter:competitor-tools", "meta": {"h": "competitor-tools", "gp": "https://secure.givelively.org/donate/davids-well-incorporated", "tool": "givelively", "import_source": "squad2b_0.sql"}}, {"org_name": "Thang''s Missionary Support (Children''s Bible Ministries)", "org_type": "individual", "website": "childrensbibleministries.net", "city": null, "state": null, "summary": "Thang (CBM staff missionary) | Individual staff missionary with Children''s Bible Ministries raising personal support through a Zeffy peer-to-peer campaign (same sending org as the Austins). | Field: US-based with international affiliate ministry | Comms: Zeffy peer-to-peer page (dates not verified)", "fit_score": 7, "fit_reason": "Another individually support-raised CBM worker on Zeffy peer-to-peer \u2014 same proven pain point and sending-org cluster.", "source_query": "hunter:competitor-tools", "meta": {"h": "competitor-tools", "gp": "https://www.zeffy.com/en-US/peer-to-peer/thangs-missionary-support", "tool": "zeffy", "import_source": "squad2b_0.sql"}}]'::jsonb)
+  as x(org_name text, org_type text, website text, city text, state text,
+       summary text, fit_score int, fit_reason text, source_query text, meta jsonb))
+insert into sales.scout_candidates
+  (org_name, org_type, website, city, state, summary,
+   fit_score, fit_reason, source_query, status, meta)
+select s.org_name, s.org_type, s.website, s.city, s.state, s.summary,
+       s.fit_score, s.fit_reason, s.source_query, 'pending', coalesce(s.meta, '{}'::jsonb)
+from src s
+where not exists (select 1 from sales.scout_candidates c
+                  where lower(trim(c.org_name)) = lower(trim(s.org_name)))
+  and not exists (select 1 from sales.leads l
+                  where lower(trim(l.org_name)) = lower(trim(s.org_name)));
