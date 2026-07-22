@@ -11,6 +11,7 @@
       "mcp__041a1791-051e-425c-8c57-44c1327b6868__get_logs",
       "mcp__041a1791-051e-425c-8c57-44c1327b6868__get_advisors",
       "mcp__041a1791-051e-425c-8c57-44c1327b6868__search_docs",
+      "mcp__041a1791-051e-425c-8c57-44c1327b6868__execute_sql",
       "mcp__Supabase__list_tables",
       "mcp__Supabase__list_migrations",
       "mcp__Supabase__list_edge_functions",
