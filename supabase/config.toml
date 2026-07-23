@@ -1,0 +1,7 @@
+# DonorSend Supabase project config.
+# Link with: supabase link --project-ref leuhdxomjpoaiacxrwbz
+project_id = "leuhdxomjpoaiacxrwbz"
+
+[db]
+# Match the remote Postgres major version.
+major_version = 17
