@@ -1,0 +1,150 @@
+{
+  "sources": [
+    {
+      "file": "./FINAL_CONSOLIDATED_ALL_WAVES.json",
+      "raw": 614,
+      "kept": 613
+    },
+    {
+      "file": "./FINAL_FIT8PLUS.json",
+      "raw": 173,
+      "kept": 173
+    },
+    {
+      "file": "./FINAL_PROSPECTS.json",
+      "raw": 291,
+      "kept": 291
+    },
+    {
+      "file": "./data/scout-import-2026-07/import_batch_0.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./data/scout-import-2026-07/import_batch_1.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./data/scout-import-2026-07/import_batch_2.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./data/scout-import-2026-07/import_batch_3.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./scout_import_out/import_batch_0.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./scout_import_out/import_batch_1.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./scout_import_out/import_batch_2.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./scout_import_out/import_batch_3.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./scout_import_out/import_batch_4.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./scout_import_out/import_batch_5.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./scout_import_out/import_batch_6.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./scout_import_out/import_batch_7.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./scout_import_out/import_batch_8.sql",
+      "raw": 100,
+      "kept": 100
+    },
+    {
+      "file": "./scout_import_out/import_batch_9.sql",
+      "raw": 97,
+      "kept": 97
+    }
+  ],
+  "unique_records": 997,
+  "min_fit": 6,
+  "fit_distribution": {
+    "10": 23,
+    "9": 210,
+    "8": 341,
+    "7": 290,
+    "6": 133
+  },
+  "batches": [
+    {
+      "file": "./scout_import_out/import_batch_0.sql",
+      "records": 100,
+      "kb": 71
+    },
+    {
+      "file": "./scout_import_out/import_batch_1.sql",
+      "records": 100,
+      "kb": 66
+    },
+    {
+      "file": "./scout_import_out/import_batch_2.sql",
+      "records": 100,
+      "kb": 68
+    },
+    {
+      "file": "./scout_import_out/import_batch_3.sql",
+      "records": 100,
+      "kb": 64
+    },
+    {
+      "file": "./scout_import_out/import_batch_4.sql",
+      "records": 100,
+      "kb": 65
+    },
+    {
+      "file": "./scout_import_out/import_batch_5.sql",
+      "records": 100,
+      "kb": 66
+    },
+    {
+      "file": "./scout_import_out/import_batch_6.sql",
+      "records": 100,
+      "kb": 64
+    },
+    {
+      "file": "./scout_import_out/import_batch_7.sql",
+      "records": 100,
+      "kb": 72
+    },
+    {
+      "file": "./scout_import_out/import_batch_8.sql",
+      "records": 100,
+      "kb": 74
+    },
+    {
+      "file": "./scout_import_out/import_batch_9.sql",
+      "records": 97,
+      "kb": 75
+    }
+  ]
+}
