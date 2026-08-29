@@ -381,12 +381,17 @@ def ingest_wave(directory, min_fit, out_dir, batch_size):
 
         for o in data.get("orgs_discovered") or []:
             if isinstance(o, dict) and str(o.get("org_name") or "").strip():
+                faith = o.get("faith_orientation")
                 targets.append({"org_name": str(o["org_name"]).strip(),
                                 "website": norm_site(o.get("website")),
                                 "org_type": o.get("org_type") or "agency",
                                 "size_estimate": o.get("size_estimate"),
                                 "tier_profile": o.get("tier_profile") or "A",
                                 "headcount_est": o.get("headcount_est"),
+                                "faith_orientation": faith if faith in ("christian", "other_faith", "secular") else None,
+                                "crm_incumbent": o.get("crm_incumbent"),
+                                "do_not_pursue": bool(o.get("do_not_pursue")),
+                                "do_not_pursue_reason": o.get("do_not_pursue_reason") if o.get("do_not_pursue") else None,
                                 "notes": o.get("evidence"),
                                 "wave_id": wave_id})
 
@@ -431,12 +436,16 @@ def ingest_wave(directory, min_fit, out_dir, batch_size):
         sql = (
             "with src as (select * from jsonb_to_recordset('" + _payload(targets) + "'::jsonb)\n"
             "  as x(org_name text, website text, org_type text, size_estimate text,\n"
-            "       tier_profile text, headcount_est int, notes text, wave_id text))\n"
+            "       tier_profile text, headcount_est int, faith_orientation text,\n"
+            "       crm_incumbent text, do_not_pursue boolean, do_not_pursue_reason text,\n"
+            "       notes text, wave_id text))\n"
             "insert into sales.hunt_targets\n"
             "  (org_name, website, org_type, size_estimate, tier_profile, priority,\n"
-            "   discovered_by, headcount_est, notes)\n"
+            "   discovered_by, headcount_est, faith_orientation, crm_incumbent,\n"
+            "   do_not_pursue, do_not_pursue_reason, notes)\n"
             "select s.org_name, s.website, s.org_type, s.size_estimate, s.tier_profile, 4,\n"
-            "       'wave:' || s.wave_id, s.headcount_est, s.notes\n"
+            "       'wave:' || s.wave_id, s.headcount_est, s.faith_orientation, s.crm_incumbent,\n"
+            "       coalesce(s.do_not_pursue, false), s.do_not_pursue_reason, s.notes\n"
             "from src s\n"
             "where not exists (select 1 from sales.hunt_targets t\n"
             "                  where lower(trim(t.org_name)) = lower(trim(s.org_name)))\n"

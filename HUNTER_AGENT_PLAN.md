@@ -25,9 +25,17 @@
 
 ---
 
-## 2. ICP definition — two tiers, one kill test
+## 2. ICP definition — three tiers, one kill test
 
-The decision the user selected: **tiered ICP**.
+> **Revised 2026-08-29:** market scope widened to ANY nonprofit that
+> fundraises from individual donors (Christian, other-faith, or secular —
+> tagged via `faith_orientation`); board members/major donors became
+> Tier C influencers; incumbent-CRM orgs became competitive-displacement
+> targets (`crm_incumbent`); and orgs whose published mission includes
+> LGBT/transgender advocacy are cataloged with `do_not_pursue = true`
+> rather than pursued — an org-mission classification only, never about
+> individuals (agents never record or infer any person's orientation or
+> identity).
 
 ### Tier A — Support-raised individuals (high fit, score band 7–10)
 A person who must **personally raise their own funding**: missionaries, Cru/Young Life/YWAM/Navigators staff, church planters on deputation, agency field workers, support-raised chaplains and campus workers.
@@ -41,6 +49,9 @@ A person who must **personally raise their own funding**: missionaries, Cru/Youn
 ### Tier B — Development staff at qualifying orgs (medium fit, score band 4–7)
 Advancement/development/donor-relations/stewardship staff at an organization that fundraises from individual donors. They don't raise personal support, but they *operate* fundraising and are the software's buyer-adjacent users.
 
+### Tier C — Board members & major donors (score band 4–6)
+They don't fundraise, but they hold the power to champion DonorSend inside the org. Collected with their board role in `meta.role`.
+
 ### The kill test (false-positive filter)
 **The individual's funding model decides — not the org's label.**
 
@@ -49,12 +60,12 @@ Hard rejects (record in negatives with reason code, never import):
 |---|---|
 | `church_salaried` | Pastor/worship/admin staff of a single local congregation, salary-funded. (Exception: a *church-planting network's* planters on support → Tier A.) |
 | `school_salaried` | K-12 / college / seminary faculty & staff. (Exception: support-raised campus ministry staff *at* a school → Tier A.) |
-| `secular_org` | Nonprofit with no individual-donor fundraising culture (grant-funded, government-funded) |
-| `donor_not_fundraiser` | Board members / major donors who give but don't raise |
+| `no_individual_donors` | Org raises nothing from individual donors (purely grant/government-funded, endowment-only, fee-for-service) |
 | `defunct` | Dead domain, org dissolved, person retired/deceased |
 | `platform_not_person` | Roster/aggregator pages mistaken for one person |
 | `already_in_crm` | Matched skip list |
-| `enterprise_saas` | Org already locked into an enterprise donor CRM contract (only when publicly evident) |
+
+Retired codes (2026-08-29): `secular_org` — secular nonprofits are in scope, tagged `faith_orientation='secular'`; `donor_not_fundraiser` — board/donors are now Tier C; `enterprise_saas` — the incumbent CRM is recorded in `hunt_targets.crm_incumbent` as displacement intel.
 
 **Gray zone → `needs_review`, never a guess.** An agent that can't determine funding model marks the record `needs_review` with its evidence; a cheap verifier pass (or human) adjudicates. This is what keeps false positives out without silently discarding real prospects.
 

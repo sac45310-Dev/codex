@@ -23,10 +23,35 @@ Wave ingestion lives in `../scout-import/scout_import.py ingest-wave`.
 | `sales.hunt_coverage` | Every URL/query ever searched — including empty-handed ones |
 | `sales.hunt_negatives` | Reason-coded rejects (see codes below) |
 
+## ICP tiers (revised 2026-08-29)
+
+| Tier | Who | Fit band |
+|---|---|---|
+| A | Personally support-raised individuals (missionaries, deputized staff, support-raised planters/campus workers) | 7–10 |
+| B | Development / advancement / donor-relations staff at orgs that fundraise from individual donors | 4–7 |
+| C | Board members and major donors at qualifying orgs — influencers who can champion DonorSend internally | 4–6 |
+
+**Market scope: ANY nonprofit that fundraises from individual donors** —
+Christian, other-faith, or secular. Every org gets `faith_orientation`
+tagged (`christian` / `other_faith` / `secular`). An org already on an
+enterprise donor CRM is a *competitive-displacement target*, not a reject —
+record the incumbent in `crm_incumbent`.
+
+**Do-not-pursue flag (org-level, mission-based):** an organization whose
+public mission includes LGBT/transgender advocacy or programming is still
+cataloged in `hunt_targets`, with `do_not_pursue = true` and
+`do_not_pursue_reason = 'lgbt_advocacy'` — DonorSend does not pursue these
+accounts, and roster budget is never spent on them. This classification is
+based ONLY on the organization's own published mission/programs. Agents
+never record, infer, or flag any individual's sexual orientation or gender
+identity — person records carry no such data, period.
+
 ## Reason codes (kill test)
 
 Codes observed in real review decisions (backfilled from the 42 rejects)
-plus the plan's originals:
+plus the plan's originals. Retired 2026-08-29: `secular_org` (secular
+nonprofits are in scope), `donor_not_fundraiser` (board/donors are now
+Tier C), `enterprise_saas` (now `crm_incumbent` intel on the target).
 
 | Code | Rule |
 |---|---|
@@ -36,14 +61,12 @@ plus the plan's originals:
 | `conference_training` | Conferences, training orgs, speakers |
 | `business_vendor` | Publishers, curriculum vendors, job boards |
 | `salaried_leader` | Celebrity pastors/executives; salaried, not support-raised |
-| `grant_funded` | Grant/government-funded orgs with no individual-donor culture |
-| `secular_org` | No individual-donor fundraising at all |
-| `donor_not_fundraiser` | Board members / donors who give but don't raise |
+| `grant_funded` | Grant/government-funded orgs with no individual-donor fundraising |
+| `no_individual_donors` | Org raises nothing from individual donors (endowment-only, fee-for-service) |
 | `too_institutional` | Too large/institutional to be a DonorSend user |
 | `defunct` | Dead domain, dissolved org, retired/deceased person |
 | `platform_not_person` | Roster/aggregator page mistaken for a person |
 | `already_in_crm` | Skip-list match |
-| `enterprise_saas` | Publicly locked into an enterprise donor CRM |
 
 Exceptions that OVERRIDE org labels (the individual's funding model decides):
 support-raised church **planters** and support-raised **campus ministry staff
@@ -56,8 +79,10 @@ at schools** are Tier A even though "church"/"school" appears in the org name.
 2. **Fan-out** — launch agents (batches of 10–15) with the matching prompt
    template; each writes one JSON conforming to `schemas/wave_output.schema.json`.
 3. **Ingest** — `python3 ../scout-import/scout_import.py ingest-wave hunts/<wave>/out
-   --out hunts/<wave>/sql` then execute the emitted SQL **directly** via
-   `execute_sql` (orchestrator only — never delegate imports to agents).
+   --min-fit 4 --out hunts/<wave>/sql` then execute the emitted SQL **directly**
+   via `execute_sql` (orchestrator only — never delegate imports to agents).
+   `--min-fit 4` matters: Tier B/C records live in the 4–6 band and the
+   default of 6 would drop them.
 4. **Report** — people added, orgs rostered, headcounts, FP rate, tokens/agent.
 
 ## Standing cost rules

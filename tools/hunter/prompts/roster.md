@@ -31,11 +31,18 @@ Do not work on any other organization.
 
 Tier A (fit 7–10): the person personally raises support — giving page,
 deputation, prayer letters, directory listing. Tier B (fit 4–7):
-development/advancement/donor-relations staff. Do NOT return: salaried
-local-church staff, school staff, denominational offices,
-conference/training people, vendors, board-member donors, deceased/retired.
-The individual's funding model decides, not the org label. Unclear →
-`needs_review` with evidence, never a guess.
+development/advancement/donor-relations staff. Tier C (fit 4–6): board
+members and major donors of this org — internal champions; record their
+board role in `meta.role`. Do NOT return: salaried local-church staff,
+school staff, denominational offices, conference/training people, vendors,
+deceased/retired people. The individual's funding model decides, not the
+org label. Unclear → `needs_review` with evidence, never a guess.
+
+While rostering, also note org-level intel when you see it: the donor CRM
+the org currently uses (`crm_incumbent` — a displacement opportunity, not a
+reject) and the org's `faith_orientation` (christian | other_faith |
+secular). Never record or infer any individual's sexual orientation or
+gender identity anywhere in your output.
 
 ## Do not return people we already have
 

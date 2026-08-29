@@ -18,22 +18,28 @@ ORDER BY domain;
 -- 3. Covered queries (orchestrator drops duplicate assignments before dispatch)
 SELECT value FROM sales.hunt_coverage WHERE kind = 'query' ORDER BY value;
 
--- 4. Roster assignments: next unrostered targets by priority
+-- 4. Roster assignments: next unrostered targets by priority.
+-- do_not_pursue orgs stay cataloged but never receive roster budget.
 SELECT t.id, t.org_name, t.website, t.org_type, t.size_estimate, t.tier_profile,
+       t.faith_orientation, t.crm_incumbent,
        t.headcount_found AS known_people_count
 FROM sales.hunt_targets t
 WHERE t.roster_status = 'unrostered'
+  AND NOT t.do_not_pursue
 ORDER BY t.priority, t.headcount_found DESC, t.id
 LIMIT 40;
 
 -- 5. Known negatives (context for prompt building; keeps agents off dead ends)
 SELECT entity_kind, name, reason_code FROM sales.hunt_negatives ORDER BY name;
 
--- 6. Post-wave: org-pitch headcount report
-SELECT t.org_name, t.website, t.roster_status, t.headcount_found,
-       count(s.*) FILTER (WHERE (s.meta->>'tier') = 'A') AS tier_a,
-       count(s.*) FILTER (WHERE (s.meta->>'tier') = 'B') AS tier_b
+-- 6. Post-wave: org-pitch headcount report (pursuable accounts only)
+SELECT t.org_name, t.website, t.faith_orientation, t.crm_incumbent,
+       t.roster_status, t.headcount_found,
+       count(s.*) FILTER (WHERE (s.meta->>'tier') = 'A') AS tier_a_support_raised,
+       count(s.*) FILTER (WHERE (s.meta->>'tier') = 'B') AS tier_b_dev_staff,
+       count(s.*) FILTER (WHERE (s.meta->>'tier') = 'C') AS tier_c_influencers
 FROM sales.hunt_targets t
 LEFT JOIN sales.scout_candidates s ON lower(s.meta->>'target_org') = lower(t.org_name)
-GROUP BY 1,2,3,4
+WHERE NOT t.do_not_pursue
+GROUP BY 1,2,3,4,5,6
 ORDER BY t.headcount_found DESC, t.org_name;
