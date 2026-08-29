@@ -31,11 +31,10 @@
 > fundraises from individual donors (Christian, other-faith, or secular —
 > tagged via `faith_orientation`); board members/major donors became
 > Tier C influencers; incumbent-CRM orgs became competitive-displacement
-> targets (`crm_incumbent`); and orgs whose published mission includes
-> LGBT/transgender advocacy are cataloged with `do_not_pursue = true`
-> rather than pursued — an org-mission classification only, never about
-> individuals (agents never record or infer any person's orientation or
-> identity).
+> targets (`crm_incumbent`). The `do_not_pursue` flag on `hunt_targets`
+> is set only by manual review on the DonorSend side — agents never
+> classify orgs for it, and never record or infer any person's demographic
+> or identity attributes.
 
 ### Tier A — Support-raised individuals (high fit, score band 7–10)
 A person who must **personally raise their own funding**: missionaries, Cru/Young Life/YWAM/Navigators staff, church planters on deputation, agency field workers, support-raised chaplains and campus workers.

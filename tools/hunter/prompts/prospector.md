@@ -33,11 +33,9 @@ secular.
 - `crm_incumbent`: if the org publicly uses a donor CRM (Salesforce NPSP,
   Blackbaud, Virtuous, Bloomerang…), name it — that org is a
   competitive-displacement target, NOT a reject.
-- `do_not_pursue`: set `true` with `do_not_pursue_reason: "lgbt_advocacy"`
-  when the org's own published mission or programs include LGBT/transgender
-  advocacy — still catalog the org; DonorSend simply won't pursue the
-  account. This is org-mission classification ONLY: never record, infer, or
-  flag any individual person's sexual orientation or gender identity, and
+- `do_not_pursue`: always leave unset/false — pursue decisions are made by
+  manual review on the DonorSend side, never by agents. Never record, infer,
+  or flag any individual person's demographic or identity attributes, and
   never put such information in any person record.
 
 ## Kill test — do NOT return any of these

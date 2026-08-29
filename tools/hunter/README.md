@@ -37,14 +37,12 @@ tagged (`christian` / `other_faith` / `secular`). An org already on an
 enterprise donor CRM is a *competitive-displacement target*, not a reject —
 record the incumbent in `crm_incumbent`.
 
-**Do-not-pursue flag (org-level, mission-based):** an organization whose
-public mission includes LGBT/transgender advocacy or programming is still
-cataloged in `hunt_targets`, with `do_not_pursue = true` and
-`do_not_pursue_reason = 'lgbt_advocacy'` — DonorSend does not pursue these
-accounts, and roster budget is never spent on them. This classification is
-based ONLY on the organization's own published mission/programs. Agents
-never record, infer, or flag any individual's sexual orientation or gender
-identity — person records carry no such data, period.
+**Do-not-pursue flag (org-level, manual):** `do_not_pursue` in
+`hunt_targets` is set only by manual review on the DonorSend side — agents
+never classify orgs for it and never set it. Orgs flagged manually stay
+cataloged but receive no roster budget (`wave_prep.sql` excludes them).
+Agents never record, infer, or flag any individual's demographic or
+identity attributes — person records carry no such data, period.
 
 ## Reason codes (kill test)
 

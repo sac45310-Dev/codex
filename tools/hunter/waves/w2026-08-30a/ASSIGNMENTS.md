@@ -13,9 +13,11 @@ Hard rules for every agent in this wave (learned in w2026-08-29b):
   searches; launch at most 8 search-heavy agents per session.
 - Agents run on **Haiku 4.5**. Never execute SQL; never read files > 50KB.
 - Record every query issued (found or not) in the output's `coverage` array.
-- Minimum record: name + org + role + source URL. Never flag individuals
-  for org-level attributes; org flags (faith orientation, do_not_pursue)
-  go on the org only.
+- Minimum record: name + org + role + source URL. Tag orgs with
+  `faith_orientation` (christian | other_faith | secular) from the org's own
+  published identity. Do NOT set `do_not_pursue` — pursue decisions are made
+  by manual review on the DonorSend side, never by agents. Never record,
+  infer, or flag any individual person's demographic or identity attributes.
 
 ## Session A — roster 7 orgs (one roster agent each)
 
