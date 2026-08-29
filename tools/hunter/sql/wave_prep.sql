@@ -32,6 +32,27 @@ LIMIT 40;
 -- 5. Known negatives (context for prompt building; keeps agents off dead ends)
 SELECT entity_kind, name, reason_code FROM sales.hunt_negatives ORDER BY name;
 
+-- 6b. Feedback loop: approval rate by hunting ground. High-approval source
+-- queries/niches get MORE assignments next wave; high-reject ones get their
+-- pattern added to hunt_negatives and their niche deprioritized.
+SELECT split_part(source_query, ':', 1) AS hunting_ground,
+       count(*) AS total,
+       count(*) FILTER (WHERE status = 'approved') AS approved,
+       count(*) FILTER (WHERE status = 'rejected') AS rejected,
+       round(100.0 * count(*) FILTER (WHERE status = 'approved')
+             / nullif(count(*) FILTER (WHERE status IN ('approved','rejected','skipped')), 0)) AS approval_pct
+FROM sales.scout_candidates
+GROUP BY 1
+HAVING count(*) >= 10
+ORDER BY approval_pct DESC NULLS LAST, total DESC;
+
+-- 6c. Feedback loop: reject-reason trends. A reason code that keeps growing
+-- means agents are still bringing in that pattern — tighten the prompt rule.
+SELECT reason_code, count(*) AS total,
+       count(*) FILTER (WHERE created_at > now() - interval '30 days') AS last_30d
+FROM sales.hunt_negatives
+GROUP BY 1 ORDER BY total DESC;
+
 -- 6. Post-wave: org-pitch headcount report (pursuable accounts only)
 SELECT t.org_name, t.website, t.faith_orientation, t.crm_incumbent,
        t.roster_status, t.headcount_found,

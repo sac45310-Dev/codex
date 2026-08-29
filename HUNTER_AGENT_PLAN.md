@@ -320,7 +320,11 @@ The assignment/output file contract is runtime-agnostic. The same JSON briefs ca
 | Orgs with headcount ≥ 5 | growing weekly | pitch query |
 | needs_review backlog | cleared each wave | verifier |
 
-Human feedback loop: your approve/reject/skip actions in the CRM flow back nightly into `hunt_negatives` (reason-coded) and the skip lists — the rubric is retrained from real decisions, not guesses.
+Human feedback loop — three channels, all driven by your approve/reject/skip actions in the CRM:
+
+1. **Rejections → kill rules.** Rejected rows are reason-coded into `hunt_negatives`; recurring codes tighten the prompt rubric (this created five kill rules in Phase 0 alone).
+2. **Approvals → hunting grounds.** Approved org-shaped rows auto-seed `hunt_targets` for rostering, and `wave_prep.sql` §6b computes approval-rate by hunting ground so the next wave's assignments over-weight the niches you actually approve and starve the ones you reject.
+3. **Reject-reason trends** (`wave_prep.sql` §6c): a reason code that keeps growing means agents are still bringing that pattern in — the signal to tighten that prompt rule before the next wave.
 
 ---
 
