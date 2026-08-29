@@ -19,6 +19,10 @@ org_name), which is why the guards are in the SELECT.
 Usage:
   python3 scout_import.py collect <dir> [--min-fit N] [--out DIR] [--batch-size N]
   python3 scout_import.py report  <dir> [--min-fit N]
+  python3 scout_import.py ingest-wave <dir> [--min-fit N] [--out DIR]
+      <dir> holds hunter wave outputs (tools/hunter/schemas/wave_output.schema.json);
+      emits candidate batches PLUS wave_coverage.sql / wave_targets.sql /
+      wave_negatives.sql / wave_roster_updates.sql and needs_review.json
 
 Outputs (in --out, default ./scout_import_out):
   import_batch_<i>.sql   one INSERT..SELECT per batch, safe to re-run
@@ -158,6 +162,10 @@ def collect(directory, min_fit):
         if kept:
             records.extend(kept)
             manifest.append({"file": path, "raw": len(raw), "kept": len(kept)})
+    return dedupe(records), manifest
+
+
+def dedupe(records):
     # Within-batch dedupe, keeping the highest fit score at each step.
     # Pass 1: by normalized org name.
     by_name = {}
@@ -185,7 +193,7 @@ def collect(directory, min_fit):
         elif site not in by_site or r["fit_score"] > by_site[site]["fit_score"]:
             by_site[site] = r
     out.extend(by_site.values())
-    return out, manifest
+    return out
 
 
 def emit_sql(records, out_dir, batch_size):
@@ -307,10 +315,184 @@ def _load_rows(path):
     raise SystemExit(f"{path}: expected a JSON array of {{org_name, website}} rows")
 
 
+def norm_query(q):
+    """Normalize a search query for coverage matching: lowercase, collapse
+    whitespace. Kept in lockstep with the backfill in hunt_coverage."""
+    return re.sub(r"\s+", " ", str(q or "").strip()).lower()
+
+
+def _payload(rows):
+    return json.dumps(rows).replace("'", "''")
+
+
+def ingest_wave(directory, min_fit, out_dir, batch_size):
+    """Ingest hunter wave output (tools/hunter/schemas/wave_output.schema.json).
+
+    Reads every *.json in `directory` that carries wave_id + people, then:
+      * people[]         -> candidate import batches (same pipeline as collect)
+      * coverage[]       -> wave_coverage.sql      (sales.hunt_coverage)
+      * orgs_discovered[]-> wave_targets.sql       (sales.hunt_targets)
+      * negatives[]      -> wave_negatives.sql     (sales.hunt_negatives)
+      * roster_verdict   -> wave_roster_updates.sql (status + headcounts)
+      * needs_review[]   -> needs_review.json      (verifier queue)
+
+    All emitted SQL is idempotent: coverage/negatives ride ON CONFLICT DO
+    NOTHING on their unique indexes; targets use NOT EXISTS guards; candidate
+    batches keep their existing NOT EXISTS guards.
+    """
+    os.makedirs(out_dir, exist_ok=True)
+    people, coverage, targets, negatives, review, verdicts = [], [], [], [], [], []
+    manifest = []
+    for path in sorted(glob(os.path.join(directory, "*.json"))):
+        try:
+            data = json.loads(open(path, encoding="utf-8", errors="replace").read())
+        except (OSError, json.JSONDecodeError):
+            continue
+        if not isinstance(data, dict) or "people" not in data or "wave_id" not in data:
+            continue
+        wave_id = str(data.get("wave_id") or "wave-unknown")
+        agent = str(data.get("agent") or os.path.basename(path))
+
+        kept = 0
+        for raw in data.get("people") or []:
+            if isinstance(raw, dict):
+                raw.setdefault("org_type", "individual")
+                raw.setdefault("source_query", f"hunter:{wave_id}:{agent}")
+            rec = normalize(raw, path)
+            if rec and rec["fit_score"] >= min_fit:
+                people.append(rec)
+                kept += 1
+
+        for c in data.get("coverage") or []:
+            if not isinstance(c, dict) or not str(c.get("value") or "").strip():
+                continue
+            kind = c.get("kind") if c.get("kind") in ("url", "query") else "url"
+            value = norm_site(c["value"]) if kind == "url" else norm_query(c["value"])
+            if not value:
+                continue
+            outcome = c.get("outcome")
+            if outcome not in ("found_people", "no_people", "dead", "paywalled", "offtopic"):
+                outcome = "no_people"
+            coverage.append({"kind": kind, "value": value,
+                             "domain": value.split("/")[0] if kind == "url" else None,
+                             "outcome": outcome,
+                             "people_found": int(c.get("people_found") or 0),
+                             "wave_id": wave_id})
+
+        for o in data.get("orgs_discovered") or []:
+            if isinstance(o, dict) and str(o.get("org_name") or "").strip():
+                targets.append({"org_name": str(o["org_name"]).strip(),
+                                "website": norm_site(o.get("website")),
+                                "org_type": o.get("org_type") or "agency",
+                                "size_estimate": o.get("size_estimate"),
+                                "tier_profile": o.get("tier_profile") or "A",
+                                "headcount_est": o.get("headcount_est"),
+                                "notes": o.get("evidence"),
+                                "wave_id": wave_id})
+
+        for n in data.get("negatives") or []:
+            if isinstance(n, dict) and str(n.get("name") or "").strip() and n.get("reason_code"):
+                negatives.append({"entity_kind": n.get("entity_kind") if n.get("entity_kind") in ("org", "person") else "org",
+                                  "name": str(n["name"]).strip(),
+                                  "website": norm_site(n.get("website")),
+                                  "reason_code": str(n["reason_code"]),
+                                  "detail": n.get("detail"),
+                                  "wave_id": wave_id})
+
+        for r in data.get("needs_review") or []:
+            if isinstance(r, dict):
+                r["_agent"], r["_wave_id"] = agent, wave_id
+                review.append(r)
+
+        verdict = str(data.get("roster_verdict") or "").strip()
+        target_org = str(data.get("target_org") or "").strip()
+        if verdict and target_org:
+            verdicts.append({"org": target_org, "verdict": verdict})
+
+        manifest.append({"file": path, "agent": agent, "people_kept": kept,
+                         "coverage": len(data.get("coverage") or []),
+                         "orgs": len(data.get("orgs_discovered") or []),
+                         "verdict": verdict or None})
+
+    people = dedupe(people)
+    batches = emit_sql(people, out_dir, batch_size)
+
+    if coverage:
+        sql = (
+            "with src as (select * from jsonb_to_recordset('" + _payload(coverage) + "'::jsonb)\n"
+            "  as x(kind text, value text, domain text, outcome text, people_found int, wave_id text))\n"
+            "insert into sales.hunt_coverage (kind, value, domain, outcome, people_found, wave_id)\n"
+            "select kind, value, domain, outcome, people_found, wave_id from src\n"
+            "on conflict do nothing;"
+        )
+        open(os.path.join(out_dir, "wave_coverage.sql"), "w").write(sql)
+
+    if targets:
+        sql = (
+            "with src as (select * from jsonb_to_recordset('" + _payload(targets) + "'::jsonb)\n"
+            "  as x(org_name text, website text, org_type text, size_estimate text,\n"
+            "       tier_profile text, headcount_est int, notes text, wave_id text))\n"
+            "insert into sales.hunt_targets\n"
+            "  (org_name, website, org_type, size_estimate, tier_profile, priority,\n"
+            "   discovered_by, headcount_est, notes)\n"
+            "select s.org_name, s.website, s.org_type, s.size_estimate, s.tier_profile, 4,\n"
+            "       'wave:' || s.wave_id, s.headcount_est, s.notes\n"
+            "from src s\n"
+            "where not exists (select 1 from sales.hunt_targets t\n"
+            "                  where lower(trim(t.org_name)) = lower(trim(s.org_name)))\n"
+            "  and not exists (select 1 from sales.hunt_negatives n\n"
+            "                  where n.entity_kind = 'org'\n"
+            "                    and lower(trim(n.name)) = lower(trim(s.org_name)))\n"
+            "on conflict do nothing;"
+        )
+        open(os.path.join(out_dir, "wave_targets.sql"), "w").write(sql)
+
+    if negatives:
+        sql = (
+            "with src as (select * from jsonb_to_recordset('" + _payload(negatives) + "'::jsonb)\n"
+            "  as x(entity_kind text, name text, website text, reason_code text, detail text, wave_id text))\n"
+            "insert into sales.hunt_negatives (entity_kind, name, website, reason_code, detail, source)\n"
+            "select entity_kind, name, website, reason_code, detail, 'agent:' || wave_id from src\n"
+            "on conflict do nothing;"
+        )
+        open(os.path.join(out_dir, "wave_negatives.sql"), "w").write(sql)
+
+    updates = []
+    for v in verdicts:
+        org = v["org"].replace("'", "''")
+        verdict = v["verdict"]
+        if verdict.startswith("rejected:"):
+            code = verdict.split(":", 1)[1].replace("'", "''")
+            updates.append(
+                f"update sales.hunt_targets set roster_status='rejected', reject_reason='{code}',\n"
+                f"  last_rostered_at=now() where lower(trim(org_name)) = lower('{org}');")
+        elif verdict in ("rostered", "exhausted"):
+            updates.append(
+                f"update sales.hunt_targets set roster_status='{verdict}',\n"
+                f"  last_rostered_at=now() where lower(trim(org_name)) = lower('{org}');")
+    # Refresh headcounts from what actually landed in the queue + pipeline.
+    updates.append(
+        "update sales.hunt_targets t set headcount_found = c.n\n"
+        "from (select lower(trim(meta->>'target_org')) as org, count(*) as n\n"
+        "      from sales.scout_candidates\n"
+        "      where meta ? 'target_org' and status <> 'rejected'\n"
+        "      group by 1) c\n"
+        "where lower(trim(t.org_name)) = c.org;")
+    open(os.path.join(out_dir, "wave_roster_updates.sql"), "w").write("\n\n".join(updates))
+
+    if review:
+        json.dump(review, open(os.path.join(out_dir, "needs_review.json"), "w"), indent=2)
+
+    return {"agents": manifest, "unique_people": len(people), "batches": batches,
+            "coverage_rows": len(coverage), "orgs_discovered": len(targets),
+            "negatives": len(negatives), "needs_review": len(review),
+            "roster_verdicts": len(verdicts), "out_dir": out_dir}
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("command", choices=["collect", "report", "snapshot"])
+    ap.add_argument("command", choices=["collect", "report", "snapshot", "ingest-wave"])
     ap.add_argument("path", help="hunter-output directory (collect/report), "
                                  "or existing-contacts JSON file (snapshot)")
     ap.add_argument("--min-fit", type=int, default=6)
@@ -319,6 +501,14 @@ def main():
     ap.add_argument("--limit", type=int, default=200,
                     help="snapshot: max domains to inline in the prompt snippet")
     args = ap.parse_args()
+
+    if args.command == "ingest-wave":
+        summary = ingest_wave(args.path, args.min_fit, args.out, args.batch_size)
+        with open(os.path.join(args.out, "wave_manifest.json"), "w") as f:
+            json.dump(summary, f, indent=2)
+        json.dump(summary, sys.stdout, indent=2)
+        print()
+        return
 
     if args.command == "snapshot":
         snippet, stats = build_snapshot(_load_rows(args.path), args.limit)
