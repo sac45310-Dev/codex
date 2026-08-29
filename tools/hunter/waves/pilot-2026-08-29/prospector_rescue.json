@@ -1,0 +1,739 @@
+{
+  "wave_id": "pilot-2026-08-29",
+  "agent": "prospector:rescue-missions",
+  "people": [
+    {
+      "org_name": "Scott Pernice",
+      "org_type": "individual",
+      "website": "",
+      "city": "Modesto",
+      "state": "CA",
+      "summary": "Modesto Gospel Mission — Director of Development",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Development director at established Citygate member org with strong individual donor model; leads fundraising strategy",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development",
+        "target_org": "Modesto Gospel Mission",
+        "evidence_url": "https://www.mymission.org/staff-and-board",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nycky Miller",
+      "org_type": "individual",
+      "website": "",
+      "city": "Tucson",
+      "state": "AZ",
+      "summary": "Gospel Rescue Mission Tucson — Director of Development",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Development director at major Citygate member rescue mission; leads individual donor fundraising",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development",
+        "target_org": "Gospel Rescue Mission Tucson",
+        "evidence_url": "https://www.grmtucson.com/donate/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jim Brown",
+      "org_type": "individual",
+      "website": "",
+      "city": "Tucson",
+      "state": "AZ",
+      "summary": "Gospel Rescue Mission Tucson — Director of Development and Community Outreach",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Development and outreach director at rescue mission; manages donor relationships and community engagement",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development and Community Outreach",
+        "target_org": "Gospel Rescue Mission Tucson",
+        "evidence_url": "https://www.grmtucson.com/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "David Delzell",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "The Gospel Mission — Director of Development",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Development director at established gospel mission; leads fundraising from individual donors",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development",
+        "target_org": "The Gospel Mission",
+        "evidence_url": "https://thegospelmission.org/about/staff",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mandy Schettini",
+      "org_type": "individual",
+      "website": "",
+      "city": "Albany",
+      "state": "NY",
+      "summary": "Capital City Rescue Mission — Director of Development",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Development director at Citygate member rescue mission; manages individual donor programs",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development",
+        "target_org": "Capital City Rescue Mission",
+        "evidence_url": "https://capitalcityrescuemission.org/about/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rev. Dr. Bob Emberger",
+      "org_type": "individual",
+      "website": "",
+      "city": "Philadelphia",
+      "state": "PA",
+      "summary": "Whosoever Gospel Mission — Director of Advancement",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Advancement director at historic 1892-founded gospel mission; leads donor engagement",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Advancement",
+        "target_org": "Whosoever Gospel Mission",
+        "evidence_url": "https://www.whosoevergospel.org/about/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "William R. Brown",
+      "org_type": "individual",
+      "website": "",
+      "city": "Stockton",
+      "state": "CA",
+      "summary": "Gospel Center Rescue Mission — Director of Government & Foundation Relations",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Manages external funding relationships including from individual donors at rescue mission",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Government & Foundation Relations",
+        "target_org": "Gospel Center Rescue Mission",
+        "evidence_url": "https://gcrms.org/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Alexandra Beckendorf",
+      "org_type": "individual",
+      "website": "",
+      "city": "Houston",
+      "state": "TX",
+      "summary": "Texas Homeless Network — Chief Development Officer",
+      "fit_score": 8,
+      "fit_reason": "Tier B: CDO at networked homeless service provider; leads major donor and individual fundraising strategy",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Development Officer",
+        "target_org": "Texas Homeless Network",
+        "evidence_url": "https://www.thn.org/staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Laura Ross",
+      "org_type": "individual",
+      "website": "",
+      "city": "San Francisco",
+      "state": "CA",
+      "summary": "Operation Dignity — Director of Development",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Development director at shelter and supportive housing org; manages donor programs",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development",
+        "target_org": "Operation Dignity",
+        "evidence_url": "https://operationdignity.org/senior-staff-and-board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Perry Jones",
+      "org_type": "individual",
+      "website": "",
+      "city": "Albany",
+      "state": "NY",
+      "summary": "Capital City Rescue Mission — Executive Director",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Executive leader at rescue mission; likely involved in major donor relationships",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "Capital City Rescue Mission",
+        "evidence_url": "https://capitalcityrescuemission.org/about/leadership/",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Modesto Gospel Mission",
+      "website": "https://www.mymission.org/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Citygate member, 7+ staff, individual donor-funded, emergency shelter + recovery programs in Modesto CA"
+    },
+    {
+      "org_name": "Gospel Rescue Mission Tucson",
+      "website": "https://www.grmtucson.com/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Established 70+ years, 51-200 employees, Citygate member, individual donor-funded rescue mission AZ"
+    },
+    {
+      "org_name": "Gospel Center Rescue Mission",
+      "website": "https://gcrms.org/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Located Stockton CA, 44 employees, individual donor-funded rescue mission with shelter + recovery programs"
+    },
+    {
+      "org_name": "Gospel Rescue Mission Grants Pass",
+      "website": "https://gospelrescuemissiongp.org/",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Oregon-based gospel mission accepting individual donations via website"
+    },
+    {
+      "org_name": "Lima Rescue Mission",
+      "website": "",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Ohio rescue mission, 100% donation-funded, 2nd oldest gospel rescue mission in OH, Allen County"
+    },
+    {
+      "org_name": "Yamhill County Gospel Rescue Mission",
+      "website": "https://ycgrm.org/",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Oregon gospel mission with brick donation programs and individual donor support"
+    },
+    {
+      "org_name": "Milwaukee Rescue Mission",
+      "website": "",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Wisconsin Citygate member rescue mission"
+    },
+    {
+      "org_name": "Union Gospel Mission Portland",
+      "website": "https://www.ugmportland.org/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Oregon-based gospel mission, individual donor fundraising model, shelter + recovery programs"
+    },
+    {
+      "org_name": "Union Gospel Mission of Salem",
+      "website": "https://www.ugmsalem.org/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Salem OR gospel mission, 777 Commercial Street NE, serves hundreds annually via individual donor support"
+    },
+    {
+      "org_name": "Union Gospel Mission Sacramento",
+      "website": "https://ugmsac.com/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "California gospel mission with individual donor giving model"
+    },
+    {
+      "org_name": "Hope Gospel Mission",
+      "website": "https://www.hopegospelmission.org/",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Eau Claire WI gospel mission focused on homeless and addiction recovery"
+    },
+    {
+      "org_name": "Gospel Rescue Mission Muskogee",
+      "website": "",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Oklahoma gospel mission, 323 Callahan St, individual donor-funded"
+    },
+    {
+      "org_name": "Niagara Gospel Mission",
+      "website": "https://niagaragospelmission.org/",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Niagara Falls NY gospel mission, provides shelter and faith-based mentorship via individual donor support"
+    },
+    {
+      "org_name": "Las Cruces Gospel Rescue Mission",
+      "website": "https://www.lcgrm.org/",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "New Mexico gospel mission, 11-50 employees, individual donor-funded"
+    },
+    {
+      "org_name": "Nashville Rescue Mission",
+      "website": "https://nashvillerescuemission.org/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Tennessee rescue mission, Christ-centered, individual donor-funded with multiple campuses"
+    },
+    {
+      "org_name": "Calvary Rescue Mission",
+      "website": "",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Memphis TN rescue mission, operates modernized facility for homeless men"
+    },
+    {
+      "org_name": "Capital City Rescue Mission",
+      "website": "https://capitalcityrescuemission.org/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Albany NY rescue mission, Citygate member, individual donor-funded, TLP programs"
+    },
+    {
+      "org_name": "Whosoever Gospel Mission",
+      "website": "https://www.whosoevergospel.org/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Philadelphia PA gospel mission founded 1892, ECFA accredited, individual donor-funded shelter"
+    },
+    {
+      "org_name": "Toledo Gospel Rescue Mission",
+      "website": "https://www.tgrm.org/",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Ohio gospel rescue mission"
+    },
+    {
+      "org_name": "Springs Rescue Mission",
+      "website": "https://springsrescuemission.org/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Colorado Springs CO rescue mission, individual donor-funded, serves homeless/poverty/addiction"
+    },
+    {
+      "org_name": "Portland Rescue Mission",
+      "website": "https://portlandrescuemission.org/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Portland OR Citygate member rescue mission, founded 1949, 95 employees, individual donor-funded"
+    },
+    {
+      "org_name": "Orange County Rescue Mission",
+      "website": "https://www.rescuemission.org/",
+      "org_type": "ministry",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Tustin CA rescue mission, 9 campuses, faith-based nonprofit reducing homelessness via individual donors"
+    },
+    {
+      "org_name": "City Missions",
+      "website": "https://www.citymissions.org/",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Plano TX mobile outreach to homeless, Collin County, individual donor-funded"
+    },
+    {
+      "org_name": "Washington City Mission",
+      "website": "",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Washington County Community Foundation member, homeless outreach mission"
+    },
+    {
+      "org_name": "Street Support KC",
+      "website": "https://www.streetsupportkc.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Kansas City MO 501c3 providing direct outreach, food, clothing, hygiene supplies to homeless"
+    },
+    {
+      "org_name": "Hope Faith Ministries",
+      "website": "",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Kansas City MO homeless outreach providing basic necessities and Day Center services"
+    },
+    {
+      "org_name": "One by One Ministries",
+      "website": "http://www.1by1kc.org/",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Kansas City MO founded 2012, street encampment outreach, individual donor-funded"
+    },
+    {
+      "org_name": "City Union Mission",
+      "website": "https://cityunionmission.org/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Kansas City MO homeless shelter and support services, Citygate member"
+    },
+    {
+      "org_name": "reStart",
+      "website": "https://www.restartinc.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Kansas City MO interim housing for children, families, individuals, veterans"
+    },
+    {
+      "org_name": "First Step Back Home",
+      "website": "",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "O'Fallon MO faith-based 501c3 helping homeless men achieve financial independence"
+    },
+    {
+      "org_name": "The Gospel Mission",
+      "website": "https://thegospelmission.org/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Gospel mission with individual donor-funded programs, staff directory available"
+    },
+    {
+      "org_name": "Texas Homeless Network",
+      "website": "https://www.thn.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Houston TX networked homeless service provider with CDO leading individual donor strategy"
+    },
+    {
+      "org_name": "Operation Dignity",
+      "website": "https://operationdignity.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "San Francisco CA shelter, emergency and transitional housing, permanent supportive housing"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Citygate Network member directory rescue missions",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "state rescue mission associations USA",
+      "outcome": "offtopic",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "gospel missions homeless outreach fundraising individual donors",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "mission organizations small cities homeless outreach fundraising donors 2026",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "rescue mission OR gospel mission midwest small towns donor support",
+      "outcome": "found_people",
+      "people_found": 8
+    },
+    {
+      "kind": "query",
+      "value": "mission homeless fundraising executive director OR development director nonprofit",
+      "outcome": "found_people",
+      "people_found": 7
+    },
+    {
+      "kind": "query",
+      "value": "street outreach ministry nonprofit USA donor funded 2026",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Modesto Gospel Mission staff leadership",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Las Cruces Gospel Rescue Mission leadership staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "regional rescue mission networks California Oregon Washington",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "rescue mission Memphis Nashville Atlanta Charleston South Carolina",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "gospel mission OR rescue mission leadership fundraising staff directory",
+      "outcome": "found_people",
+      "people_found": 9
+    },
+    {
+      "kind": "query",
+      "value": "Hope House Mission Salvation Army chapter homeless outreach director",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "gospel mission development director OR executive director staff contact",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "small city homeless mission nonprofit Colorado Texas nonprofit fundraising",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Whosoever Gospel Mission Philadelphia nonprofit staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "gospel mission New England northeast USA homeless outreach",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Portland Rescue Mission leadership staff director",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "homeless ministry outreach nonprofit midwest Kansas Missouri Arkansas fundraising",
+      "outcome": "found_people",
+      "people_found": 7
+    },
+    {
+      "kind": "query",
+      "value": "gospel mission OR rescue mission personal giving page prayer letter fundraiser",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Orange County Rescue Mission leadership director Southern California",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "gospel mission rescue mission staff directory development fundraising website",
+      "outcome": "found_people",
+      "people_found": 5
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Denver Rescue Mission",
+      "reason_code": "already_in_crm",
+      "detail": "Listed in do-not-return organizations"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Atlanta Mission",
+      "reason_code": "already_in_crm",
+      "detail": "Listed in do-not-return organizations"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Colorado Coalition for the Homeless",
+      "reason_code": "already_in_crm",
+      "detail": "Listed in do-not-return organizations"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Mountain Rescue Association",
+      "reason_code": "offtopic",
+      "detail": "Mountain emergency rescue, not homeless services or street outreach"
+    },
+    {
+      "entity_kind": "org",
+      "name": "State Urban Search & Rescue Alliance",
+      "reason_code": "offtopic",
+      "detail": "Emergency disaster rescue, not homeless services"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Healthcare for the Homeless",
+      "reason_code": "grant_funded",
+      "detail": "Medical clinic focused on transportation/clinics, primarily grant-funded model"
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "The Gospel Mission",
+      "org": "The Gospel Mission",
+      "question": "Need to verify location (appears generic name); confirm individual donor funding model and staff structure",
+      "evidence_url": "https://thegospelmission.org/"
+    },
+    {
+      "name": "World Gospel Mission",
+      "org": "World Gospel Mission",
+      "question": "Limited information found; need to verify if US-based homeless ministry or international focus",
+      "evidence_url": "https://leadiq.com/c/world-gospel-mission/5a1d98562300005200870213/employee-directory"
+    },
+    {
+      "name": "Real Change Seattle",
+      "org": "Real Change",
+      "question": "Development Director role found but limited info on org structure and individual donor model; may be advocacy-focused vs service provision",
+      "evidence_url": "https://www.idealist.org/en/nonprofit/9157257c52e843f083e080fc062aae06-development-director-real-change-homeless-empowerment-project-seattle"
+    },
+    {
+      "name": "Mission House Northeast Florida",
+      "org": "Mission House",
+      "question": "Executive director position mentioned but limited organizational details; need to verify nonprofit status and donor funding model",
+      "evidence_url": "https://nonprofitctr.org/nw-opportunities/mission-house-executive-director-2/"
+    }
+  ]
+}

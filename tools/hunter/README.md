@@ -92,3 +92,29 @@ at schools** are Tier A even though "church"/"school" appears in the org name.
 - Agents never read files > 50KB and never execute SQL.
 - Every visited URL and issued query is reported in `coverage` — negative
   outcomes included.
+
+## Search budget (learned in wave w2026-08-29b)
+
+- In the remote (cloud) environment, **WebFetch is egress-blocked** for
+  arbitrary domains: hunters must use **WebSearch only** and mine names/roles
+  from result snippets. Say this explicitly in every hunter prompt.
+- WebSearch has a **hard session-wide cap of ~200 calls** shared by the
+  orchestrator and all subagents. A thorough roster agent uses 15–30 searches,
+  so plan **≤ 8 search-heavy agents per session**; agents launched after the
+  cap return zero results and burn tokens for nothing.
+- To scale beyond one session's budget, fan out to **sibling cloud sessions**
+  (`create_session`) — each gets a fresh cap. Siblings commit their wave JSON
+  to a git branch; the orchestrator pulls and ingests centrally.
+- If an agent returns zero people with an "exhausted" verdict, check whether
+  it was budget-starved before recording the org as exhausted — budget-blocked
+  orgs go back to `unrostered`.
+
+## Wave log
+
+- **pilot-2026-08-29** — 5 agents; 53 people, 67 orgs, 134 coverage rows,
+  13 negatives; verifier FP rate 0.0% (8/8 verified).
+- **w2026-08-29b** — 16 roster agents (8 starved by the search cap);
+  240 unique people found, 177 net-new imported; 213 coverage rows.
+  Headcounts: Ethnos360 40, Young Life 36, WGM 30, YFC 24, MAF 20,
+  Christar 18, Cru 14, Wycliffe 12, Serge 8, Navigators 5. 13 orgs reset to
+  `unrostered` for the next wave. Raw outputs in `waves/`.
