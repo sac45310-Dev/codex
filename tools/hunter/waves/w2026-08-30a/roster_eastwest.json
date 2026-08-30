@@ -1,0 +1,202 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:eastwest",
+  "roster_verdict": "rostered",
+  "target_org": "East-West Ministries International",
+  "people": [
+    {
+      "org_name": "Kurt Nelson",
+      "summary": "East-West Ministries International — Chief Executive Officer",
+      "fit_score": 9,
+      "fit_reason": "Tier C - CEO since June 2010 with full organizational oversight and board-level influence",
+      "source_query": "hunter:w2026-08-30a:eastwest",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Executive Officer",
+        "target_org": "East-West Ministries International",
+        "evidence_url": "https://theorg.com/org/east-west-ministries-international/org-chart/kurt-nelson",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kristen Shuler",
+      "summary": "East-West Ministries International — President",
+      "fit_score": 9,
+      "fit_reason": "Tier C - President since 2024, formerly EVP Development with 14+ years organizational tenure",
+      "source_query": "hunter:w2026-08-30a:eastwest",
+      "meta": {
+        "tier": "C",
+        "role": "President",
+        "target_org": "East-West Ministries International",
+        "evidence_url": "https://www.eastwest.org/our-team/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Seth Kolb",
+      "summary": "East-West Ministries International — Executive Vice President of Operations",
+      "fit_score": 8,
+      "fit_reason": "Tier C - EVP Operations with full oversight of HR, Finance, IT, Member Care, and organizational support systems",
+      "source_query": "hunter:w2026-08-30a:eastwest",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Vice President of Operations",
+        "target_org": "East-West Ministries International",
+        "evidence_url": "https://www.eastwest.org/our-team/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Beverly Pop",
+      "summary": "East-West Ministries International — Ministry Advancement",
+      "fit_score": 7,
+      "fit_reason": "Tier B - Development/advancement staff working on ministry advancement and organizational support",
+      "source_query": "hunter:w2026-08-30a:eastwest",
+      "meta": {
+        "tier": "B",
+        "role": "Ministry Advancement",
+        "target_org": "East-West Ministries International",
+        "evidence_url": "https://www.linkedin.com/in/beverly-pop-8a783554/",
+        "linkedin_url": "https://www.linkedin.com/in/beverly-pop-8a783554/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Monnie Brewer",
+      "summary": "East-West Ministries International — Training and Partnership Facilitator",
+      "fit_score": 6,
+      "fit_reason": "Tier B - Staff facilitating training and partnership development, supporting field operations",
+      "source_query": "hunter:w2026-08-30a:eastwest",
+      "meta": {
+        "tier": "B",
+        "role": "Training and Partnership Facilitator",
+        "target_org": "East-West Ministries International",
+        "evidence_url": "https://www.linkedin.com/in/monnie-brewer-1059153/",
+        "linkedin_url": "https://www.linkedin.com/in/monnie-brewer-1059153/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Linda Isbell",
+      "summary": "East-West Ministries International — Missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A - Support-raised missionary with public LinkedIn profile indicating field deployment",
+      "source_query": "hunter:w2026-08-30a:eastwest",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "East-West Ministries International",
+        "evidence_url": "https://www.linkedin.com/in/linda-isbell-977483123/",
+        "linkedin_url": "https://www.linkedin.com/in/linda-isbell-977483123/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jessica Garrett",
+      "summary": "East-West Ministries International — Staff",
+      "fit_score": 6,
+      "fit_reason": "Tier B - 12+ years organizational tenure indicates development or field support role",
+      "source_query": "hunter:w2026-08-30a:eastwest",
+      "meta": {
+        "tier": "B",
+        "role": "Staff",
+        "target_org": "East-West Ministries International",
+        "evidence_url": "https://www.linkedin.com/in/jessica-garrett-29515523/",
+        "linkedin_url": "https://www.linkedin.com/in/jessica-garrett-29515523/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Jimmy Bryan",
+      "summary": "East-West Ministries International — Staff",
+      "fit_score": 5,
+      "fit_reason": "Tier B - LinkedIn profile confirms Dallas-Fort Worth affiliation but limited role visibility",
+      "source_query": "hunter:w2026-08-30a:eastwest",
+      "meta": {
+        "tier": "B",
+        "role": "Staff",
+        "target_org": "East-West Ministries International",
+        "evidence_url": "https://www.linkedin.com/in/jimmy-bryan-251231171/",
+        "linkedin_url": "https://www.linkedin.com/in/jimmy-bryan-251231171/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Louise Robinson",
+      "summary": "East-West Ministries International — Staff",
+      "fit_score": 5,
+      "fit_reason": "Tier B - LinkedIn profile indicates Dallas-Fort Worth area affiliation but limited role details",
+      "source_query": "hunter:w2026-08-30a:eastwest",
+      "meta": {
+        "tier": "B",
+        "role": "Staff",
+        "target_org": "East-West Ministries International",
+        "evidence_url": "https://www.linkedin.com/in/lomrobinson/",
+        "linkedin_url": "https://www.linkedin.com/in/lomrobinson/",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "East-West Ministries International",
+      "website": "https://www.eastwest.org",
+      "org_type": "parachurch",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "headcount_est": 330,
+      "faith_orientation": "christian",
+      "evidence": "Christian missions organization based in Plano, TX focused on evangelical outreach and discipleship among unreached people groups in 50+ countries. Corporate office at 2001 W Plano Parkway Suite 3000, Plano, TX 75075. Operates both support-raised missionaries (Tier A) and development/advancement staff (Tier B) supporting field operations."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:eastwest.org staff team members",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:eastwest.org board directors leadership",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"east-west ministries international\" plano texas team personnel",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"east-west ministries international\"",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "\"east-west ministries international\" \"kurt nelson\" OR \"kristen shuler\" OR \"seth\" president CEO",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:eastwest.org about us executive leadership president",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"east-west ministries international\" board members directors 2024 2025",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:eastwest.org field director regional leader country",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ]
+}

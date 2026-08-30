@@ -1,0 +1,247 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:mesaglobal",
+  "target_org": "Mesa Global",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Dr. John Bernard",
+      "summary": "Mesa Global — CEO/President",
+      "fit_score": 9,
+      "fit_reason": "Tier C: Executive leadership; founder/president directing 400+ missionaries globally and $35M+ annual operations.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "C",
+        "role": "CEO/President",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://db.ministrywatch.com/ministry.php?ein=596045867",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "David Dwight",
+      "summary": "Mesa Global — Board Chairman",
+      "fit_score": 9,
+      "fit_reason": "Tier C: Board chairman with strategic governance authority over global missions network.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "C",
+        "role": "Chairman",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://db.ministrywatch.com/ministry.php?ein=596045867",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kristin MacUrda",
+      "summary": "Mesa Global — Chief Advancement Officer",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Development/advancement leadership directing major donor relations and fundraising strategy.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Advancement Officer",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://rocketreach.co/kristin-macurda-email_485278765",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "John Bonnell",
+      "summary": "Mesa Global — Director of Advancement",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Advancement director managing donor relations, stewardship, and fundraising operations.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Advancement",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://rocketreach.co/john-bonnell-email_40396425",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Daniel Gossels",
+      "summary": "Mesa Global — Managing Director, Head of Digital Media",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Development strategy through digital media/communications directing donor engagement and organizational messaging.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "B",
+        "role": "Managing Director, Head of Digital Media",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://rocketreach.co/daniel-gossels-email_36670785",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jonathan Mikes",
+      "summary": "Mesa Global — Director of Global Ministry",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionary; 16 years in Mexico City in pastoral and regional leadership; now directing 400+ global missionaries.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "A",
+        "role": "Director of Global Ministry / Missionary",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://www.mesaglobal.co/workers/27563",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kevin Book-Satterlee",
+      "summary": "Mesa Global — Missionary/Worker",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary worker serving internationally with Mesa Global partnership model.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary Worker",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://www.mesaglobal.co/workers/27606",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Leah Book-Satterlee",
+      "summary": "Mesa Global — Missionary/Worker",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary worker serving internationally with Mesa Global partnership model.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary Worker",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://www.mesaglobal.co/workers/27606",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Matt Scales",
+      "summary": "Mesa Global — Missionary/Worker",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary worker serving internationally with Mesa Global partnership model.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary Worker",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://www.mesaglobal.co/workers/31798",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kristi Scales",
+      "summary": "Mesa Global — Missionary/Worker",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary worker serving internationally with Mesa Global partnership model.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary Worker",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://www.mesaglobal.co/workers/31798",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jim Breneman",
+      "summary": "Mesa Global — Missionary/Worker",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary worker serving internationally with Mesa Global partnership model.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary Worker",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://www.mesaglobal.co/workers/27637",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mimi Breneman",
+      "summary": "Mesa Global — Missionary/Worker",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary worker serving internationally with Mesa Global partnership model.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary Worker",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://www.mesaglobal.co/workers/27637",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dan Sweeney",
+      "summary": "Mesa Global — Missionary/Worker",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary worker serving internationally with Mesa Global partnership model.",
+      "source_query": "hunter:w2026-08-30a:mesaglobal",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary Worker",
+        "target_org": "Mesa Global",
+        "evidence_url": "https://www.mesaglobal.co/workers/31387",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Mesa Global",
+      "website": "https://www.mesaglobal.co",
+      "org_type": "mission_board",
+      "size_estimate": "large",
+      "tier_profile": "AB",
+      "headcount_est": 201,
+      "faith_orientation": "christian",
+      "evidence": "Evangelical, interdenominational Christian missions organization founded 1946; 400+ missionaries in 50+ nations; $35M+ annual revenue (2025); ECFA accredited member since 1987; headquartered Charlotte, NC."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Mesa Global mesaglobal.co staff leadership board members",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "\"Mesa Global\" \"John Bernard\" \"David Dwight\" board directors",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:mesaglobal.co board directors team staff",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "\"Mesa Global\" \"Charlotte\" leadership team executive director CEO",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"Mesa Global\" \"board member\" OR \"board director\" OR \"advancement\" OR \"development\" 2025 2026",
+      "outcome": "offtopic",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Mesa Global\" Christian missions \"church planting\" staff workers LinkedIn",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Mesa Global mesaglobal.co \"Chief\" OR \"Director\" OR \"Officer\" names staff 2025 2026",
+      "outcome": "found_people",
+      "people_found": 3
+    }
+  ],
+  "negatives": []
+}

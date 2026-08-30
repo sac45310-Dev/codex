@@ -1,0 +1,389 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:encompass",
+  "roster_verdict": "rostered",
+  "target_org": "Encompass World Partners",
+  "people": [
+    {
+      "org_name": "Michael Yoder",
+      "summary": "Encompass World Partners — Executive Director",
+      "fit_score": 9,
+      "fit_reason": "Tier B - Executive Director and donor relations contact; returned to missions in 2023 after leading Grace Polaris Church in Columbus for 11 years.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "B",
+        "role": "Executive Director",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://charisfellowship.com/mike-yoder-named-new-executive-director-of-encompass-world-partners/",
+        "linkedin_url": "https://www.linkedin.com/in/michaelyoder/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Barbara Wooler",
+      "summary": "Encompass World Partners — Key Leadership/Decision Maker",
+      "fit_score": 8,
+      "fit_reason": "Tier B - Listed as key employee and decision maker in organizational leadership.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "B",
+        "role": "Leadership/Decision Maker",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://www.zoominfo.com/pic/encompass-world-partners/347747993",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bill Palmateer",
+      "summary": "Encompass World Partners — Communications Director",
+      "fit_score": 8,
+      "fit_reason": "Tier B - Communications Director and key decision maker in organizational leadership.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "B",
+        "role": "Communications Director",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://www.zoominfo.com/pic/encompass-world-partners/347747993",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Paul Klawitter",
+      "summary": "Encompass World Partners — Senior Director Church Planting Network",
+      "fit_score": 8,
+      "fit_reason": "Tier B - Senior Director of Church Planting Network, involved in strategic missional leadership.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "B",
+        "role": "Senior Director of Church Planting Network",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://give.encompassworldpartners.org/person/paulandlouise",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Louise Klawitter",
+      "summary": "Encompass World Partners — Mission Craft Leader & Church Planting Strategist",
+      "fit_score": 8,
+      "fit_reason": "Tier B - Leads Mission Craft equipping team and Church Planting Network strategist.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "B",
+        "role": "Mission Craft Leader & Church Planting Network Strategist",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://encompassworldpartners.org/person/paulandlouise",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mickey Kaufman",
+      "summary": "Encompass World Partners — Director of Ministry Advancement",
+      "fit_score": 8,
+      "fit_reason": "Tier B - Director of Ministry Advancement; development/advancement staff role.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Ministry Advancement",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://www.zoominfo.com/c/encompass-world-partners/347747993",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "JB Brown",
+      "summary": "Encompass World Partners — Director of Training and Member Care",
+      "fit_score": 7,
+      "fit_reason": "Tier B - Director of Training and Member Care; incoming staff in organizational leadership.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Training and Member Care",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://give.encompassworldpartners.org/person/jb-brown-33",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Randy Clark",
+      "summary": "Encompass World Partners — Missionary serving in Japan",
+      "fit_score": 8,
+      "fit_reason": "Tier A - Support-raised missionary mentoring other missionaries in Japan; decades of ministry experience.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://encompassworldpartners.org/person/randy-and-susan-clark-3096",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Susan Clark",
+      "summary": "Encompass World Partners — Missionary serving in Japan",
+      "fit_score": 8,
+      "fit_reason": "Tier A - Support-raised missionary mentoring other missionaries in Japan; decades of ministry experience.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://encompassworldpartners.org/person/randy-and-susan-clark-3096",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gary McCaman",
+      "summary": "Encompass World Partners — Missionary trainer and mentor",
+      "fit_score": 8,
+      "fit_reason": "Tier A - Support-raised missionary passionate about training new missionaries from pre-deployment through first term.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://encompassworldpartners.org/person/garyandlinda",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Linda McCaman",
+      "summary": "Encompass World Partners — Missionary trainer and mentor",
+      "fit_score": 8,
+      "fit_reason": "Tier A - Support-raised missionary passionate about training new missionaries from pre-deployment through first term.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://encompassworldpartners.org/person/garyandlinda",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Letitia Yoder",
+      "summary": "Encompass World Partners — Missionary serving in Germany",
+      "fit_score": 7,
+      "fit_reason": "Tier A - Support-raised missionary; married to Executive Director; moved to Berlin in 1997 to serve.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://encompassworldpartners.org/person/mike-and-letitia",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Diana Davis",
+      "summary": "Encompass World Partners — Missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A - Support-raised missionary with personal profile on organization's website.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://encompassworldpartners.org/person/dianadavis",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Cecil O'Dell",
+      "summary": "Encompass World Partners — Missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A - Support-raised missionary with personal profile on organization's website.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://encompassworldpartners.org/person/cecil",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Malachi Saunders",
+      "summary": "Encompass World Partners — Missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A - Support-raised missionary with personal profile on organization's website.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://encompassworldpartners.org/person/malachi-saunders",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Thierry Mirone",
+      "summary": "Encompass World Partners — Missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A - Support-raised missionary with personal profile on organization's website.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://encompassworldpartners.org/person/thierryandvalerie",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Greg Burgess",
+      "summary": "Encompass World Partners — Missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A - Support-raised missionary with personal profile on organization's website.",
+      "source_query": "hunter:w2026-08-30a:encompass",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Encompass World Partners",
+        "evidence_url": "https://encompassworldpartners.org/person/gregandsandrine",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Encompass World Partners",
+      "website": "https://encompassworldpartners.org/",
+      "org_type": "mission_board",
+      "size_estimate": "small",
+      "tier_profile": "AB",
+      "headcount_est": 30,
+      "faith_orientation": "christian",
+      "evidence": "Encompass World Partners is a Grace Brethren missions agency based in Atlanta, GA (relocating to Columbus, OH). They send and support support-raised missionaries globally to 31 countries and maintain a small professional staff for organizational operations, advancement, and member care. Primary decision-makers and leadership identified through public web sources."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Encompass World Partners staff board members missionaries",
+      "outcome": "found_people",
+      "people_found": 8
+    },
+    {
+      "kind": "query",
+      "value": "\"Encompass World Partners\" Atlanta leadership team",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"Encompass World Partners\" support-raised missionaries",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org staff people",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "\"Encompass World Partners\" board directors members",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person missionaries stories",
+      "outcome": "found_people",
+      "people_found": 10
+    },
+    {
+      "kind": "query",
+      "value": "\"Michael Yoder\" \"Encompass World Partners\" executive director",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Encompass World Partners\" development advancement donor relations staff",
+      "outcome": "found_people",
+      "people_found": 4
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Casey Richey",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as key employee in search results but no individual profile, evidence URL, or role confirmation found; cannot verify as distinct individual or current staff"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Ted Offutt",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as key employee in search results but no individual profile, evidence URL, or role confirmation found; cannot verify as distinct individual or current staff"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Jason Carmean",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as key employee in search results but no individual profile, evidence URL, or role confirmation found; cannot verify as distinct individual or current staff"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Blaine Horst",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as decision maker in search results but no individual profile, evidence URL, or role confirmation found; cannot verify as distinct individual or current staff"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Dave Guiles",
+      "reason_code": "platform_not_person",
+      "detail": "Director of Missional Partnerships mentioned in search results but no profile URL or direct evidence found; cannot confirm current status"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Wayne Hannah",
+      "reason_code": "platform_not_person",
+      "detail": "Senior Director of Strategic Initiatives mentioned in search results but no profile URL or direct evidence found; cannot confirm current status"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Lindsay Schuiteman",
+      "reason_code": "platform_not_person",
+      "detail": "Office staff/database management role mentioned in search results but no profile URL or direct evidence found; cannot confirm current status"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Tom",
+      "reason_code": "platform_not_person",
+      "detail": "Director of Ministry Coaching mentioned in search results but last name not found and no profile URL available; cannot verify as distinct individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Jason & Christy C.",
+      "reason_code": "platform_not_person",
+      "detail": "Missionary profile found but full names not available in search results (only initials C. given); cannot create individual records without complete names"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Will Ferguson",
+      "reason_code": "platform_not_person",
+      "detail": "Missionary profile found (Will and Emma Ferguson) but search results provided limited detail; needs_review candidate"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Emma Ferguson",
+      "reason_code": "platform_not_person",
+      "detail": "Missionary profile found (Will and Emma Ferguson) but search results provided limited detail; needs_review candidate"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Valérie Mirone",
+      "reason_code": "platform_not_person",
+      "detail": "Missionary profile found (Thierry & Valérie Mirone) but search results provided limited detail; needs_review candidate"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Sandrine Burgess",
+      "reason_code": "platform_not_person",
+      "detail": "Missionary profile found (Greg & Sandrine Burgess) but search results provided limited detail; needs_review candidate"
+    }
+  ]
+}

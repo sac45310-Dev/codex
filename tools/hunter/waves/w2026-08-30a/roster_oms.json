@@ -1,0 +1,211 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:oms",
+  "roster_verdict": "rostered",
+  "target_org": "One Mission Society",
+  "people": [
+    {
+      "org_name": "Jeffry Edwards",
+      "summary": "One Mission Society — President",
+      "fit_score": 10,
+      "fit_reason": "Tier C: Executive leadership (President since 2022), 35+ years with OMS, former OMS Global Ministries executive director, former regional director Latin America/Caribbean",
+      "source_query": "hunter:w2026-08-30a:oms",
+      "meta": {
+        "tier": "C",
+        "role": "President",
+        "target_org": "One Mission Society",
+        "evidence_url": "https://www.linkedin.com/in/jeffry-edwards-90064937/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Betsy Shroyer",
+      "summary": "One Mission Society — Chief Financial Officer",
+      "fit_score": 9,
+      "fit_reason": "Tier C: Executive leadership (CFO), primary financial oversight and organizational governance",
+      "source_query": "hunter:w2026-08-30a:oms",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Financial Officer",
+        "target_org": "One Mission Society",
+        "evidence_url": "https://www.zoominfo.com/p/Betsy-Shroyer/6418706123",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tom Overton",
+      "summary": "One Mission Society — Chief Operating Officer",
+      "fit_score": 9,
+      "fit_reason": "Tier C: Executive leadership (COO), oversees HR, Marketing, Development, Finance, Church Partners, and World Headquarters campus operations",
+      "source_query": "hunter:w2026-08-30a:oms",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Operating Officer, OMS USA",
+        "target_org": "One Mission Society",
+        "evidence_url": "https://onemissionsociety.org/about-us",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kelli Bryant",
+      "summary": "One Mission Society — Development/Donor Records Manager",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Development staff, joined Sept 2000, promoted to donor records manager Sept 2004, manages donor database and records",
+      "source_query": "hunter:w2026-08-30a:oms",
+      "meta": {
+        "tier": "B",
+        "role": "Donor Records Manager, Development Department",
+        "target_org": "One Mission Society",
+        "evidence_url": "https://onemissionsociety.org/missionaries/detail/Bryant",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tonya Overton",
+      "summary": "One Mission Society — Associate Director of HOPE61",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Program leadership in human trafficking prevention ministry, staff-level organizational role",
+      "source_query": "hunter:w2026-08-30a:oms",
+      "meta": {
+        "tier": "B",
+        "role": "Associate Director, HOPE61 (human trafficking prevention ministry)",
+        "target_org": "One Mission Society",
+        "evidence_url": "https://onemissionsociety.org/about-us",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mike Dragon",
+      "summary": "One Mission Society — Regional Coordinator",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Regional leadership staff responsible for regional operations and church partners",
+      "source_query": "hunter:w2026-08-30a:oms",
+      "meta": {
+        "tier": "B",
+        "role": "Regional Coordinator",
+        "target_org": "One Mission Society",
+        "evidence_url": "https://www.linkedin.com/in/mike-dragon-7b4b32b/",
+        "linkedin_url": "https://www.linkedin.com/in/mike-dragon-7b4b32b/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kris Kappler",
+      "summary": "One Mission Society — Regional Director, International",
+      "fit_score": 8,
+      "fit_reason": "Tier B: International regional leadership, oversees overseas operations and regional strategy",
+      "source_query": "hunter:w2026-08-30a:oms",
+      "meta": {
+        "tier": "B",
+        "role": "Regional Director, International",
+        "target_org": "One Mission Society",
+        "evidence_url": "https://www.zoominfo.com/p/Kris-Kappler/-1799056332",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "William Wilder",
+      "summary": "One Mission Society — Southeast Region Director",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Regional leadership staff overseeing Southeast USA church partnerships and operations",
+      "source_query": "hunter:w2026-08-30a:oms",
+      "meta": {
+        "tier": "B",
+        "role": "Southeast Region Director",
+        "target_org": "One Mission Society",
+        "evidence_url": "https://www.zoominfo.com/p/William-Wilder/8476795500",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Austin Sullivan",
+      "summary": "One Mission Society — Associate Regional Director",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Regional staff leadership supporting regional operations and church engagement",
+      "source_query": "hunter:w2026-08-30a:oms",
+      "meta": {
+        "tier": "B",
+        "role": "Associate Regional Director",
+        "target_org": "One Mission Society",
+        "evidence_url": "https://www.zoominfo.com/p/Austin-Sullivan/520069291",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jay Dunnuck",
+      "summary": "One Mission Society — Donor Contact",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Development/donor relations staff, direct donor engagement and relationship management",
+      "source_query": "hunter:w2026-08-30a:oms",
+      "meta": {
+        "tier": "B",
+        "role": "Donor Contact",
+        "target_org": "One Mission Society",
+        "evidence_url": "https://www.zoominfo.com/c/one-mission-society/28819915",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "One Mission Society",
+      "website": "https://onemissionsociety.org",
+      "org_type": "mission_board",
+      "size_estimate": "large",
+      "tier_profile": "AB",
+      "headcount_est": 250,
+      "faith_orientation": "christian",
+      "evidence": "Founded 1901, operates in 84+ countries, 250+ employee headcount (201-500 per ZoomInfo), global Christian missionary society"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "One Mission Society staff leadership Greenwood Indiana",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "One Mission Society board members",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "One Mission Society development director advancement staff",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org staff team",
+      "outcome": "offtopic",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "One Mission Society LinkedIn president Jeffry Edwards",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "One Mission Society Betsy Shroyer Robert Fetherlin David Long role",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "One Mission Society support-raised missionaries prayer letter",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "One Mission Society donors prayer letter missionaries",
+      "outcome": "offtopic",
+      "people_found": 0
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "prospector:ywam",
+  "research_date": "2026-08-30",
+  "orgs_discovered": [
+    {
+      "org_id": "ywam_sandiego_baja",
+      "org_name": "YWAM San Diego/Baja",
+      "website": "https://www.ywamsandiegobaja.org/",
+      "location": "San Diego, California",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "51-200",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "headcount_est": 75,
+      "support_raised": true,
+      "evidence": [
+        "Multi-campus ministry with admin office in San Diego and locations in Tijuana and Ensenada, Mexico",
+        "Staff profiles page and active staff recruitment",
+        "Named leader: Sean Lambert",
+        "HR department managing support-raised staff model"
+      ]
+    },
+    {
+      "org_id": "ywam_orlando",
+      "org_name": "YWAM Orlando",
+      "website": "https://www.ywamorlando.com/",
+      "location": "Montverde, Florida",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "51-200",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "headcount_est": 120,
+      "support_raised": true,
+      "evidence": [
+        "Corporate office: 15411 County Road 455, Montverde, FL 34756",
+        "Gen Z focused missionary movement",
+        "Music Track led by Kristen Kang",
+        "Active staff application process",
+        "Contact: info@ywamorlando.com, (407) 273-1667"
+      ]
+    },
+    {
+      "org_id": "ywam_tyler",
+      "org_name": "YWAM Tyler",
+      "website": "https://www.ywamtyler.org/",
+      "location": "Tyler, Texas",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "51-150",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "headcount_est": 100,
+      "support_raised": true,
+      "evidence": [
+        "Multi-generational ministry base",
+        "Pioneer organization: established 60+ bases globally",
+        "5 US satellite bases: New Orleans, Dallas, Houston, Chicago, Alamogordo (NM)",
+        "Three local campuses",
+        "Multi-generational, interdenominational, international community"
+      ]
+    },
+    {
+      "org_id": "ywam_montana",
+      "org_name": "YWAM Montana",
+      "website": "https://www.ywammontana.org/",
+      "location": "Lakeside, Montana",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "100-250",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "headcount_est": 160,
+      "support_raised": true,
+      "evidence": [
+        "Address: 501 Blacktail Road, Lakeside, MT 59922",
+        "Multi-generational, interdenominational, international community",
+        "~160 staff members",
+        "~70 children on campus",
+        "Hundreds of trainees annually",
+        "Support-raised staff model"
+      ]
+    },
+    {
+      "org_id": "ywam_north_cascades",
+      "org_name": "YWAM North Cascades",
+      "website": "https://ywam.org/location/ywam-north-cascades/b-2148",
+      "location": "North Cascades, Washington",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "50-150",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "headcount_est": 80,
+      "support_raised": true,
+      "evidence": [
+        "Located between North Cascades National Park, Seattle, and Vancouver",
+        "Operates School of Ministry & Leadership Development (starting Sept 24, 2026)",
+        "Support-raised staff base",
+        "Training school operations"
+      ]
+    },
+    {
+      "org_id": "ywam_kona",
+      "org_name": "YWAM University of the Nations Kona",
+      "website": "https://ywamkona.org/",
+      "location": "Kailua-Kona, Hawaii",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "200-500",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff", "C_board"],
+      "headcount_est": 300,
+      "support_raised": true,
+      "evidence": [
+        "YWAM's largest training and ministry center",
+        "~1,500 trainees annually",
+        "Multi-generational staff community",
+        "Support-raised staff model",
+        "Kokua Program and staff recruitment ongoing"
+      ]
+    },
+    {
+      "org_id": "ywam_ships_kona",
+      "org_name": "YWAM Ships Kona",
+      "website": "https://www.ywamshipskona.org/",
+      "location": "Kailua-Kona, Hawaii",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "50-150",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "headcount_est": 100,
+      "support_raised": true,
+      "evidence": [
+        "Medical and training ships base",
+        "Hawaii's only medical and training ships",
+        "501(c)(3) nonprofit status confirmed",
+        "Operating locations globally",
+        "Support-raised staff model"
+      ]
+    },
+    {
+      "org_id": "ywam_asheville",
+      "org_name": "YWAM Asheville",
+      "website": "https://ywamasheville.org/",
+      "location": "Asheville, North Carolina",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "30-100",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "headcount_est": 50,
+      "support_raised": true,
+      "evidence": [
+        "Active DTS (Discipleship Training School) programs",
+        "Leadership training focus",
+        "Support-raised staff base",
+        "Training and ministry operations"
+      ]
+    },
+    {
+      "org_id": "ywam_maui",
+      "org_name": "YWAM Maui",
+      "website": "https://www.ywammaui.org/",
+      "location": "Maui, Hawaii",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "40-100",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "headcount_est": 60,
+      "support_raised": true,
+      "evidence": [
+        "Active staff recruitment (Fall 2025, Winter 2026, Spring/Summer 2026, Fall 2026 cohorts)",
+        "Staff application process documented",
+        "Support-raised staff model",
+        "Training school operations"
+      ]
+    },
+    {
+      "org_id": "ywam_boston",
+      "org_name": "YWAM Boston",
+      "website": "https://ywam.org/location/ywam-boston/b-186",
+      "location": "Boston, Massachusetts",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "40-100",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "headcount_est": 40,
+      "support_raised": true,
+      "evidence": [
+        "40+ full-time employees",
+        "DTS courses focused on worship and creative endeavors",
+        "Located in Boston suburbs",
+        "Support-raised staff model"
+      ]
+    },
+    {
+      "org_id": "ywam_los_angeles",
+      "org_name": "YWAM Los Angeles",
+      "website": "https://ywam.org/location/ywam-los-angeles/b-187",
+      "location": "Sylmar, California",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "50-150",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "headcount_est": 80,
+      "support_raised": true,
+      "evidence": [
+        "Located in Sylmar, Los Angeles area",
+        "Support-raised staff base",
+        "Training and ministry operations"
+      ]
+    },
+    {
+      "org_id": "ywam_dallas",
+      "org_name": "YWAM Dallas",
+      "website": "https://ywam.org/location/ywam-dallas/b-183",
+      "location": "Dallas, Texas",
+      "org_type": "independent_nonprofit_501c3",
+      "size_estimate": "50-120",
+      "faith_orientation": "christian",
+      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "headcount_est": 75,
+      "support_raised": true,
+      "evidence": [
+        "Southern hub operating since 1960",
+        "Located in historic Dallas neighborhood",
+        "Support-raised staff model",
+        "Satellite base of YWAM Tyler"
+      ]
+    },
+    {
+      "org_id": "ywam_publishing",
+      "org_name": "YWAM Publishing",
+      "website": "https://www.ywampublishing.com/",
+      "location": "Seattle, Washington",
+      "org_type": "independent_nonprofit_501c3_ministry_branch",
+      "size_estimate": "20-50",
+      "faith_orientation": "christian",
+      "tier_profile": ["B_development_staff"],
+      "headcount_est": 30,
+      "support_raised": false,
+      "evidence": [
+        "501(c)(3) nonprofit status confirmed",
+        "Ministry of Youth With A Mission",
+        "Publishing and media outreach",
+        "Seattle, WA location"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Sean Lambert",
+      "organization": "YWAM San Diego/Baja",
+      "role": "Base Leader",
+      "tier": "A",
+      "source_url": "https://www.ywamsandiegobaja.org/staff-profiles",
+      "source_query": "hunter:w2026-08-30a:ywam"
+    },
+    {
+      "name": "Kristen Kang",
+      "organization": "YWAM Orlando",
+      "role": "Music Track Leader",
+      "tier": "B",
+      "source_url": "https://www.ywamorlando.com/",
+      "source_query": "hunter:w2026-08-30a:ywam"
+    },
+    {
+      "name": "Nathan",
+      "organization": "YWAM Lord's Land",
+      "role": "Base Leader",
+      "tier": "A",
+      "source_url": "https://ywam.org/location/ywam-lord-s-land/",
+      "source_query": "hunter:w2026-08-30a:ywam"
+    },
+    {
+      "name": "Cindi",
+      "organization": "YWAM Lord's Land",
+      "role": "Base Leader",
+      "tier": "A",
+      "source_url": "https://ywam.org/location/ywam-lord-s-land/",
+      "source_query": "hunter:w2026-08-30a:ywam"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "YWAM Youth With A Mission US bases locations United States",
+      "outcome": "Found primary US bases including North Cascades, Dallas, San Diego/Baja, Boston, Orlando, Asheville, Montana",
+      "people_found": 0,
+      "bases_found": 7
+    },
+    {
+      "query": "YWAM USA bases directory Denver Kona Tyler Montana",
+      "outcome": "Confirmed YWAM Tyler, YWAM Montana (Lakeside, 160 staff), YWAM Kona; found satellite bases spawned by Tyler",
+      "people_found": 0,
+      "bases_found": 5
+    },
+    {
+      "query": "YWAM base director staff leadership USA 2025 2026",
+      "outcome": "Limited leadership directory results; found YWAM Maui staff cohorts and YWAM North Cascades leadership programs",
+      "people_found": 0,
+      "bases_found": 2
+    },
+    {
+      "query": "YWAM San Diego YWAM Boston YWAM Dallas website staff director",
+      "outcome": "Detailed YWAM San Diego/Baja: Sean Lambert (leader), HR contact, multi-campus structure; limited Boston/Dallas staff details",
+      "people_found": 1,
+      "bases_found": 3
+    },
+    {
+      "query": "YWAM locations USA bases complete list contact",
+      "outcome": "Found ~40 YWAM locations in USA; identified San Diego, Dallas, Boston, North Cascades, LA, St. Augustine, Asheville",
+      "people_found": 0,
+      "bases_found": 7
+    },
+    {
+      "query": "YWAM Orlando YWAM Asheville YWAM Maui director leader staff",
+      "outcome": "YWAM Orlando: 51-200 employees, Kristen Kang (Music); YWAM Maui: staff cohorts identified; YWAM Asheville: limited details",
+      "people_found": 1,
+      "bases_found": 3
+    },
+    {
+      "query": "YWAM nonprofit 501c3 independent incorporated USA bases organization",
+      "outcome": "Confirmed independent 501(c)(3) nonprofit structure; identified YWAM Publishing (Seattle), YWAM Ships Kona (501c3)",
+      "people_found": 0,
+      "bases_found": 2
+    },
+    {
+      "query": "\"YWAM\" \"base director\" OR \"base leader\" site:ywam.org USA",
+      "outcome": "Found YWAM Lord's Land with leaders Nathan and Cindi; limited comprehensive director directory available on ywam.org",
+      "people_found": 2,
+      "bases_found": 1
+    },
+    {
+      "query": "YWAM Kona Hawaii YWAM New Orleans YWAM Houston YWAM Chicago nonprofit",
+      "outcome": "Detailed YWAM Kona: 1,500 trainees/year, University of the Nations, Alii Drive Kailua-Kona; no specific New Orleans/Houston/Chicago base pages",
+      "people_found": 0,
+      "bases_found": 3
+    }
+  ],
+  "negatives": [],
+  "summary": {
+    "bases_discovered": 12,
+    "distinct_locations": 11,
+    "people_identified": 4,
+    "research_completeness": "High - identified major US YWAM bases with websites, locations, and organizational structures; limited individual staff rosters due to decentralized base model",
+    "notes": "YWAM operates with highly decentralized structure. Each base is independently incorporated 501(c)(3) nonprofit with support-raised staff model. Satellite bases identified: Tyler spawned bases in New Orleans, Dallas (confirmed separate base), Houston, Chicago, Alamogordo. Texas and Hawaii regions have highest concentration of bases. Staff rosters are limited in public web presence."
+  }
+}
