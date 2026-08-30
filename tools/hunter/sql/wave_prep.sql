@@ -18,16 +18,31 @@ ORDER BY domain;
 -- 3. Covered queries (orchestrator drops duplicate assignments before dispatch)
 SELECT value FROM sales.hunt_coverage WHERE kind = 'query' ORDER BY value;
 
--- 4. Roster assignments: next unrostered targets by priority.
+-- 4. Roster assignments: next unrostered targets, highest priority first.
 -- do_not_pursue orgs stay cataloged but never receive roster budget.
+-- `priority` is maintained by section 4b below; recompute it before a wave.
 SELECT t.id, t.org_name, t.website, t.org_type, t.size_estimate, t.tier_profile,
-       t.faith_orientation, t.crm_incumbent,
+       t.faith_orientation, t.crm_incumbent, t.priority,
        t.headcount_found AS known_people_count
 FROM sales.hunt_targets t
 WHERE t.roster_status = 'unrostered'
-  AND NOT t.do_not_pursue
-ORDER BY t.priority, t.headcount_found DESC, t.id
+  AND NOT coalesce(t.do_not_pursue, false)
+ORDER BY t.priority DESC NULLS LAST, t.headcount_est DESC NULLS LAST, t.id
 LIMIT 40;
+
+-- 4b. Recompute priority. Weights the two things that decide roster payoff:
+-- support-raised orgs (every staffer is a prospective user) and how many
+-- people are actually there, with a nudge toward mid/small orgs that are
+-- realistic switchers and away from targets with no website to search.
+UPDATE sales.hunt_targets SET priority =
+  (CASE WHEN tier_profile IN ('A','AB') THEN 40 ELSE 0 END
+   + CASE WHEN headcount_est >= 200 THEN 30 WHEN headcount_est >= 50 THEN 22
+          WHEN headcount_est >= 15 THEN 14 WHEN headcount_est IS NOT NULL THEN 6
+          ELSE 0 END
+   + CASE WHEN size_estimate IN ('mid','small') THEN 12
+          WHEN size_estimate = 'large' THEN 6
+          WHEN size_estimate = 'micro' THEN 3 ELSE 0 END
+   + CASE WHEN website IS NOT NULL THEN 8 ELSE 0 END);
 
 -- 5. Known negatives (context for prompt building; keeps agents off dead ends)
 SELECT entity_kind, name, reason_code FROM sales.hunt_negatives ORDER BY name;

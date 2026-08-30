@@ -38,6 +38,36 @@ school staff, denominational offices, conference/training people, vendors,
 deceased/retired people. The individual's funding model decides, not the
 org label. Unclear → `needs_review` with evidence, never a guess.
 
+### Tier discipline — a senior title is NOT Tier A
+
+Tier A means the person **personally raises their own funding**, evidenced by a
+personal giving/deputation page, prayer letters, a "partner with us" ask, or an
+agency missionary-directory listing. Nothing else qualifies.
+
+A CEO, President, Executive Director, CFO, COO, or VP at a donor-funded
+nonprofit is **Tier C** (a leadership influencer), or **Tier B** if their role
+is explicitly development / advancement / donor relations. Being senior at an
+org that fundraises is not the same as raising your own support. If you cannot
+point to per-person support-raising evidence, it is not Tier A.
+
+Score inside the tier band: A 7–10, B 4–7, C 4–6.
+
+### Every person record must be a real, named individual
+
+A person record requires a **human being's actual name**. Never emit a record
+whose name is:
+
+- an open job posting or vacant role — "Director of Advancement - BELONG
+  Partners", "Senior Philanthropy Officer (hiring)". A job listing proves the
+  org has the function, which belongs in the ORG record, not a person record.
+- a single token — "Allison", "Matt". Insufficient to differentiate an
+  individual from anyone else at that org.
+- a role or team label — "Development Team", "Individual Giving".
+
+When you find a vacancy or an unnamed role, note the function on the
+organization instead and record the finding in `negatives[]` with
+reason_code `platform_not_person`. A blank beats a guess, always.
+
 While rostering, also note org-level intel when you see it: the donor CRM
 the org currently uses (`crm_incumbent` — a displacement opportunity, not a
 reject) and the org's `faith_orientation` (christian | other_faith |
