@@ -1,0 +1,253 @@
+{
+  "wave_id": "w2026-08-30b",
+  "agent": "roster:mercyships",
+  "target_org": "Mercy Ships",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Dr. Michelle White",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Chief Executive Officer",
+      "fit_score": 6,
+      "fit_reason": "Tier C: CEO with medical background (Anesthesiologist); leadership influencer but recent appointment and limited evidence of personal fundraising visibility",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Executive Officer",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://www.mercyships.org/mercy-ships-appoints-new-ceo/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gary Brown",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Board Chair",
+      "fit_score": 7,
+      "fit_reason": "Tier C: Board Chair, retired CEO of CIBC FirstCaribbean, 20+ years tenure on board; strong leadership influence and likely donor connections",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://www.mercyships.org/gary-brown-elected-chairman-of-mercy-ships-international-board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Don Stephens",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Founder and President",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Founder (1978) and President with 45+ years of organizational leadership; significant influence and visibility in donor community",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "C",
+        "role": "Founder and President",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://www.mercyships.org/about-us/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jeff Kramer",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Vice President of Resource Development",
+      "fit_score": 6,
+      "fit_reason": "Tier B: VP of Resource Development; development/fundraising leadership role within mission organization",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President of Resource Development",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://www.comparably.com/companies/mercy-ships/executive-team",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Roy Jones",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Vice President of Development",
+      "fit_score": 6,
+      "fit_reason": "Tier B: VP of Development; direct fundraising/development leadership role; tenure since 2016",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President of Development",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://www.comparably.com/companies/mercy-ships/executive-team",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kerry Peterson",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Vice President of Advancement",
+      "fit_score": 6,
+      "fit_reason": "Tier B: VP Advancement/Assistant Secretary; advancement/donor relations leadership role",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President of Advancement, Assistant Secretary",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://db.ministrywatch.com/ministry.php?ein=953793975",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Amy Nyquist",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Director of Development Philanthropy",
+      "fit_score": 5,
+      "fit_reason": "Tier B: Director of Development Philanthropy; development/fundraising staff role",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development Philanthropy",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://db.ministrywatch.com/ministry.php?ein=953793975",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Peter Linz",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Chief International Medical Officer",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Senior medical leadership role; influencer in medical community but not primarily fundraising-focused",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "C",
+        "role": "Chief International Medical Officer",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://www.comparably.com/companies/mercy-ships/executive-team",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Fred Grote",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Chief Financial Officer",
+      "fit_score": 5,
+      "fit_reason": "Tier C: CFO; financial leadership role with organizational influence",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Financial Officer",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://www.comparably.com/companies/mercy-ships/executive-team",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Chris Gregg",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Chief Information Officer",
+      "fit_score": 4,
+      "fit_reason": "Tier C: CIO; operations/infrastructure leadership with organizational influence",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Information Officer",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://www.comparably.com/companies/mercy-ships/executive-team",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Jim Paterson",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Senior Vice President of International Operations",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Senior operations leadership; influencer but not primarily development-focused",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "C",
+        "role": "Senior Vice President of International Operations",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://www.comparably.com/companies/mercy-ships/executive-team",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Rob Cairncross",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Vice President of International Operations",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Operations leadership; influencer but not primarily development-focused",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "C",
+        "role": "Vice President of International Operations",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://www.comparably.com/companies/mercy-ships/executive-team",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "James Coppens",
+      "org_type": "individual",
+      "summary": "Mercy Ships — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board Member; governance and organizational leadership influence",
+      "source_query": "hunter:w2026-08-30b:mercyships",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Mercy Ships",
+        "evidence_url": "https://www.businesswire.com/news/home/20230108005071/en/Gary-Brown-Elected-Chairman-of-Mercy-Ships-Internationals-Board-of-Directors",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Mercy Ships leadership team staff directory",
+      "outcome": "found_people",
+      "people_found": 8
+    },
+    {
+      "kind": "query",
+      "value": "Mercy Ships CEO president executive leadership",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "\"Mercy Ships\" staff roster team members",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "site:mercyships.org leadership team about us",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Mercy Ships board directors members list",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "Mercy Ships development fundraising officers advancement",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Mercy Ships\" Don Stephens Jeff Kramer Roy Jones",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Mercy Ships organizational chart 2026",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ]
+}
