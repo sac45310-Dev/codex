@@ -495,7 +495,14 @@ def ingest_wave(directory, min_fit, out_dir, batch_size):
             "  as x(org_name text, website text, org_type text, size_estimate text,\n"
             "       tier_profile text, headcount_est int, faith_orientation text,\n"
             "       crm_incumbent text, do_not_pursue boolean, do_not_pursue_reason text,\n"
-            "       notes text, wave_id text))\n"
+            "       notes text, wave_id text)),\n"
+            # dedup within the batch: two agents in one wave can return the same
+            # org under different websites, and NOT EXISTS below only sees rows
+            # committed before this statement. Keep the richest row.
+            "dedup as (select distinct on (lower(trim(org_name))) * from src\n"
+            "  order by lower(trim(org_name)),\n"
+            "           (website is not null) desc, (notes is not null) desc,\n"
+            "           (headcount_est is not null) desc)\n"
             "insert into sales.hunt_targets\n"
             "  (org_name, website, org_type, size_estimate, tier_profile, priority,\n"
             "   discovered_by, headcount_est, faith_orientation, crm_incumbent,\n"
@@ -503,7 +510,7 @@ def ingest_wave(directory, min_fit, out_dir, batch_size):
             "select s.org_name, s.website, s.org_type, s.size_estimate, s.tier_profile, 4,\n"
             "       'wave:' || s.wave_id, s.headcount_est, s.faith_orientation, s.crm_incumbent,\n"
             "       coalesce(s.do_not_pursue, false), s.do_not_pursue_reason, s.notes\n"
-            "from src s\n"
+            "from dedup s\n"
             "where not exists (select 1 from sales.hunt_targets t\n"
             "                  where lower(trim(t.org_name)) = lower(trim(s.org_name)))\n"
             "  and not exists (select 1 from sales.hunt_negatives n\n"
