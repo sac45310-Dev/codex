@@ -40,6 +40,12 @@ point to per-person support-raising evidence, it is not Tier A.
 
 Score inside the tier band: A 7–10, B 4–7, C 4–6.
 
+When evidence is ambiguous, **tier DOWN, not up**. If you find yourself writing
+"likely raises support", "Tier A potential", or "probably" in a fit_reason, the
+record is not Tier A — assign the lower tier and put the doubt in
+`needs_review`. Tier A is a claim about evidence you actually found, never
+about what is plausible for someone in that role.
+
 ### Every person record must be a real, named individual
 
 A person record requires a **human being's actual name**. Never emit a record
