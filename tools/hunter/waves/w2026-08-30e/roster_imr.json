@@ -1,0 +1,120 @@
+{
+  "wave_id": "w2026-08-30e",
+  "agent": "roster:imr",
+  "target_org": "International Medical Relief",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Shauna Vollmer King",
+      "org_type": "individual",
+      "city": "Loveland",
+      "state": "CO",
+      "summary": "International Medical Relief — Founder and President",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Founder and President (CEO), with 20+ years leading the organization and extensive board service elsewhere, but no evidence of personal fundraising page or individual giving platform.",
+      "source_query": "hunter:w2026-08-30e:imr",
+      "meta": {
+        "tier": "C",
+        "role": "Founder and President",
+        "target_org": "International Medical Relief",
+        "evidence_url": "https://www.crunchbase.com/person/shauna-king-e3cd",
+        "linkedin_url": "https://www.linkedin.com/in/medicalmissiontrips/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Karla Prentiss",
+      "org_type": "individual",
+      "city": "Loveland",
+      "state": "CO",
+      "summary": "International Medical Relief — Vice President of Development & Sustainable Education",
+      "fit_score": 7,
+      "fit_reason": "Tier B: VP of Development & Sustainable Education with CFRE (Certified Fund Raising Executive) credential, indicating professional development/advancement expertise and primary responsibility for donor relations and fundraising strategy.",
+      "source_query": "hunter:w2026-08-30e:imr",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President of Development & Sustainable Education",
+        "target_org": "International Medical Relief",
+        "evidence_url": "https://www.adapt.io/contact/karla-prentiss/885163642",
+        "linkedin_url": "https://www.linkedin.com/in/karlaprentiss",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "International Medical Relief",
+      "website": "https://internationalmedicalrelief.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "headcount_est": 43,
+      "faith_orientation": "other_faith",
+      "evidence": "Colorado-based 501(c)(3) nonprofit founded 2002, EIN 46-0494595, headquarters 1151 Eagle Drive Suite 457 Loveland CO 80537. Global medical mission organization serving 92 countries with 750K+ patients served."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "International Medical Relief Loveland Colorado development staff board",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"International Medical Relief\" leadership board members names roles",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"International Medical Relief\" \"development\" OR \"advancement\" OR \"donor relations\" OR \"major gifts\" staff",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"International Medical Relief\" Loveland Colorado employee",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Shauna Vollmer King\" OR \"Shauna King\" \"International Medical Relief\" board director president",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"International Medical Relief\" IMR staff team members 2025 2026",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Karla Prentiss\" OR \"International Medical Relief\" board directors trustees officers",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Craig Ellsworth",
+      "reason_code": "platform_not_person",
+      "detail": "LinkedIn listed as Volunteer at International Medical Relief; insufficient evidence of staff position or personal fundraising page"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Minh Nguyen",
+      "reason_code": "platform_not_person",
+      "detail": "LinkedIn profile shows association with IMR but no staff role or employment status confirmed; role/department unclear"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Tanja Curtis-Thompson",
+      "reason_code": "platform_not_person",
+      "detail": "Referenced as Director in search results but insufficient evidence gathered to verify current status, role, or contact information"
+    }
+  ],
+  "needs_review": []
+}

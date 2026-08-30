@@ -1,0 +1,198 @@
+{
+  "wave_id": "w2026-08-30e",
+  "agent": "roster:feedingal",
+  "target_org": "Community Food Bank of Central Alabama",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Ginger Pegues",
+      "summary": "Community Food Bank of Central Alabama — Donor Relations Contact",
+      "fit_score": 7,
+      "fit_reason": "Direct donor relations role managing donor-advised funds and major gift programs; core development function",
+      "source_query": "hunter:w2026-08-30e:feedingal",
+      "meta": {
+        "tier": "B",
+        "role": "Donor Relations Contact",
+        "target_org": "Community Food Bank of Central Alabama",
+        "evidence_url": "https://feedingal.org/donor-advised-funds/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Sharon Haynes",
+      "summary": "Community Food Bank of Central Alabama — Director of Partner Engagement",
+      "fit_score": 6,
+      "fit_reason": "Director-level partner engagement role with potential fundraising/development responsibilities; partnership relationships often involve donor cultivation",
+      "source_query": "hunter:w2026-08-30e:feedingal",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Partner Engagement",
+        "target_org": "Community Food Bank of Central Alabama",
+        "evidence_url": "https://feedingal.org/leadership-and-board/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Nicole Williams",
+      "summary": "Community Food Bank of Central Alabama — Chief Executive Officer",
+      "fit_score": 6,
+      "fit_reason": "CEO with founding development background; started as first Director of Development (2020), promoted to Interim Executive Director (2022), now CEO. Highest strategic donor relationship authority",
+      "source_query": "hunter:w2026-08-30e:feedingal",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Executive Officer",
+        "target_org": "Community Food Bank of Central Alabama",
+        "evidence_url": "https://www.linkedin.com/in/nicole-williams-5b688513b/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Wayne Buckley",
+      "summary": "Community Food Bank of Central Alabama — Director of Finance",
+      "fit_score": 4,
+      "fit_reason": "Executive finance leadership; controls development budget and donor fund management, essential partner for grant and major gift operations",
+      "source_query": "hunter:w2026-08-30e:feedingal",
+      "meta": {
+        "tier": "C",
+        "role": "Director of Finance",
+        "target_org": "Community Food Bank of Central Alabama",
+        "evidence_url": "https://feedingal.org/leadership-and-board/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "David Wilson",
+      "summary": "Community Food Bank of Central Alabama — Board Chair",
+      "fit_score": 6,
+      "fit_reason": "Board Chair from UPS Healthcare; highest governance authority for donor strategy and major gift approvals; primary board-level fundraising leader",
+      "source_query": "hunter:w2026-08-30e:feedingal",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Community Food Bank of Central Alabama",
+        "evidence_url": "https://www.guidestar.org/profile/shared/94650123-86f6-42ae-891f-bfec8f5e4cc9",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Alyson Tucker",
+      "summary": "Community Food Bank of Central Alabama — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Board member from Alabama Power, major regional utility company; significant corporate donor influence and community connections",
+      "source_query": "hunter:w2026-08-30e:feedingal",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Community Food Bank of Central Alabama",
+        "evidence_url": "https://www.guidestar.org/profile/shared/94650123-86f6-42ae-891f-bfec8f5e4cc9",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Clyde Tisdale",
+      "summary": "Community Food Bank of Central Alabama — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Board member from Regions Bank, major regional financial institution; significant philanthropic authority and donor network access",
+      "source_query": "hunter:w2026-08-30e:feedingal",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Community Food Bank of Central Alabama",
+        "evidence_url": "https://www.guidestar.org/profile/shared/94650123-86f6-42ae-891f-bfec8f5e4cc9",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "David LeCompte",
+      "summary": "Community Food Bank of Central Alabama — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Board member from Savant Wealth Management; wealth advisory background indicates direct access to high-net-worth donors and major gift networks",
+      "source_query": "hunter:w2026-08-30e:feedingal",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Community Food Bank of Central Alabama",
+        "evidence_url": "https://www.guidestar.org/profile/shared/94650123-86f6-42ae-891f-bfec8f5e4cc9",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "David Bell",
+      "summary": "Community Food Bank of Central Alabama — Board Secretary",
+      "fit_score": 6,
+      "fit_reason": "Board Secretary; officer-level governance position with donor strategy and fiduciary responsibility",
+      "source_query": "hunter:w2026-08-30e:feedingal",
+      "meta": {
+        "tier": "C",
+        "role": "Board Secretary",
+        "target_org": "Community Food Bank of Central Alabama",
+        "evidence_url": "https://www.guidestar.org/profile/shared/94650123-86f6-42ae-891f-bfec8f5e4cc9",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "negatives": [
+    {
+      "query": "Community Food Bank of Central Alabama development director advancement staff",
+      "outcome": "Found job postings and generic staff roles; no current specific individual identified as Director of Development",
+      "reason_code": "platform_not_person"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Community Food Bank of Central Alabama development director advancement staff",
+      "outcome": "success",
+      "people_found": 3,
+      "notes": "Identified Nicole Williams (CEO, former Director of Development), identified board leadership page URL, references to Sharon Haynes and Wayne Buckley in leadership context"
+    },
+    {
+      "query": "\"Community Food Bank of Central Alabama\" philanthropy major gifts fundraising",
+      "outcome": "success",
+      "people_found": 1,
+      "notes": "Identified Ginger Pegues as donor relations contact; identified major funding programs (DAF, matching gifts, monthly giving)"
+    },
+    {
+      "query": "\"Community Food Bank of Central Alabama\" donor relations grants officer staff",
+      "outcome": "success",
+      "people_found": 1,
+      "notes": "Confirmed Ginger Pegues as donor relations contact (ext. 110); no specific grants officer identified"
+    },
+    {
+      "query": "Community Food Bank of Central Alabama Birmingham board of directors trustees chair",
+      "outcome": "success",
+      "people_found": 7,
+      "notes": "Identified David Wilson as Board Chair, multiple board members including Alyson Tucker, Anthony Allen, Clyde Tisdale, David Bell, David LeCompte, David Wood"
+    },
+    {
+      "query": "site:feedingal.org leadership board staff",
+      "outcome": "partial",
+      "people_found": 3,
+      "notes": "Leadership page exists but detailed staff roster not captured in search snippet; confirmed CEO title, Finance and Partner Engagement directors"
+    },
+    {
+      "query": "\"Community Food Bank of Central Alabama\" annual fund development coordinator fundraiser",
+      "outcome": "no_specific_people",
+      "people_found": 0,
+      "notes": "Found programs (peer-to-peer fund drive, monthly giving) but no specific coordinator names captured"
+    },
+    {
+      "query": "feedingal.org executive director CEO Nicole Williams operations",
+      "outcome": "success",
+      "people_found": 1,
+      "notes": "Confirmed Nicole Williams as CEO since 2022; identified Wayne Buckley (Finance), Sharon Haynes (Partner Engagement), and referenced open positions for Development Director"
+    },
+    {
+      "query": "\"Community Food Bank of Central Alabama\" board chairman David Wilson Alyson Tucker",
+      "outcome": "success",
+      "people_found": 2,
+      "notes": "Confirmed David Wilson as Board Chair, Alyson Tucker as board member; referenced additional board structure via GuideStar and CBI Insights"
+    }
+  ],
+  "crm_incumbent": null,
+  "summary": {
+    "tier_b_count": 2,
+    "tier_c_count": 7,
+    "total_people": 9,
+    "verdict_explanation": "Exhausted search capacity after 8 WebSearch queries. Found limited current Tier B development staff (only 2 individuals with identifiable names and development-related roles: Ginger Pegues in donor relations and Sharon Haynes in partner engagement). No current Director of Development specifically named in available search results (Nicole Williams held this role but is now CEO). Board membership capped at 5 requested individuals as per guidelines. Search results indicate organization structure exists for development positions but current individual staff names largely not captured in public search snippets."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "wave_id": "w2026-08-30e",
+  "agent": "roster:secondharvestmidtn",
+  "roster_verdict": "rostered",
+  "target_org": "Second Harvest Food Bank of Middle Tennessee",
+  "people": [
+    {
+      "org_name": "Gay Burden",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Middle Tennessee — Director of Development Operations",
+      "fit_score": 7,
+      "fit_reason": "Tier B development staff member leading philanthropic fundraising operations",
+      "source_query": "hunter:w2026-08-30e:secondharvestmidtn",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development Operations",
+        "target_org": "Second Harvest Food Bank of Middle Tennessee",
+        "evidence_url": "https://www.linkedin.com/in/gay-burden-7762aa55/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dick Brown",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Middle Tennessee — Sr. Director, Corporate Engagements & Grants",
+      "fit_score": 7,
+      "fit_reason": "Tier B development staff overseeing corporate partnerships and grants management",
+      "source_query": "hunter:w2026-08-30e:secondharvestmidtn",
+      "meta": {
+        "tier": "B",
+        "role": "Sr. Director, Corporate Engagements & Grants",
+        "target_org": "Second Harvest Food Bank of Middle Tennessee",
+        "evidence_url": "https://www.secondharvestmidtn.org/about-us/our-team/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nancy Keil",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Middle Tennessee — President and CEO",
+      "fit_score": 6,
+      "fit_reason": "Tier C executive leadership with prior 5-year role as Chief Development and Marketing Officer",
+      "source_query": "hunter:w2026-08-30e:secondharvestmidtn",
+      "meta": {
+        "tier": "C",
+        "role": "President and CEO",
+        "target_org": "Second Harvest Food Bank of Middle Tennessee",
+        "evidence_url": "https://www.linkedin.com/in/nancykeil/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jennifer Peters",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Middle Tennessee — Board Chair",
+      "fit_score": 6,
+      "fit_reason": "Tier C board leadership as Board Chair (October 2024 listing)",
+      "source_query": "hunter:w2026-08-30e:secondharvestmidtn",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Second Harvest Food Bank of Middle Tennessee",
+        "evidence_url": "https://www.nashvillepost.com/business/nonprofits/of-note-second-harvest-welcomes-board-members/article_38d4d670-87fb-11ef-9a33-3b9ec1d4ccc2.html",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nancy Youssef",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Middle Tennessee — Board Chair",
+      "fit_score": 6,
+      "fit_reason": "Tier C board leadership listed in FY23 audit; may be predecessor to current chair",
+      "source_query": "hunter:w2026-08-30e:secondharvestmidtn",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Second Harvest Food Bank of Middle Tennessee",
+        "evidence_url": "https://www.secondharvestmidtn.org/wp-content/uploads/2024/09/FY23-Second-Harvest-Food-Bank-Audit.pdf",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Second Harvest Food Bank of Middle Tennessee",
+      "website": "https://www.secondharvestmidtn.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Nonprofit hunger relief organization serving 46 counties in Middle and West Tennessee; founded 1978; salaried secular nonprofit with development operations"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Second Harvest Food Bank Middle Tennessee director of development advancement staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Second Harvest Food Bank\" Nashville Tennessee development officer donor relations",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Second Harvest Food Bank Middle Tennessee board members leadership team",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "secondharvestmidtn.org staff directory",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Gay Burden\" \"Second Harvest Food Bank\" Middle Tennessee development",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Second Harvest Food Bank Middle Tennessee \"board chair\" OR \"board treasurer\" Nashville",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Corporate Engagements\" \"Grants\" \"Second Harvest\" Nashville Tennessee",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Nancy Keil\" \"Second Harvest Food Bank\" CEO Nashville",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Jack Stell",
+      "reason_code": "already_in_crm",
+      "detail": "Already in DonorSend CRM as sponsorship contact"
+    }
+  ]
+}

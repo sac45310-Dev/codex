@@ -325,6 +325,59 @@ def _payload(rows):
     return json.dumps(rows).replace("'", "''")
 
 
+# Tier vocabulary and score bands. Agents drift on all three of these — waves
+# w2026-08-30c/d/e produced integer tiers (2/3), person names with the org
+# glued on ("Food Bank of North Alabama — Bobby Bozeman"), and 30 scores
+# outside their tier band in a single wave. Enforce mechanically rather than
+# hoping the prompt holds.
+TIER_ALIASES = {1: "A", 2: "B", 3: "C", "1": "A", "2": "B", "3": "C",
+                "a": "A", "b": "B", "c": "C"}
+TIER_BANDS = {"A": (7, 10), "B": (4, 7), "C": (4, 6)}
+
+
+def normalize_person(raw, target_org=None):
+    """Coerce one wave person record into the tier/score/name contract.
+
+    Returns (record, [notes]). Mutates nothing the caller still needs.
+    """
+    notes = []
+    meta = raw.get("meta")
+    if not isinstance(meta, dict):
+        meta = {}
+        raw["meta"] = meta
+
+    tier = meta.get("tier")
+    if tier in TIER_ALIASES:
+        meta["tier"] = TIER_ALIASES[tier]
+        notes.append(f"tier {tier!r} -> {meta['tier']}")
+    tier = meta.get("tier")
+
+    # An org-policy Tier A is weaker than a personal giving page: cap it.
+    if tier == "A" and meta.get("evidence_basis") == "org_policy":
+        if meta.get("confidence") not in ("medium", "low"):
+            meta["confidence"] = "medium"
+            notes.append("org_policy confidence -> medium")
+        if isinstance(raw.get("fit_score"), int) and raw["fit_score"] > 7:
+            raw["fit_score"] = 7
+            notes.append("org_policy score -> 7")
+
+    org = target_org or meta.get("target_org") or ""
+    name = str(raw.get("org_name") or "").strip()
+    for sep in (" \u2014 ", " - ", ": "):
+        if org and name.startswith(org + sep):
+            raw["org_name"] = name[len(org) + len(sep):].strip()
+            notes.append("stripped org prefix from name")
+            break
+
+    lo, hi = TIER_BANDS.get(tier, (1, 10))
+    score = raw.get("fit_score")
+    if isinstance(score, int) and not (lo <= score <= hi):
+        raw["fit_score"] = max(lo, min(hi, score))
+        notes.append(f"score {score} -> {raw['fit_score']} (tier {tier} band)")
+
+    return raw, notes
+
+
 def ingest_wave(directory, min_fit, out_dir, batch_size):
     """Ingest hunter wave output (tools/hunter/schemas/wave_output.schema.json).
 
@@ -342,6 +395,7 @@ def ingest_wave(directory, min_fit, out_dir, batch_size):
     """
     os.makedirs(out_dir, exist_ok=True)
     people, coverage, targets, negatives, review, verdicts = [], [], [], [], [], []
+    normalized = []  # (file, name, what was coerced) — reported in the manifest
     manifest = []
     for path in sorted(glob(os.path.join(directory, "*.json"))):
         try:
@@ -358,6 +412,9 @@ def ingest_wave(directory, min_fit, out_dir, batch_size):
             if isinstance(raw, dict):
                 raw.setdefault("org_type", "individual")
                 raw.setdefault("source_query", f"hunter:{wave_id}:{agent}")
+                raw, _fixes = normalize_person(raw, data.get("target_org"))
+                normalized.extend((os.path.basename(path), raw.get("org_name"), n)
+                                  for n in _fixes)
             rec = normalize(raw, path)
             if rec and rec["fit_score"] >= min_fit:
                 people.append(rec)
@@ -493,6 +550,8 @@ def ingest_wave(directory, min_fit, out_dir, batch_size):
         json.dump(review, open(os.path.join(out_dir, "needs_review.json"), "w"), indent=2)
 
     return {"agents": manifest, "unique_people": len(people), "batches": batches,
+            "normalizations": len(normalized),
+            "normalization_detail": normalized[:40],
             "coverage_rows": len(coverage), "orgs_discovered": len(targets),
             "negatives": len(negatives), "needs_review": len(review),
             "roster_verdicts": len(verdicts), "out_dir": out_dir}
