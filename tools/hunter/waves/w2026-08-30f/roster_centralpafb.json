@@ -1,0 +1,188 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:centralpafb",
+  "roster_verdict": "rostered",
+  "target_org": "Central Pennsylvania Food Bank",
+  "people": [
+    {
+      "org_name": "Matt Lane",
+      "org_type": "individual",
+      "summary": "Central Pennsylvania Food Bank — Chief Development Officer",
+      "city": "Harrisburg",
+      "state": "PA",
+      "fit_score": 9,
+      "fit_reason": "Tier B: Chief Development Officer leading fund development strategy and campaigns; core development function.",
+      "source_query": "hunter:w2026-08-30f:centralpafb",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Development Officer",
+        "target_org": "Central Pennsylvania Food Bank",
+        "evidence_url": "https://www.cpbj.com/central-pa-food-bank-names-new-leaders-to-fight-hunger/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joe Arthur",
+      "org_type": "individual",
+      "summary": "Central Pennsylvania Food Bank — VP Development",
+      "city": "Harrisburg",
+      "state": "PA",
+      "fit_score": 8,
+      "fit_reason": "Tier B: VP/Development Director; transitioning role but development-focused until retirement in 2028.",
+      "source_query": "hunter:w2026-08-30f:centralpafb",
+      "meta": {
+        "tier": "B",
+        "role": "VP/Development Director",
+        "target_org": "Central Pennsylvania Food Bank",
+        "evidence_url": "https://www.linkedin.com/in/joe-arthur-cpfb",
+        "linkedin_url": "https://www.linkedin.com/in/joe-arthur-cpfb",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Patricia Husic",
+      "org_type": "individual",
+      "summary": "Central Pennsylvania Food Bank — Board Secretary",
+      "city": "Harrisburg",
+      "state": "PA",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Board Secretary and Centric Bank President & CEO; major institutional connector with significant donor influence.",
+      "source_query": "hunter:w2026-08-30f:centralpafb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Secretary",
+        "target_org": "Central Pennsylvania Food Bank",
+        "evidence_url": "https://www.prnewswire.com/news-releases/central-pennsylvania-food-bank-appoints-centric-bank-president--ceo-patti-husic-to-board-of-directors-301453786.html",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "David Ark",
+      "org_type": "individual",
+      "summary": "Central Pennsylvania Food Bank — Board President",
+      "city": "Harrisburg",
+      "state": "PA",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Board President; chief governance role and organizational influencer.",
+      "source_query": "hunter:w2026-08-30f:centralpafb",
+      "meta": {
+        "tier": "C",
+        "role": "Board President",
+        "target_org": "Central Pennsylvania Food Bank",
+        "evidence_url": "https://www.centralpafoodbank.org/who-we-are/our-leaders/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Olivia Edwards",
+      "org_type": "individual",
+      "summary": "Central Pennsylvania Food Bank — Board Vice President",
+      "city": "Harrisburg",
+      "state": "PA",
+      "fit_score": 7,
+      "fit_reason": "Tier C: Board Vice President; governance leadership and donor connection.",
+      "source_query": "hunter:w2026-08-30f:centralpafb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Vice President",
+        "target_org": "Central Pennsylvania Food Bank",
+        "evidence_url": "https://www.centralpafoodbank.org/who-we-are/our-leaders/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Steven Merrill",
+      "org_type": "individual",
+      "summary": "Central Pennsylvania Food Bank — Board Treasurer",
+      "city": "Harrisburg",
+      "state": "PA",
+      "fit_score": 7,
+      "fit_reason": "Tier C: Board Treasurer; financial governance and institutional trust.",
+      "source_query": "hunter:w2026-08-30f:centralpafb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Treasurer",
+        "target_org": "Central Pennsylvania Food Bank",
+        "evidence_url": "https://www.centralpafoodbank.org/who-we-are/our-leaders/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Shila Ulrich",
+      "org_type": "individual",
+      "summary": "Central Pennsylvania Food Bank — Chief Executive Officer",
+      "city": "Harrisburg",
+      "state": "PA",
+      "fit_score": 8,
+      "fit_reason": "Tier C: CEO and board member; organizational leadership with MSW background in service and collaboration.",
+      "source_query": "hunter:w2026-08-30f:centralpafb",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Executive Officer",
+        "target_org": "Central Pennsylvania Food Bank",
+        "evidence_url": "https://www.centralpafoodbank.org/who-we-are/our-leaders/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Central Pennsylvania Food Bank",
+      "website": "https://www.centralpafoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "headcount_est": 50,
+      "faith_orientation": "secular",
+      "crm_incumbent": "Donor Perfect",
+      "evidence": "Secular hunger-relief nonprofit serving 27 counties in central PA; 30+ years operating; distributes 48M+ lbs food annually to 900+ agencies; uses Donor Perfect CRM for tracking donor interactions."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Central Pennsylvania Food Bank development director advancement",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Central Pennsylvania Food Bank Harrisburg staff leadership team",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Central Pennsylvania Food Bank major gifts donor relations",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Central Pennsylvania Food Bank\" board trustees directors",
+      "outcome": "found_people",
+      "people_found": 7
+    },
+    {
+      "kind": "query",
+      "value": "Central Pennsylvania Food Bank philanthropy fundraising",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:centralpafoodbank.org staff about team",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Ellen Min",
+      "reason_code": "platform_not_person",
+      "detail": "SVP/Chief Equity Officer - not development/advancement staff; equity/operations focus"
+    }
+  ],
+  "needs_review": []
+}

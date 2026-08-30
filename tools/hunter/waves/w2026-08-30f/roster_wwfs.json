@@ -1,0 +1,43 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:wwfs",
+  "roster_verdict": "rejected:search_budget_exhausted",
+  "target_org": "Wounded Warriors Family Support",
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Wounded Warriors Family Support staff development director Omaha",
+      "outcome": "dead",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Wounded Warriors Family Support\" leadership team Omaha Nebraska",
+      "outcome": "dead",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Wounded Warriors Family Support\" wwfs.org development fundraising staff",
+      "outcome": "dead",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "WWFS Staff - Unlocated",
+      "reason_code": "platform_not_person",
+      "detail": "Web search budget exhausted before roster hunt could complete. Session budget limit (200 WebSearch calls) was reached before searches for Wounded Warriors Family Support development staff could be executed."
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Wounded Warriors Family Support Roster Hunt",
+      "org": "Wounded Warriors Family Support",
+      "question": "Unable to perform required web searches due to exhausted session search budget. Requires new session or budget reset to hunt for development staff (Tier B: development, advancement, philanthropy, major gifts, donor relations, annual fund, individual giving roles).",
+      "evidence_url": "https://wwfs.org"
+    }
+  ]
+}

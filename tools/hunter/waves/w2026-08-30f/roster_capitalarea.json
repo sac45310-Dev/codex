@@ -1,0 +1,178 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:capitalarea",
+  "target_org": "Capital Area Food Bank",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Abby Paige Fenton",
+      "summary": "Capital Area Food Bank — Chief Advancement Officer",
+      "fit_score": 7,
+      "fit_reason": "Chief Advancement Officer leading external affairs portfolio including fundraising, communications, marketing, and community relations; joined November 2024",
+      "source_query": "hunter:w2026-08-30f:capitalarea",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Advancement Officer",
+        "target_org": "Capital Area Food Bank",
+        "evidence_url": "https://www.capitalareafoodbank.org/about-us/our-people/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Christel Hair",
+      "summary": "Capital Area Food Bank — Senior Director of Major Gifts & Planned Giving",
+      "fit_score": 6,
+      "fit_reason": "Senior Director of Major Gifts & Planned Giving, directly responsible for major donor acquisition and retention",
+      "source_query": "hunter:w2026-08-30f:capitalarea",
+      "meta": {
+        "tier": "B",
+        "role": "Senior Director of Major Gifts & Planned Giving",
+        "target_org": "Capital Area Food Bank",
+        "evidence_url": "https://www.glassdoor.com/job-listing/senior-director-of-major-giving-capital-area-food-bank-JV_IC1138213_KO0,31_KE32,54.htm",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Melanie Minzes",
+      "summary": "Capital Area Food Bank — Deputy Chief Development Officer",
+      "fit_score": 5,
+      "fit_reason": "Deputy Chief Development Officer; contact (202) 644-9856, mminzes@capitalareafoodbank.org",
+      "source_query": "hunter:w2026-08-30f:capitalarea",
+      "meta": {
+        "tier": "B",
+        "role": "Deputy Chief Development Officer",
+        "target_org": "Capital Area Food Bank",
+        "evidence_url": "https://www.capitalareafoodbank.org/about-us/our-people/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Radha Muthiah",
+      "summary": "Capital Area Food Bank — President & CEO",
+      "fit_score": 6,
+      "fit_reason": "President and CEO since 2018, overseeing all organizational strategy and external partnerships",
+      "source_query": "hunter:w2026-08-30f:capitalarea",
+      "meta": {
+        "tier": "C",
+        "role": "President & CEO",
+        "target_org": "Capital Area Food Bank",
+        "evidence_url": "https://www.capitalareafoodbank.org/blog/newsroom/press-releases/radha-muthiah-named-president-and-ceo-capital-area-food-bank/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rahsaan Bernard",
+      "summary": "Capital Area Food Bank — Board Chair",
+      "fit_score": 5,
+      "fit_reason": "Board Chair providing governance and strategic oversight",
+      "source_query": "hunter:w2026-08-30f:capitalarea",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Capital Area Food Bank",
+        "evidence_url": "https://sid-us.org/radha-muthiah",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Rev. Dr. Michael E. Bell, Sr.",
+      "summary": "Capital Area Food Bank — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Board member providing governance oversight and community leadership",
+      "source_query": "hunter:w2026-08-30f:capitalarea",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Capital Area Food Bank",
+        "evidence_url": "https://projects.propublica.org/nonprofits/organizations/521167581/201700379349300965/full",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Rita Carreon",
+      "summary": "Capital Area Food Bank — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Board member providing governance oversight",
+      "source_query": "hunter:w2026-08-30f:capitalarea",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Capital Area Food Bank",
+        "evidence_url": "https://projects.propublica.org/nonprofits/organizations/521167581/201700379349300965/full",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Sarah Tucker-Ray",
+      "summary": "Capital Area Food Bank — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Board member providing governance oversight",
+      "source_query": "hunter:w2026-08-30f:capitalarea",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Capital Area Food Bank",
+        "evidence_url": "https://projects.propublica.org/nonprofits/organizations/521167581/201700379349300965/full",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Capital Area Food Bank Washington DC development director staff",
+      "outcome": "found_people",
+      "people_found": [
+        "Melanie Minzes (Deputy Chief Development Officer)",
+        "Abby Paige Fenton (Chief Advancement Officer)"
+      ]
+    },
+    {
+      "query": "Capital Area Food Bank major gifts director advancement philanthropy",
+      "outcome": "found_people",
+      "people_found": [
+        "Christel Hair (Senior Director of Major Gifts & Planned Giving)",
+        "Abby Paige Fenton (Chief Advancement Officer)"
+      ]
+    },
+    {
+      "query": "Capital Area Food Bank donor relations executive director board",
+      "outcome": "found_people",
+      "people_found": [
+        "Radha Muthiah (President & CEO)",
+        "Abby Paige Fenton (Chief Advancement Officer)",
+        "Kelly Andreae (Senior Director, NOVA Region)"
+      ]
+    },
+    {
+      "query": "Capital Area Food Bank board members trustees Washington DC",
+      "outcome": "found_people",
+      "people_found": [
+        "Radha Muthiah (President & CEO)",
+        "Peter Schnall (Board Chairman)"
+      ]
+    },
+    {
+      "query": "Capital Area Food Bank Form 990 board directors officers",
+      "outcome": "found_people",
+      "people_found": [
+        "Radha Muthiah (President & CEO)",
+        "Peter Schnall (Board Chairman)"
+      ]
+    },
+    {
+      "query": "Radha Muthiah Peter Schnall Capital Area Food Bank leadership team board",
+      "outcome": "found_people",
+      "people_found": [
+        "Radha Muthiah (President & CEO)",
+        "Rahsaan Bernard (Board Chair)",
+        "Rev. Dr. Michael E. Bell, Sr. (Board Member)",
+        "Rita Carreon (Board Member)",
+        "Sarah Tucker-Ray (Board Member)",
+        "Seth Blackley (Board Member)",
+        "William Tatum (Board Member)",
+        "Sharon O'Brien (Audit Committee Chair)",
+        "Thomas Lofland (Secretary)"
+      ]
+    }
+  ]
+}

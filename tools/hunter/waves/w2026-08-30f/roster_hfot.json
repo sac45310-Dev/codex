@@ -1,0 +1,184 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:hfot",
+  "target_org": "Homes for Our Troops",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Chris Mitchell",
+      "summary": "Homes for Our Troops — Director of Development",
+      "fit_score": 9,
+      "fit_reason": "Tier B development staff; Director of Development leading major gifts and donor strategy for secular nonprofit veteran organization.",
+      "source_query": "hunter:w2026-08-30f:hfot",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development",
+        "target_org": "Homes for Our Troops",
+        "evidence_url": "https://www.donorsearch.net/resources/building-relationships-through-continuous-learning-homes-for-our-troops-case-study/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Suzanne Shaheen",
+      "summary": "Homes for Our Troops — Gifts Officer (Planned Giving)",
+      "fit_score": 8,
+      "fit_reason": "Tier B development staff; Gifts Officer handling estate gifts and planned giving, core advancement function.",
+      "source_query": "hunter:w2026-08-30f:hfot",
+      "meta": {
+        "tier": "B",
+        "role": "Gifts Officer",
+        "target_org": "Homes for Our Troops",
+        "evidence_url": "https://www.donorsearch.net/resources/building-relationships-through-continuous-learning-homes-for-our-troops-case-study/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bill Ivey",
+      "summary": "Homes for Our Troops — Executive Director",
+      "fit_score": 8,
+      "fit_reason": "Tier C executive; Retired Army infantryman (31 years) serving as Executive Director; key leadership role in secular veteran nonprofit.",
+      "source_query": "hunter:w2026-08-30f:hfot",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "Homes for Our Troops",
+        "evidence_url": "https://www.linkedin.com/in/bill-ivey-a944385/",
+        "linkedin_url": "https://www.linkedin.com/in/bill-ivey-a944385/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "John R. Allen",
+      "summary": "Homes for Our Troops — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C board member; Retired U.S. Marine Corps four-star general, former commander of ISAF in Afghanistan, major donor influence.",
+      "source_query": "hunter:w2026-08-30f:hfot",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Homes for Our Troops",
+        "evidence_url": "https://www.hfotusa.org/mission/board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Shelley Yarborough",
+      "summary": "Homes for Our Troops — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C board member; Retired Army Colonel with 43+ years defense/aerospace expertise, leadership advisory experience, board governance.",
+      "source_query": "hunter:w2026-08-30f:hfot",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Homes for Our Troops",
+        "evidence_url": "https://www.hfotusa.org/mission/board/shelley_yarborough/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Matthew F. Andresen",
+      "summary": "Homes for Our Troops — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Tier C board member; CEO of Headlands Technologies, major institutional investor with significant financial decision-making influence.",
+      "source_query": "hunter:w2026-08-30f:hfot",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Homes for Our Troops",
+        "evidence_url": "https://www.hfotusa.org/mission/board/andresen/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Fred Grein",
+      "summary": "Homes for Our Troops — Board Member & Outside General Counsel",
+      "fit_score": 6,
+      "fit_reason": "Tier C board member; Serves as outside general counsel since 2010, coordinates pro bono legal services, strategic governance role.",
+      "source_query": "hunter:w2026-08-30f:hfot",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member / Outside General Counsel",
+        "target_org": "Homes for Our Troops",
+        "evidence_url": "https://www.hfotusa.org/mission/board/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Homes for Our Troops",
+      "website": "https://www.hfotusa.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "headcount_est": 300,
+      "faith_orientation": "secular",
+      "crm_incumbent": "DonorSearch",
+      "evidence": "Publicly funded 501(c)(3) nonprofit; 6 Main St. Taunton, MA 02780; 201-500 employees; 400+ homes built since 2004; uses DonorSearch for prospect research."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Homes for Our Troops Taunton Massachusetts development staff advancement",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Homes for Our Troops\" board directors executives leadership",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "\"Homes for Our Troops\" director development fundraising major gifts donor",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Homes for Our Troops\" Marie Valentim Robert Ware annual fund individual giving",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Homes for Our Troops\" John Allen Shelley Yarborough Matthew Andresen board",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:hfotusa.org team staff director planned giving advancement",
+      "outcome": "found_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Tom Landwermeyer",
+      "reason_code": "already_in_crm",
+      "detail": "President/CEO; already in CRM roster"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Cynthia Baptiste",
+      "reason_code": "already_in_crm",
+      "detail": "Chief Financial Officer; already in CRM roster"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Marie Valentim",
+      "reason_code": "already_in_crm",
+      "detail": "Senior Corporate Partnership Manager; already in CRM roster"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Robert Ware",
+      "reason_code": "already_in_crm",
+      "detail": "Individual Giving Manager; already in CRM roster"
+    }
+  ]
+}

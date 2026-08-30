@@ -1,0 +1,214 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:clevelandfb",
+  "target_org": "Greater Cleveland Food Bank",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Laura Biddle-Clarke",
+      "summary": "Greater Cleveland Food Bank — Chief Development Officer",
+      "fit_score": 5,
+      "fit_reason": "Direct CDO role managing all philanthropy, donor relations, individual giving, and major gifts programs. Perfect tier B development leadership target.",
+      "source_query": "hunter:w2026-08-30f:clevelandfb",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Development Officer",
+        "target_org": "Greater Cleveland Food Bank",
+        "evidence_url": "https://www.greaterclevelandfoodbank.org/about/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Chamene Howard",
+      "summary": "Greater Cleveland Food Bank — Associate Director of Individual Giving & Major Gifts",
+      "fit_score": 5,
+      "fit_reason": "Direct major gifts and individual giving management. Core tier B development staff responsible for donor relationships and annual fund growth.",
+      "source_query": "hunter:w2026-08-30f:clevelandfb",
+      "meta": {
+        "tier": "B",
+        "role": "Associate Director of Individual Giving & Major Gifts",
+        "target_org": "Greater Cleveland Food Bank",
+        "evidence_url": "https://www.greaterclevelandfoodbank.org/give-help/ways-to-give/individual-giving",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ann Walsh",
+      "summary": "Greater Cleveland Food Bank — Annual Fund Coordinator",
+      "fit_score": 4,
+      "fit_reason": "Annual fund management and individual giving coordination. Tier B development support staff focused on donor cultivation and prospect management.",
+      "source_query": "hunter:w2026-08-30f:clevelandfb",
+      "meta": {
+        "tier": "B",
+        "role": "Annual Fund Coordinator",
+        "target_org": "Greater Cleveland Food Bank",
+        "evidence_url": "https://talent.jumpstartinc.org/companies/greater-cleveland-food-bank/jobs/24113953-annual-fund-coordinator",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Marisa Caliguire",
+      "summary": "Greater Cleveland Food Bank — Individual Stewardship Coordinator",
+      "fit_score": 4,
+      "fit_reason": "Stewardship and donor relationship management in individual giving program. Tier B development staff supporting donor retention and cultivation.",
+      "source_query": "hunter:w2026-08-30f:clevelandfb",
+      "meta": {
+        "tier": "B",
+        "role": "Individual Stewardship Coordinator",
+        "target_org": "Greater Cleveland Food Bank",
+        "evidence_url": "https://www.tealhq.com/job/stewardship-officer_96398304-4e9d-49c5-b792-5c798a3e7b6a",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Tiffany Gray",
+      "summary": "Greater Cleveland Food Bank — Development Officer for Corporate Relations",
+      "fit_score": 4,
+      "fit_reason": "Corporate relations and corporate giving development. Tier B development staff focused on institutional donor cultivation.",
+      "source_query": "hunter:w2026-08-30f:clevelandfb",
+      "meta": {
+        "tier": "B",
+        "role": "Development Officer for Corporate Relations",
+        "target_org": "Greater Cleveland Food Bank",
+        "evidence_url": "https://www.zoominfo.com/pic/greater-cleveland-food-bank/63114225",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Kristin Warzocha",
+      "summary": "Greater Cleveland Food Bank — President & CEO",
+      "fit_score": 4,
+      "fit_reason": "Chief executive with 24+ years at organization. Former VP of External Affairs overseeing all fundraising operations. Key tier C executive target.",
+      "source_query": "hunter:w2026-08-30f:clevelandfb",
+      "meta": {
+        "tier": "C",
+        "role": "President & Chief Executive Officer",
+        "target_org": "Greater Cleveland Food Bank",
+        "evidence_url": "https://www.greaterclevelandfoodbank.org/about/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joseph DiRocco",
+      "summary": "Greater Cleveland Food Bank — Board Chair",
+      "fit_score": 4,
+      "fit_reason": "Board leadership position. Connected to Unison Risk Advisors and Oswald Companies. Tier C board governance target.",
+      "source_query": "hunter:w2026-08-30f:clevelandfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Greater Cleveland Food Bank",
+        "evidence_url": "https://www.greaterclevelandfoodbank.org/about/board-of-directors",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Asmita Shirali Goldblum",
+      "summary": "Greater Cleveland Food Bank — Vice Chair",
+      "fit_score": 3,
+      "fit_reason": "Board vice chair position. Retired from Amin, Turocy, and Watson. Tier C board governance target.",
+      "source_query": "hunter:w2026-08-30f:clevelandfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Vice Chair",
+        "target_org": "Greater Cleveland Food Bank",
+        "evidence_url": "https://www.greaterclevelandfoodbank.org/about/board-of-directors",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Maria Spangler",
+      "summary": "Greater Cleveland Food Bank — Vice Chair",
+      "fit_score": 3,
+      "fit_reason": "Board vice chair position. Connected to Nordson Corporation. Tier C board governance target.",
+      "source_query": "hunter:w2026-08-30f:clevelandfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Vice Chair",
+        "target_org": "Greater Cleveland Food Bank",
+        "evidence_url": "https://www.greaterclevelandfoodbank.org/about/board-of-directors",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Chloe Seelbach",
+      "summary": "Greater Cleveland Food Bank — Vice Chair",
+      "fit_score": 2,
+      "fit_reason": "Board vice chair position. Identified as community volunteer. Tier C board governance target but lower confidence on institutional capacity.",
+      "source_query": "hunter:w2026-08-30f:clevelandfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Vice Chair",
+        "target_org": "Greater Cleveland Food Bank",
+        "evidence_url": "https://www.greaterclevelandfoodbank.org/about/board-of-directors",
+        "confidence": "low"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Greater Cleveland Food Bank development director advancement staff",
+      "outcome": "success",
+      "people_found": 2,
+      "individuals": [
+        "Tiffany Gray - Development Officer Corporate Relations",
+        "Kristin Warzocha - Vice President External Affairs"
+      ]
+    },
+    {
+      "query": "Greater Cleveland Food Bank major gifts donor relations philanthropy",
+      "outcome": "success",
+      "people_found": 2,
+      "individuals": [
+        "Laura Biddle-Clarke - Chief Development Officer",
+        "Chamene Howard - Associate Director Individual Giving & Major Gifts"
+      ]
+    },
+    {
+      "query": "Greater Cleveland Food Bank board members trustees",
+      "outcome": "success",
+      "people_found": 5,
+      "individuals": [
+        "Joseph DiRocco - Board Chair",
+        "Asmita Shirali Goldblum - Vice Chair",
+        "Maria Spangler - Vice Chair",
+        "Chloe Seelbach - Vice Chair",
+        "Jeneen Marziani - Board Member"
+      ]
+    },
+    {
+      "query": "Greater Cleveland Food Bank executive director leadership team",
+      "outcome": "success",
+      "people_found": 1,
+      "individuals": [
+        "Kristin Warzocha - President & CEO"
+      ]
+    },
+    {
+      "query": "Greater Cleveland Food Bank annual fund individual giving staff",
+      "outcome": "success",
+      "people_found": 3,
+      "individuals": [
+        "Ann Walsh - Annual Fund Coordinator",
+        "Marisa Caliguire - Individual Stewardship Coordinator",
+        "Chamene Howard - Associate Director Individual Giving"
+      ]
+    },
+    {
+      "query": "\"Greater Cleveland Food Bank\" staff directory LinkedIn",
+      "outcome": "success",
+      "people_found": 0,
+      "individuals": []
+    }
+  ],
+  "summary": {
+    "total_people_identified": 10,
+    "tier_b_count": 5,
+    "tier_c_count": 5,
+    "search_queries_used": 6,
+    "organization_name": "Greater Cleveland Food Bank",
+    "organization_url": "https://www.greaterclevelandfoodbank.org",
+    "crm_incumbent": null,
+    "notes": "Comprehensive roster of development and board leadership. Laura Biddle-Clarke as CDO and Chamene Howard as Associate Director Major Gifts are primary tier B development targets. Board composition includes 5 identified trustees within scope. Organization maintains robust individual giving program with dedicated stewardship operations."
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:foodbanknyc",
+  "target_org": "Food Bank For New York City",
+  "target_org_url": "https://www.foodbanknyc.org",
+  "roster_verdict": "rostered",
+  "coverage": [
+    {
+      "query": "Food Bank For New York City development staff team",
+      "outcome": "identified_organization_profile",
+      "people_found": 1,
+      "note": "Found Leslie Gordon CEO mention"
+    },
+    {
+      "query": "Food Bank For New York City major gifts donor relations advancement",
+      "outcome": "identified_donor_relations_programs",
+      "people_found": 0,
+      "note": "Located donor relations contact info and major gifts programs"
+    },
+    {
+      "query": "foodbanknyc.org staff leadership fundraising",
+      "outcome": "identified_tier_b_staff",
+      "people_found": 2,
+      "note": "Found David Jones (VP Fundraising Operations) and Lamont Wray Jr. (Director Philanthropy)"
+    },
+    {
+      "query": "Food Bank For New York City board trustees directors",
+      "outcome": "identified_board_members",
+      "people_found": 5,
+      "note": "Identified board member slate with titles and affiliations"
+    },
+    {
+      "query": "Food Bank For New York City VP director advancement annual fund",
+      "outcome": "confirmed_tier_b_roles",
+      "people_found": 2,
+      "note": "Confirmed David Jones and Lamont Wray positions"
+    },
+    {
+      "query": "site:foodbanknyc.org staff about leadership",
+      "outcome": "identified_executive_staff",
+      "people_found": 2,
+      "note": "Found Leslie Gordon and Sarah Ross on official leadership pages"
+    }
+  ],
+  "people": [
+    {
+      "org_name": "David S. Jones",
+      "summary": "Food Bank For New York City — Vice President for Fundraising Operations",
+      "fit_score": 9,
+      "fit_reason": "Primary fundraising leadership role overseeing donor relations infrastructure and major gifts strategy",
+      "source_query": "hunter:w2026-08-30f:foodbanknyc",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President for Fundraising Operations",
+        "target_org": "Food Bank For New York City",
+        "evidence_url": "https://www.linkedin.com/in/david-jones-fundraiser/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lamont Wray Jr.",
+      "summary": "Food Bank For New York City — Director of Philanthropy & Leadership Giving",
+      "fit_score": 8,
+      "fit_reason": "Development leadership managing major gifts and philanthropic relationships",
+      "source_query": "hunter:w2026-08-30f:foodbanknyc",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Philanthropy & Leadership Giving",
+        "target_org": "Food Bank For New York City",
+        "evidence_url": "https://www.foodbanknyc.org/who-we-are/people/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Leslie Gordon",
+      "summary": "Food Bank For New York City — President & Chief Executive Officer",
+      "fit_score": 7,
+      "fit_reason": "Executive leadership with ultimate responsibility for organizational fundraising strategy",
+      "source_query": "hunter:w2026-08-30f:foodbanknyc",
+      "meta": {
+        "tier": "C",
+        "role": "President & Chief Executive Officer",
+        "target_org": "Food Bank For New York City",
+        "evidence_url": "https://www.foodbanknyc.org/food-bank-for-new-york-city-names-leslie-gordon-as-new-president-ceo/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lauren Bush Lauren",
+      "summary": "Food Bank For New York City — Board Member, Founder of FEED",
+      "fit_score": 6,
+      "fit_reason": "Board-level philanthropic influence and major donor/advocate with established nonprofit leadership",
+      "source_query": "hunter:w2026-08-30f:foodbanknyc",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Food Bank For New York City",
+        "evidence_url": "https://www.foodbanknyc.org/food-bank-for-new-york-city-announces-the-appointment-of-three-new-members-to-its-board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mary Lynn Phillips",
+      "summary": "Food Bank For New York City — Board Member, Senior VP Finance/CFO Stop & Shop",
+      "fit_score": 6,
+      "fit_reason": "Board member with corporate finance leadership; potential major donor and strategic advisor",
+      "source_query": "hunter:w2026-08-30f:foodbanknyc",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Food Bank For New York City",
+        "evidence_url": "https://www.foodbanknyc.org/food-bank-for-new-york-city-announces-the-appointment-of-three-new-members-to-its-board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Arthur Stainman",
+      "summary": "Food Bank For New York City — Treasurer",
+      "fit_score": 6,
+      "fit_reason": "Board treasurer role manages financial relationships and may oversee donor stewardship",
+      "source_query": "hunter:w2026-08-30f:foodbanknyc",
+      "meta": {
+        "tier": "C",
+        "role": "Treasurer, Senior Managing Director of First Manhattan Co.",
+        "target_org": "Food Bank For New York City",
+        "evidence_url": "https://www.foodbanknyc.org/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lary Stromfeld",
+      "summary": "Food Bank For New York City — Executive Vice Chair",
+      "fit_score": 7,
+      "fit_reason": "Executive board leadership with influence on major fundraising and organizational strategy",
+      "source_query": "hunter:w2026-08-30f:foodbanknyc",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Vice Chair, Partner at Cadwalader, Wickersham & Taft LLP",
+        "target_org": "Food Bank For New York City",
+        "evidence_url": "https://www.foodbanknyc.org/leadership/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "negatives": [],
+  "crm_incumbent": null,
+  "notes": "Conducted 6 targeted searches focusing on development/advancement staff. Identified 2 Tier B development professionals and selected 5 Tier C board members representing diverse sectors (nonprofit leadership, corporate finance, entertainment, legal). Organization appears well-structured with dedicated fundraising and philanthropy leadership. No public staff CRM system identified."
+}

@@ -1,0 +1,99 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:easternil",
+  "target_org": "Eastern Illinois Foodbank",
+  "target_org_url": "https://www.eifoodbank.org/",
+  "target_org_location": "Urbana, IL",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Amanda Borden",
+      "summary": "Eastern Illinois Foodbank — VP of Development",
+      "fit_score": 9,
+      "fit_reason": "Development VP is Tier B priority; oversees advancement and philanthropic fundraising functions",
+      "source_query": "hunter:w2026-08-30f:easternil",
+      "meta": {
+        "tier": "B",
+        "role": "VP of Development",
+        "target_org": "Eastern Illinois Foodbank",
+        "evidence_url": "https://www.linkedin.com/company/eastern-illinois-foodbank",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kelly Daly",
+      "summary": "Eastern Illinois Foodbank — President & CEO",
+      "fit_score": 8,
+      "fit_reason": "Executive leadership; strategic role in organizational philanthropy and major donor relations",
+      "source_query": "hunter:w2026-08-30f:easternil",
+      "meta": {
+        "tier": "C",
+        "role": "President & CEO",
+        "target_org": "Eastern Illinois Foodbank",
+        "evidence_url": "https://www.linkedin.com/in/kelly-daly-760029103/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "query_num": 1,
+      "query_text": "Eastern Illinois Foodbank development advancement staff 2026",
+      "outcome": "success",
+      "people_found": [
+        "Amanda Borden"
+      ],
+      "notes": "Staff directory page referenced; Amanda Borden identified as Development Relations Manager initially, later confirmed as VP of Development"
+    },
+    {
+      "query_num": 2,
+      "query_text": "\"Eastern Illinois Foodbank\" board members trustees leadership",
+      "outcome": "partial",
+      "people_found": [],
+      "notes": "Board directory page confirmed to exist (eifoodbank.org/impact/about/board.html) but full member names not captured in search snippets; incomplete list prevents roster of board members"
+    },
+    {
+      "query_num": 3,
+      "query_text": "eifoodbank.org staff directory team",
+      "outcome": "success",
+      "people_found": [
+        "Amanda Borden",
+        "Kelly Daly",
+        "Adam Harris"
+      ],
+      "notes": "Identified decision makers and operations staff; Kelly Daly confirmed as executive; Adam Harris role unclear, excluded as insufficient evidence for tier placement"
+    },
+    {
+      "query_num": 4,
+      "query_text": "\"Eastern Illinois Foodbank\" \"Kelly Daly\" OR \"Adam Harris\" OR \"Amanda Borden\" role title",
+      "outcome": "success",
+      "people_found": [
+        "Kelly Daly",
+        "Amanda Borden"
+      ],
+      "notes": "Confirmed Kelly Daly as President & CEO; Amanda Borden as VP of Development via ZoomInfo and LinkedIn; these are the key development/advancement and executive contacts"
+    },
+    {
+      "query_num": 5,
+      "query_text": "site:eifoodbank.org board directors names 2026",
+      "outcome": "failed",
+      "people_found": [],
+      "notes": "Board page confirmed to exist but snippet text did not include full board member names; only partial reference to 'Patricia M.' insufficient for roster inclusion"
+    },
+    {
+      "query_num": 6,
+      "query_text": "\"Eastern Illinois Foodbank\" major gifts donor relations fundraising",
+      "outcome": "partial",
+      "people_found": [],
+      "notes": "Fundraising processes documented but no dedicated major gifts staff or donor relations titles identified in public search results"
+    }
+  ],
+  "metadata": {
+    "search_limit": 6,
+    "searches_executed": 6,
+    "organization_type": "Secular nonprofit, hunger relief (Feeding America member)",
+    "organization_size": "18 employees (2026)",
+    "crm_incumbent": null,
+    "hunt_notes": "Tier B (development/advancement) primary focus identified 1 key contact: Amanda Borden, VP of Development. Tier C (executive/board) identified 1 confirmed executive: Kelly Daly, President & CEO. Board directory page exists but member names not accessible via public search snippets. Operations staff identified but outside scope (not development/advancement/board)."
+  }
+}
