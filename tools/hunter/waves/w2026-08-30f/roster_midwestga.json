@@ -1,0 +1,95 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:midwestga",
+  "target_org": "Midwest Food Bank (Georgia)",
+  "roster_verdict": "rejected:too_institutional",
+  "reason": "Georgia is a division of national Midwest Food Bank with no separate EIN. Development/fundraising centralized at national level under Marcie Luhigo (Development Director). Local Georgia staff (Pat Burke, Elaine Poitevint, Lisa Ivaska) focus on operations, volunteers, and community relations. Giving routed to national organization.",
+  "people_found": [
+    {
+      "org_name": "Pat Burke",
+      "role": "Chief Operating Officer",
+      "tier": "C",
+      "summary": "Midwest Food Bank (Georgia) — Chief Operating Officer",
+      "fit_score": 0,
+      "fit_reason": "Executive/operational role, not development-focused. Tier C but rejected due to institutional structure.",
+      "source_query": "hunter:w2026-08-30f:midwestga",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Operating Officer",
+        "target_org": "Midwest Food Bank (Georgia)",
+        "evidence_url": "https://midwestfoodbank.org/blogs/mfb-georgia-hires-new-executive-director/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "negatives": [
+    {
+      "name": "Elaine Poitevint",
+      "role": "Volunteer Coordinator",
+      "reason": "Volunteer coordination, not development-focused"
+    },
+    {
+      "name": "Lisa Ivaska",
+      "role": "Community Relations Manager",
+      "reason": "Operations/community relations focused, not development-focused"
+    },
+    {
+      "name": "Marcie Luhigo",
+      "role": "Development Director",
+      "reason": "National-level development director, not Georgia division-specific; belongs to parent organization"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Midwest Food Bank Georgia division Peachtree City organizational structure",
+      "outcome": "Found location and division status but no organizational hierarchy details",
+      "people_found": 0,
+      "sources": [
+        "https://midwestfoodbank.org/locations/georgia/",
+        "https://www.gagives.org/organization/Midwest-Food-Bank-Georgia"
+      ]
+    },
+    {
+      "query": "Midwest Food Bank Georgia development director advancement staff",
+      "outcome": "Found Marcie Luhigo (Development Director for broader MFB) and Elaine Poitevint (Volunteer Coordinator)",
+      "people_found": 2,
+      "sources": [
+        "https://midwestfoodbank.org/news/blog/meet-mfbs-new-leaders-and-team-members",
+        "https://www.georgiatrend.com/2018/05/01/organizations-midwest-food-bank/"
+      ]
+    },
+    {
+      "query": "Midwest Food Bank Georgia location leadership staff",
+      "outcome": "Found Pat Burke (Executive Director/COO), Elaine Poitevint (Volunteer Coordinator), Eric Hodel (National CEO)",
+      "people_found": 2,
+      "sources": [
+        "https://midwestfoodbank.org/blogs/mfb-georgia-hires-new-executive-director/"
+      ]
+    },
+    {
+      "query": "Midwest Food Bank Georgia director manager Peachtree City 2026",
+      "outcome": "Confirmed Pat Burke as COO as of July 2026. No development-specific staff identified.",
+      "people_found": 0,
+      "sources": [
+        "https://thecitizen.com/2026/07/20/midwest-food-bank-georgia-launches-15-year-debt-free-campaign/"
+      ]
+    },
+    {
+      "query": "Midwest Food Bank Georgia major gifts donor relations philanthropy staff 2026",
+      "outcome": "Found Lisa Ivaska (Community Relations Manager). No major gifts or donor relations positions identified at Georgia division.",
+      "people_found": 1,
+      "sources": [
+        "https://thecitizen.com/2026/08/03/midwest-food-bank-georgia-launches-august-giving-grid-campaign-to-help-eliminate-remaining-building-debt/"
+      ]
+    },
+    {
+      "query": "Midwest Food Bank Georgia EIN separate nonprofit independent entity",
+      "outcome": "Confirmed Georgia referred to consistently as a 'division' established in 2011. No separate EIN or independent entity status found.",
+      "people_found": 0,
+      "sources": [
+        "https://midwestfoodbank.org/locations/georgia/",
+        "https://www.idealist.org/en/nonprofit/ca066b2f5d2f42028c9db278d9a17ba5-midwest-food-bank-of-georgia-peachtree-city"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "wave_id": "w2026-08-30e",
+  "agent": "roster:mmf",
+  "target_org": "Medical Missions Foundation",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Dan Mauer",
+      "summary": "Medical Missions Foundation — Executive Director",
+      "fit_score": 5,
+      "fit_reason": "Executive leadership with operational oversight; organization runs lean with 2-7 staff, minimal dedicated fundraising roles",
+      "source_query": "hunter:w2026-08-30e:mmf",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "Medical Missions Foundation",
+        "evidence_url": "https://www.medicalmissionsfoundation.org/contact-page/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sulamita Ortiz",
+      "summary": "Medical Missions Foundation — Mission Support Manager",
+      "fit_score": 4,
+      "fit_reason": "Operations and mission coordination; limited fundraising/development responsibility",
+      "source_query": "hunter:w2026-08-30e:mmf",
+      "meta": {
+        "tier": "C",
+        "role": "Mission Support Manager",
+        "target_org": "Medical Missions Foundation",
+        "evidence_url": "https://www.medicalmissionsfoundation.org/contact-page/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lisa Heath",
+      "summary": "Medical Missions Foundation — Board President",
+      "fit_score": 5,
+      "fit_reason": "Board leadership; physician (MD) with governance role; potential influence on organizational strategy",
+      "source_query": "hunter:w2026-08-30e:mmf",
+      "meta": {
+        "tier": "C",
+        "role": "Board President, MD",
+        "target_org": "Medical Missions Foundation",
+        "evidence_url": "https://www.medicalmissionsfoundation.org/contact-page/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Amanda Gray",
+      "summary": "Medical Missions Foundation — Board Secretary",
+      "fit_score": 4,
+      "fit_reason": "Board governance role with administrative/organizational responsibility",
+      "source_query": "hunter:w2026-08-30e:mmf",
+      "meta": {
+        "tier": "C",
+        "role": "Board Secretary",
+        "target_org": "Medical Missions Foundation",
+        "evidence_url": "https://www.medicalmissionsfoundation.org/contact-page/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jeff Blanchat",
+      "summary": "Medical Missions Foundation — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Board governance; potential influence on funding and organizational strategy",
+      "source_query": "hunter:w2026-08-30e:mmf",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Missions Foundation",
+        "evidence_url": "https://www.medicalmissionsfoundation.org/contact-page/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "negatives": [
+    {
+      "query": "Medical Missions Foundation development director advancement officer fundraising",
+      "reason_code": "no_development_roles_found"
+    },
+    {
+      "query": "site:medicalmissionsfoundation.org staff team",
+      "reason_code": "no_tier_b_development_staff"
+    },
+    {
+      "query": "Medical Missions Foundation Kansas 990 Form donor relations annual fund",
+      "reason_code": "no_dedicated_development_positions"
+    },
+    {
+      "query": "Medical Missions Foundation Lisa Heath Amanda Gray fundraising coordinator",
+      "reason_code": "board_members_not_development_focused"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Medical Missions Foundation Overland Park staff directory",
+      "outcome": "people_found",
+      "people_found": 2,
+      "notes": "Located Dan Mauer (ED) and Sulamita Ortiz (Mission Support Manager); 11 board members identified"
+    },
+    {
+      "query": "Medical Missions Foundation development director advancement officer fundraising",
+      "outcome": "no_results",
+      "people_found": 0,
+      "notes": "No dedicated development, fundraising, or advancement staff roles identified"
+    },
+    {
+      "query": "Medical Missions Foundation Overland Park board members trustees",
+      "outcome": "people_found",
+      "people_found": 11,
+      "notes": "11 board members total: Lisa Heath MD (President), Amanda Gray (Secretary), Tracy VanDyke, Kaleena Bauck, Jeff Blanchat, Troy Hartman, Jill Mankin, Megan Collins, Dustin Neel MD, Catherine Thompson, Peter Wilkinson"
+    },
+    {
+      "query": "Medical Missions Foundation development donor relations major gifts staff",
+      "outcome": "no_results",
+      "people_found": 0,
+      "notes": "No Tier B development/fundraising professional staff found"
+    },
+    {
+      "query": "site:medicalmissionsfoundation.org staff team",
+      "outcome": "people_found",
+      "people_found": 2,
+      "notes": "Only 2 staff members listed on official contact page"
+    },
+    {
+      "query": "Medical Missions Foundation Kansas 990 Form donor relations annual fund",
+      "outcome": "no_results",
+      "people_found": 0,
+      "notes": "No development positions identified; organization appears to rely on volunteer medical staff and board support"
+    },
+    {
+      "query": "Medical Missions Foundation Lisa Heath Amanda Gray fundraising coordinator",
+      "outcome": "people_found",
+      "people_found": 2,
+      "notes": "Lisa Heath (Board President), Amanda Gray (Board Secretary) - neither with development/fundraising titles"
+    },
+    {
+      "query": "medicalmissionsfoundation.org about us team leadership",
+      "outcome": "people_found",
+      "people_found": 2,
+      "notes": "Confirmed staff: Dan Mauer (ED), Sulamita Ortiz (Mission Support Manager); organization operates with minimal administrative staff"
+    }
+  ],
+  "summary": {
+    "tier_a_count": 0,
+    "tier_b_count": 0,
+    "tier_c_count": 7,
+    "total_rostered": 5,
+    "total_board_members_found": 11,
+    "board_records_returned": 3,
+    "key_finding": "Medical Missions Foundation operates with minimal development/fundraising staff. Organization has 2 full-time equivalent staff (ED + Mission Support Manager) with no dedicated development, donor relations, advancement, or major gifts roles. 11 board members identified, with top leadership being Lisa Heath MD (President) and Amanda Gray (Secretary). Organization relies primarily on volunteer medical professionals for mission delivery and board members for governance/strategy."
+  }
+}

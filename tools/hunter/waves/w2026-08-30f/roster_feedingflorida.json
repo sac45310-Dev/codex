@@ -1,0 +1,92 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:feedingflorida",
+  "target_org": "Feeding Florida",
+  "roster_verdict": "exhausted",
+  "people": [],
+  "negatives": [
+    {
+      "org_name": "Melanie",
+      "role": "Director of Operations, Feeding Florida",
+      "reason": "partial_name_only",
+      "note": "Only first name found in search results; full name required"
+    },
+    {
+      "org_name": "Taylor",
+      "role": "Director of External Affairs, Feeding Florida",
+      "reason": "partial_name_only",
+      "note": "Only first name found in search results; full name required"
+    },
+    {
+      "org_name": "Richard LeBer",
+      "role": "Board President, Feeding Florida Board of Directors",
+      "reason": "member_organization_staff",
+      "note": "CEO of Harry Chapin Food Bank (member organization), not Feeding Florida's own board"
+    },
+    {
+      "org_name": "Susan King",
+      "role": "Treasurer, Feeding Florida Board of Directors",
+      "reason": "member_organization_staff",
+      "note": "CEO of Feeding Northeast Florida (member organization), not Feeding Florida's own board"
+    },
+    {
+      "org_name": "Sandra Frank",
+      "role": "Past President, Feeding Florida Board of Directors",
+      "reason": "member_organization_staff",
+      "note": "CEO of All Faiths Food Bank (member organization), not Feeding Florida's own board"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Feeding Florida staff directory leadership team feedingflorida.org",
+      "outcome": "found_people",
+      "people_found": [
+        "Robin Safley (Executive Director - already in CRM, excluded)"
+      ],
+      "evidence_url": "https://www.feedingflorida.org/feeding-florida/staff-board"
+    },
+    {
+      "query": "Feeding Florida director of development fundraising grants feedingflorida.org",
+      "outcome": "no_people",
+      "people_found": [],
+      "note": "No specific Director of Development or development staff found"
+    },
+    {
+      "query": "Feeding Florida board members trustees board of directors",
+      "outcome": "found_people",
+      "people_found": [
+        "Richard LeBer (Board President - CEO of member bank)",
+        "Susan King (Treasurer - CEO of member bank)",
+        "Sandra Frank (Past President - CEO of member bank)"
+      ],
+      "evidence_url": "https://www.feedingflorida.org/feeding-florida/staff-board",
+      "note": "Board composed of member food bank CEOs, not Feeding Florida's own independent board"
+    },
+    {
+      "query": "\"Feeding Florida\" staff advancement philanthropy donor relations",
+      "outcome": "no_people",
+      "people_found": [],
+      "note": "No advancement or donor relations staff at Feeding Florida found"
+    },
+    {
+      "query": "\"Feeding Florida\" executive director president CEO senior staff",
+      "outcome": "found_people",
+      "people_found": [
+        "Robin Safley (Executive Director - already in CRM, excluded)"
+      ],
+      "evidence_url": "https://www.linkedin.com/in/robinsafley/"
+    },
+    {
+      "query": "Feeding Florida nonprofit staff team leadership Jacksonville",
+      "outcome": "offtopic",
+      "people_found": [],
+      "note": "Results focused on member bank Feeding Northeast Florida, not Feeding Florida"
+    }
+  ],
+  "analysis": {
+    "org_structure": "Feeding Florida is a lean network/association organization (~29 employees) that coordinates 12 member food banks across Florida. Board structure is composed of CEOs from member food banks serving in representative capacity, not independent board governance.",
+    "tier_b_finding": "No Tier B development staff found. No Development Director, Advancement Officer, Major Gifts Officer, Grants Officer, or Donor Relations Coordinator identified with complete names.",
+    "tier_c_finding": "Board positions held by member food bank representatives; no independent board members identified. No Feeding Florida-specific executive staff beyond Executive Director.",
+    "conclusion": "Exhaustive search of 6 queries found core leadership (Executive Director Robin Safley - already rostered) and operational staff with only partial names (Melanie, Taylor), but no additional qualifying Tier B development or independent Tier C board members meeting the requirement of 'REAL NAMED INDIVIDUAL' with complete names and Feeding Florida-specific roles."
+  }
+}

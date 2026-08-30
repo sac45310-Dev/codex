@@ -1,0 +1,162 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:centralil",
+  "roster_verdict": "exhausted",
+  "target_org": "Central Illinois Foodbank",
+  "people": [
+    {
+      "org_name": "Chloe Lucca",
+      "org_type": "individual",
+      "summary": "Central Illinois Foodbank — Development Director",
+      "fit_score": 9,
+      "fit_reason": "Tier B development staff: Development Director managing fundraising, major gifts, and planned giving; direct contact publicly listed (clucca@centralilfoodbank.org, ext. 226).",
+      "source_query": "hunter:w2026-08-30f:centralil",
+      "meta": {
+        "tier": "B",
+        "role": "Development Director",
+        "target_org": "Central Illinois Foodbank",
+        "evidence_url": "https://centralilfoodbank.org/about-us/meet-the-team/",
+        "email": "clucca@centralilfoodbank.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Pam Molitoris",
+      "org_type": "individual",
+      "city": "Springfield",
+      "state": "IL",
+      "summary": "Central Illinois Foodbank — Executive Director",
+      "fit_score": 8,
+      "fit_reason": "Tier C executive: Executive Director named 2018 Not-for-Profit Business Director of the Year; sets organizational strategic direction and donor relationships.",
+      "source_query": "hunter:w2026-08-30f:centralil",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "Central Illinois Foodbank",
+        "evidence_url": "https://centralilfoodbank.org/Blog/Posts/26/News/2018/6/Pam-Molitoris-named-Notforprofit-Business-Director-of-the-Year/blog-post/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jane Kiel",
+      "org_type": "individual",
+      "summary": "Central Illinois Foodbank — Finance Director",
+      "fit_score": 6,
+      "fit_reason": "Tier C operational leadership: Finance Director managing organizational finances and resource allocation; secondary tier but C-level.",
+      "source_query": "hunter:w2026-08-30f:centralil",
+      "meta": {
+        "tier": "C",
+        "role": "Finance Director",
+        "target_org": "Central Illinois Foodbank",
+        "evidence_url": "https://centralilfoodbank.org/about-us/meet-the-team/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kevin Mackiney",
+      "org_type": "individual",
+      "summary": "Central Illinois Foodbank — Operations Director",
+      "fit_score": 6,
+      "fit_reason": "Tier C operational leadership: Operations Director managing organizational infrastructure and donor partner coordination.",
+      "source_query": "hunter:w2026-08-30f:centralil",
+      "meta": {
+        "tier": "C",
+        "role": "Operations Director",
+        "target_org": "Central Illinois Foodbank",
+        "evidence_url": "https://centralilfoodbank.org/about-us/meet-the-team/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Central Illinois Foodbank",
+      "website": "https://centralilfoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "headcount_est": 12,
+      "faith_orientation": "secular",
+      "evidence": "Established 1982 by coalition of churches; operates as secular hunger-relief organization; distributes 8.5-9M pounds annually; serves 21-county region; 4-star Charity Navigator rating; member Feeding America."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Central Illinois Foodbank Springfield development director staff",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Central Illinois Foodbank advancement philanthropy donor relations",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Central Illinois Foodbank\" leadership team management",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Central Illinois Foodbank major gifts annual fund fundraising",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Central Illinois Foodbank board trustees directors",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:centralilfoodbank.org staff team about leadership",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Wes Ridgeway",
+      "reason_code": "platform_not_person",
+      "detail": "Program Manager (operations/programs focus, not development)"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Karleen Wagoner",
+      "reason_code": "platform_not_person",
+      "detail": "Food Acquisition Manager (operations/sourcing, not development)"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Trent Rossi",
+      "reason_code": "platform_not_person",
+      "detail": "Program Coordinator (programs, not development)"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Meghan Allen",
+      "reason_code": "platform_not_person",
+      "detail": "Program Coordinator (programs, not development)"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Alexis Johnson",
+      "reason_code": "platform_not_person",
+      "detail": "Community Engagement Specialist (community relations, not development/fundraising)"
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Board Members (General)",
+      "org": "Central Illinois Foodbank",
+      "question": "Complete board member roster unavailable; board listing page exists but content not retrievable via web search.",
+      "evidence_url": "https://centralilfoodbank.org/about-us/meet-our-board/",
+      "notes": "Search results confirmed board page exists but specific names could not be extracted. Small nonprofit may limit public board disclosure."
+    }
+  ]
+}

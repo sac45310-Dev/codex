@@ -1,0 +1,385 @@
+{
+  "wave_id": "pilot-2026-08-29",
+  "agent": "roster:fellowship-international-mission",
+  "target_org": "Fellowship International Mission",
+  "roster_verdict": "exhausted:limited_public_directory",
+  "people": [
+    {
+      "org_name": "Paul Barreca",
+      "org_type": "individual",
+      "website": "",
+      "city": "Allentown",
+      "state": "PA",
+      "summary": "Fellowship International Mission — General Director/CEO (eighth director since 2017)",
+      "fit_score": 9,
+      "fit_reason": "Tier B: Executive leadership of FIM; former pastor for 33 years in NJ, PA, and MI",
+      "meta": {
+        "tier": "B",
+        "role": "General Director/CEO",
+        "target_org": "Fellowship International Mission",
+        "evidence_url": "https://www.fim.org/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jon Mahar",
+      "org_type": "individual",
+      "website": "https://www.toaministries.com/about",
+      "city": "",
+      "state": "",
+      "summary": "Fellowship International Mission — Senior Missionary in Japan since 1974, founder of Toa Ministries (Bible study translation)",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Senior FIM missionary with 50+ years in Japan; leads church planting, youth/college outreach; personal support raising through FIM account",
+      "meta": {
+        "tier": "A",
+        "role": "Senior Missionary, Japan",
+        "target_org": "Fellowship International Mission",
+        "evidence_url": "https://www.zoominfo.com/p/Jon-Mahar/7594134692",
+        "donation_page": "https://www.fim.org/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mitsue Mahar",
+      "org_type": "individual",
+      "website": "https://www.toaministries.com/about",
+      "city": "",
+      "state": "",
+      "summary": "Fellowship International Mission — Senior Missionary in Japan (Fukushima native), co-leader of Toa Ministries",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Senior FIM missionary with Jon Mahar; Bible translation and discipleship work in Japan; Prairie Bible Institute graduate",
+      "meta": {
+        "tier": "A",
+        "role": "Senior Missionary, Japan",
+        "target_org": "Fellowship International Mission",
+        "evidence_url": "https://www.toaministries.com/about",
+        "donation_page": "https://www.fim.org/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Robert Martin",
+      "org_type": "individual",
+      "website": "https://www.fim.org/explore/gospel-stories/welcome-robert-martin-japan/",
+      "city": "",
+      "state": "",
+      "summary": "Fellowship International Mission — Missionary in Japan working alongside Jon and Mitsue Mahar",
+      "fit_score": 8,
+      "fit_reason": "Tier A: FIM missionary in Japan (recently welcomed); church planting, youth outreach, college ministry",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary, Japan",
+        "target_org": "Fellowship International Mission",
+        "evidence_url": "https://www.fim.org/explore/gospel-stories/welcome-robert-martin-japan/",
+        "donation_page": "https://www.fim.org/give/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Amy Jibilian",
+      "org_type": "individual",
+      "website": "",
+      "city": "Allentown",
+      "state": "PA",
+      "summary": "Fellowship International Mission — Chief Financial Officer (joined 2014)",
+      "fit_score": 6,
+      "fit_reason": "Tier B: FIM CFO; Lehigh University BS; French Studies (Université de Poitiers); passionate about missionary equipping",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Financial Officer",
+        "target_org": "Fellowship International Mission",
+        "evidence_url": "https://www.zoominfo.com/p/Amy-Jibilian/2660700616",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "David Willson",
+      "org_type": "individual",
+      "website": "",
+      "city": "Allentown",
+      "state": "PA",
+      "summary": "Fellowship International Mission — HR & Administrative Associate",
+      "fit_score": 5,
+      "fit_reason": "Tier B: FIM staff supporting human resources and administrative functions",
+      "meta": {
+        "tier": "B",
+        "role": "HR & Administrative Associate",
+        "target_org": "Fellowship International Mission",
+        "evidence_url": "https://www.zoominfo.com/p/David-Willson/12174405323",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gary Butler",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/gary-butler-2a178628",
+      "city": "Allentown",
+      "state": "PA",
+      "summary": "Fellowship International Mission — Director of Mobilization",
+      "fit_score": 6,
+      "fit_reason": "Tier B: FIM staff leadership in missionary identification, recruitment, and onboarding",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Mobilization",
+        "target_org": "Fellowship International Mission",
+        "evidence_url": "https://www.linkedin.com/in/gary-butler-2a178628",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Francisco de Souza",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/francisco-de-souza-02166215/",
+      "city": "Allentown",
+      "state": "PA",
+      "summary": "Fellowship International Mission — Staff (former FIM missionaries in Brazil; joined FIM home office 1999)",
+      "fit_score": 5,
+      "fit_reason": "Tier B: FIM staff with international missionary background; Westminster Theological Seminary education; described as proactive and visionary for world evangelism",
+      "meta": {
+        "tier": "B",
+        "role": "Staff",
+        "target_org": "Fellowship International Mission",
+        "evidence_url": "https://www.linkedin.com/in/francisco-de-souza-02166215/",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Steve Wilt",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/steve-wilt-18532723/",
+      "city": "",
+      "state": "",
+      "summary": "Fellowship International Mission — Board member (1994+), General Director for ~16 years (before 2017)",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Historical FIM board member and former executive leadership; now focuses on mobilization in southeastern US colleges/universities",
+      "meta": {
+        "tier": "C",
+        "role": "Former General Director, Board Member",
+        "target_org": "Fellowship International Mission",
+        "evidence_url": "https://www.linkedin.com/in/steve-wilt-18532723/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Hal MacBain",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Fellowship International Mission — First chairman of Board (historical, organization origins)",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Historical board founder role; involved in FIM's establishment from Foreign Missions Board origins",
+      "meta": {
+        "tier": "C",
+        "role": "First Board Chairman (historical)",
+        "target_org": "Fellowship International Mission",
+        "evidence_url": "https://www.fellowship.ca/FellowshipInternationalHistory",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Fellowship International Mission missionaries Allentown",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:fim.org missionaries directory",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Fellowship International Mission\" \"Paul Barreca\" staff",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "FIM missionaries list site:fim.org",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Fellowship International Mission\" board members directors",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "FIM \"our missionaries\" field staff pages",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Jon Mahar\" \"Robert Martin\" \"John McMath\" \"Oscar Mata\" FIM missionaries",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "FIM give.fim.org donation designations missionaries",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "FIM missionaries Brazil India Mexico France Germany Greece",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Fellowship International Mission\" prayer letter newsletter missionaries",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"Robert Martin\" FIM Japan missionary",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"John McMath\" \"Donna McMath\" FIM missionaries",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Jon Mahar\" \"Mitsue Mahar\" FIM missionaries Japan",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Oscar Mata\" \"Jenny Mata\" FIM missionaries Mexico",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "FIM staff directory \"Gary Butler\" \"Amy Jibilian\" \"David Willson\"",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "FIM \"Francisco de Souza\" Brazil missionaries staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "FIM LinkedIn fellowship international mission missionaries",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Fellowship International Mission\" board chairman president 2024 2025 2026",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"serving with Fellowship International Mission\" church missionaries",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "FIM missionaries Italy Philippines \"current opportunities\"",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "FIM fellowship international mission ZoomInfo employee directory staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Steve Wilt\" FIM \"General Director\" fellowship international mission",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "FIM missionary \"Gary Butler\" \"Director Mobilization\" fellowship",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Hal MacBain\" FIM \"fellowship international mission\" chairman",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Ben Porter\" \"Dan Baetz\" \"David Marttunen\" \"Richard Flemming\" FIM board",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "FIM missionaries news prayer request 2025 2026",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Fellowship International Mission\" board of directors 2026 members list",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "search": "John & Donna McMath listed in FIM prayer update pages and Italy/Philippines work",
+      "note": "Mentioned in search results as working with Filipino churches and Italy, but could not confirm clear FIM affiliation or find specific donation pages/designation info"
+    },
+    {
+      "search": "Oscar & Jenny Mata mentioned as FIM missionaries in Mexico",
+      "note": "Referenced in FIM pray-for-missionaries content but could not locate detailed information or confirmation pages"
+    },
+    {
+      "search": "Current FIM board members list for 2026",
+      "note": "FIM board of directors list not publicly indexed or available through web searches; only historical directors confirmed"
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "John & Donna McMath",
+      "note": "Mentioned in FIM resources and prayer updates, cited as teaching Filipino churches with Italy/Philippines involvement. Search results unclear about FIM employment status vs. partnership. Needs confirmation of tier/role.",
+      "potential_tier": "A"
+    },
+    {
+      "name": "Oscar & Jenny Mata",
+      "note": "Mentioned in FIM pray-for-missionaries page in association with Mexico, but specific role/designation unclear from available search results.",
+      "potential_tier": "A"
+    },
+    {
+      "name": "Ben Porter, Dan Baetz, David Marttunen, Richard Flemming, Bob Holmes",
+      "note": "Noted as historical FIM board members/directors in early/mid period. May be retired/inactive. Status and current contact information unclear.",
+      "potential_tier": "C"
+    }
+  ],
+  "notes": "FIM does not maintain a publicly searchable missionaries directory. Roster compiled from: staff/leadership pages, ZoomInfo/LinkedIn profiles, news mentions, pray-for-missionaries pages, and giving pages. Limited current board member information available via public web search. Many missionaries operate independently through personal support-raising with their Key Accountability Partner (KAP) churches, making individual discovery difficult. FIM org size per web sources: 11-50 employees (home office staff only; does not reflect global missionary count). CRM incumbent: Not determined from public sources."
+}

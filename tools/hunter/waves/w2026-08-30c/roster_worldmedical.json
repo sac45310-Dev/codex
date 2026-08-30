@@ -1,0 +1,108 @@
+{
+  "wave_id": "w2026-08-30c",
+  "agent": "roster:worldmedical",
+  "target_org": "World Medical Mission",
+  "roster_verdict": "limited_roster:program_structure",
+  "summary": "World Medical Mission functions as a program/department of Samaritan's Purse rather than as an independent organization. Staff identified are Samaritan's Purse employees. Development functions appear to be centralized at organization level. Roster constrained to identified individuals with public roles.",
+  "people": [
+    {
+      "org_name": "Lance Plyler",
+      "summary": "World Medical Mission — Chief Medical Officer (Samaritan's Purse)",
+      "fit_score": 6,
+      "fit_reason": "Executive leadership in medical division; no evidence of personal fundraising or support-raising typical of tier A participants. Role is organizational/administrative rather than advancement/development.",
+      "source_query": "hunter:w2026-08-30c:worldmedical",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Medical Officer",
+        "target_org": "World Medical Mission",
+        "evidence_url": "https://www.samaritanspurse.org/article/world-medical-mission-strengthens-christian-hospitals-across-the-globe/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "David Bucklin",
+      "summary": "World Medical Mission — Assistant Director, Technical Support Department",
+      "fit_score": 4,
+      "fit_reason": "Technical department leadership; no evidence of development/donor relations responsibilities or personal fundraising activities. Role is operational/technical.",
+      "source_query": "hunter:w2026-08-30c:worldmedical",
+      "meta": {
+        "tier": "C",
+        "role": "Assistant Director, Technical Support Department",
+        "target_org": "World Medical Mission",
+        "evidence_url": "https://1technation.com/department-of-the-month-samaritans-purse-world-medical-mission-technical-support-department/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Monte Oitker",
+      "summary": "World Medical Mission — Assistant Supervisor, Technical Support Department",
+      "fit_score": 3,
+      "fit_reason": "Technical support staff in biomedical/equipment role. No evidence of development responsibilities, leadership tier responsibilities, or personal fundraising. Limited fit for roster.",
+      "source_query": "hunter:w2026-08-30c:worldmedical",
+      "meta": {
+        "tier": "C",
+        "role": "Assistant Supervisor, Technical Support Department",
+        "target_org": "World Medical Mission",
+        "evidence_url": "https://1technation.com/department-of-the-month-samaritans-purse-world-medical-mission-technical-support-department/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "negatives": [
+    {
+      "reason": "No publicly available directory or staff list for World Medical Mission leadership; organization functions as department within Samaritan's Purse",
+      "reason_code": "organizational_structure"
+    },
+    {
+      "reason": "No identified development/advancement/donor relations staff with public profiles for World Medical Mission specifically; development functions appear centralized at Samaritan's Purse organizational level",
+      "reason_code": "function_not_visible"
+    },
+    {
+      "reason": "Post-Residency Program participants are self-funded individual physicians rather than staff; no coordinator or program director names publicly listed",
+      "reason_code": "participant_not_staff"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "World Medical Mission staff leadership Samaritan's Purse",
+      "outcome": "General organizational information; identified David Bucklin and Monte Oitker in Technical Support",
+      "people_found": 2
+    },
+    {
+      "query": "World Medical Mission director physician medical director Samaritan's Purse 2024 2025",
+      "outcome": "No specific leadership directory returned; general program information",
+      "people_found": 0
+    },
+    {
+      "query": "\"World Medical Mission\" \"Post-Residency Program\" director coordinator fundraising",
+      "outcome": "Identified Lance Plyler as WMM director (now Chief Medical Officer); Post-Residency Program structure described but no coordinator name found",
+      "people_found": 1
+    },
+    {
+      "query": "\"Lance Plyler\" \"World Medical Mission\" Samaritan's Purse",
+      "outcome": "Confirmed Lance Plyler as Chief Medical Officer at Samaritan's Purse; previously Director of World Medical Mission; extensive organizational leadership history",
+      "people_found": 1
+    },
+    {
+      "query": "World Medical Mission Samaritan's Purse development advancement donor relations staff",
+      "outcome": "No specific development staff identified; general volunteer support information; no development department staff listed",
+      "people_found": 0
+    },
+    {
+      "query": "\"World Medical Mission\" staff directory organizational leadership contact",
+      "outcome": "No staff directory available; direct contact information for general inquiries provided",
+      "people_found": 0
+    },
+    {
+      "query": "\"David Bucklin\" \"Monte Oitker\" \"World Medical Mission\" technical biomedical",
+      "outcome": "Confirmed Technical Support Department structure and personnel; 22-person team composition detailed",
+      "people_found": 2
+    },
+    {
+      "query": "World Medical Mission board members leadership physician volunteers Post-Residency",
+      "outcome": "No board members or Post-Residency director identified; general program description only",
+      "people_found": 0
+    }
+  ],
+  "research_notes": "World Medical Mission is the medical arm of Samaritan's Purse, operating as a program/department rather than independent entity. Staff identified are Samaritan's Purse employees. Significant structural limitation: Development and organizational advancement functions are not publicly visible at the World Medical Mission level—they appear to be centralized at the Samaritan's Purse organizational level. Post-Residency Program places individual physicians who raise personal support, but program coordinators/directors are not publicly named. Technical Support Department is well-documented with 22 staff members, but these are operational roles rather than development/advancement positions of interest to donor research."
+}

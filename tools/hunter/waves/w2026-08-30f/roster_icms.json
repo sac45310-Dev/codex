@@ -1,0 +1,80 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:icms",
+  "roster_verdict": "exhausted",
+  "target_org": "International Christian Mission Services",
+  "people": [
+    {
+      "org_name": "Gary Janzen",
+      "summary": "International Christian Mission Services — Executive Director",
+      "fit_score": 3,
+      "fit_reason": "Tier C: Executive Director/senior leadership, not development-focused. Founded ICMS 2005.",
+      "source_query": "hunter:w2026-08-30f:icms",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "International Christian Mission Services",
+        "evidence_url": "https://www.icms.org/contactGary",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "International Christian Mission Services",
+      "website": "https://www.icms.org/",
+      "org_type": "network",
+      "size_estimate": "small",
+      "tier_profile": "AB",
+      "headcount_est": 5,
+      "faith_orientation": "christian",
+      "evidence": "Registered charity (Canada CRA, US IRS). Founded 2005 by merger of three mission groups. Oversees 40+ Christian missions in 20+ countries from Abbotsford, BC."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "ICMS International Christian Mission Services icms.org staff directory leadership",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "ICMS icms.org missionaries support raising prayer letter partner",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "ICMS International Christian Mission Services board trustees leadership team",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "ICMS icms.org development advancement donor relations fundraising staff",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "ICMS Gary founder director Abbotsford icms.org",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:icms.org team staff member missionary biography",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "International Mission Board (IMB)",
+      "reason_code": "too_institutional",
+      "detail": "Search results mixed IMB with ICMS; confirmed distinct organizations"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "wave_id": "w2026-08-30c",
+  "agent": "roster:ywamorlando",
+  "target_org": "YWAM Orlando",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Michael Berg",
+      "org_type": "individual",
+      "city": "Montvelde",
+      "state": "FL",
+      "summary": "YWAM Orlando — Base Director, Co-founder",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Base director with founder status (1994); no visible personal support-raising page or prayer letter found despite extensive search.",
+      "source_query": "hunter:w2026-08-30c:ywamorlando",
+      "meta": {
+        "tier": "C",
+        "role": "Base Director",
+        "target_org": "YWAM Orlando",
+        "evidence_url": "https://ywamorlando.com/about/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Darla Berg",
+      "org_type": "individual",
+      "city": "Montvelde",
+      "state": "FL",
+      "summary": "YWAM Orlando — Co-founding Director",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Co-founding director with Michael Berg (1994); spouse partner in leadership; no visible individual support page found.",
+      "source_query": "hunter:w2026-08-30c:ywamorlando",
+      "meta": {
+        "tier": "C",
+        "role": "Co-founding Director",
+        "target_org": "YWAM Orlando",
+        "evidence_url": "https://ywamorlando.com/about/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Marni Joensen",
+      "org_type": "individual",
+      "summary": "YWAM Orlando — Director of Information Technology",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Director-level role; no individual support-raising page or evidence found; organization does require staff support-raising but individual evidence absent.",
+      "source_query": "hunter:w2026-08-30c:ywamorlando",
+      "meta": {
+        "tier": "C",
+        "role": "Director of Information Technology",
+        "target_org": "YWAM Orlando",
+        "evidence_url": "https://www.zoominfo.com/p/Marni-Joensen/-1655459151",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Alexandra Ishani",
+      "org_type": "individual",
+      "summary": "YWAM Orlando — Director of Admissions & Sales",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Director-level role; no individual support page or fundraising evidence found in searches.",
+      "source_query": "hunter:w2026-08-30c:ywamorlando",
+      "meta": {
+        "tier": "C",
+        "role": "Director of Admissions & Sales",
+        "target_org": "YWAM Orlando",
+        "evidence_url": "https://www.zoominfo.com/p/Alexandra-Ishani/9680387638",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Melvin Weaver",
+      "org_type": "individual",
+      "summary": "YWAM Orlando — Chairman of Building and Land Planning Team",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Leadership role on facility/planning committee; no individual support-raising page found.",
+      "source_query": "hunter:w2026-08-30c:ywamorlando",
+      "meta": {
+        "tier": "C",
+        "role": "Chairman of Building and Land Planning Team",
+        "target_org": "YWAM Orlando",
+        "evidence_url": "https://www.zoominfo.com/p/Melvin-Weaver/736757629",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "YWAM Orlando",
+      "website": "https://ywamorlando.com/",
+      "org_type": "ministry",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "headcount_est": 25,
+      "faith_orientation": "christian",
+      "evidence": "YWAM base in Montverde, FL; founded 1994-1995 by Michael Berg and Darla Berg with Walden and Beverly Owen; core ministry of Christian missionary training; 51-200 employees listed; operates Discipleship Training School and missions outreach programs"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "YWAM Orlando staff team members",
+      "outcome": "found_people",
+      "people_found": 12
+    },
+    {
+      "kind": "query",
+      "value": "YWAM Orlando leadership directors",
+      "outcome": "found_people",
+      "people_found": 8
+    },
+    {
+      "kind": "query",
+      "value": "site:ywamorlando.com staff",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "\"YWAM Orlando\" team personnel",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "\"Michael Berg\" YWAM Orlando director founder support",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "YWAM Orlando support missionaries pray partners giving",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Anna Tuttle\" OR \"Marni Joensen\" OR \"Eric Hill\" YWAM Orlando",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "YWAM Orlando individual staff support page prayer letter giving page",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Anna Tuttle",
+      "reason_code": "platform_not_person",
+      "detail": "Listed only with abbreviated contact info (a***@ywamorlando.com); no individual support page, prayer letter, or personal giving evidence found to verify support-raising status."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Eric Hill",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as 'Missionary' but no full verification of individual fundraising page or support-raising evidence found; generic missionary role without specific evidence."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Becca Sparks",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as 'Missionary' without full name verification or individual support-raising evidence."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Hanna Sherwood",
+      "reason_code": "platform_not_person",
+      "detail": "Staff member with no additional verification or support-raising evidence found."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Rob Frances",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as Launch Team Leader with no additional verification or individual support page found."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Kristen Kang",
+      "reason_code": "platform_not_person",
+      "detail": "Music Track lead with no individual support-raising evidence or personal giving page found."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Alastair Cuthbertson",
+      "reason_code": "platform_not_person",
+      "detail": "Sports/fitness ministry staff; spouse relationship listed but insufficient individual evidence."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Valerie Schuett",
+      "reason_code": "platform_not_person",
+      "detail": "Staff member name found but no verification details, role, or support-raising evidence."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Bobby Stafford",
+      "reason_code": "platform_not_person",
+      "detail": "Staff member name found but no verification details, role, or support-raising evidence."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Scott Martin",
+      "reason_code": "platform_not_person",
+      "detail": "Community Development ministry role; spouse mentioned but insufficient individual evidence for real named individual status."
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Michael Berg",
+      "org": "YWAM Orlando",
+      "question": "Does Michael Berg have a personal support/giving page or prayer letter despite being Base Director? Position suggests possible salaried or fully-supported role rather than individual fundraiser.",
+      "evidence_url": "https://bergfamily5.blogspot.com/2014/10/michael-shares-at-our-ywam-orlando.html",
+      "notes": "Found personal blog (Berg Family Updates) but no current support-raising page. As co-founder and director, may not actively fundraise individually like other staff."
+    },
+    {
+      "name": "Darla Berg",
+      "org": "YWAM Orlando",
+      "question": "Does Darla Berg have separate individual support/fundraising evidence beyond her co-founder role with Michael?",
+      "evidence_url": "https://ywamorlando.com/about/",
+      "notes": "Listed as co-founding director with Michael but no individual support page or evidence found."
+    }
+  ]
+}

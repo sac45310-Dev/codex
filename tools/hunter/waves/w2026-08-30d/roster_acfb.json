@@ -1,0 +1,331 @@
+{
+  "wave_id": "w2026-08-30d",
+  "agent": "roster:acfb",
+  "target_org": "Atlanta Community Food Bank",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Elizabeth Spears",
+      "summary": "Atlanta Community Food Bank — Director of Individual Giving",
+      "fit_score": 6,
+      "fit_reason": "Senior development professional with 18 years of nonprofit experience, leading individual donor fundraising strategy including major gifts and planned giving programs. Core development/advancement staff.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Individual Giving",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.acfb.org/leadership/",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Matt Coleman",
+      "summary": "Atlanta Community Food Bank — Director of Institutional Giving",
+      "fit_score": 5,
+      "fit_reason": "Development professional leading corporate and foundation giving strategies, reporting to CDO. Experience in nonprofit development and corporate partnership strategy. Tier B development staff.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Institutional Giving",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.acfb.org/leadership/",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Jackie Capers",
+      "summary": "Atlanta Community Food Bank — Director of Operations",
+      "fit_score": 5,
+      "fit_reason": "Executive leadership team member directing operations for the organization. Senior management position with broad organizational oversight.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Director of Operations",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.acfb.org/leadership/",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Kenneth Hill",
+      "summary": "Atlanta Community Food Bank — Chief Supply Chain Officer",
+      "fit_score": 5,
+      "fit_reason": "C-suite executive leading all food sourcing, warehouse, inventory, and delivery operations. Brought 30 years of leadership from The Home Depot. Reports to CEO.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Supply Chain Officer",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.acfb.org/leadership/",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Debra H Shoaf",
+      "summary": "Atlanta Community Food Bank — Chief Financial Officer",
+      "fit_score": 4,
+      "fit_reason": "C-suite executive responsible for financial management and strategy. Reports to CEO.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Financial Officer",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://people.equilar.com/bio/org/atlanta-community-food-bank/6936765",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Sharay Erskine",
+      "summary": "Atlanta Community Food Bank — Chief Information Officer",
+      "fit_score": 4,
+      "fit_reason": "C-suite executive leading strategic technology investments and systems modernization. Reports to CEO.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Information Officer",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.prnewswire.com/news-releases/atlanta-community-food-bank-announces-new-executive-team-members-301584607.html",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Megan Middleton",
+      "summary": "Atlanta Community Food Bank — Director of Government Affairs",
+      "fit_score": 4,
+      "fit_reason": "Executive leadership team member directing government relations and advocacy. Senior staff position with policy and stakeholder engagement oversight.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Director of Government Affairs",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.acfb.org/leadership/",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Sarah Brown",
+      "summary": "Atlanta Community Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Governing board member; trustee of The John and Rosemary Brown Family Foundation. Board governance role effective FY2025.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/524863/atlanta-community-food-bank-announces-new-2025-board-members",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Stewart Gantt",
+      "summary": "Atlanta Community Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Governing board member; EVP Global Support and America's Service for Manhattan Associates. Board governance role effective FY2025.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/524863/atlanta-community-food-bank-announces-new-2025-board-members",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Mark Hoffman",
+      "summary": "Atlanta Community Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Governing board member; CEO and Principal of Lanier Asset Management, LLC. Board governance role effective FY2025.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/524863/atlanta-community-food-bank-announces-new-2025-board-members",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Satya Kama",
+      "summary": "Atlanta Community Food Bank — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Governing board member; Managing Director at Accenture. Board governance role effective FY2025.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/524863/atlanta-community-food-bank-announces-new-2025-board-members",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Kendi O'Mard",
+      "summary": "Atlanta Community Food Bank — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Governing board member; Vice President of Sales for The Clorox Company. Board governance role effective FY2025.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/524863/atlanta-community-food-bank-announces-new-2025-board-members",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Danielle Fallin",
+      "summary": "Atlanta Community Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Governing board member effective FY2027; Dean of Rollins School of Public Health at Emory University. Senior academic and institutional leader. Three-year board term.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/537450/atlanta-community-food-bank-announces-new-2026-board-members",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Marshall Guest",
+      "summary": "Atlanta Community Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Governing board member effective FY2027; Chief Strategy Officer at Metro Atlanta Chamber. Senior strategic leadership position. Three-year board term.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/537450/atlanta-community-food-bank-announces-new-2026-board-members",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Noel Baber",
+      "summary": "Atlanta Community Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Governing board member effective FY2027; VP and CFO at Kaiser Permanente Georgia. Senior financial and operational leadership. Three-year board term.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/537450/atlanta-community-food-bank-announces-new-2026-board-members",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Vonetta Daniels",
+      "summary": "Atlanta Community Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Governing board member effective FY2027; Founder and Principal of VYD and Associates. Entrepreneurial leadership and business ownership. Three-year board term.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/537450/atlanta-community-food-bank-announces-new-2026-board-members",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Amir Ghoddousi",
+      "summary": "Atlanta Community Food Bank — Advisory Board Chair",
+      "fit_score": 5,
+      "fit_reason": "Advisory board chair; President of ASK Logistics Group. Senior leadership position with advisory board governance role.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Advisory Board Chair",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/524863/atlanta-community-food-bank-announces-new-2025-board-members",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Christine Connor",
+      "summary": "Atlanta Community Food Bank — Advisory Board Vice Chair",
+      "fit_score": 5,
+      "fit_reason": "Advisory board vice chair; Managing Partner and Founder at Switch Consulting Group. Leadership position with advisory board governance role.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Advisory Board Vice Chair",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/537450/atlanta-community-food-bank-announces-new-2026-board-members",
+        "confidence": "High"
+      }
+    },
+    {
+      "org_name": "Jay Ritchie",
+      "summary": "Atlanta Community Food Bank — Advisory Board Member",
+      "fit_score": 4,
+      "fit_reason": "Advisory board member effective 2026. Role and professional background not specified in available sources; tiered down due to ambiguous evidence per protocol.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Advisory Board Member",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/537450/atlanta-community-food-bank-announces-new-2026-board-members",
+        "confidence": "Medium"
+      }
+    },
+    {
+      "org_name": "Kevin Autie",
+      "summary": "Atlanta Community Food Bank — Advisory Board Member",
+      "fit_score": 4,
+      "fit_reason": "Advisory board member effective 2026. Role and professional background not specified in available sources; tiered down due to ambiguous evidence per protocol.",
+      "source_query": "hunter:w2026-08-30d:acfb",
+      "meta": {
+        "tier": "C",
+        "role": "Advisory Board Member",
+        "target_org": "Atlanta Community Food Bank",
+        "evidence_url": "https://www.24-7pressrelease.com/press-release/537450/atlanta-community-food-bank-announces-new-2026-board-members",
+        "confidence": "Medium"
+      }
+    }
+  ],
+  "negatives": [],
+  "coverage": [
+    {
+      "query": "Atlanta Community Food Bank leadership team staff 2026",
+      "outcome": "found_people",
+      "people_found": 7
+    },
+    {
+      "query": "Atlanta Community Food Bank board of directors members",
+      "outcome": "found_people",
+      "people_found": 10
+    },
+    {
+      "query": "Atlanta Community Food Bank development director fundraising staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "query": "Atlanta Community Food Bank staff directory executives officers",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "query": "Atlanta Community Food Bank institutional giving director major gifts",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "query": "Atlanta Community Food Bank donor relations marketing staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "query": "Atlanta Community Food Bank Chief Supply Chain Officer Chief Financial Officer executives",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "query": "Atlanta Community Food Bank 2026 annual report leadership directory",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ]
+}

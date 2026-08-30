@@ -1,0 +1,319 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "prospector:veteran",
+  "people": [
+    {
+      "org_name": "Terri Mateo",
+      "org_type": "individual",
+      "summary": "Our Military Kids — Senior Director of Development",
+      "fit_score": 9,
+      "fit_reason": "Tier B development staff with 20+ years nonprofit experience in military family nonprofit",
+      "source_query": "hunter:w2026-08-30a:veteran",
+      "meta": {
+        "tier": "B",
+        "role": "Senior Director of Development",
+        "target_org": "Our Military Kids",
+        "evidence_url": "https://www.ourmilitarykids.org/board-staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Breanna Baer",
+      "org_type": "individual",
+      "summary": "Operation Homefront — Vice President of Field Development",
+      "fit_score": 6,
+      "fit_reason": "Tier A/B field development leadership with 25 years fundraising experience, support-raised revenue generation",
+      "source_query": "hunter:w2026-08-30a:veteran",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President of Field Development",
+        "target_org": "Operation Homefront",
+        "evidence_url": "https://www.streetinsider.com/PRNewswire/Operation+Homefront%C2%AE+Welcomes+New+Vice+President+of+Field+Development/26869164.html",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Marie Valentim",
+      "org_type": "individual",
+      "summary": "Homes for Our Troops — Senior Corporate Partnership Manager",
+      "fit_score": 8,
+      "fit_reason": "Tier B partnership/development staff at mid-size veteran nonprofit",
+      "source_query": "hunter:w2026-08-30a:veteran",
+      "meta": {
+        "tier": "B",
+        "role": "Senior Corporate Partnership Manager",
+        "target_org": "Homes for Our Troops",
+        "evidence_url": "https://www.hfotusa.org/misc/internal-grid/staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Robert Ware",
+      "org_type": "individual",
+      "summary": "Homes for Our Troops — Individual Giving Manager",
+      "fit_score": 8,
+      "fit_reason": "Tier B individual donor relations staff at mid-size veteran nonprofit",
+      "source_query": "hunter:w2026-08-30a:veteran",
+      "meta": {
+        "tier": "B",
+        "role": "Individual Giving Manager",
+        "target_org": "Homes for Our Troops",
+        "evidence_url": "https://www.hfotusa.org/misc/internal-grid/staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Walter E. Piatt",
+      "org_type": "individual",
+      "summary": "Wounded Warrior Project — Chief Executive Officer",
+      "fit_score": 7,
+      "fit_reason": "Tier C executive leadership at large veteran nonprofit",
+      "source_query": "hunter:w2026-08-30a:veteran",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Executive Officer",
+        "target_org": "Wounded Warrior Project",
+        "evidence_url": "https://www.woundedwarriorproject.org/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Robin Kelleher",
+      "org_type": "individual",
+      "summary": "Hope For The Warriors — President and Chief Executive Officer",
+      "fit_score": 7,
+      "fit_reason": "Tier C executive leadership at mid-size veteran nonprofit",
+      "source_query": "hunter:w2026-08-30a:veteran",
+      "meta": {
+        "tier": "C",
+        "role": "President and Chief Executive Officer",
+        "target_org": "Hope For The Warriors",
+        "evidence_url": "https://en.wikipedia.org/wiki/Hope_For_The_Warriors",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tom Landwermeyer",
+      "org_type": "individual",
+      "summary": "Homes for Our Troops — President and Chief Executive Officer",
+      "fit_score": 7,
+      "fit_reason": "Tier C executive leadership at mid-size veteran nonprofit",
+      "source_query": "hunter:w2026-08-30a:veteran",
+      "meta": {
+        "tier": "C",
+        "role": "President and Chief Executive Officer",
+        "target_org": "Homes for Our Troops",
+        "evidence_url": "https://www.hfotusa.org/misc/internal-grid/staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Cynthia Baptiste",
+      "org_type": "individual",
+      "summary": "Homes for Our Troops — Chief Financial Officer",
+      "fit_score": 6,
+      "fit_reason": "Tier C executive finance officer at mid-size veteran nonprofit",
+      "source_query": "hunter:w2026-08-30a:veteran",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Financial Officer",
+        "target_org": "Homes for Our Troops",
+        "evidence_url": "https://www.hfotusa.org/misc/internal-grid/staff/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Wounded Warrior Project",
+      "website": "https://www.woundedwarriorproject.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "headcount_est": 680,
+      "faith_orientation": "secular",
+      "evidence": "Nation's leading veteran service organization founded 2003, serves post-9/11 wounded/ill/injured veterans. Jacksonville, FL headquarters."
+    },
+    {
+      "org_name": "Homes for Our Troops",
+      "website": "https://www.hfotusa.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "headcount_est": 117,
+      "faith_orientation": "secular",
+      "evidence": "Builds homes for injured veterans, 317+ homes completed as of 2026. Development and partnership staff identified."
+    },
+    {
+      "org_name": "The Bob Woodruff Foundation",
+      "website": "https://bobwoodrufffoundation.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Private grantmaking foundation dedicated to post-9/11 veterans and families. Founded by ABC reporter Bob Woodruff."
+    },
+    {
+      "org_name": "Our Military Kids",
+      "website": "https://www.ourmilitarykids.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Military family nonprofit with identified Senior Director of Development (Tier B staff)."
+    },
+    {
+      "org_name": "Operation Homefront",
+      "website": "https://operationhomefront.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "AB",
+      "faith_orientation": "secular",
+      "evidence": "National 501(c)(3) nonprofit supporting military and veteran families. Vice President of Field Development identified (Tier A support-raised staff)."
+    },
+    {
+      "org_name": "Blue Star Families",
+      "website": "https://bluestarfam.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "AB",
+      "faith_orientation": "secular",
+      "evidence": "Largest nonprofit dedicated to military families, 1.5M+ connected members. Multiple development roles: Chief Development Officer, Senior Director Development positions."
+    },
+    {
+      "org_name": "Hope For The Warriors",
+      "website": "https://www.hopeforthewarniors.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "C",
+      "headcount_est": 35,
+      "faith_orientation": "secular",
+      "evidence": "501(c)(3) nonprofit founded 2006, serves combat wounded and families of KIA. CEO identified."
+    },
+    {
+      "org_name": "Wounded Warriors Family Support",
+      "website": "https://wwfs.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "secular",
+      "evidence": "Veteran-founded, veteran-run nonprofit providing support to families of wounded/injured/KIA service members."
+    },
+    {
+      "org_name": "USA Warriors Ice Hockey Program",
+      "website": "https://www.wwpusa.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "A",
+      "faith_orientation": "secular",
+      "evidence": "501(c)(3) established 2008, provides athletic rehabilitation opportunities for wounded soldiers."
+    },
+    {
+      "org_name": "Minnesotans' Military Appreciation Fund",
+      "website": "https://en.wikipedia.org/wiki/Minnesotans%27_Military_Appreciation_Fund",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "secular",
+      "evidence": "Nonprofit fundraising initiative providing cash grants to Minnesota service members in combat zones and families of fallen personnel."
+    },
+    {
+      "org_name": "The PenFed Foundation for Military Heroes",
+      "website": "https://www.penfed.org/foundation",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Supports veteran entrepreneurs and military leadership development programs (July 2026 program announcement)."
+    },
+    {
+      "org_name": "Armed Services YMCA",
+      "website": "https://www.asymca.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Provides programs and services to US military personnel and families, youth development and social responsibility focus."
+    },
+    {
+      "org_name": "USO",
+      "website": "https://www.uso.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Supports broad range of military programs and resources, transitional assistance, entertainment, community building."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "veteran nonprofits organizations US 2026",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "military family nonprofit charities development director",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "wounded warrior nonprofit organizations staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"veteran nonprofit\" \"major gifts officer\" OR \"development director\"",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "service member nonprofit advancement fundraising",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Homes for Our Troops\" staff development team",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "\"Bob Woodruff Foundation\" development director major gifts",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "veteran nonprofit executive director \"development\" OR \"advancement\" team 2026",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Operation Homefront\" staff development fundraising",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Blue Star Families\" development director major gifts officer",
+      "outcome": "found_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Armed Forces YMCA",
+      "reason_code": "no_individual_donors",
+      "detail": "While found in search results, YMCA model relies heavily on membership and program fees, not primarily donor-funded"
+    }
+  ],
+  "needs_review": []
+}

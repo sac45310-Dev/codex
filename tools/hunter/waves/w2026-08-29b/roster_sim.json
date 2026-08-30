@@ -1,0 +1,43 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:sim",
+  "target_org": "SIM International",
+  "roster_verdict": "exhausted",
+  "notes": "Web search budget exhausted (200 of 200 WebSearch calls used). Session web search budget constraint prevented roster discovery. No targeted SIM queries could be executed.",
+  "people": [],
+  "orgs_discovered": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:simusa.org missionary give donate",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:simusa.org workers staff",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"SIM missionary\" Niger support raise",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:sim.org missionary stories staff",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"serving with SIM\" personal support",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    }
+  ],
+  "negatives": [],
+  "needs_review": []
+}

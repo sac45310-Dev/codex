@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Hunter wave output",
+  "description": "The JSON every hunter agent (prospector or roster) must emit. Consumed by scout_import.py ingest-wave.",
+  "type": "object",
+  "required": ["wave_id", "agent", "people", "coverage"],
+  "properties": {
+    "wave_id": { "type": "string", "description": "e.g. w2026-09-01a" },
+    "agent": { "type": "string", "description": "prospector:<niche_slug> | roster:<org_slug>" },
+    "roster_verdict": {
+      "type": "string",
+      "description": "Roster agents only: rostered | exhausted | rejected:<reason_code>"
+    },
+    "target_org": {
+      "type": "string",
+      "description": "Roster agents only: the exact org_name assigned (required with roster_verdict)"
+    },
+    "people": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["org_name", "summary", "fit_score", "fit_reason", "meta"],
+        "properties": {
+          "org_name": { "type": "string", "description": "The PERSON's full name (matches scout_candidates convention)" },
+          "org_type": { "type": "string", "default": "individual" },
+          "website": { "type": "string", "description": "Person-specific URL when one exists (giving page, blog, profile)" },
+          "city": { "type": "string" },
+          "state": { "type": "string" },
+          "summary": { "type": "string", "description": "\"<Org> — <role or field location>\"" },
+          "fit_score": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "fit_reason": { "type": "string", "description": "Tier + the evidence, one sentence" },
+          "source_query": { "type": "string", "description": "hunter:<wave_id>:<agent-slug>" },
+          "meta": {
+            "type": "object",
+            "required": ["tier", "target_org", "evidence_url"],
+            "properties": {
+              "tier": { "enum": ["A", "B", "C"], "description": "A support-raised · B development staff · C board member / major donor (influencer)" },
+              "role": { "type": "string" },
+              "target_org": { "type": "string", "description": "The organization the person belongs to" },
+              "evidence_url": { "type": "string", "description": "URL proving the person-org connection" },
+              "email": { "type": "string", "description": "Only if free on the page; never guessed" },
+              "linkedin_url": { "type": "string" },
+              "donation_page": { "type": "string" },
+              "confidence": { "enum": ["high", "medium", "low"] }
+            }
+          }
+        }
+      }
+    },
+    "orgs_discovered": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["org_name", "evidence"],
+        "properties": {
+          "org_name": { "type": "string" },
+          "website": { "type": "string" },
+          "org_type": { "type": "string", "description": "agency | network | parachurch | mission_board | ministry | nonprofit" },
+          "size_estimate": { "enum": ["micro", "small", "mid", "large"] },
+          "tier_profile": { "enum": ["A", "B", "AB"] },
+          "headcount_est": { "type": "integer" },
+          "faith_orientation": { "enum": ["christian", "other_faith", "secular"] },
+          "crm_incumbent": { "type": "string", "description": "Donor CRM the org publicly uses — competitive-displacement intel, not a reject" },
+          "do_not_pursue": { "type": "boolean", "description": "Reserved for manual review on the DonorSend side — agents never set this; leave absent/false." },
+          "do_not_pursue_reason": { "type": "string", "description": "Reserved for manual review — agents never set this." },
+          "evidence": { "type": "string" }
+        }
+      }
+    },
+    "coverage": {
+      "type": "array",
+      "description": "EVERY url fetched and EVERY query run — empty-handed entries required",
+      "items": {
+        "type": "object",
+        "required": ["kind", "value", "outcome"],
+        "properties": {
+          "kind": { "enum": ["url", "query"] },
+          "value": { "type": "string" },
+          "outcome": { "enum": ["found_people", "no_people", "dead", "paywalled", "offtopic"] },
+          "people_found": { "type": "integer", "default": 0 }
+        }
+      }
+    },
+    "negatives": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["entity_kind", "name", "reason_code"],
+        "properties": {
+          "entity_kind": { "enum": ["org", "person"] },
+          "name": { "type": "string" },
+          "website": { "type": "string" },
+          "reason_code": {
+            "enum": ["church_salaried", "school_salaried", "denomination", "conference_training",
+                     "business_vendor", "salaried_leader", "grant_funded", "no_individual_donors",
+                     "too_institutional", "defunct", "platform_not_person", "already_in_crm"]
+          },
+          "detail": { "type": "string" }
+        }
+      }
+    },
+    "needs_review": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "org", "question", "evidence_url"],
+        "properties": {
+          "name": { "type": "string" },
+          "org": { "type": "string" },
+          "question": { "type": "string", "description": "What could not be determined" },
+          "evidence_url": { "type": "string" },
+          "notes": { "type": "string" }
+        }
+      }
+    }
+  }
+}

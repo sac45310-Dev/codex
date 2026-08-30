@@ -1,0 +1,470 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:cru",
+  "target_org": "Cru",
+  "roster_verdict": "exhausted",
+  "notes": "partial — large org; 3200+ missionary staff across 190 countries and 750+ campuses; comprehensive roster not available via public pages; mined give.cru.org designations via targeted searches; identified 11 Tier A support-raised staff with confirmed designation pages and 8 regional/leadership roles; Athletes in Action personnel noted as separate target_org",
+  "people": [
+    {
+      "org_name": "Keegan Keelan",
+      "org_type": "individual",
+      "website": "https://give.cru.org/0994127",
+      "city": "San Diego",
+      "state": "CA",
+      "summary": "Cru — Part-Time Field Staff, LGBTQ campus ministry",
+      "fit_score": 9,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; UCSD grad 2018, focus on underserved populations",
+      "meta": {
+        "tier": "A",
+        "role": "Part-Time Field Staff",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/0994127",
+        "donation_page": "https://give.cru.org/0994127",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lila Hermosillo",
+      "org_type": "individual",
+      "website": "https://give.cru.org/1102015",
+      "city": "San Diego",
+      "state": "CA",
+      "summary": "Destino (Cru subsidiary) — Full Time Field Staff and Team Leader",
+      "fit_score": 9,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; full-time staff, team leadership role, Latino/Latina focus",
+      "meta": {
+        "tier": "A",
+        "role": "Full Time Field Staff and Team Leader",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/1102015",
+        "donation_page": "https://give.cru.org/1102015",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rebecca Miller",
+      "org_type": "individual",
+      "website": "https://give.cru.org/1123073",
+      "city": "San Diego",
+      "state": "CA",
+      "summary": "Cru — Ministry Partner Development Coach for National Interns",
+      "fit_score": 8,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; Texas A&M grad, key development role training new staff",
+      "meta": {
+        "tier": "A",
+        "role": "Ministry Partner Development Coach",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/1123073",
+        "donation_page": "https://give.cru.org/1123073",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Evelyn Cho",
+      "org_type": "individual",
+      "website": "https://give.cru.org/1158074",
+      "city": "San Diego",
+      "state": "CA",
+      "summary": "Cru — Full Time Field Staff",
+      "fit_score": 8,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; UCSD grad, full-time field staff",
+      "meta": {
+        "tier": "A",
+        "role": "Full Time Field Staff",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/1158074",
+        "donation_page": "https://give.cru.org/1158074",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jordan Langner",
+      "org_type": "individual",
+      "website": "https://give.cru.org/1123493",
+      "city": "San Diego",
+      "state": "CA",
+      "summary": "Cru — Part-Time Field Staff",
+      "fit_score": 8,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; UCSD grad, student leader coaching",
+      "meta": {
+        "tier": "A",
+        "role": "Part-Time Field Staff",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/1123493",
+        "donation_page": "https://give.cru.org/1123493",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brittany Jones",
+      "org_type": "individual",
+      "website": "https://give.cru.org/1123059",
+      "city": "San Diego",
+      "state": "CA",
+      "summary": "Cru — Part-Time Field Staff, Black/African-American student ministry",
+      "fit_score": 8,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; Elmhurst Univ grad, focused on underserved communities",
+      "meta": {
+        "tier": "A",
+        "role": "Part-Time Field Staff",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/1123059",
+        "donation_page": "https://give.cru.org/1123059",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sarah Bonilla",
+      "org_type": "individual",
+      "website": "https://give.cru.org/1250925",
+      "city": "San Diego",
+      "state": "CA",
+      "summary": "Cru — 1st Year Intern",
+      "fit_score": 7,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; UCSD grad, entry-level support-raised position",
+      "meta": {
+        "tier": "A",
+        "role": "1st Year Intern",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/1250925",
+        "donation_page": "https://give.cru.org/1250925",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Margaret Yu",
+      "org_type": "individual",
+      "website": "https://give.cru.org/0370890",
+      "city": "",
+      "state": "",
+      "summary": "Epic Movement (Cru Asian-American ministry) — Affiliate Staff, People and Culture Team",
+      "fit_score": 7,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; formerly National Executive Director 30+ years Cru; stepped to part-time 2023",
+      "meta": {
+        "tier": "A",
+        "role": "Affiliate Staff, National Director (retired from full-time 2023)",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/0370890",
+        "donation_page": "https://give.cru.org/0370890",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Cody Canepa",
+      "org_type": "individual",
+      "website": "https://give.cru.org/1098240",
+      "city": "Long Beach",
+      "state": "CA",
+      "summary": "Cru — Field Staff, Student Leader Development",
+      "fit_score": 8,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; Long Beach area ministry focus with 125k+ students",
+      "meta": {
+        "tier": "A",
+        "role": "Field Staff",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/1098240",
+        "donation_page": "https://give.cru.org/1098240",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ali Enos",
+      "org_type": "individual",
+      "website": "https://give.cru.org/0511767",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "summary": "Cru — LSU Campus Ministry, Long-term Field Staff (25+ years)",
+      "fit_score": 9,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; LSU grad, over 25 years staff tenure, expertise in Greek system",
+      "meta": {
+        "tier": "A",
+        "role": "Long-term Field Staff, Greek Ministry Focus",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/0511767",
+        "donation_page": "https://give.cru.org/0511767",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rick and Christina Kingsley",
+      "org_type": "individual",
+      "website": "https://give.cru.org/0583649",
+      "city": "Tallahassee",
+      "state": "FL",
+      "summary": "Cru — Campus Director at Florida State University",
+      "fit_score": 9,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; FSU campus director (lead role); Univ of Florida grad, previously 5 years at UF",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Director",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/0583649",
+        "donation_page": "https://give.cru.org/0583649",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Natalie Ceja",
+      "org_type": "individual",
+      "website": "https://give.cru.org/1099003",
+      "city": "San Diego",
+      "state": "CA",
+      "summary": "Destino/Cru — Part-Time Field Staff",
+      "fit_score": 7,
+      "fit_reason": "Tier A: give.cru.org/<number> personal designation page; part-time support-raised field staff in San Diego Circle",
+      "meta": {
+        "tier": "A",
+        "role": "Part-Time Field Staff",
+        "target_org": "Cru",
+        "evidence_url": "https://give.cru.org/1099003",
+        "donation_page": "https://give.cru.org/1099003",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Shannon Compere",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Cru — Executive Director of Campus Ministry, U.S. Leadership Team",
+      "fit_score": 6,
+      "fit_reason": "Tier B: HQ development/leadership role; joined 1991 at Univ of South Carolina; no give.cru.org page found in search",
+      "meta": {
+        "tier": "B",
+        "role": "Executive Director Campus Ministry",
+        "target_org": "Cru",
+        "evidence_url": "https://www.cru.org/us/en/about/our-leadership/cru-leadership.html",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Milton Massie",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Cru Inner City — Executive Director/Steward",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Regional leadership position; oversees inner city ministry across 10 U.S. cities; no give.cru.org page found",
+      "meta": {
+        "tier": "B",
+        "role": "Executive Director/Steward",
+        "target_org": "Cru",
+        "evidence_url": "https://www.cru.org/us/en/communities/innercity/about-us/contact-us.html",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Willie Perez",
+      "org_type": "individual",
+      "website": "",
+      "city": "New York",
+      "state": "NY",
+      "summary": "Cru Inner City — Team Director",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Regional city leader for Inner City New York; no give.cru.org page found in search",
+      "meta": {
+        "tier": "B",
+        "role": "Team Director",
+        "target_org": "Cru",
+        "evidence_url": "https://www.cru.org/us/en/communities/innercity/newyorkcity/contact/staff-team.html",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Brad Harry and Marc Henkel",
+      "org_type": "individual",
+      "website": "",
+      "city": "Chicago",
+      "state": "IL",
+      "summary": "Cru Inner City — Co-Team Directors",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Co-leaders of Inner City Chicago ministry; no give.cru.org pages found in search",
+      "meta": {
+        "tier": "B",
+        "role": "Co-Team Directors",
+        "target_org": "Cru",
+        "evidence_url": "https://www.cru.org/us/en/communities/innercity/chicago/get-involved/staff-opportunities.html",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "David Robbins",
+      "org_type": "individual",
+      "website": "",
+      "city": "Orlando",
+      "state": "FL",
+      "summary": "Cru — President",
+      "fit_score": 4,
+      "fit_reason": "Tier C: C-suite executive, HQ headquarters (Orlando); note: even president raises personal support per Cru model",
+      "meta": {
+        "tier": "C",
+        "role": "President",
+        "target_org": "Cru",
+        "evidence_url": "https://www.cru.org/us/en/about/our-leadership/cru-leadership.html",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "name": "Epic Movement",
+      "relationship": "Cru subsidiary — Asian-American college ministry"
+    },
+    {
+      "name": "Destino",
+      "relationship": "Cru subsidiary — Latino/Latina college ministry"
+    },
+    {
+      "name": "Cru Inner City",
+      "relationship": "Cru ministry line — reaches urban neighborhoods, 10 staffed U.S. cities"
+    },
+    {
+      "name": "Athletes in Action",
+      "relationship": "Cru ministry line (separate target_org) — sports ministry staff, support-raised model"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:give.cru.org staff personal designation",
+      "outcome": "found_people",
+      "people_found": 8
+    },
+    {
+      "kind": "query",
+      "value": "\"give.cru.org\" Cru staff support raised",
+      "outcome": "offtopic",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Cru campus director university give.cru.org",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Cru\" \"campus director\" staff missionary",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:cru.org staff directory give personal support",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Keegan Keelan Cru give.cru.org",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Lila Hermosillo Cru Destino give.cru.org",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Rebecca Miller San Diego Cru staff give.cru.org",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"campus director\" Cru university staff roster",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Cru staff \"epic movement\" give support",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Margaret Yu Epic Movement Cru give.cru.org staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Cru regional director city leader staff give",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"Cru\" \"inner city\" staff support missionary",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Cru international staff headquarters development officer",
+      "outcome": "offtopic",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Cru staff member profile give.cru.org designation",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Cru athletes in action staff support raised",
+      "outcome": "offtopic",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Sarah Bonilla Brittany Jones Evelyn Cho Cru staff",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Jordan Langner Cru staff San Diego",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Cru campus director Texas A&M LSU Florida State",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Cru\" leadership staff board executives Orlando headquarters",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "negatives": [
+    "Adam and Alicia Penning — skipped per briefing",
+    "Rebecca (Virginia Tech campus director) — last name not found; marked needs_review",
+    "Athletes in Action staff — separate target_org per briefing; not included in roster"
+  ],
+  "needs_review": [
+    {
+      "org_name": "Rebecca",
+      "note": "Virginia Tech campus director, 2013 grad, stepped into role 2018; last name not recovered from search results"
+    },
+    {
+      "org_name": "Natalie Ceja",
+      "note": "Low confidence on role/tenure; appears in San Diego Circle but limited bio detail available"
+    }
+  ]
+}

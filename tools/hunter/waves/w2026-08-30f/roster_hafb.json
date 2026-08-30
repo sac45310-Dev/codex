@@ -1,0 +1,200 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:hafb",
+  "roster_verdict": "exhausted",
+  "target_org": "Heart of Alabama Food Bank",
+  "people": [
+    {
+      "org_name": "Jessica Horsley",
+      "org_type": "individual",
+      "city": "Montgomery",
+      "state": "AL",
+      "summary": "Heart of Alabama Food Bank — Director of Strategic Initiatives",
+      "fit_score": 7,
+      "fit_reason": "Tier B - Director of Strategic Initiatives managing development of community-centric programs addressing food insecurity, Campus Hunger, Veteran Hunger, and Health Equity initiatives.",
+      "source_query": "hunter:w2026-08-30f:hafb",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Strategic Initiatives",
+        "target_org": "Heart of Alabama Food Bank",
+        "evidence_url": "https://www.linkedin.com/in/jessica-horsley-26071330/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Varina Mead",
+      "org_type": "individual",
+      "city": "Montgomery",
+      "state": "AL",
+      "summary": "Heart of Alabama Food Bank — Chief Development Officer / Director of Marketing and Communications",
+      "fit_score": 7,
+      "fit_reason": "Tier B - Chief Development Officer overseeing donor relations, communications, and fundraising strategy with responsibility for donor engagement and relationship management.",
+      "source_query": "hunter:w2026-08-30f:hafb",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Development Officer",
+        "target_org": "Heart of Alabama Food Bank",
+        "evidence_url": "https://rocketreach.co/varina-mead-email_46500633",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Alice Ann Byrne",
+      "org_type": "individual",
+      "city": "Montgomery",
+      "state": "AL",
+      "summary": "Heart of Alabama Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C - Board member listed on GuideStar organizational profile.",
+      "source_query": "hunter:w2026-08-30f:hafb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Heart of Alabama Food Bank",
+        "evidence_url": "https://www.guidestar.org/profile/63-0931846",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Bill Poplin",
+      "org_type": "individual",
+      "city": "Montgomery",
+      "state": "AL",
+      "summary": "Heart of Alabama Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C - Board member listed on GuideStar organizational profile.",
+      "source_query": "hunter:w2026-08-30f:hafb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Heart of Alabama Food Bank",
+        "evidence_url": "https://www.guidestar.org/profile/63-0931846",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "John Lucas",
+      "org_type": "individual",
+      "city": "Montgomery",
+      "state": "AL",
+      "summary": "Heart of Alabama Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C - Board member listed on GuideStar organizational profile.",
+      "source_query": "hunter:w2026-08-30f:hafb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Heart of Alabama Food Bank",
+        "evidence_url": "https://www.guidestar.org/profile/63-0931846",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Daniel Morris",
+      "org_type": "individual",
+      "city": "Montgomery",
+      "state": "AL",
+      "summary": "Heart of Alabama Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C - Board member listed on GuideStar organizational profile.",
+      "source_query": "hunter:w2026-08-30f:hafb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Heart of Alabama Food Bank",
+        "evidence_url": "https://www.guidestar.org/profile/63-0931846",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Jelia Kershaw",
+      "org_type": "individual",
+      "city": "Montgomery",
+      "state": "AL",
+      "summary": "Heart of Alabama Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C - Board member listed on GuideStar organizational profile.",
+      "source_query": "hunter:w2026-08-30f:hafb",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Heart of Alabama Food Bank",
+        "evidence_url": "https://www.guidestar.org/profile/63-0931846",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Heart of Alabama Food Bank",
+      "website": "https://hafb.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "headcount_est": 34,
+      "faith_orientation": "secular",
+      "evidence": "Secular hunger-relief nonprofit serving 35 Alabama counties with 15,000 donors and 330,000+ individuals annually; 34 employees as of Sept 2025. Mission: nourish hungry by educating/mobilizing community. Affiliated with Feeding America since 1989."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Heart of Alabama Food Bank staff development advancement",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Heart of Alabama Food Bank board directors Montgomery",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "Heart of Alabama Food Bank leadership team executive director",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Heart of Alabama Food Bank donor relations fundraising philanthropy major gifts",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Jessica Horsley Varina Mead Heart of Alabama Food Bank Montgomery",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Heart of Alabama Food Bank hafb.org staff contacts department",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Michael Coleman",
+      "reason_code": "platform_not_person",
+      "detail": "Former leadership (no longer employed as of April 2026)"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Jo Ann Johnson",
+      "reason_code": "platform_not_person",
+      "detail": "Former COO (no longer employed as of April 2026)"
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Heart of Alabama Food Bank",
+      "org": "Heart of Alabama Food Bank",
+      "question": "Additional development/advancement staff members beyond Jessica Horsley and Varina Mead",
+      "evidence_url": "https://hafb.org/careers/",
+      "notes": "Organization has ~34 employees but limited public disclosure of development department staff. CEO/COO positions vacant as of March 2026 (leadership transition underway). Development team roles may not be publicly listed on website or social profiles."
+    }
+  ]
+}

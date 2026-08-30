@@ -1,0 +1,1073 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:ethnos360",
+  "target_org": "Ethnos360",
+  "roster_verdict": "rostered",
+  "notes": "Comprehensive roster of Ethnos360 missionaries, staff and board members. Found 48+ individuals across support-raised missionaries (Tier A), HQ/development staff (Tier B), and board members. Strong presence in Papua New Guinea, Philippines, Brazil, Mexico, Senegal, Paraguay, Canada, and other regions. All missionaries operate on personal support-raising model.",
+  "people": [
+    {
+      "org_name": "Justin and Lauren Rees",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/justin-and-lauren-rees",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Church planters serving in Papua New Guinea",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries with profile page and donation capability",
+      "meta": {
+        "tier": "A",
+        "role": "Church planter",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/justin-and-lauren-rees",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jeff and Anna Glessner",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/jeff-and-anna-glessner",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Aviation pilots serving in Papua New Guinea",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised aviation missionaries with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Aviation pilot/mechanic",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/jeff-and-anna-glessner",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brody and Jen Pav",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/brody-and-jen-pav",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Church planters in Papua New Guinea",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Church planter",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/brody-and-jen-pav",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Thomas and Theresa Bittner",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/thomas-and-theresa-bittner",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — USA-based support staff missionaries",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionaries with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Support staff",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/thomas-and-theresa-bittner",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Luke and Vickie Myers",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/luke-and-vickie-myers",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — USA-based support staff missionaries",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionaries with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Support staff",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/luke-and-vickie-myers",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joey and Jennifer Fluitt",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/joey-and-jennifer-fluitt",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — USA-based support staff missionaries",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionaries with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Support staff",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/joey-and-jennifer-fluitt",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rob and Amy Ellis",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/rob-and-amy-ellis",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionaries serving in Tanzania with personal blog",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries with profile page and active blog",
+      "meta": {
+        "tier": "A",
+        "role": "Missionaries/bloggers",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/rob-ellis",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Megan Lewis",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/megan-lewis",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Support-raised missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/megan-lewis",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "George and Linda Kestler",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/george-and-linda-kestler",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Support-raised missionaries",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionaries with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionaries",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/george-and-linda-kestler",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dave and Kim Field",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/dave-and-kim-field",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Support-raised missionaries",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionaries with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionaries",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/dave-and-kim-field",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Aaron and Kim Knapp",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/aaron-and-kim-knapp",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Support-raised missionaries",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionaries with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionaries",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/aaron-and-kim-knapp",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brian and Bailey Pruett",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/brian-and-bailey-pruett",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Support-raised missionaries with personal blog",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries with profile page and active blog",
+      "meta": {
+        "tier": "A",
+        "role": "Missionaries/bloggers",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/brian-pruett",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ryan and Chelsea Farran",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/ryan-and-chelsea-farran",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Support-raised missionaries",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionaries with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionaries",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/ryan-and-chelsea-farran",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joel and Andi McMartin",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/joel--and-andi-mcmartin",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Support-raised missionaries serving in Senegal",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries in West Africa with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "E2 coordinator/service leadership",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/joel--and-andi-mcmartin",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Eric and Wendy Stottlemyer",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/eric-and-wendy-stottlemyer",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Bible teachers/discipleship in Senegal",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries in West Africa with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Bible teacher/discipleship",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/eric-and-wendy-stottlemyer",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Alessandro and Chantal Parrillo",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/alessandro-and-chantal-parrillo",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Support church planters in Senegal",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries in West Africa with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Support for church planters",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/alessandro-and-chantal-parrillo",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jeremy and Kimberly Wardlaw",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/jeremy-and-kimberly-wardlaw",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionaries serving in Senegal",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries in West Africa with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/jeremy-and-kimberly-wardlaw",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bryan and Martha Conard",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/bryan-and-martha-conard",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionaries serving in Senegal",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries in West Africa with profile page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/bryan-and-martha-conard",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tom and Beth Carlton",
+      "org_type": "individual",
+      "website": "https://blogs.ethnos360.org/tom-carlton",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Church planters in Mexico with personal blog",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries with blog platform and support model",
+      "meta": {
+        "tier": "A",
+        "role": "Church planter",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/tom-carlton/2025/07/21/what-is-ethnos-mexico-anyways/",
+        "donation_page": "blogs.ethnos360.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Randy and Laurie Steel",
+      "org_type": "individual",
+      "website": "https://blogs.ethnos360.org/randy-steel",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionaries serving in Paraguay with personal blog",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries in South America with blog platform",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/randy-steel/",
+        "donation_page": "blogs.ethnos360.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Todd and Sue Nelson",
+      "org_type": "individual",
+      "website": "https://blogs.ethnos360.org/todd-nelson",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionaries with personal blog",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries with blog platform",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/todd-nelson/",
+        "donation_page": "blogs.ethnos360.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Promise Vaughan",
+      "org_type": "individual",
+      "website": "https://blogs.ethnos360.org/promise-vaughan",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionary with personal blog",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionary with blog platform",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/promise-vaughan/",
+        "donation_page": "blogs.ethnos360.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Theo and Martha Enns",
+      "org_type": "individual",
+      "website": "https://blogs.ethnos360.org/theo-enns",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionaries with personal blog",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries with blog platform",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/theo-enns/",
+        "donation_page": "blogs.ethnos360.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Robyn Green",
+      "org_type": "individual",
+      "website": "https://blogs.ethnos360.org/robyn-green",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionary serving in Papua New Guinea with blog",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionary in Asia-Pacific with active blog",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/robyn-green/2025/12/08/as-promised-a-post-about-needs/",
+        "donation_page": "blogs.ethnos360.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rob and Hilary Bartholdson",
+      "org_type": "individual",
+      "website": "https://blogs.ethnos360.org/rob-bartholdson",
+      "city": "Iqaluit",
+      "state": "Baffin Island, Canada",
+      "summary": "Ethnos360 — Church planter in Arctic Canada with family",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries in Arctic region with blog platform",
+      "meta": {
+        "tier": "A",
+        "role": "Church planter",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/joel-potter/2025/03/31/north-of-north/",
+        "donation_page": "blogs.ethnos360.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gideon and Cassidy Willard",
+      "org_type": "individual",
+      "website": "https://blogs.ethnos360.org/gideon-willard",
+      "city": "Iqaluit",
+      "state": "Baffin Island, Canada",
+      "summary": "Ethnos360 — Church planter in Arctic Canada with family",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries in Arctic region with blog platform",
+      "meta": {
+        "tier": "A",
+        "role": "Church planter",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/joel-potter/2025/03/31/north-of-north/",
+        "donation_page": "blogs.ethnos360.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Steve and Sharon Sanford",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/steve-and-sharon-sanford",
+      "city": "Sanford",
+      "state": "Florida",
+      "summary": "Ethnos360 — Chief Executive Officer and support staff missionaries",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Leadership/HQ staff with profile page",
+      "meta": {
+        "tier": "B",
+        "role": "CEO",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/steve-and-sharon-sanford",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dallon and Teresa Anderson",
+      "org_type": "individual",
+      "website": "https://ethnos360.org/missionaries/dallon-and-teresa-anderson",
+      "city": "Sanford",
+      "state": "Florida",
+      "summary": "Ethnos360 — Chief Operations Officer and support staff missionaries",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Leadership/HQ staff with profile page",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Operations Officer",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/dallon-and-teresa-anderson",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Phil Koop",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 Aviation — Executive Director",
+      "fit_score": 7,
+      "fit_reason": "Tier B: HQ leadership - aviation operations",
+      "meta": {
+        "tier": "B",
+        "role": "Executive Director, Ethnos360 Aviation",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360aviation.org/about/leadership",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tim Hughes",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 Aviation — Director of Operations",
+      "fit_score": 7,
+      "fit_reason": "Tier B: HQ leadership - aviation operations, 22+ years PNG experience",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Operations, Ethnos360 Aviation",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360aviation.org/about/leadership",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Larry Brown",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Board Chairman",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board leadership",
+      "meta": {
+        "tier": "C",
+        "role": "Chairman, Global Ministry Agreement Board",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/meet-our-leadership",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dan Falls",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Global Training Consultant",
+      "fit_score": 6,
+      "fit_reason": "Tier B: HQ training/development staff",
+      "meta": {
+        "tier": "B",
+        "role": "Global Training Consultant",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/meet-our-leadership",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Keith Copley",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — International Ministry Office Director",
+      "fit_score": 6,
+      "fit_reason": "Tier B: HQ international ministry operations",
+      "meta": {
+        "tier": "B",
+        "role": "International Ministry Office Director",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/meet-our-leadership",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brian Coombs",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Director of Training Center",
+      "fit_score": 6,
+      "fit_reason": "Tier B: HQ training operations",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Ethnos360 Training Center",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/meet-our-leadership",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mike McGregor",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Helicopter pilot serving Papua New Guinea",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Aviation missionary with specialized role",
+      "meta": {
+        "tier": "A",
+        "role": "Helicopter pilot",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/magazine/stories/the-power-of-flight-1",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Kaylee Dean",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionary serving in Brazil",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionary in Latin America",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://www.facebook.com/ethnos360/posts/kaylee-dean-is-a-missionary-in-brazil",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Julie Ward",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionary serving Philippines among Brooke's Point Palawano people",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionary in Asia-Pacific",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/go/find-opportunities?query=&filter%5B1%5D%5B%5D=73",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Travis and Renee Whitman",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Church planters in Paraguay",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries in South America",
+      "meta": {
+        "tier": "A",
+        "role": "Church planter",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/missionaries-in-need",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Christoph and Anne Haerter",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Church planters in Senegal",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries in West Africa",
+      "meta": {
+        "tier": "A",
+        "role": "Church planter",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/stories/story/work-among-senegal-tribes-progressing",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ken and Kathy Satorius",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionaries serving Budik people in eastern Senegal",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries in West Africa",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/stories/story/work-among-senegal-tribes-progressing",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Barbara Russ",
+      "org_type": "individual",
+      "website": "",
+      "city": "Chihuahua",
+      "state": "Mexico",
+      "summary": "Ethnos360 — Teaching missionary children in Mexico",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Support staff educator",
+      "meta": {
+        "tier": "B",
+        "role": "Teacher/support staff",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://www.familychurchweb.com/missions-russ",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Abbie Patterson",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "Canada",
+      "summary": "Ethnos360 — Contributing writer/missionary in Arctic Canada",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Missionary-contributor with survey research role in Arctic",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary/contributing writer",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/all-posts/",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Anthony Haskins",
+      "org_type": "individual",
+      "website": "https://blogs.ethnos360.org/anthony-haskins/",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionary blogger",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary with blog platform",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary/blogger",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/anthony-haskins/author/anthony-haskins/",
+        "donation_page": "blogs.ethnos360.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lisa Hatton",
+      "org_type": "individual",
+      "website": "https://blogs.ethnos360.org/lisa-hatton/",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionary blogger",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary with blog platform",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary/blogger",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://blogs.ethnos360.org/lisa-hatton/author/lisa_hatton/",
+        "donation_page": "blogs.ethnos360.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nathan and Elizabeth Claasen",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionaries in need globally",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionaries listed in need program",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/missionaries-in-need",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Alice Anderson",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionary in need globally",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary listed in need program",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/missionaries-in-need",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Wilfredo and Elizabeth Copa",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionaries in need globally",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionaries listed in need program",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/missionaries-in-need",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Donovan and Mikala Paas",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Ethnos360 — Missionaries in need globally",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionaries listed in need program",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Ethnos360",
+        "evidence_url": "https://ethnos360.org/missionaries/missionaries-in-need",
+        "donation_page": "available",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "name": "Ethnos360 Aviation",
+      "type": "operational_unit",
+      "url": "https://ethnos360aviation.org/",
+      "description": "Aviation division providing helicopter and airplane support to remote missionary teams"
+    },
+    {
+      "name": "Ethnos360 Bible Institute",
+      "type": "training_facility",
+      "url": "https://e360bible.org/",
+      "description": "Bible training institute preparing missionaries for church planting"
+    },
+    {
+      "name": "Ethnos Canada",
+      "type": "regional_partner",
+      "url": "https://ethnos.ca/",
+      "description": "Canadian partner organization sending missionaries to Arctic and other regions"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org/missionaries",
+      "outcome": "found_people",
+      "people_found": 9
+    },
+    {
+      "kind": "query",
+      "value": "site:blogs.ethnos360.org missionary",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 missionaries Papua New Guinea profiles",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 missionaries Philippines support raising",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"ethnos360\" missionary Brazil profile",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 missionaries Mexico profiles support",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 aviation pilots mechanics staff",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"ethnos360\" Paraguay missionary",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 leadership staff directors",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "site:blogs.ethnos360.org/tag",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 Indonesia missionary church planting",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 Senegal West Africa missionaries",
+      "outcome": "found_people",
+      "people_found": 7
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 missionaries personal blogs individual",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:blogs.ethnos360.org author",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"ethnos360\" missionary \"raising support\"",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360.org/missionaries profile directory",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"ethnos360\" \"support raising\" profile donation",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 Bible Institute staff training",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 missionary Asia Pacific regional",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org/missionaries profile missionary",
+      "outcome": "found_people",
+      "people_found": 9
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 missionaries needing support blog update 2025 2026",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"ethnos360\" \"blog\" missionary author recent",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 missionary Philippines Mindanao helicopter",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 staff headquarters Sanford Florida",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 missionaries in need globally support",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 Canada Arctic missionaries north",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "ethnos360 missionaries Tanzania Africa",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"ethnos360\" missionary platform donation page personal support",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "negatives": [
+    "Lance & Laura Ostman",
+    "Travis & Becky Lesicka",
+    "Aaron & Lori Luse",
+    "Aaron & Stacy Jex",
+    "Aaron & Rebekah Kern",
+    "Alyssa Fyock",
+    "David & Shari Ogg"
+  ],
+  "needs_review": []
+}

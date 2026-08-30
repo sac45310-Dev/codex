@@ -1,0 +1,175 @@
+{
+  "wave_id": "w2026-08-30b",
+  "agent": "roster:ywamkona",
+  "roster_verdict": "rostered",
+  "target_org": "YWAM University of the Nations Kona",
+  "people": [
+    {
+      "org_name": "Luke Newton",
+      "org_type": "individual",
+      "website": "https://www.gofundme.com/f/rvj6sp-ywam-kona-staff",
+      "city": "Kailua-Kona",
+      "state": "Hawaii",
+      "summary": "YWAM University of the Nations Kona — Media Track photographer and teacher",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised staff via active GoFundMe fundraising campaign; leads photography for Fire & Fragrance school and teaches students",
+      "source_query": "hunter:w2026-08-30b:ywamkona",
+      "meta": {
+        "tier": "A",
+        "role": "Media Track photographer, teacher",
+        "target_org": "YWAM University of the Nations Kona",
+        "evidence_url": "https://www.gofundme.com/f/rvj6sp-ywam-kona-staff",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Carter Keefe",
+      "org_type": "individual",
+      "website": "https://www.gofundme.com/f/answering-the-call-leading-with-ywam-in-kona-for-two-years",
+      "city": "Kailua-Kona",
+      "state": "Hawaii",
+      "summary": "YWAM University of the Nations Kona — Leadership staff, discipleship and mentorship",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised staff on two-year commitment raising funds via GoFundMe; leads, disciples and empowers young people preparing for global outreach",
+      "source_query": "hunter:w2026-08-30b:ywamkona",
+      "meta": {
+        "tier": "A",
+        "role": "Leadership staff, discipleship mentor",
+        "target_org": "YWAM University of the Nations Kona",
+        "evidence_url": "https://www.gofundme.com/f/answering-the-call-leading-with-ywam-in-kona-for-two-years",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Xander Zimmerman",
+      "org_type": "individual",
+      "website": "https://www.gofundme.com/f/help-me-serve-with-ywam-kona-ekes5",
+      "city": "Kailua-Kona",
+      "state": "Hawaii",
+      "summary": "YWAM University of the Nations Kona — Support-raised staff",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised staff via GoFundMe fundraising campaign for service at YWAM Kona",
+      "source_query": "hunter:w2026-08-30b:ywamkona",
+      "meta": {
+        "tier": "A",
+        "role": "Staff member",
+        "target_org": "YWAM University of the Nations Kona",
+        "evidence_url": "https://www.gofundme.com/f/help-me-serve-with-ywam-kona-ekes5",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Markus Steffen",
+      "org_type": "individual",
+      "city": "Kailua-Kona",
+      "state": "Hawaii",
+      "summary": "YWAM University of the Nations Kona — President of University of the Nations",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Institutional leadership (President of University of the Nations global organization); likely salaried executive rather than support-raised",
+      "source_query": "hunter:w2026-08-30b:ywamkona",
+      "meta": {
+        "tier": "C",
+        "role": "President of University of the Nations",
+        "target_org": "YWAM University of the Nations Kona",
+        "evidence_url": "https://uofn.edu/about/core-leadership-team",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Thomas A Bloomer",
+      "org_type": "individual",
+      "city": "Kailua-Kona",
+      "state": "Hawaii",
+      "summary": "YWAM University of the Nations Kona — Provost of University of the Nations",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Institutional leadership (Provost); salaried senior executive overseeing academic and organizational operations",
+      "source_query": "hunter:w2026-08-30b:ywamkona",
+      "meta": {
+        "tier": "C",
+        "role": "Provost of University of the Nations",
+        "target_org": "YWAM University of the Nations Kona",
+        "evidence_url": "https://tombloomer.com/category/university-of-the-nations/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "YWAM University of the Nations Kona",
+      "website": "https://ywamkona.org",
+      "org_type": "parachurch",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "evidence": "Global missionary training organization under YWAM; staff raise 100% of personal support; offers discipleship and leadership training programs"
+    },
+    {
+      "org_name": "University of the Nations",
+      "website": "https://uofn.edu",
+      "org_type": "parachurch",
+      "size_estimate": "large",
+      "tier_profile": "AB",
+      "headcount_est": 600,
+      "faith_orientation": "christian",
+      "evidence": "Global unaccredited Christian university under YWAM with 600 campuses in 142 countries; founded 1978; co-founders Loren Cunningham and Dr. Howard Malmstadt"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "YWAM University of the Nations Kona staff directory team",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "ywamkona.org staff leadership",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "YWAM Kona support raised staff donate",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "uofn.edu YWAM University Nations Kona team leadership",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Luke Newton YWAM Kona gofundme staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Carter Keefe YWAM Kona leadership",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Xander Zimmerman YWAM Kona staff",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Markus Steffen Thomas Bloomer YWAM University Nations",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Ev Kurkinen",
+      "reason_code": "conference_training",
+      "detail": "DTS participant fundraising for Discipleship Training School tuition, not staff"
+    }
+  ]
+}

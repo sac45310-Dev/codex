@@ -1,0 +1,43 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:reach-beyond",
+  "target_org": "Reach Beyond",
+  "roster_verdict": "exhausted",
+  "notes": "Web search budget exhausted at session start (200/200 calls used prior to roster hunt initiation). Unable to conduct targeted queries for missionaries, development staff, or board members at Reach Beyond (reachbeyond.org, formerly HCJB Global, Colorado Springs). Planned queries were blocked before execution.",
+  "people": [],
+  "orgs_discovered": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org missionary staff Colorado Springs",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"reach beyond\" missionary \"personal support\" giving page",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org \"serve with us\" missionary team",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "HCJB Global Reach Beyond missionaries Colorado Springs",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org president director leadership",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    }
+  ],
+  "negatives": [],
+  "needs_review": []
+}

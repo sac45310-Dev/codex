@@ -1,0 +1,317 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:chsc",
+  "target_org": "Christian Health Service Corps",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Gregory D. Seager",
+      "org_type": "individual",
+      "website": "https://www.healthservicecorps.org/staff/greg-and-candi-seager/",
+      "city": "Grand Saline",
+      "state": "TX",
+      "summary": "Christian Health Service Corps — President & CEO",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Founder and CEO with graduate degree (MSN) in nursing/healthcare leadership; keynote speaker on global health; author; drives organizational strategy and donor relations.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "B",
+        "role": "President & CEO, Founder",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/staff/greg-and-candi-seager/",
+        "linkedin_url": "https://www.linkedin.com/in/greg-seager-chsc/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Candi D. Seager",
+      "org_type": "individual",
+      "website": "https://www.healthservicecorps.org/staff/greg-and-candi-seager/",
+      "city": "Grand Saline",
+      "state": "TX",
+      "summary": "Christian Health Service Corps — Vice President",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Co-founder and Vice President; listed as Donor Contact for organization, directly responsible for donor relations function.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President, Co-Founder, Donor Contact",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/staff/greg-and-candi-seager/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Anthony Rector",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Board Chairman",
+      "fit_score": 9,
+      "fit_reason": "Tier C: Board Chairman; governance leadership role at mission-focused medical organization; publicly listed on board roster.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chairman",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Will Caire",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Board Director",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Board Director of 13-member board; publicly listed on Form 990 and board directory.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "C",
+        "role": "Board Director",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Cherie Holt",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Board Director",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Board Director; publicly listed on Form 990 and board directory; connected to healthcare industry leadership context.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "C",
+        "role": "Board Director",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jody Collinge",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Board Director",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Board Director (MD); medical professional on governance board; publicly listed on Form 990 and board directory.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "C",
+        "role": "Board Director, Medical Doctor",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Allison Caire",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Board Director",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Board Director; publicly listed on Form 990 and board directory.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "C",
+        "role": "Board Director",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nick Schwedock",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Board Director",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Board Director; publicly listed on Form 990 and board directory.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "C",
+        "role": "Board Director",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Kent Brantly",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Medical Missionary",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised medical missionary with personal staff profile on CHSC site; committed to global health ministry work and fundraising.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "A",
+        "role": "Medical Missionary",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/staff/dr-kent-amber-brantly/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Amber Brantly",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Medical Missionary",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised medical missionary with personal staff profile on CHSC site; listed as passionate about serving through global health work.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "A",
+        "role": "Medical Missionary",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/staff/dr-kent-amber-brantly/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brent Miller",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Missionary",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionary serving at Hospital Misión Tarahumara; named on CHSC staff directory.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/staff/brent-and-selina-miller/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Selina Miller",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Missionary",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionary serving at Hospital Misión Tarahumara; named on CHSC staff directory.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/staff/brent-and-selina-miller/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brian Dungog",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Maintenance Team Member",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised staff member on maintenance team serving with CHSC; named on staff directory.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "A",
+        "role": "Maintenance Team Member",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/staff/brian-olivia-dungog/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Olivia Dungog",
+      "org_type": "individual",
+      "summary": "Christian Health Service Corps — Midwife",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised healthcare professional serving as midwife in maternity department; named on CHSC staff directory.",
+      "source_query": "hunter:w2026-08-30a:chsc",
+      "meta": {
+        "tier": "A",
+        "role": "Midwife",
+        "target_org": "Christian Health Service Corps",
+        "evidence_url": "https://www.healthservicecorps.org/staff/brian-olivia-dungog/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Christian Health Service Corps",
+      "website": "https://www.healthservicecorps.org/",
+      "org_type": "parachurch",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "headcount_est": 75,
+      "faith_orientation": "christian",
+      "evidence": "ECFA accredited member; 501(c)(3) EIN 27-1505747; founded 2010; specializes in sending support-raised medical missionaries to 25 countries; board of 13 members; headquarters Grand Saline, TX."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Christian Health Service Corps board leadership staff directory",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "healthservicecorps.org team staff members",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"Christian Health Service Corps\" executive director president",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:healthservicecorps.org staff leadership about",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Gregory Seager\" \"Candi Seager\" \"Christian Health Service Corps\" board members",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "Christian Health Service Corps missionaries serving donor relations development",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:healthservicecorps.org missionaries serve team members profiles",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "\"Christian Health Service Corps\" Grand Saline Texas nursing health professionals staff",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Lawrence \"Buddy\" Holt",
+      "org": "Christian Health Service Corps",
+      "question": "Current board status: mentioned as joining Nehemiah Real Estate Advisors as President in January 2022, unclear if still active on CHSC board or if departure date known.",
+      "evidence_url": "https://www.healthservicecorps.org/board-of-directors/",
+      "notes": "Search results referenced him as board member with 25+ years healthcare executive experience, but his current status needs verification."
+    },
+    {
+      "name": "Joy Vonk",
+      "org": "Christian Health Service Corps",
+      "question": "Role and tier unclear: listed on staff directory but specific role/function not detailed in search results.",
+      "evidence_url": "https://www.healthservicecorps.org/staff/joy-vonk/",
+      "notes": "Appears on CHSC staff directory but insufficient detail to classify tier confidently."
+    },
+    {
+      "name": "Kelly Frazier",
+      "org": "Christian Health Service Corps",
+      "question": "Unclear if salaried staff, volunteer, or contractor; appears as podcast host for Iron 2 Silver CHSC podcast.",
+      "evidence_url": "https://iron2silver.podbean.com/",
+      "notes": "Identified through podcast host listing; employment status with CHSC unclear."
+    },
+    {
+      "name": "Sarah Pruitt",
+      "org": "Christian Health Service Corps",
+      "question": "Unclear if salaried staff, volunteer, or contractor; appears as podcast host for Iron 2 Silver CHSC podcast.",
+      "evidence_url": "https://iron2silver.podbean.com/",
+      "notes": "Identified through podcast host listing; employment status with CHSC unclear."
+    }
+  ]
+}

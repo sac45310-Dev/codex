@@ -1,0 +1,252 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "prospector:medical_missions",
+  "people": [],
+  "orgs_discovered": [
+    {
+      "org_name": "Medical Missionaries",
+      "website": "https://www.medicalmissionaries.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "headcount_est": 250,
+      "faith_orientation": "christian",
+      "evidence": "100% volunteer organization with 200+ doctors, nurses, dentists. Volunteers personally provide medical care to poor and underserved globally. Clear support-raising model inherent to volunteer physician missionaries."
+    },
+    {
+      "org_name": "World Medical Mission (Samaritan's Purse)",
+      "website": "https://www.samaritanspurse.org/medical/world-medical-mission/",
+      "org_type": "parachurch",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "headcount_est": 80,
+      "faith_orientation": "christian",
+      "evidence": "Deploys Christian healthcare professionals globally. Operates 2-year program funding physicians and dentists called to medical missions with logistical/financial support. Staff physicians raise personal support; organization has development function supporting mission deployment."
+    },
+    {
+      "org_name": "Flying Doctors of America",
+      "website": "https://fdoamerica.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "headcount_est": 120,
+      "faith_orientation": "christian",
+      "evidence": "Volunteer-led org operating 36+ years. Deploys volunteer physicians, dentists, pharmacists, nurses. Each mission crewed by medical professionals. Treated 440,000+ people in underserved areas. Clear volunteer support-raiser model."
+    },
+    {
+      "org_name": "International Medical Relief (IMR)",
+      "website": "https://internationalmedicalrelief.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "AB",
+      "headcount_est": 45,
+      "faith_orientation": "secular",
+      "evidence": "Recruits doctors, nurse practitioners, PAs for medical mission trips. Provides fundraising resources to support missionaries preparing for deployments. Model supports individual medical professionals in raising funds for mission participation."
+    },
+    {
+      "org_name": "Volunteers in Medical Missions (VIMM)",
+      "website": "https://vimm.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "headcount_est": 60,
+      "faith_orientation": "christian",
+      "evidence": "Active since 1986, completed missions on 6 continents, 42 countries. Built 7 medical clinics. Volunteer-led model with physicians and healthcare professionals organizing/funding missions personally."
+    },
+    {
+      "org_name": "Medical Missions Foundation (MMF)",
+      "website": "https://www.medicalmissionsfoundation.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "headcount_est": 35,
+      "faith_orientation": "christian",
+      "evidence": "Established 1996. Volunteer-led surgical missions to Guatemala, Uganda, Philippines, India. Primarily volunteer physicians and surgeons from Kansas City metro and beyond. CPR education to local healthcare providers. Surgical mission model dependent on volunteer fundraising."
+    },
+    {
+      "org_name": "Helping Hands Medical Missions (HHMM)",
+      "website": "https://hhmm.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "headcount_est": 50,
+      "faith_orientation": "christian",
+      "evidence": "Catholic-affiliated medical missions. Deploys volunteer Catholic doctors, nurses, allied healthcare workers. Volunteer physician model common in Catholic healthcare missions organizations."
+    },
+    {
+      "org_name": "Medical Mission of Mercy USA (MMOM USA)",
+      "website": "https://www.mmomusa.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "A",
+      "headcount_est": 25,
+      "faith_orientation": "christian",
+      "evidence": "Voluntary medical missions to Philippines and Guatemala. Provides free surgical, medical, dental, vision, physical therapy services to underserved populations. Volunteer medical professional model."
+    },
+    {
+      "org_name": "Global Health Outreach (CMDA)",
+      "website": "https://cmda.org/global-health-outreach/",
+      "org_type": "ministry",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "headcount_est": 150,
+      "faith_orientation": "christian",
+      "evidence": "Ministry of Christian Medical & Dental Associations. Sends 40-50 medical, dental, surgical teams annually globally. Coordinates Christian healthcare professionals. Development/advancement function supports mission team deployment and donor relationships."
+    },
+    {
+      "org_name": "Mercy Ships",
+      "website": "https://www.mercyships.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "headcount_est": 1600,
+      "faith_orientation": "christian",
+      "evidence": "Hospital ship model founded 1978. 1600+ short/long-term volunteers including surgeons, nurses, medical staff, technicians. Staffed by volunteer healthcare professionals providing care in underserved nations. Volunteer model with development function."
+    },
+    {
+      "org_name": "Health Volunteers Overseas (HVO)",
+      "website": "https://hvousa.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "headcount_est": 80,
+      "faith_orientation": "secular",
+      "evidence": "DC-based since 1986. Deploys health professionals as short/long-term volunteers for training and mentorship. Partners with hospitals and universities. Trains 3,100+ health professionals annually across 18+ specialties, 23+ countries. Employment-based development model."
+    },
+    {
+      "org_name": "CURE International",
+      "website": "https://cure.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "BC",
+      "headcount_est": 200,
+      "faith_orientation": "christian",
+      "evidence": "Global network of 8 pediatric hospitals in Africa and Philippines. Gospel-centered surgical care. Mix of salaried hospital staff and volunteer medical professionals. Board-led with development function managing donations and mission hospital funding."
+    },
+    {
+      "org_name": "Medical Teams International",
+      "website": "https://medicalteams.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "headcount_est": 100,
+      "faith_orientation": "christian",
+      "evidence": "Crisis response and ongoing healthcare missions. Deploys medical volunteer teams for disasters, refugee health, maternal/child health. Coordinates healthcare professional volunteers. Likely has development staff supporting mission deployment."
+    },
+    {
+      "org_name": "African Mission Healthcare (AMH)",
+      "website": "https://africanmissionhealthcare.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "headcount_est": 70,
+      "faith_orientation": "christian",
+      "evidence": "Partners with mission hospitals across sub-Saharan Africa. Multi-year infrastructure, equipment, management training investments. Deployed healthcare professionals strengthen African mission hospital capacity. Development-focused support model."
+    },
+    {
+      "org_name": "Heart for Africa",
+      "website": "https://www.africaheart.com/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "headcount_est": 40,
+      "faith_orientation": "christian",
+      "evidence": "Faith-based humanitarian organization in Eswatini. Medical component included in healthcare delivery. Healthcare professionals and volunteers support mission work. Development function supports healthcare and humanitarian programming."
+    },
+    {
+      "org_name": "Real Medicine Foundation",
+      "website": "https://www.realmedicinefoundation.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Global health nonprofit providing medical services and healthcare support. Coordinates healthcare volunteer deployments. Development staff manages fundraising for healthcare programs and mission support."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "US medical missions nonprofit organizations doctors volunteers",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "short-term medical mission organizations healthcare nonprofit",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Christian medical missions organizations staff support raising",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"medical mission\" nonprofit development officer fundraising",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Global Health Outreach Medical Teams International CURE International",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Mercy Ships Gospel for Asia medical missionaries staff",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Medicine Man Foundation HealthCare Outreach Foundation medical missions",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"medical missions\" nonprofit board members development staff structure",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Heart for Africa Venture Health Alliance medical mission organizations",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "AmeriMed Clinic Foundation Health Volunteers Overseas medical nonprofit",
+      "outcome": "found_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Christian Health Service Corps",
+      "website": "https://www.healthservicecorps.org/",
+      "reason_code": "already_in_crm",
+      "detail": "Organization explicitly listed as already-covered in hunter brief."
+    },
+    {
+      "entity_kind": "org",
+      "name": "Médecins Sans Frontières / Doctors Without Borders USA",
+      "website": "https://www.msf.org/",
+      "reason_code": "too_institutional",
+      "detail": "Large, enterprise-level humanitarian organization with centralized salaried staff model. Donor base highly dependent on government grants and institutional funding, not individual support-raising missionaries."
+    },
+    {
+      "entity_kind": "org",
+      "name": "Doctors of the World USA",
+      "website": "https://doctorsoftheworld.org/",
+      "reason_code": "too_institutional",
+      "detail": "Part of international Médecins du Monde network. Large institutional model with salaried staff. Grant and institutional funding dominant; not a personal support-raising model."
+    }
+  ],
+  "needs_review": []
+}

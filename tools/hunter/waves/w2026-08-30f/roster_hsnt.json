@@ -1,0 +1,71 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:hsnt",
+  "roster_verdict": "exhausted",
+  "target_org": "Humane Society of North Texas",
+  "people": [
+    {
+      "org_name": "Jason Dougan",
+      "org_type": "individual",
+      "summary": "Humane Society of North Texas — Clinic Manager",
+      "fit_score": 3,
+      "fit_reason": "Tier C operational/clinical role (not development-focused); confirmed via LinkedIn profile snippet.",
+      "source_query": "hunter:w2026-08-30f:hsnt",
+      "meta": {
+        "tier": "C",
+        "role": "Clinic Manager",
+        "target_org": "Humane Society of North Texas",
+        "evidence_url": "https://www.linkedin.com/in/jason-dougan-149b3025/",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Humane Society of North Texas",
+      "website": "https://www.hsnt.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "HSNT is an independent secular animal-welfare nonprofit founded in 1905, serving Tarrant and surrounding counties with five adoption centers and four PetSmart Cat Adoption Centers. Fundraising relies almost entirely on private donations."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Humane Society of North Texas staff leadership Fort Worth",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "HSNT Fort Worth development director advancement philanthrophy",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "VP of Development (unnamed)",
+      "reason_code": "platform_not_person",
+      "detail": "Job title referenced in search results but no individual name identified; appears in job posting context without confirmed current employee status."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Major Gifts Officer (unnamed)",
+      "reason_code": "platform_not_person",
+      "detail": "Position identified in job posting at jobs.philanthropy.com but no individual name confirmed; cannot verify current employment status."
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Comprehensive Tier B development staff roster",
+      "org": "Humane Society of North Texas",
+      "question": "Unable to identify and confirm specific named individuals in development/advancement/philanthropy roles (Tier B target). Web search budget exhausted after 2 queries with limited results.",
+      "evidence_url": "https://www.hsnt.org/",
+      "notes": "Search strategy was limited by web search budget ceiling (200 calls). Would require direct website scraping, LinkedIn API access, or 990 tax form analysis to obtain comprehensive development staff names and titles. HSNT's official website and LinkedIn company page did not surface specific staff directory or leadership names in snippet results."
+    }
+  ]
+}

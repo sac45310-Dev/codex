@@ -1,0 +1,209 @@
+{
+  "wave_id": "w2026-08-30e",
+  "agent": "roster:msfoodnet",
+  "target_org": "Mississippi Food Network",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Stacey Jordan",
+      "summary": "Mississippi Food Network — Director, Development & External Affairs",
+      "fit_score": 7,
+      "fit_reason": "Primary development role with direct responsibility for fundraising, donor relations, and external affairs—core Tier B development staff target",
+      "source_query": "hunter:w2026-08-30e:msfoodnet",
+      "meta": {
+        "tier": "B",
+        "role": "Director, Development & External Affairs",
+        "target_org": "Mississippi Food Network",
+        "evidence_url": "https://www.linkedin.com/in/darlene-taylor-720a3422b",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Donnell Lewis",
+      "summary": "Mississippi Food Network — Board Chair",
+      "fit_score": 6,
+      "fit_reason": "Board Chair with significant donor influence; previously served as secretary, treasurer, and vice chair—key board leadership position with major gifts potential",
+      "source_query": "hunter:w2026-08-30e:msfoodnet",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Mississippi Food Network",
+        "evidence_url": "https://jacksonadvocateonline.com/mississippi-food-network-appoints-donnell-lewis-as-new-board-chair/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ted Kendall IV",
+      "summary": "Mississippi Food Network — Vice Chair, Board of Directors",
+      "fit_score": 6,
+      "fit_reason": "Vice Chair with primary board leadership responsibility; likely involved in major gifts and strategic fundraising initiatives",
+      "source_query": "hunter:w2026-08-30e:msfoodnet",
+      "meta": {
+        "tier": "C",
+        "role": "Vice Chair, Board of Directors",
+        "target_org": "Mississippi Food Network",
+        "evidence_url": "https://www.msfoodnet.org/about-us/staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kent M. Bloodworth",
+      "summary": "Mississippi Food Network — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Board member with potential donor influence and major gifts engagement",
+      "source_query": "hunter:w2026-08-30e:msfoodnet",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Mississippi Food Network",
+        "evidence_url": "https://www.msfoodnet.org/about-us/staff/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Phillip H. Lucas",
+      "summary": "Mississippi Food Network — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Board member with potential donor influence and major gifts engagement",
+      "source_query": "hunter:w2026-08-30e:msfoodnet",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Mississippi Food Network",
+        "evidence_url": "https://www.msfoodnet.org/about-us/staff/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Molly M. MacWade",
+      "summary": "Mississippi Food Network — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Board member with potential donor influence and major gifts engagement",
+      "source_query": "hunter:w2026-08-30e:msfoodnet",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Mississippi Food Network",
+        "evidence_url": "https://www.msfoodnet.org/about-us/staff/",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "negatives": [
+    {
+      "name": "Cassandra Mobley",
+      "organization": "Mississippi Food Network",
+      "reason_code": "already_in_crm",
+      "note": "Interim CEO / COO—already recorded in CRM system"
+    },
+    {
+      "name": "Cynthia Wilkinson",
+      "organization": "Mississippi Food Network",
+      "reason_code": "not_development_role",
+      "note": "Director, Accounting & Information Technology—not development/advancement staff"
+    },
+    {
+      "name": "Darlene Taylor",
+      "organization": "Mississippi Food Network",
+      "reason_code": "not_development_role",
+      "note": "Director, Human Resources—not development/advancement staff"
+    },
+    {
+      "name": "Quincy Robinson",
+      "organization": "Mississippi Food Network",
+      "reason_code": "not_development_role",
+      "note": "Director, Operations—not development/advancement staff"
+    },
+    {
+      "name": "Kelly Mott",
+      "organization": "Mississippi Food Network",
+      "reason_code": "board_member_not_top_5",
+      "note": "Board member—excluded from top 5 board selection due to limited donor influence signals"
+    },
+    {
+      "name": "Charles H. Beady Jr.",
+      "organization": "Mississippi Food Network",
+      "reason_code": "historic_role_transitioned",
+      "note": "Former CEO—appears to have transitioned from executive role"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Mississippi Food Network staff leadership team Jackson",
+      "outcome": "success",
+      "people_found": 7,
+      "names": [
+        "Stacey Jordan",
+        "Cassandra Mobley",
+        "Charles H. Beady Jr.",
+        "Donnell Lewis",
+        "Cynthia Wilkinson",
+        "Darlene Taylor",
+        "Quincy Robinson"
+      ]
+    },
+    {
+      "query": "\"Mississippi Food Network\" development director philanthropy advancement",
+      "outcome": "partial",
+      "people_found": 0,
+      "names": []
+    },
+    {
+      "query": "Mississippi Food Network board of directors trustees",
+      "outcome": "success",
+      "people_found": 6,
+      "names": [
+        "Donnell Lewis",
+        "Ted Kendall IV",
+        "Kent M. Bloodworth",
+        "Phillip H. Lucas",
+        "Molly M. MacWade",
+        "Kelly Mott"
+      ]
+    },
+    {
+      "query": "msfoodnet.org staff team members",
+      "outcome": "partial",
+      "people_found": 0,
+      "names": []
+    },
+    {
+      "query": "Mississippi Food Network LinkedIn company profile employees",
+      "outcome": "success",
+      "people_found": 5,
+      "names": [
+        "Cynthia Wilkinson",
+        "Cassandra Mobley",
+        "Stacey Jordan",
+        "Darlene Taylor",
+        "Quincy Robinson"
+      ]
+    },
+    {
+      "query": "\"Cynthia Wilkinson\" \"Mississippi Food Network\" development grants donor",
+      "outcome": "partial",
+      "people_found": 1,
+      "names": [
+        "Cynthia Wilkinson"
+      ]
+    },
+    {
+      "query": "\"Stacey Jordan\" OR \"Darlene Taylor\" OR \"Quincy Robinson\" Mississippi Food Network",
+      "outcome": "success",
+      "people_found": 3,
+      "names": [
+        "Stacey Jordan",
+        "Darlene Taylor",
+        "Quincy Robinson"
+      ]
+    },
+    {
+      "query": "Mississippi Food Network \"annual report\" 2024 2025 staff director positions",
+      "outcome": "partial",
+      "people_found": 0,
+      "names": []
+    }
+  ],
+  "crm_incumbent": false,
+  "notes": "Organization uses donor management capabilities consistent with Feeding America affiliates; small development staff footprint (1 identified Tier B development director out of ~26 total employees). Tier B hunt completed with one high-confidence development director. Tier C board identified with five members selected for chair, vice chair, and donor influence signals."
+}

@@ -1,0 +1,92 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:hvo",
+  "target_org": "Health Volunteers Overseas",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "April Pinner",
+      "summary": "Health Volunteers Overseas — Executive Director",
+      "fit_score": 8,
+      "fit_reason": "Executive Director with significant role in organizational fundraising strategy and donor relations. Credentials: MSPH, RD.",
+      "source_query": "hunter:w2026-08-30f:hvo",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "Health Volunteers Overseas",
+        "evidence_url": "https://hvousa.org/whoweare/board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Carla Smith",
+      "summary": "Health Volunteers Overseas — Board Chair",
+      "fit_score": 8,
+      "fit_reason": "Board Chair providing strategic oversight of organizational direction and donor relations. Credentials: MD, PhD.",
+      "source_query": "hunter:w2026-08-30f:hvo",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Health Volunteers Overseas",
+        "evidence_url": "https://hvousa.org/whoweare/board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Janna Beling",
+      "summary": "Health Volunteers Overseas — Board Secretary",
+      "fit_score": 7,
+      "fit_reason": "Board Secretary with governance oversight. Credentials: PT, PhD.",
+      "source_query": "hunter:w2026-08-30f:hvo",
+      "meta": {
+        "tier": "C",
+        "role": "Board Secretary",
+        "target_org": "Health Volunteers Overseas",
+        "evidence_url": "https://hvousa.org/whoweare/board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Erin Gibbs",
+      "summary": "Health Volunteers Overseas — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Board member with extensive nonprofit sector experience including AmeriCorps program leadership, public accounting, government service, and international field experience (North Macedonia, Romania, Cambodia).",
+      "source_query": "hunter:w2026-08-30f:hvo",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Health Volunteers Overseas",
+        "evidence_url": "https://www.guidestar.org/profile/52-1485477",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Health Volunteers Overseas HVO staff development advancement philanthropy",
+      "outcome": "found organizational overview and mission confirmation",
+      "people_found": 0
+    },
+    {
+      "query": "\"Health Volunteers Overseas\" leadership board executives staff directory",
+      "outcome": "identified executive director, board chair, and organization size (38 employees)",
+      "people_found": 2
+    },
+    {
+      "query": "\"Health Volunteers Overseas\" \"development officer\" OR \"major gifts\" OR \"donor relations\" OR \"fundraising\"",
+      "outcome": "found evidence of Director of Development and Partnerships role but not current incumbent name",
+      "people_found": 0
+    },
+    {
+      "query": "site:linkedin.com \"Health Volunteers Overseas\" development OR advancement OR fundraising OR \"major gifts\"",
+      "outcome": "found company page and tangential LinkedIn profiles, limited staff role confirmation",
+      "people_found": 0
+    },
+    {
+      "query": "site:hvousa.org staff OR team OR leadership OR board",
+      "outcome": "identified multiple staff members and board leadership from annual reports and pages",
+      "people_found": 9
+    }
+  ],
+  "notes": "Research exhausted public sources. Tier B development staff (4-7 individuals in development, advancement, philanthropy, major gifts, donor relations roles) could not be definitively identified with confirmed job titles. Staff member names recovered from hvousa.org materials (Danielle Stonehirsch, Andrea Moody, Laura Tyson, Natalie Cary, Emily Booker, Lauren Franklin, Linda James, Lisa Vu, Lily Troup) but specific development roles not confirmed. Tier C board/executive leadership identified: 4 confirmed individuals. HVO appears to have development function (job posting for Director of Development and Partnerships position found) but current personnel in that function not publicly named in accessible search results. Organization size: 38 employees across 3 continents as of July 2026."
+}

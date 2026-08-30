@@ -1,0 +1,63 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:omk",
+  "target_org": "Our Military Kids",
+  "roster_verdict": "exhausted",
+  "people": [],
+  "orgs_discovered": [
+    {
+      "org_name": "Our Military Kids",
+      "website": "https://ourmilitarykids.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "\"Our Military Kids\" Vienna Virginia staff team",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Our Military Kids\" development director advancement",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Our Military Kids\" board members executives leadership",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "ourmilitarykids.org staff directory team",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Our Military Kids\" philanthropy grants major gifts",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Our Military Kids nonprofit leadership donor relations",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Terri Mateo",
+      "reason_code": "already_in_crm",
+      "detail": "Senior Director of Development already in roster"
+    }
+  ]
+}

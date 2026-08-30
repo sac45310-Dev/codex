@@ -1,0 +1,374 @@
+{
+  "wave_id": "w2026-08-30d",
+  "agent": "roster:secondharvestcfl",
+  "roster_verdict": "rostered",
+  "target_org": "Second Harvest Food Bank of Central Florida",
+  "people": [
+    {
+      "org_name": "Arika Richardson",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Central Florida — Philanthropy Manager",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Philanthropy Manager responsible for major gifts, donor relations, and planned giving programs.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "B",
+        "role": "Philanthropy Manager",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://feedhopenow.org/site/SPageServer/?pagename=ways",
+        "email": "arichardson@feedhopenow.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bill Collins",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Central Florida — Chief Operating Officer",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Chief Operating Officer, senior executive managing organizational operations.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Operating Officer",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "http://www.feedhopenow.org/site/PageServer?pagename=about_staff",
+        "email": "bcollins@feedhopenow.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nancy Brumbaugh",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Central Florida — Chief Food Service Officer",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Chief Food Service Officer, senior executive managing food operations and distribution.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Food Service Officer",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "http://www.feedhopenow.org/site/PageServer?pagename=about_staff",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dawn Koffarnus",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Central Florida — Chief Health Systems & Financial Officer",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Chief Financial Officer, senior executive managing financial and health systems operations.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Health Systems & Financial Officer",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://feedhopenow.org/about-us/leadership/",
+        "email": "dkoffarnus@feedhopenow.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Amy Lein",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Central Florida — Chief Human Resources Officer",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Chief Human Resources Officer, senior executive managing organizational human resources.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Human Resources Officer",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://feedhopenow.org/about-us/leadership/",
+        "email": "alein@feedhopenow.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Peg Cornwell",
+      "org_type": "individual",
+      "city": "Winter Park",
+      "state": "FL",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Chair",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board Chair with community relations leadership at Rollins College; strong governance influence.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair, Community Relations at Rollins College",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Perry Crawley",
+      "org_type": "individual",
+      "city": "Lake Buena Vista",
+      "state": "FL",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Chair-Elect",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board Chair-Elect with senior operations role at Walt Disney World; significant leadership responsibility.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair-Elect, General Manager Magic Kingdom Park Operations",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Henry Lim",
+      "org_type": "individual",
+      "city": "Orlando",
+      "state": "FL",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Vice Chair & Treasurer",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board Vice Chair and Treasurer; attorney with fiscal governance responsibilities.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Vice Chair & Treasurer, Attorney at Lim Law",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Andrew Davis",
+      "org_type": "individual",
+      "city": "Orlando",
+      "state": "FL",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Secretary & Chief Governance Officer",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board Secretary and Chief Governance Officer; senior banker with philanthropic expertise at Bank of America.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Secretary & Chief Governance Officer, SVP and Senior Philanthropic Client Manager at Bank of America",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Andre Walton",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board member with EVP-level responsibility in healthcare benefits at Alight Solutions.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member, EVP Medicare Portfolio Services at Alight Solutions",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Anna Palmer Darkes",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member with faith community leadership at Community of Christ Church.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member, Community of Christ Church",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Audra Romao",
+      "org_type": "individual",
+      "city": "Orlando",
+      "state": "FL",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board member, Chief People Officer at Orlando Magic; leadership in major sports organization.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member, Chief People Officer at Orlando Magic",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gregory Ohe",
+      "org_type": "individual",
+      "city": "Orlando",
+      "state": "FL",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board member, Senior Vice President Ambulatory Services at Orlando Health; healthcare executive.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member, FACHE, SVP Ambulatory Services at Orlando Health",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kari Vargas",
+      "org_type": "individual",
+      "city": "Winter Garden",
+      "state": "FL",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board member, CEO of AdventHealth Winter Garden; healthcare organization leadership.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member, CEO at AdventHealth Winter Garden",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kirtus Bocox",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board member, Partner at KPMG; big four accounting firm leadership with financial expertise.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member, Partner at KPMG",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mary Beth Morgan",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member, Managing Director with likely financial or business background.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member, Managing Director",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Suzanne Worthington",
+      "org_type": "individual",
+      "city": "Orlando",
+      "state": "FL",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board member, Senior Vice President and Chief Quality Officer at Orlando Health; healthcare leadership.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member, MEd, SVP and Chief Quality Officer at Orlando Health",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://www.feedhopenow.org/site/SPageServer/?pagename=about_bod",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ryan Grail",
+      "org_type": "individual",
+      "summary": "Second Harvest Food Bank of Central Florida — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member, first Young Professionals Committee representative; emerging leader engagement.",
+      "source_query": "hunter:w2026-08-30d:secondharvestcfl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member, Young Professionals Committee",
+        "target_org": "Second Harvest Food Bank of Central Florida",
+        "evidence_url": "https://westorlandonews.com/second-harvest-welcomed-two-new-board-members-2/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Second Harvest Food Bank of Central Florida",
+      "website": "https://feedhopenow.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "headcount_est": 106,
+      "faith_orientation": "secular",
+      "evidence": "Secular hunger-relief nonprofit serving seven Central Florida counties; distributes approximately 300,000 meals daily through network of 625+ feeding partners."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Second Harvest Food Bank Central Florida leadership team staff executives",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Second Harvest Food Bank Orlando Florida board of directors",
+      "outcome": "found_people",
+      "people_found": 13
+    },
+    {
+      "kind": "query",
+      "value": "\"Second Harvest Food Bank\" Central Florida development officer major gifts philanthropy",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:feedhopenow.org staff team leadership",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "\"Second Harvest Food Bank\" Central Florida \"Chief Financial Officer\" OR \"CFO\" OR \"Chief HR\"",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Second Harvest Food Bank Central Florida annual report 2025 2026 staff officers",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Second Harvest Food Bank Central Florida \"major gifts\" OR \"donor relations\" OR \"planned giving\" manager",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com Second Harvest Food Bank Central Florida Orlando",
+      "outcome": "found_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Derrick Chubbs",
+      "reason_code": "already_in_crm",
+      "detail": "President & CEO; already in CRM per briefing"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Greg Higgerson",
+      "reason_code": "already_in_crm",
+      "detail": "Chief Development Officer, CFRE; already in CRM per briefing"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:amh",
+  "target_org": "African Mission Healthcare",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Dr. Jon Fielder",
+      "summary": "African Mission Healthcare — CEO/Chief Executive",
+      "fit_score": 0.4,
+      "fit_reason": "Medical missionary and CEO co-founder; leadership role but no explicit development/fundraising evidence",
+      "source_query": "hunter:w2026-08-30f:amh",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Executive Officer",
+        "target_org": "African Mission Healthcare",
+        "evidence_url": "https://africanmissionhealthcare.org/about-us/",
+        "confidence": 0.95
+      }
+    },
+    {
+      "org_name": "Scott Marcello",
+      "summary": "African Mission Healthcare — President",
+      "fit_score": 0.35,
+      "fit_reason": "President of organization; executive role but no explicit development/fundraising evidence",
+      "source_query": "hunter:w2026-08-30f:amh",
+      "meta": {
+        "tier": "C",
+        "role": "President",
+        "target_org": "African Mission Healthcare",
+        "evidence_url": "https://africanmissionhealthcare.org/about-us/our-team/",
+        "confidence": 0.85
+      }
+    },
+    {
+      "org_name": "Thomas Lehrman",
+      "summary": "African Mission Healthcare — Board Member",
+      "fit_score": 0.3,
+      "fit_reason": "Board member; governance role but no explicit development/fundraising evidence; ambiguous profile tiered down",
+      "source_query": "hunter:w2026-08-30f:amh",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "African Mission Healthcare",
+        "evidence_url": "https://rocketreach.co/african-mission-healthcare-management_b41a3d2bff6400bc",
+        "confidence": 0.75
+      }
+    },
+    {
+      "org_name": "Jackie Mwanthi",
+      "summary": "African Mission Healthcare — VP Finance and Administration",
+      "fit_score": 0.2,
+      "fit_reason": "CFO-level role in finance and operations; not development-focused",
+      "source_query": "hunter:w2026-08-30f:amh",
+      "meta": {
+        "tier": "C",
+        "role": "VP Finance and Administration",
+        "target_org": "African Mission Healthcare",
+        "evidence_url": "https://africanmissionhealthcare.org/about-us/our-team/",
+        "confidence": 0.8
+      }
+    }
+  ],
+  "negatives": [
+    {
+      "platform_not_person": "Director of Development",
+      "note": "Position mentioned in search results but no named individual identified; position-only reference"
+    },
+    {
+      "platform_not_person": "Development Officer",
+      "note": "Position mentioned in search results but no named individual identified; position-only reference"
+    },
+    {
+      "platform_not_person": "Development Assistant",
+      "note": "Position mentioned in search results but no named individual identified; position-only reference"
+    },
+    {
+      "platform_not_person": "Donor Communication Coordinator",
+      "note": "Position mentioned in search results but no named individual identified; position-only reference"
+    },
+    {
+      "not_relevant": "Mark Gerson",
+      "note": "Co-founder and philanthropist; appears to be founder/donor rather than current staff member"
+    },
+    {
+      "not_relevant": "Rob Congdon",
+      "note": "Consultant Physician; medical role, not development/fundraising focused"
+    },
+    {
+      "not_relevant": "Irene Maina",
+      "note": "Human Resources Manager; HR role, not development/fundraising focused"
+    },
+    {
+      "not_relevant": "Perry Jansen",
+      "note": "VP Strategic Health Partnerships; medical/program role, not development/fundraising focused"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "African Mission Healthcare development advancement staff team",
+      "outcome": "found_general_info",
+      "people_found": 0,
+      "named_development_staff": []
+    },
+    {
+      "query": "\"African Mission Healthcare\" major gifts donor relations fundraising",
+      "outcome": "found_organizational_fundraising",
+      "people_found": 0,
+      "named_development_staff": []
+    },
+    {
+      "query": "\"African Mission Healthcare\" leadership team board staff",
+      "outcome": "found_leadership_names",
+      "people_found": 4,
+      "named_development_staff": []
+    },
+    {
+      "query": "African Mission Healthcare philanthropy development director",
+      "outcome": "found_position_titles_only",
+      "people_found": 0,
+      "named_development_staff": []
+    },
+    {
+      "query": "site:africanmissionhealthcare.org staff team leadership",
+      "outcome": "found_general_team_info",
+      "people_found": 2,
+      "named_development_staff": []
+    },
+    {
+      "query": "African Mission Healthcare director development advancement giving officer",
+      "outcome": "found_position_titles_only",
+      "people_found": 0,
+      "named_development_staff": []
+    }
+  ]
+}

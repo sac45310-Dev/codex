@@ -1,0 +1,102 @@
+{
+  "wave_id": "w2026-08-30d",
+  "agent": "roster:ywamasheville",
+  "target_org": "YWAM Asheville",
+  "organization_summary": "YWAM Asheville is a discipleship community based in Asheville, North Carolina that operates as part of Youth With A Mission. The base runs Discipleship Training Schools (DTS), School of Ministry Development (SOMD), and engages in local outreach including anti-trafficking work and ministry to children at risk. YWAM organizational policy requires that ALL staff members raise 100% of their own personal support.",
+  "org_policy_note": "YWAM Asheville staff members are required to raise their own funding as part of the broader YWAM organizational model. This meets the Tier A criteria under org_policy exception.",
+  "roster_verdict": "exhausted",
+  "people": [],
+  "negatives": [
+    {
+      "name": "Staffing page (generic)",
+      "reason": "The staffing page (ywamasheville.org/staffing) discusses staffing requirements and model but does not publicly list individual names",
+      "reason_code": "platform_not_person"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "YWAM Asheville staff team leadership",
+      "search_engine": "WebSearch",
+      "outcome": "Found staffing page and organizational structure information. No individual names returned.",
+      "people_found": 0,
+      "urls": [
+        "https://ywamasheville.org/staffing",
+        "https://ywamasheville.org/ywam-asheville"
+      ]
+    },
+    {
+      "query": "\"YWAM Asheville\" director base leader",
+      "search_engine": "WebSearch",
+      "outcome": "Found information about base leadership structure but no specific individuals named.",
+      "people_found": 0,
+      "urls": [
+        "https://ywamasheville.org/staffing",
+        "https://ywamasheville.org/ywam-asheville"
+      ]
+    },
+    {
+      "query": "YWAM Asheville North Carolina team members",
+      "search_engine": "WebSearch",
+      "outcome": "Found Facebook page and general organizational information. No individual staff names listed.",
+      "people_found": 0,
+      "urls": [
+        "https://www.facebook.com/YWAMAsheville/",
+        "https://ywamasheville.org/staffing"
+      ]
+    },
+    {
+      "query": "site:ywamasheville.org staff about team",
+      "search_engine": "WebSearch",
+      "outcome": "Found multiple pages from main domain but no individual staff member names publicly listed.",
+      "people_found": 0,
+      "urls": [
+        "https://ywamasheville.org/staffing",
+        "https://ywamasheville.org/ywam-asheville"
+      ]
+    },
+    {
+      "query": "\"YWAM Asheville\" staff names roster",
+      "search_engine": "WebSearch",
+      "outcome": "Confirmed staffing page exists but individual names not publicly exposed in search results.",
+      "people_found": 0,
+      "urls": [
+        "https://ywamasheville.org/staffing"
+      ]
+    },
+    {
+      "query": "YWAM Asheville support prayer letter fundraising",
+      "search_engine": "WebSearch",
+      "outcome": "Found general YWAM support-raising resources and confirmed YWAM org-level support-raising model. No individual staff members identified.",
+      "people_found": 0,
+      "urls": [
+        "https://ywam.org/supportraising",
+        "https://ywam.org/dts-fundraising-guide"
+      ]
+    },
+    {
+      "query": "\"YWAM Asheville\" partner with us giving donations support",
+      "search_engine": "WebSearch",
+      "outcome": "Found donation page and general information. No individual staff member giving pages or support materials identified.",
+      "people_found": 0,
+      "urls": [
+        "https://ywamasheville.org/donate",
+        "https://charitynavigator.org/ein/463604472"
+      ]
+    },
+    {
+      "query": "YWAM Asheville Brian Jackson Michael Moran staff",
+      "search_engine": "WebSearch",
+      "outcome": "No results connecting these or any other individuals to YWAM Asheville staff.",
+      "people_found": 0,
+      "urls": [
+        "https://ywam.org/location/ywam-asheville/b-2067"
+      ]
+    }
+  ],
+  "search_summary": {
+    "total_searches": 8,
+    "total_individuals_found": 0,
+    "research_status": "YWAM Asheville confirmed as legitimate base organization with organizational support-raising policy, but no individually-named staff members found through public web search. Staffing page exists (ywamasheville.org/staffing) but does not appear to publicly list individual staff names."
+  },
+  "notes": "YWAM Asheville operates as a discipleship base with staff requirements including completion of DTS and SOMD. Per YWAM organizational policy, all staff raise 100% of personal support, making this organization aligned with the donor prospect profile. However, roster development requires either: (1) direct contact with organization for staff directory, (2) identifying personal giving pages or prayer letters from individual staff members, or (3) discovering individual staff members through additional research channels not available through public web search."
+}

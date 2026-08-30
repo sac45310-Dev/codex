@@ -1,0 +1,219 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:navigators",
+  "target_org": "The Navigators",
+  "roster_verdict": "exhausted",
+  "notes": "partial — large org. Web search budget exhausted after 10 queries. The Navigators operates on 170+ US college campuses, 126 military bases, and maintains distributed staff model. Personal giving page discovery limited by site search structure (donations.navigators.org requires interactive search). Campus ministry staff identified across multiple universities but many with partial names only. Military ministry presence confirmed but no named staff extracted.",
+  "people": [
+    {
+      "org_name": "Daniel Otieno",
+      "org_type": "individual",
+      "website": "https://donations.navigators.org/s/fund/a4e1Q000000UicIQAS/daniel-otieno",
+      "city": "Moi",
+      "state": "Kenya",
+      "summary": "The Navigators — Gospel Worker, Regional Director (Navigators Kenya)",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Personal donations.navigators.org giving page confirmed. Gospel Worker and Regional Director role with active fundraising page.",
+      "meta": {
+        "tier": "A",
+        "role": "Gospel Worker, Regional Director",
+        "target_org": "The Navigators",
+        "evidence_url": "https://donations.navigators.org/s/fund/a4e1Q000000UicIQAS/daniel-otieno",
+        "donation_page": "https://donations.navigators.org/s/fund/a4e1Q000000UicIQAS/daniel-otieno",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "John Nellis",
+      "org_type": "individual",
+      "website": "https://donations.navigators.org/s/fund/a4e1Q000000UilsQAC/john-nellis",
+      "city": "",
+      "state": "",
+      "summary": "The Navigators — Navigator Services Staff",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Personal donations.navigators.org giving page confirmed. Staff member with active fundraising page.",
+      "meta": {
+        "tier": "A",
+        "role": "Navigator Services Staff",
+        "target_org": "The Navigators",
+        "evidence_url": "https://donations.navigators.org/s/fund/a4e1Q000000UilsQAC/john-nellis",
+        "donation_page": "https://donations.navigators.org/s/fund/a4e1Q000000UilsQAC/john-nellis",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brian Incontrera",
+      "org_type": "individual",
+      "website": "",
+      "city": "Jacksonville",
+      "state": "FL",
+      "summary": "The Navigators — Campus Ministry Director (University of North Florida)",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Campus ministry director role at major university. No personal giving page found in search results.",
+      "meta": {
+        "tier": "B",
+        "role": "Campus Ministry Director",
+        "target_org": "The Navigators",
+        "evidence_url": "https://www.navigators.org/blog/a-citywide-vision-simple-and-intentional-discipleship-in-jacksonville/",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Josh Borunda",
+      "org_type": "individual",
+      "website": "",
+      "city": "San Marcos",
+      "state": "TX",
+      "summary": "The Navigators — Campus Ministry Staff (Texas State University)",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Campus ministry staff training and developing students at Texas State University. No personal giving page found.",
+      "meta": {
+        "tier": "B",
+        "role": "Campus Ministry Staff",
+        "target_org": "The Navigators",
+        "evidence_url": "https://trinitybible.com/missionaries/the-navigators/",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Caitlin Borunda",
+      "org_type": "individual",
+      "website": "",
+      "city": "San Marcos",
+      "state": "TX",
+      "summary": "The Navigators — Campus Ministry Staff (Texas State University)",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Campus ministry staff training and developing students at Texas State University. No personal giving page found.",
+      "meta": {
+        "tier": "B",
+        "role": "Campus Ministry Staff",
+        "target_org": "The Navigators",
+        "evidence_url": "https://trinitybible.com/missionaries/the-navigators/",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "name": "Navigators Kenya",
+      "type": "regional_ministry",
+      "summary": "Regional office managing Gospel Worker staff and discipleship initiatives"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:donations.navigators.org staff members",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"donations.navigators.org\" personal giving pages",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "The Navigators campus ministry staff universities",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"The Navigators\" military ministry staff bases",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:navigators.org staff directory",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Daniel Otieno Navigators staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "John Nellis Navigators staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:navigators.org campus ministry director",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "\"The Navigators\" staff \"Colorado Springs\"",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Navigators college ministry staff list",
+      "outcome": "found_people",
+      "people_found": 6
+    }
+  ],
+  "negatives": [
+    "Ben Nugent — Navigators Collegiate Mission Director (on known people exclusion list)",
+    "Jerry Bridges — deceased/retired (historical Navigators staff)"
+  ],
+  "needs_review": [
+    {
+      "name": "Dave",
+      "context": "Campus director at Georgia Tech",
+      "reason": "Partial name only; insufficient for reporting"
+    },
+    {
+      "name": "Isaac",
+      "context": "Campus director at Belmont University",
+      "reason": "Partial name only; insufficient for reporting"
+    },
+    {
+      "name": "Jess",
+      "context": "Associate Campus Director at UCSD",
+      "reason": "Partial name only; insufficient for reporting"
+    },
+    {
+      "name": "Brad",
+      "context": "Penn State campus director (staff since 2007, 6 years at University of Alabama, 2013+ at Penn State)",
+      "reason": "Partial name only; insufficient for reporting"
+    },
+    {
+      "name": "Maggie",
+      "context": "Penn State staff",
+      "reason": "Partial name only; insufficient for reporting"
+    },
+    {
+      "name": "Nash",
+      "context": "Penn State staff",
+      "reason": "Partial name only; insufficient for reporting"
+    },
+    {
+      "name": "Andrew",
+      "context": "UVA staff (University of South Florida graduate)",
+      "reason": "Partial name only; insufficient for reporting"
+    },
+    {
+      "name": "Devynn",
+      "context": "UVA staff (Florida State University graduate, married to Andrew since May 2017)",
+      "reason": "Partial name only; insufficient for reporting"
+    },
+    {
+      "name": "Katie",
+      "context": "UVA staff",
+      "reason": "Partial name only; insufficient for reporting"
+    }
+  ]
+}

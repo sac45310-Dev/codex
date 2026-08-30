@@ -1,0 +1,838 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:young-life",
+  "target_org": "Young Life",
+  "roster_verdict": "exhausted",
+  "notes": "Partial roster — large parachurch organization with distributed field staff. Prioritized senior/divisional leadership, regional directors, and area directors with named areas across 25 targeted WebSearch queries. Tier A field staff leadership heavily weighted (areas/regions/divisions). Tier C board members included. Many areas identified with director positions but specific names unavailable in search results; did not fabricate.",
+  "people": [
+    {
+      "org_name": "Wiley Scott III",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/wiley-scott-iii-9500a010/",
+      "city": "Minneapolis",
+      "state": "MN",
+      "summary": "Young Life — Group Senior Vice President of US Field Ministry, oversees six leadership divisions",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Executive divisional leadership; senior vice president position with direct oversight of field operations",
+      "meta": {
+        "tier": "A",
+        "role": "Group Senior Vice President, US Field Ministry",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/wiley-scott-iii-9500a010/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Josh Griffin",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/joshgriffin1/",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Senior Vice President, Eastern US Division",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Divisional senior leadership; SVP with regional responsibility for Eastern US operations",
+      "meta": {
+        "tier": "A",
+        "role": "Senior Vice President, Eastern US",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/joshgriffin1/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Marty Caldwell",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/marty-caldwell-abba385/",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Senior Vice President, Mid Eurasia Division (International)",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Divisional senior leadership; SVP with responsibility for international operations",
+      "meta": {
+        "tier": "A",
+        "role": "Senior Vice President, Mid Eurasia Division",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/marty-caldwell-abba385/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Christopher Kessick",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/christopher-kessick-6b0056202/",
+      "city": "Hudson",
+      "state": "OH",
+      "summary": "Young Life — Regional Director",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Regional director; field staff leadership role raising personal support",
+      "meta": {
+        "tier": "A",
+        "role": "Regional Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/christopher-kessick-6b0056202/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dave Avramovich",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/daveavramovich/",
+      "city": "Los Angeles",
+      "state": "CA",
+      "summary": "Young Life — Regional Director, LA Metropolitan Area",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Regional director; field staff leadership role with named geographic area",
+      "meta": {
+        "tier": "A",
+        "role": "Regional Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/daveavramovich/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Andy Swanda",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/andy-swanda-mpls/",
+      "city": "Minneapolis",
+      "state": "MN",
+      "summary": "Young Life — Regional Director, Minneapolis",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Regional director; field staff leadership role with named geographic area",
+      "meta": {
+        "tier": "A",
+        "role": "Regional Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/andy-swanda-mpls/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lucho Llanca",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/luchollanca/",
+      "city": "Houston",
+      "state": "TX",
+      "summary": "Young Life — Regional Director, Greater Houston Region",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Regional director; field staff leadership role with named geographic area",
+      "meta": {
+        "tier": "A",
+        "role": "Regional Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/luchollanca/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rob Crawford",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "CA",
+      "summary": "Young Life — Regional Director, California Central",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Regional director; field staff leadership role with named geographic area",
+      "meta": {
+        "tier": "A",
+        "role": "Regional Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://santabarbara.younglife.org/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Courtney Lancaster",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "FL",
+      "summary": "Young Life — Associate Regional Director, Florida Region",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Associate regional director; field staff leadership oversee multiple areas (Jacksonville, Orlando, Tampa, North Palm Beach)",
+      "meta": {
+        "tier": "A",
+        "role": "Associate Regional Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://northeastflorida.younglife.org/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Missy Kenoyer",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/missy-kenoyer-a7427260/",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Associate Regional Director",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Associate regional director; field staff leadership role",
+      "meta": {
+        "tier": "A",
+        "role": "Associate Regional Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/missy-kenoyer-a7427260/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "BJ Riley",
+      "org_type": "individual",
+      "website": "",
+      "city": "Tyler",
+      "state": "TX",
+      "summary": "Young Life — Area Director, Tyler Young Life",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director with named geographic area; field staff leadership",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://tyler.younglife.org/find-us/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Grant Zeller",
+      "org_type": "individual",
+      "website": "",
+      "city": "Abilene",
+      "state": "TX",
+      "summary": "Young Life — Area Director, Abilene",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director with named geographic area; field staff leadership",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://abilene.younglife.org/about-2/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jasmine Smith",
+      "org_type": "individual",
+      "website": "",
+      "city": "Fort Worth",
+      "state": "TX",
+      "summary": "Young Life — Area Director, Fort Worth",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director with named geographic area; field staff leadership",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://fortworth.younglife.org/about/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dave Peterson",
+      "org_type": "individual",
+      "website": "",
+      "city": "Santa Barbara",
+      "state": "CA",
+      "summary": "Young Life — Area Director, Santa Barbara",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director with named geographic area; field staff leadership",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://santabarbara.younglife.org/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "August Short",
+      "org_type": "individual",
+      "website": "",
+      "city": "High Country",
+      "state": "NC",
+      "summary": "Young Life — Area Director, High Country Young Life (NC71)",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director with named geographic area; field staff leadership",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://highcountry.younglife.org/about/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Katie Loehr",
+      "org_type": "individual",
+      "website": "",
+      "city": "Upper Miami Valley",
+      "state": "OH",
+      "summary": "Young Life — Area Director, Upper Miami Valley Young Life",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director with named geographic area; field staff leadership",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://uppermiamivalley.younglife.org/about/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Patrick Taylor",
+      "org_type": "individual",
+      "website": "",
+      "city": "Lima",
+      "state": "OH",
+      "summary": "Young Life — Area Director, Lima Young Life",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director with named geographic area; field staff leadership",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://lima.younglife.org/about/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Chris Light",
+      "org_type": "individual",
+      "website": "",
+      "city": "Great Miami",
+      "state": "OH",
+      "summary": "Young Life — Area Director, Great Miami Young Life",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director with named geographic area; field staff leadership",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://greatmiami.younglife.org/about/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Will Acker",
+      "org_type": "individual",
+      "website": "",
+      "city": "Knoxville",
+      "state": "TN",
+      "summary": "Young Life — Area Director, Knoxville Young Life",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director with named geographic area; field staff leadership",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://knoxville.younglife.org/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ryder Jones",
+      "org_type": "individual",
+      "website": "",
+      "city": "Southwest Orlando",
+      "state": "FL",
+      "summary": "Young Life — Area Director, Southwest Orlando Young Life",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director with named geographic area; field staff leadership",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.orangeobserver.com/news/2026/aug/18/new-area-director-to-rebuild-southwest-orlando-young-life/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dan Griebel",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "IL",
+      "summary": "Young Life — Area Director (Capernaum), Illinois",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Area director position with specialty ministry focus (Capernaum)",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://kanecounty.younglife.org/about/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Andi Yanok",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/andi-yanok-b9430028/",
+      "city": "Elk Grove",
+      "state": "AZ",
+      "summary": "Young Life — Area Director",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director; field staff leadership role",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/andi-yanok-b9430028/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bruce Weaver",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/bruce-weaver-729a1282/",
+      "city": "",
+      "state": "AZ",
+      "summary": "Young Life — Area Director I",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director; field staff leadership role",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director I",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/bruce-weaver-729a1282/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Chris Rothert",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/chris-rothert-chandler-area-director-900b0a6/",
+      "city": "Chandler",
+      "state": "AZ",
+      "summary": "Young Life — Chandler Area Director",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director with named geographic area; field staff leadership",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/chris-rothert-chandler-area-director-900b0a6/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Chris McGuire",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/chris-mcguire-3622812b",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Area Director",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Area director; field staff leadership role",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/chris-mcguire-3622812b",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nikki Busch",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/nikki-busch-376b04a0/",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "summary": "Young Life — Divisional Field Development Director",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Divisional staff development role; HQ-focused but field development responsibility",
+      "meta": {
+        "tier": "B",
+        "role": "Divisional Field Development Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/nikki-busch-376b04a0/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Pamela Paige",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/pamela-kee-paige/",
+      "city": "Montclair",
+      "state": "NJ",
+      "summary": "Young Life — Divisional HR Director",
+      "fit_score": 5,
+      "fit_reason": "Tier B: Divisional HR leadership; HQ-focused human resources role",
+      "meta": {
+        "tier": "B",
+        "role": "Divisional HR Director",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/pamela-kee-paige/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bill Paige",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/bill-paige-6853943b",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Field Vice President",
+      "fit_score": 7,
+      "fit_reason": "Tier B: VP with field focus; advancement/development leadership",
+      "meta": {
+        "tier": "B",
+        "role": "Field Vice President",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/bill-paige-6853943b",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Paul Sherrill",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/paul-sherrill-070376336/",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Vice President, Administrative Services",
+      "fit_score": 5,
+      "fit_reason": "Tier B: HQ executive role in administrative operations",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President, Administrative Services",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/paul-sherrill-070376336/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Chad Sievert",
+      "org_type": "individual",
+      "website": "https://www.linkedin.com/in/chad-sievert-000886184/",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Vice President, Camping",
+      "fit_score": 5,
+      "fit_reason": "Tier B: HQ VP overseeing camping ministry operations",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President, Camping",
+        "target_org": "Young Life",
+        "evidence_url": "https://www.linkedin.com/in/chad-sievert-000886184/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Harold D. Melton",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Chair, Board of Trustees",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board member; governance/strategic leadership",
+      "meta": {
+        "tier": "C",
+        "role": "Chair, Board of Trustees",
+        "target_org": "Young Life",
+        "evidence_url": "https://younglife.org/About/Pages/BoardOfTrustees.aspx",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "L. Brooks Entwistle",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Board Member, Board of Trustees",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board member; governance/strategic oversight",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Young Life",
+        "evidence_url": "https://younglife.org/About/Pages/BoardOfTrustees.aspx",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Heriberto Guerra Jr.",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Board Member, Board of Trustees",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board member; governance/strategic oversight",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Young Life",
+        "evidence_url": "https://younglife.org/About/Pages/BoardOfTrustees.aspx",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Reginald L. Jones III",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Board Member, Board of Trustees",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board member; governance/strategic oversight",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Young Life",
+        "evidence_url": "https://younglife.org/About/Pages/BoardOfTrustees.aspx",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Thomas L. Thomas",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Board Member, Board of Trustees",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board member; governance/strategic oversight",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Young Life",
+        "evidence_url": "https://younglife.org/About/Pages/BoardOfTrustees.aspx",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Phyllis J. Washington",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Young Life — Board Member, Board of Trustees",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board member; governance/strategic oversight",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Young Life",
+        "evidence_url": "https://younglife.org/About/Pages/BoardOfTrustees.aspx",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"divisional director\" OR \"senior vice president\" OR \"executive director\"",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"regional director\"",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"young life\" \"area director\" site:linkedin.com",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "younglife.org staff leadership team",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"area director\" Colorado",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"area director\" Texas",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"area director\" California",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"young life\" \"divisional director\" site:linkedin.com",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"area director\" North Carolina",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"area director\" Georgia",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"young life\" \"group senior vice president\" site:linkedin.com",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"president\" OR \"chief executive\"",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"area director\" Ohio",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"area director\" Pennsylvania",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"area director\" New York",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"young life\" \"vice president\" site:linkedin.com -\"group senior vice president\"",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "\"young life\" \"area director\" -site:linkedin.com site:.org Tennessee",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"young life\" \"area director\" -site:linkedin.com site:.org Florida",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"area director\" Illinois",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"young life\" \"regional director\" -site:linkedin.com site:.org",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"area director\" Washington state",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"young life\" \"chief development officer\" OR \"chief learning officer\" site:linkedin.com",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org board OR trustees",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "\"young life\" \"area director\" Arizona site:linkedin.com",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"area director\" Massachusetts OR Connecticut OR Rhode Island",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    "Katie Fitch",
+    "Liana Zuniga",
+    "Allison Korson",
+    "Chris Theule-VanDam",
+    "Alex Meyers",
+    "Eric Schafer",
+    "Melissa Pullon",
+    "Troy Earnest",
+    "Bryan Shaffer",
+    "Holly Roden",
+    "Tim Hartin",
+    "Keely Blake",
+    "Evan Norton",
+    "Merredith Buchanan",
+    "Rylee Ceraul",
+    "Sarah Ling",
+    "Emma Phillips Kegley",
+    "Rick Wilson",
+    "Brian Ford",
+    "Ashley Kizer",
+    "Matthew Windsor",
+    "Tameika Kennie",
+    "Jackson Kemper",
+    "Dave Briggs",
+    "Kevin Spinks",
+    "John Evans",
+    "Brett Hersma",
+    "Tom Hammon",
+    "Ann Shackelton",
+    "Gary Parsons",
+    "Karil Connor",
+    "Shelley Meador",
+    "Joey Jimenez",
+    "Chad Edwards",
+    "Scott Brill",
+    "Billy Boyle",
+    "Mandy Adkins",
+    "Newt Crenshaw",
+    "Justin Robillard",
+    "Tyler Wolf",
+    "Craig Humberd",
+    "Ian Stout",
+    "Steven Vollmer",
+    "Johnell Moody",
+    "Yolanda Robles",
+    "Ibn Shabazz",
+    "Pradeepa Ganhewa",
+    "Vince Gordon",
+    "Jay Robinson",
+    "David Muir",
+    "David Bast",
+    "Gerryson Otieno Sadieda",
+    "Brady Kelly",
+    "Nick Doble",
+    "Gustavo Fuentes",
+    "Nathaniel Hill",
+    "Levi Price",
+    "Joel Brantley"
+  ],
+  "needs_review": [
+    "Matt (Area Director, Young Life Greater Akron, OH) - last name not found",
+    "Nancylee (Area Director, Philadelphia YoungLives, PA) - last name not found"
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:serge",
+  "target_org": "Serge",
+  "roster_verdict": "exhausted",
+  "notes": "Conducted 20 targeted WebSearch queries (budget limit reached) covering Serge missionaries, staff, and donation pages. Identified 8 Tier A field missionaries with personal designation pages on give.serge.org, 6 Tier B HQ/support staff, and partial data on Marc Davis. Rose Marie Miller (deceased) excluded per protocol. Organization has 325+ missionaries in 29 countries; focus was on named individuals with direct evidence via serge.org or give.serge.org pages.",
+  "people": [
+    {
+      "org_name": "Scott and Jennifer Myhre",
+      "org_type": "individual",
+      "website": "https://give.serge.org/donate/scott-and-jennifer-myhre",
+      "city": "Bundibugyo",
+      "state": "Uganda",
+      "summary": "Serge — Physician missionaries, East Africa Area Directors",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised missionaries with give.serge.org personal donation page. Both physicians serving in Uganda since 1993 (except 8 years Kenya). Leadership roles managing East Africa region (Uganda, Kenya, Burundi, DRC, Malawi, South Sudan).",
+      "meta": {
+        "tier": "A",
+        "role": "Physician missionaries, Area Directors",
+        "target_org": "Serge",
+        "evidence_url": "https://give.serge.org/donate/scott-and-jennifer-myhre",
+        "donation_page": "https://give.serge.org/donate/scott-and-jennifer-myhre",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ted and Eunice John",
+      "org_type": "individual",
+      "website": "https://give.serge.org/donate/ted-and-eunice-john",
+      "city": "Kibuye",
+      "state": "Burundi",
+      "summary": "Serge — Medical missionaries serving in Burundi",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised medical missionary couple with give.serge.org personal donation page. Serving at Kibuye Hope Hospital in one of world's poorest nations. Three children (Toby, Amos, Timothy). Completed post-residency training.",
+      "meta": {
+        "tier": "A",
+        "role": "Medical missionaries",
+        "target_org": "Serge",
+        "evidence_url": "https://give.serge.org/donate/ted-and-eunice-john",
+        "donation_page": "https://give.serge.org/donate/ted-and-eunice-john",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "John and Jessica Cropsey",
+      "org_type": "individual",
+      "website": "https://give.serge.org/donate/john-and-jessica-cropsey",
+      "city": "East Africa",
+      "state": "Burundi/Kenya",
+      "summary": "Serge — Ophthalmologist and missionary family serving in Africa",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised medical missionary family with give.serge.org personal donation page. Served 15 years in East/Central Africa; ophthalmology specialist. Developed Hope Africa University teaching hospital in Kibuye, Burundi (2011-2021).",
+      "meta": {
+        "tier": "A",
+        "role": "Ophthalmologist missionary, medical educator",
+        "target_org": "Serge",
+        "evidence_url": "https://give.serge.org/donate/john-and-jessica-cropsey",
+        "donation_page": "https://give.serge.org/donate/john-and-jessica-cropsey",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ben and Becca Johnson",
+      "org_type": "individual",
+      "website": "https://give.serge.org/donate/ben-and-becca-johnson",
+      "city": "Chiang Mai",
+      "state": "Thailand",
+      "summary": "Serge — Missionaries with church planting ministry since 2015",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised missionaries with give.serge.org personal donation page. Serving since 2015 in Thailand. Church planting, training Thai church leaders and missionary families. Ben has chaplain/aviation background; Becca has social work background.",
+      "meta": {
+        "tier": "A",
+        "role": "Church planters, missionary trainers",
+        "target_org": "Serge",
+        "evidence_url": "https://give.serge.org/donate/ben-and-becca-johnson",
+        "donation_page": "https://give.serge.org/donate/ben-and-becca-johnson",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jeremy and Angel",
+      "org_type": "individual",
+      "website": "https://give.serge.org/p-737-jeremy-angel-m.aspx",
+      "city": "Southall/London",
+      "state": "United Kingdom",
+      "summary": "Serge — Missionary couple, formerly Uganda, now UK (justice/mercy ministry)",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries with give.serge.org personal designation page. Served Uganda 2015-2018 (refugee ministry); now in UK for justice/mercy deed ministry to unreached community in Southall. Originally from Orlando; have children.",
+      "meta": {
+        "tier": "A",
+        "role": "Missionaries, justice/mercy ministry",
+        "target_org": "Serge",
+        "evidence_url": "https://give.serge.org/p-737-jeremy-angel-m.aspx",
+        "donation_page": "https://give.serge.org/p-737-jeremy-angel-m.aspx",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Boas Opedun",
+      "org_type": "individual",
+      "website": "https://serge.org/location/seam/",
+      "city": "Fort Portal/Kampala",
+      "state": "Uganda",
+      "summary": "Serge — Media specialist, visual storyteller, photographer/videographer",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Field missionary with media role at Serge East Africa. Serves with wife Jenna and four children. Documentary photographer, video producer, drone pilot. Advocates for Serge programs across East Africa via visual content. Based in Kampala/Fort Portal.",
+      "meta": {
+        "tier": "A",
+        "role": "Media specialist, photographer/videographer",
+        "target_org": "Serge",
+        "evidence_url": "https://serge.org/location/seam/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Regan Strutner",
+      "org_type": "individual",
+      "website": "https://www.thestrutners.info/",
+      "city": "Kapsowar",
+      "state": "Kenya",
+      "summary": "Serge — Photographer/filmmaker, Director of Friends of Kapsowar nonprofit",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Field missionary with husband Dr. Strutner and three children at Kapsowar Mission Hospital. Photographer/filmmaker supporting social work dept. Directs Friends of Kapsowar nonprofit supporting hospital. Husband joined 2023 with Serge.",
+      "meta": {
+        "tier": "A",
+        "role": "Photographer/filmmaker, nonprofit director",
+        "target_org": "Serge",
+        "evidence_url": "https://www.thestrutners.info/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mark and Sarah Cary",
+      "org_type": "individual",
+      "website": "https://give.serge.org/donate/mark-and-sarah-cary",
+      "city": "Brno",
+      "state": "Czech Republic",
+      "summary": "Serge — Missionaries in Central Europe since 2018",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionaries with give.serge.org personal donation page. Serving in Brno, Czech Republic since 2018. History of short-term missions in region since 1998; full-year residency 2001. Two adult children.",
+      "meta": {
+        "tier": "A",
+        "role": "Missionaries, Central Europe",
+        "target_org": "Serge",
+        "evidence_url": "https://give.serge.org/donate/mark-and-sarah-cary",
+        "donation_page": "https://give.serge.org/donate/mark-and-sarah-cary",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jim Lovelady",
+      "org_type": "individual",
+      "website": "https://give.serge.org/donate/jim-lovelady",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "summary": "Serge — Discipleship Mentor, Renewal team, podcast host",
+      "fit_score": 6,
+      "fit_reason": "Tier B: HQ/support staff with Serge. Based in Philadelphia. Discipleship Mentor with Renewal team supporting missionaries in the field. Hosts Grace at the Fray podcast interviewing missionaries and ministry leaders. Has wife Lori and 3 children (Lucia, Ephram, Talitha). Also maintains independent pastoral ministry.",
+      "meta": {
+        "tier": "B",
+        "role": "Discipleship mentor, podcast host",
+        "target_org": "Serge",
+        "evidence_url": "https://give.serge.org/donate/jim-lovelady",
+        "donation_page": "https://give.serge.org/donate/jim-lovelady",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Allison",
+      "org_type": "individual",
+      "website": "https://serge.org/about/leadership/",
+      "city": "Jenkintown",
+      "state": "Pennsylvania",
+      "summary": "Serge — Executive Director (new)",
+      "fit_score": 5,
+      "fit_reason": "Tier B: HQ leadership. Newly appointed executive director of Serge. First name only provided in search results; full name requires direct contact with leadership page.",
+      "meta": {
+        "tier": "B",
+        "role": "Executive Director",
+        "target_org": "Serge",
+        "evidence_url": "https://serge.org/about/leadership/",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Osborne",
+      "org_type": "individual",
+      "website": "https://serge.org/about/leadership/",
+      "city": "Jenkintown",
+      "state": "Pennsylvania",
+      "summary": "Serge — Former Executive Director (23 years with org, 20 as director)",
+      "fit_score": 4,
+      "fit_reason": "Tier B: HQ leadership/advisory. Former executive director with 23 years Serge tenure. Currently working 2-year transition maintaining donor relationships and advising leadership team. Donor relationship and advisory roles.",
+      "meta": {
+        "tier": "B",
+        "role": "Former Executive Director, advisor",
+        "target_org": "Serge",
+        "evidence_url": "https://serge.org/about/leadership/",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Stephanie",
+      "org_type": "individual",
+      "website": "https://serge.org/about/leadership/",
+      "city": "Jenkintown",
+      "state": "Pennsylvania",
+      "summary": "Serge — People Development Senior Manager",
+      "fit_score": 5,
+      "fit_reason": "Tier B: HQ administrative staff. People Development Senior Manager leading event management for missionary assessment/orientation process. Project and strategic support to People Development and Intercultural Development teams.",
+      "meta": {
+        "tier": "B",
+        "role": "People Development Senior Manager",
+        "target_org": "Serge",
+        "evidence_url": "https://serge.org/about/leadership/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nicole",
+      "org_type": "individual",
+      "website": "https://serge.org/about/leadership/",
+      "city": "Jenkintown",
+      "state": "Pennsylvania",
+      "summary": "Serge — Human Resources Director",
+      "fit_score": 4,
+      "fit_reason": "Tier B: HQ administrative staff. HR Director hired September 2024. Recent addition to leadership team managing human resources function.",
+      "meta": {
+        "tier": "B",
+        "role": "HR Director",
+        "target_org": "Serge",
+        "evidence_url": "https://serge.org/about/leadership/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Matt",
+      "org_type": "individual",
+      "website": "https://serge.org/about/leadership/",
+      "city": "Jenkintown",
+      "state": "Pennsylvania",
+      "summary": "Serge — IT Director, database/technical operations",
+      "fit_score": 4,
+      "fit_reason": "Tier B: HQ technical staff. IT leadership role managing databases, data applications, and technical operations. Studied computer science at Covenant College.",
+      "meta": {
+        "tier": "B",
+        "role": "IT Director",
+        "target_org": "Serge",
+        "evidence_url": "https://serge.org/about/leadership/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Marc Davis",
+      "org_type": "individual",
+      "website": "https://give.serge.org/donate/marc-davis",
+      "city": "",
+      "state": "",
+      "summary": "Serge — Missionary (incomplete data)",
+      "fit_score": 0,
+      "fit_reason": "Needs review: Found on give.serge.org donation page but search budget exhausted before gathering detailed information on role, location, or field assignment.",
+      "meta": {
+        "tier": "A",
+        "role": "Unknown",
+        "target_org": "Serge",
+        "evidence_url": "https://give.serge.org/donate/marc-davis",
+        "donation_page": "https://give.serge.org/donate/marc-davis",
+        "confidence": "low"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "name": "Serge (formerly World Harvest Mission)",
+      "location": "Jenkintown, PA",
+      "summary": "International Reformed missions organization, 325+ missionaries in 29 countries (Africa, Asia, Europe, Americas). Ministry areas: church planting, medical missions, education, counseling."
+    },
+    {
+      "name": "Kibuye Hope Hospital",
+      "location": "Kibuye, Burundi",
+      "summary": "Teaching hospital partnered with Hope Africa University, staffed in part by Serge missionaries."
+    },
+    {
+      "name": "Friends of Kapsowar",
+      "location": "Kapsowar, Kenya",
+      "summary": "US nonprofit supporting Kapsowar Mission Hospital in Kenya; directed by Regan Strutner."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:serge.org missionary",
+      "outcome": "found_people",
+      "people_found": 0,
+      "notes": "Foundational org info, no named individuals"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.serge.org",
+      "outcome": "found_people",
+      "people_found": 8,
+      "notes": "Discovered give.serge.org donation page structure; listed individuals"
+    },
+    {
+      "kind": "query",
+      "value": "\"serving with serge\" missionary",
+      "outcome": "found_people",
+      "people_found": 0,
+      "notes": "Org structure and locations; no named field staff"
+    },
+    {
+      "kind": "query",
+      "value": "serge.org team leadership staff",
+      "outcome": "found_people",
+      "people_found": 5,
+      "notes": "Found Allison, Osborne, Stephanie, Nicole, Matt (leadership/HQ staff)"
+    },
+    {
+      "kind": "query",
+      "value": "\"serge.org\" missionary support donation personal",
+      "outcome": "found_people",
+      "people_found": 0,
+      "notes": "General support raising info; no named individuals"
+    },
+    {
+      "kind": "query",
+      "value": "give.serge.org missionary support raise funds",
+      "outcome": "found_people",
+      "people_found": 0,
+      "notes": "General fundraising framework; no named individuals"
+    },
+    {
+      "kind": "query",
+      "value": "\"serge\" missionary Africa designation page",
+      "outcome": "found_people",
+      "people_found": 0,
+      "notes": "Africa locations and team info; no specific names"
+    },
+    {
+      "kind": "query",
+      "value": "world harvest mission serge missionary names",
+      "outcome": "found_people",
+      "people_found": 2,
+      "notes": "Found Rose Marie Miller (deceased - excluded), Jeremy and Angel"
+    },
+    {
+      "kind": "query",
+      "value": "serge.org missionaries Spain Europe planting church",
+      "outcome": "found_people",
+      "people_found": 0,
+      "notes": "Spain/Europe location info; no named individuals in results"
+    },
+    {
+      "kind": "query",
+      "value": "\"Rose Marie Miller\" Serge missionary",
+      "outcome": "found_people",
+      "people_found": 1,
+      "notes": "Rose Marie Miller (deceased 2024) - founder/co-founder; excluded per protocol"
+    },
+    {
+      "kind": "query",
+      "value": "\"serge.org\" missionaries Uganda Kenya named",
+      "outcome": "found_people",
+      "people_found": 3,
+      "notes": "Found Boas Opedun, Jenna (spouse), Regan Strutner, Dr. Strutner"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.serge.org\" individual missionary page name",
+      "outcome": "found_people",
+      "people_found": 0,
+      "notes": "General giving structure; no new named individuals"
+    },
+    {
+      "kind": "query",
+      "value": "\"Boas Opedun\" Serge missionary",
+      "outcome": "found_people",
+      "people_found": 2,
+      "notes": "Found Boas Opedun (media specialist) and wife Jenna details"
+    },
+    {
+      "kind": "query",
+      "value": "\"Regan Strutner\" Serge Kenya",
+      "outcome": "found_people",
+      "people_found": 2,
+      "notes": "Found Regan Strutner and husband Dr. Strutner at Kapsowar"
+    },
+    {
+      "kind": "query",
+      "value": "Serge missions DRC Burundi medical missionaries",
+      "outcome": "found_people",
+      "people_found": 0,
+      "notes": "Location/partnership info; no named individuals"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jeremy and Angel\" Serge missionary Uganda",
+      "outcome": "found_people",
+      "people_found": 1,
+      "notes": "Found Jeremy and Angel couple with give.serge.org page"
+    },
+    {
+      "kind": "query",
+      "value": "Serge missionaries blog names individuals 2024 2025",
+      "outcome": "found_people",
+      "people_found": 1,
+      "notes": "Limited blog results; Rose Marie Miller (deceased) mentioned"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.serge.org/donate missionaries",
+      "outcome": "found_people",
+      "people_found": 9,
+      "notes": "Found Scott/Jennifer Myhre, Jim Lovelady, Ted/Eunice John, John/Jessica Cropsey, Mark/Sarah Cary, Ben/Becca Johnson, Marc Davis"
+    },
+    {
+      "kind": "query",
+      "value": "\"Scott and Jennifer Myhre\" Serge Bundibugyo Uganda",
+      "outcome": "found_people",
+      "people_found": 1,
+      "notes": "Detailed info on Myhre family as physicians and Area Directors"
+    },
+    {
+      "kind": "query",
+      "value": "\"Ted and Eunice John\" Serge Burundi medical",
+      "outcome": "found_people",
+      "people_found": 1,
+      "notes": "Detailed medical missionary info; children named Toby, Amos, Timothy"
+    },
+    {
+      "kind": "query",
+      "value": "\"Ben and Becca Johnson\" Serge Thailand missionary",
+      "outcome": "found_people",
+      "people_found": 1,
+      "notes": "Detailed church planting and leadership training ministry"
+    },
+    {
+      "kind": "query",
+      "value": "\"John and Jessica Cropsey\" Serge missionary",
+      "outcome": "found_people",
+      "people_found": 1,
+      "notes": "Detailed ophthalmologist and medical educator info"
+    },
+    {
+      "kind": "query",
+      "value": "\"Mark and Sarah Cary\" Serge missionary",
+      "outcome": "found_people",
+      "people_found": 1,
+      "notes": "Czech Republic missionary details"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jim Lovelady\" Serge missionary",
+      "outcome": "found_people",
+      "people_found": 1,
+      "notes": "Found Jim Lovelady as discipleship mentor and podcast host"
+    }
+  ],
+  "negatives": [
+    "Jenna Opedun (spouse of Boas, missionary, not separate donor): included as household with Boas",
+    "Dr. Strutner (spouse of Regan, missionary at Kapsowar): limited individual data; referenced with Regan as household"
+  ],
+  "needs_review": [
+    {
+      "name": "Marc Davis",
+      "reason": "Found on give.serge.org/donate/marc-davis but search budget exhausted before detailed research. Location, role, field assignment unknown. Appears to be Tier A field missionary based on donation page presence but needs verification."
+    }
+  ]
+}

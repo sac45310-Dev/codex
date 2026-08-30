@@ -1,0 +1,130 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:eastalabama",
+  "roster_verdict": "exhausted",
+  "target_org": "Food Bank of East Alabama",
+  "people": [
+    {
+      "org_name": "Steve Reeves",
+      "summary": "Food Bank of East Alabama — President",
+      "fit_score": 4,
+      "fit_reason": "Tier C executive leadership; retired HR Director from City of Auburn; primary organizational contact for partnerships.",
+      "source_query": "hunter:w2026-08-30f:eastalabama",
+      "city": "Auburn",
+      "state": "AL",
+      "meta": {
+        "tier": "C",
+        "role": "President",
+        "target_org": "Food Bank of East Alabama",
+        "evidence_url": "https://foodbankofeastalabama.com/about-us/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kenneth G. Jones",
+      "summary": "Food Bank of East Alabama — Board Secretary",
+      "fit_score": 3,
+      "fit_reason": "Tier C board member; Secretary; Pastor at Bethel Missionary Baptist Church; governance/stakeholder connection.",
+      "source_query": "hunter:w2026-08-30f:eastalabama",
+      "city": "Auburn",
+      "state": "AL",
+      "meta": {
+        "tier": "C",
+        "role": "Board Secretary",
+        "target_org": "Food Bank of East Alabama",
+        "evidence_url": "https://foodbankofeastalabama.com/about-us/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Crystal Fuller",
+      "summary": "Food Bank of East Alabama — Director of Inventory Control & Food Resources",
+      "fit_score": 3,
+      "fit_reason": "Tier C operations director; not development-focused; manages food resources and inventory functions.",
+      "source_query": "hunter:w2026-08-30f:eastalabama",
+      "city": "Auburn",
+      "state": "AL",
+      "meta": {
+        "tier": "C",
+        "role": "Director of Inventory Control & Food Resources",
+        "target_org": "Food Bank of East Alabama",
+        "evidence_url": "https://www.zoominfo.com/p/Crystal-Fuller/-1843202626",
+        "email": "cfuller@foodbankofeastalabama.com",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Food Bank of East Alabama",
+      "website": "https://foodbankofeastalabama.com",
+      "org_type": "nonprofit",
+      "faith_orientation": "secular",
+      "size_estimate": "small",
+      "headcount_est": 30,
+      "tier_profile": "C",
+      "evidence": "Secular hunger-relief nonprofit in Auburn, AL; 11-50 employees; no dedicated Tier B development staff identified."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Food Bank of East Alabama development director staff Auburn",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Food Bank of East Alabama\" advancement fundraising major gifts",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Food Bank of East Alabama\" team staff Auburn Alabama",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Crystal Fuller Food Bank East Alabama development director",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Food Bank East Alabama LinkedIn staff director operations",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Food Bank of East Alabama\" donor relations annual fund fundraiser",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "C. Duff",
+      "reason_code": "platform_not_person",
+      "detail": "Email only (cduff@foodbankofeastalabama.com); full name and role not confirmed; cannot verify identity."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Cindy Luangkhot",
+      "reason_code": "platform_not_person",
+      "detail": "Email only (cluangkhot@foodbankofeastalabama.com); full name confirmed but no role/title found; insufficient evidence."
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Unknown Development/Advancement Staff",
+      "org": "Food Bank of East Alabama",
+      "question": "Does the organization have dedicated Tier B development/advancement staff (major gifts, donor relations, annual fund)? Web searches did not surface any.",
+      "evidence_url": "https://foodbankofeastalabama.com/about-us/our-team/",
+      "notes": "Organization appears small (11-50 employees) and may lack formal development department. Consider direct contact for staff directory."
+    }
+  ]
+}
