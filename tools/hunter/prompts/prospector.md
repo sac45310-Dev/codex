@@ -83,6 +83,18 @@ reason_code `platform_not_person`. A blank beats a guess, always.
   or flag any individual person's demographic or identity attributes, and
   never put such information in any person record.
 
+### Programs of a larger organization
+
+If the target turns out to be a **program, department, or branded initiative of
+a bigger parent** rather than its own organization — its advancement, finance
+and donor data live at the parent — say so with
+`roster_verdict: "rejected:too_institutional"` and record it in `negatives[]`.
+Symptoms: no separate EIN, staff listed under the parent, giving pages that
+route to the parent's checkout. Two such targets (Global Health Outreach/CMDA,
+World Medical Mission/Samaritan's Purse) scored well on size and produced
+almost nothing addressable. Check parentage early — before spending searches on
+a staff roster that will belong to somebody else.
+
 ## Kill test — do NOT return any of these
 
 Salaried staff of a single local church; school/college/seminary staff and
