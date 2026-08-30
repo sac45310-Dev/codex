@@ -1,0 +1,170 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "verifier:w2",
+  "results": [
+    {
+      "name": "Marc Davis",
+      "org": "Serge",
+      "verdict": "verified",
+      "evidence_url": "https://give.serge.org/donate/marc-davis",
+      "note": "Associate Area Director for Renewal at Serge. Confirmed on donation page and ZoomInfo profile."
+    },
+    {
+      "name": "Rebecca",
+      "org": "Cru at Virginia Tech",
+      "verdict": "verified",
+      "evidence_url": "https://cruvirginiatech.org/meet-our-staff",
+      "note": "Virginia Tech 2013 graduate, stepped into campus director role 2018 with Cru."
+    },
+    {
+      "name": "Dave",
+      "org": "Navigators Georgia Tech",
+      "verdict": "verified",
+      "evidence_url": "https://www.gtnavs.com/staff",
+      "note": "Campus director at Georgia Tech, Navigators Collegiate Mission Director in Atlanta."
+    },
+    {
+      "name": "Jess",
+      "org": "Navigators UCSD",
+      "verdict": "verified",
+      "evidence_url": "https://collegiate.navigators.org/ucsd/aboutus",
+      "note": "Associate Campus Director at UCSD, on staff with Navigators since 2018."
+    },
+    {
+      "name": "Andrew",
+      "org": "Navigators UVA",
+      "verdict": "verified",
+      "evidence_url": "http://www.navsatuva.com/our-staff",
+      "note": "University of South Florida graduate, on Navigators staff at UVA."
+    },
+    {
+      "name": "Devynn",
+      "org": "Navigators UVA",
+      "verdict": "verified",
+      "evidence_url": "http://www.navsatuva.com/our-staff",
+      "note": "Florida State University graduate, on Navigators staff at UVA, married to Andrew since May 2017."
+    },
+    {
+      "name": "Katie",
+      "org": "Navigators UVA",
+      "verdict": "verified",
+      "evidence_url": "http://www.navsatuva.com/our-staff",
+      "note": "Millersville University graduate, joined Navigators UVA staff after graduating 2020."
+    },
+    {
+      "name": "Natalie Ceja",
+      "org": "Cru San Diego (Destino)",
+      "verdict": "verified",
+      "evidence_url": "https://give.cru.org/1099003",
+      "note": "Part-time field staff for Destino (Cru ministry) in San Diego. Former student leader at UCLA."
+    },
+    {
+      "name": "Isaac",
+      "org": "Navigators Belmont University",
+      "verdict": "still_unclear",
+      "evidence_url": null,
+      "note": "No public search results found confirming Isaac as campus director at Belmont University."
+    },
+    {
+      "name": "Brad",
+      "org": "Cru Penn State",
+      "verdict": "reject:platform_not_person",
+      "evidence_url": null,
+      "note": "Partial name only (first name Brad, no last name provided). Insufficient for verification."
+    },
+    {
+      "name": "Maggie",
+      "org": "Cru Penn State",
+      "verdict": "reject:platform_not_person",
+      "evidence_url": null,
+      "note": "Partial name only (first name Maggie, no last name provided). Insufficient for verification."
+    },
+    {
+      "name": "Nash",
+      "org": "Cru Penn State",
+      "verdict": "reject:platform_not_person",
+      "evidence_url": null,
+      "note": "Partial name only (first name Nash, no last name provided). Insufficient for verification."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Marc Davis Serge missionary",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Natalie Ceja San Diego Circle",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Devynn UVA staff",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Rebecca Virginia Tech campus director",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Brad Penn State campus director 2013",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Cru at Virginia Tech staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Navigators Georgia Tech campus director",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Navigators Belmont University campus director Isaac",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Cru Penn State staff",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Navigators UCSD Associate Campus Director",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Navigators UVA staff directory",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Cru Penn State Maggie Nash staff",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "summary": {
+    "verified": 8,
+    "still_unclear": 1,
+    "rejected": 3,
+    "not_checked": 0
+  }
+}

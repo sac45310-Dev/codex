@@ -11,7 +11,10 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "51-200",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff"
+      ],
       "headcount_est": 75,
       "support_raised": true,
       "evidence": [
@@ -29,7 +32,10 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "51-200",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff"
+      ],
       "headcount_est": 120,
       "support_raised": true,
       "evidence": [
@@ -48,7 +54,10 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "51-150",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff"
+      ],
       "headcount_est": 100,
       "support_raised": true,
       "evidence": [
@@ -67,7 +76,10 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "100-250",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff"
+      ],
       "headcount_est": 160,
       "support_raised": true,
       "evidence": [
@@ -87,7 +99,10 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "50-150",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff"
+      ],
       "headcount_est": 80,
       "support_raised": true,
       "evidence": [
@@ -105,7 +120,11 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "200-500",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff", "C_board"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff",
+        "C_board"
+      ],
       "headcount_est": 300,
       "support_raised": true,
       "evidence": [
@@ -124,7 +143,10 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "50-150",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff"
+      ],
       "headcount_est": 100,
       "support_raised": true,
       "evidence": [
@@ -143,7 +165,10 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "30-100",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff"
+      ],
       "headcount_est": 50,
       "support_raised": true,
       "evidence": [
@@ -161,7 +186,10 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "40-100",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff"
+      ],
       "headcount_est": 60,
       "support_raised": true,
       "evidence": [
@@ -179,7 +207,10 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "40-100",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff"
+      ],
       "headcount_est": 40,
       "support_raised": true,
       "evidence": [
@@ -197,7 +228,10 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "50-150",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff"
+      ],
       "headcount_est": 80,
       "support_raised": true,
       "evidence": [
@@ -214,7 +248,10 @@
       "org_type": "independent_nonprofit_501c3",
       "size_estimate": "50-120",
       "faith_orientation": "christian",
-      "tier_profile": ["A_support_raised_staff", "B_development_staff"],
+      "tier_profile": [
+        "A_support_raised_staff",
+        "B_development_staff"
+      ],
       "headcount_est": 75,
       "support_raised": true,
       "evidence": [
@@ -232,7 +269,9 @@
       "org_type": "independent_nonprofit_501c3_ministry_branch",
       "size_estimate": "20-50",
       "faith_orientation": "christian",
-      "tier_profile": ["B_development_staff"],
+      "tier_profile": [
+        "B_development_staff"
+      ],
       "headcount_est": 30,
       "support_raised": false,
       "evidence": [
@@ -243,40 +282,7 @@
       ]
     }
   ],
-  "people": [
-    {
-      "name": "Sean Lambert",
-      "organization": "YWAM San Diego/Baja",
-      "role": "Base Leader",
-      "tier": "A",
-      "source_url": "https://www.ywamsandiegobaja.org/staff-profiles",
-      "source_query": "hunter:w2026-08-30a:ywam"
-    },
-    {
-      "name": "Kristen Kang",
-      "organization": "YWAM Orlando",
-      "role": "Music Track Leader",
-      "tier": "B",
-      "source_url": "https://www.ywamorlando.com/",
-      "source_query": "hunter:w2026-08-30a:ywam"
-    },
-    {
-      "name": "Nathan",
-      "organization": "YWAM Lord's Land",
-      "role": "Base Leader",
-      "tier": "A",
-      "source_url": "https://ywam.org/location/ywam-lord-s-land/",
-      "source_query": "hunter:w2026-08-30a:ywam"
-    },
-    {
-      "name": "Cindi",
-      "organization": "YWAM Lord's Land",
-      "role": "Base Leader",
-      "tier": "A",
-      "source_url": "https://ywam.org/location/ywam-lord-s-land/",
-      "source_query": "hunter:w2026-08-30a:ywam"
-    }
-  ],
+  "people": [],
   "coverage": [
     {
       "query": "YWAM Youth With A Mission US bases locations United States",
@@ -333,7 +339,32 @@
       "bases_found": 3
     }
   ],
-  "negatives": [],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": null,
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": null,
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": null,
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": null,
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    }
+  ],
   "summary": {
     "bases_discovered": 12,
     "distinct_locations": 11,
