@@ -30,19 +30,36 @@ WHERE t.roster_status = 'unrostered'
 ORDER BY t.priority DESC NULLS LAST, t.headcount_est DESC NULLS LAST, t.id
 LIMIT 40;
 
--- 4b. Recompute priority. Weights the two things that decide roster payoff:
--- support-raised orgs (every staffer is a prospective user) and how many
--- people are actually there, with a nudge toward mid/small orgs that are
--- realistic switchers and away from targets with no website to search.
+-- 4b. Recompute priority. REVISED 2026-08-30 against observed yield from
+-- waves w2026-08-29b through w2026-08-30d (44 orgs worked).
+--
+-- What the data showed:
+--   * org_type is the strongest predictor. Mean people found per org:
+--       parachurch 15.8 · nonprofit 12.5 · agency 11.7 · ministry 3.1
+--     "ministry" here is dominated by individual YWAM bases, which do not
+--     publish staff rosters — 4 of 5 attempts returned nothing findable by
+--     search. They are penalised, not excluded: a base with a public
+--     staff-profile page (YWAM San Diego/Baja) still works.
+--   * headcount_est was NOT predictive and has been dropped from the formula.
+--     Mercy Ships (est. 1600) yielded 13; Ethnos360 (no estimate) yielded 40.
+--     Agent-guessed org size measures the org, not what it publishes, and it
+--     was pulling the queue toward big unreachable targets.
+--   * A missing website is a real handicap — there is nothing to search.
 UPDATE sales.hunt_targets SET priority =
-  (CASE WHEN tier_profile IN ('A','AB') THEN 40 ELSE 0 END
-   + CASE WHEN headcount_est >= 200 THEN 30 WHEN headcount_est >= 50 THEN 22
-          WHEN headcount_est >= 15 THEN 14 WHEN headcount_est IS NOT NULL THEN 6
-          ELSE 0 END
-   + CASE WHEN size_estimate IN ('mid','small') THEN 12
-          WHEN size_estimate = 'large' THEN 6
-          WHEN size_estimate = 'micro' THEN 3 ELSE 0 END
-   + CASE WHEN website IS NOT NULL THEN 8 ELSE 0 END);
+  (CASE org_type
+     WHEN 'parachurch'   THEN 32
+     WHEN 'nonprofit'    THEN 28
+     WHEN 'agency'       THEN 26
+     WHEN 'mission_board' THEN 26
+     WHEN 'network'      THEN 12
+     WHEN 'ministry'     THEN 4
+     ELSE 14 END
+   + CASE WHEN tier_profile IN ('A','AB') THEN 20 ELSE 0 END
+   + CASE WHEN website IS NOT NULL THEN 12 ELSE 0 END
+   + CASE WHEN size_estimate IN ('mid','small') THEN 10
+          WHEN size_estimate = 'large' THEN 8
+          WHEN size_estimate = 'micro' THEN 2 ELSE 0 END
+   + CASE WHEN headcount_est >= 50 THEN 5 ELSE 0 END);
 
 -- 5. Known negatives (context for prompt building; keeps agents off dead ends)
 SELECT entity_kind, name, reason_code FROM sales.hunt_negatives ORDER BY name;

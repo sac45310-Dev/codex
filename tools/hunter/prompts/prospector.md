@@ -83,6 +83,20 @@ reason_code `platform_not_person`. A blank beats a guess, always.
   or flag any individual person's demographic or identity attributes, and
   never put such information in any person record.
 
+### Cap board members; hunt development staff first
+
+Board and trustee lists are the easiest thing to find and the weakest thing to
+find. **Return at most 5 board/trustee records per organization** — the chair,
+vice chair, treasurer, and the two whose day jobs suggest the most donor
+influence. Do not transcribe a 15-person board.
+
+Spend the searches you save on **Tier B development staff**: titles containing
+development, advancement, philanthropy, major gifts, donor relations, annual
+fund, individual giving. These are the people who would actually use the
+product, and they are consistently under-represented in output — one recent
+wave returned 51 Tier C records against 6 Tier B. A wave of 8 development
+officers is worth more than a wave of 40 trustees.
+
 ### Programs of a larger organization
 
 If the target turns out to be a **program, department, or branded initiative of

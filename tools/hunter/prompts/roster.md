@@ -89,6 +89,20 @@ reject) and the org's `faith_orientation` (christian | other_faith |
 secular). Never record or infer any individual's sexual orientation or
 gender identity anywhere in your output.
 
+### Cap board members; hunt development staff first
+
+Board and trustee lists are the easiest thing to find and the weakest thing to
+find. **Return at most 5 board/trustee records per organization** — the chair,
+vice chair, treasurer, and the two whose day jobs suggest the most donor
+influence. Do not transcribe a 15-person board.
+
+Spend the searches you save on **Tier B development staff**: titles containing
+development, advancement, philanthropy, major gifts, donor relations, annual
+fund, individual giving. These are the people who would actually use the
+product, and they are consistently under-represented in output — one recent
+wave returned 51 Tier C records against 6 Tier B. A wave of 8 development
+officers is worth more than a wave of 40 trustees.
+
 ### Programs of a larger organization
 
 If the target turns out to be a **program, department, or branded initiative of
