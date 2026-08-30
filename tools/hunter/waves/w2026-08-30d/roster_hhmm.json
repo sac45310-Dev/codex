@@ -1,0 +1,108 @@
+{
+  "wave_id": "w2026-08-30d",
+  "agent": "roster:hhmm",
+  "target_org": "Helping Hands Medical Missions",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Jefferey Thewes",
+      "summary": "Helping Hands Medical Missions — President",
+      "fit_score": 4,
+      "fit_reason": "Tier C: President of donor-funded nonprofit (90% of $1.1M budget from donations); unpaid board role; no evidence of personal fundraising page or prayer letters.",
+      "source_query": "hunter:w2026-08-30d:hhmm",
+      "meta": {
+        "tier": "C",
+        "role": "President",
+        "target_org": "Helping Hands Medical Missions",
+        "evidence_url": "https://philanthropy.org/990/report/752735085/helping-hands-medical-missions-inc",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Michael Brezinsky",
+      "summary": "Helping Hands Medical Missions — VP/Secretary, Medical Director",
+      "fit_score": 4,
+      "fit_reason": "Tier C: VP and Secretary on board of donor-funded nonprofit; MD with 14 years as Medical Director and 20 missions; no personal fundraising evidence.",
+      "source_query": "hunter:w2026-08-30d:hhmm",
+      "meta": {
+        "tier": "C",
+        "role": "VP/Secretary, Medical Director",
+        "target_org": "Helping Hands Medical Missions",
+        "evidence_url": "https://philanthropy.org/990/report/752735085/helping-hands-medical-missions-inc",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Michael O'Donnell",
+      "summary": "Helping Hands Medical Missions — Treasurer, Medical Director",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Treasurer and board member at donor-funded nonprofit; MD with 25 missions attended and 3 years as Mission Director in El Salvador; no personal fundraising evidence found.",
+      "source_query": "hunter:w2026-08-30d:hhmm",
+      "meta": {
+        "tier": "C",
+        "role": "Treasurer, Medical Director",
+        "target_org": "Helping Hands Medical Missions",
+        "evidence_url": "https://philanthropy.org/990/report/752735085/helping-hands-medical-missions-inc",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Helping Hands Medical Missions, Inc.",
+      "website": "https://hhmm.org",
+      "org_type": "mission_board",
+      "size_estimate": "small",
+      "tier_profile": "C",
+      "headcount_est": 3,
+      "faith_orientation": "christian",
+      "evidence": "IRS 990 filing EIN 75-2735085; founded 1996; $1.1M annual budget (FY2024); 90% from contributions/grants; 98% to program services; serves 315,800+ patients across Mexico, El Salvador, Guatemala, Philippines, Brazil, Ghana, Venezuela, Dominican Republic, Costa Rica, Uganda."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Helping Hands Medical Missions HHMM Rockwall Texas staff leadership",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:hhmm.org staff team leadership board directors",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Helping Hands Medical Missions\" HHMM board directors founder CEO president executive director",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Helping Hands Medical Missions\" 990 IRS tax form board members officers",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Jefferey Thewes \"Helping Hands Medical Missions\" fundraising giving personal donation",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Michael Brezinsky \"Helping Hands Medical Missions\" fundraising prayer letter personal giving",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Michael O'Donnell\" OR \"Mike O'Donnell\" \"Helping Hands Medical Missions\" fundraising prayer letter giving personal",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [],
+  "needs_review": []
+}
