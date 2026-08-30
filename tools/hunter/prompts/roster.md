@@ -58,6 +58,15 @@ record is not Tier A — assign the lower tier and put the doubt in
 `needs_review`. Tier A is a claim about evidence you actually found, never
 about what is plausible for someone in that role.
 
+One exception, and only one: where the ORGANIZATION documents that **all** its
+staff raise personal support (YWAM bases and some sending agencies say this
+outright), that org-level fact is real evidence for its staff. Use it, but mark
+it — set `meta.evidence_basis` to `org_policy`, keep `confidence` at `medium`
+or lower, and score at the bottom of the A band (7). A personal giving page is
+still worth more than a policy page, and the CRM needs to be able to tell the
+two apart. Never stretch this to an org that merely *sounds* like it works
+that way.
+
 ### Every person record must be a real, named individual
 
 A person record requires a **human being's actual name**. Never emit a record

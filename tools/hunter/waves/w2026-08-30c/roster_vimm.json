@@ -1,0 +1,149 @@
+{
+  "wave_id": "w2026-08-30c",
+  "agent": "roster:vimm",
+  "roster_verdict": "rostered",
+  "target_org": "Volunteers in Medical Missions",
+  "people": [
+    {
+      "org_name": "Kathy Cater",
+      "summary": "Volunteers in Medical Missions — Executive Director",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Executive Director of donor-funded Christian nonprofit; leadership position without explicit fundraising portfolio.",
+      "source_query": "hunter:w2026-08-30c:vimm",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "Volunteers in Medical Missions",
+        "evidence_url": "https://www.guidestar.org/profile/62-1361564",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Michael Wooten",
+      "summary": "Volunteers in Medical Missions — Chairman of the Board",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Chairman of Board of Directors at donor-funded Christian nonprofit.",
+      "source_query": "hunter:w2026-08-30c:vimm",
+      "meta": {
+        "tier": "C",
+        "role": "Chairman of the Board",
+        "target_org": "Volunteers in Medical Missions",
+        "evidence_url": "https://www.facebook.com/vimm.org/posts/vimm-leadership-board-of-directors-came-together-in-greenville-sc-for-one-weeken/1377188604415754/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Stephanie Davis",
+      "summary": "Volunteers in Medical Missions — Board Vice Chairperson",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board Vice Chairperson at donor-funded Christian nonprofit; also serves as mission team co-leader.",
+      "source_query": "hunter:w2026-08-30c:vimm",
+      "meta": {
+        "tier": "C",
+        "role": "Board Vice Chairperson",
+        "target_org": "Volunteers in Medical Missions",
+        "evidence_url": "https://www.facebook.com/vimm.org/posts/vimm-leadership-board-of-directors-came-together-in-greenville-sc-for-one-weeken/1377188604415754/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jason White",
+      "summary": "Volunteers in Medical Missions — Treasurer",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Treasurer on Board of Directors at donor-funded Christian nonprofit.",
+      "source_query": "hunter:w2026-08-30c:vimm",
+      "meta": {
+        "tier": "C",
+        "role": "Treasurer",
+        "target_org": "Volunteers in Medical Missions",
+        "evidence_url": "https://www.guidestar.org/profile/62-1361564",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brett Hesse",
+      "summary": "Volunteers in Medical Missions — Medical Director",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Medical Director of mission-focused Christian nonprofit; volunteer medical professional with leadership title.",
+      "source_query": "hunter:w2026-08-30c:vimm",
+      "meta": {
+        "tier": "C",
+        "role": "Medical Director",
+        "target_org": "Volunteers in Medical Missions",
+        "evidence_url": "https://www.ecfa.org/MemberProfile.aspx?ID=21112",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Volunteers in Medical Missions",
+      "website": "https://vimm.org",
+      "org_type": "parachurch",
+      "size_estimate": "small",
+      "tier_profile": "C",
+      "headcount_est": 6,
+      "faith_orientation": "christian",
+      "evidence": "501(c)(3) nonprofit founded 1986; operates medical missions in 42 countries on six continents; based in Seneca, SC."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Volunteers in Medical Missions vimm.org Seneca SC staff leadership",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "\"Volunteers in Medical Missions\" VIMM director executive",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "VIMM \"Volunteers in Medical Missions\" team members board",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:vimm.org staff team about",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Kathy Cater VIMM fundraising prayer letter giving page",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Brett Hesse\" VIMM medical director",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Michael Wooten VIMM chairman board giving",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Stephanie Davis\" VIMM \"Volunteers in Medical Missions\"",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Alyssa Rossodivita",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as 'Volunteer Coordinator' - staff coordinator role without governance, executive, or development responsibility; does not meet prospect criteria."
+    }
+  ],
+  "needs_review": []
+}

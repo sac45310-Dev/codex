@@ -1,0 +1,100 @@
+{
+  "wave_id": "w2026-08-30c",
+  "agent": "roster:ywamtyler",
+  "target_org": "YWAM Tyler",
+  "roster_verdict": "roster_incomplete",
+  "verdict_reason": "Website does not publish individual staff roster with support-raising evidence. Eight WebSearch calls yielded only 3 named staff members with minimal support-raising documentation. YWAM Tyler (56 employees) practices organizational support-raising model, but personal giving pages, prayer letters, or 'partner with us' pages for individual staff not publicly indexed. Recommend direct contact to organization for complete headcount.",
+  "people": [
+    {
+      "org_name": "David Leatherman",
+      "summary": "YWAM Tyler — Server Administrator",
+      "fit_score": 5,
+      "fit_reason": "Technical support role at YWAM Tyler. While YWAM requires all staff to raise personal support, no individual support page or prayer letter found to verify personal fundraising.",
+      "source_query": "hunter:w2026-08-30c:ywamtyler",
+      "meta": {
+        "tier": "C",
+        "role": "Server Administrator",
+        "target_org": "YWAM Tyler",
+        "evidence_url": "https://www.linkedin.com/in/david-leatherman-b4240310/",
+        "confidence": "low-medium"
+      }
+    },
+    {
+      "org_name": "Ron Moyer",
+      "summary": "YWAM Tyler — Frontier Missions Training Director",
+      "fit_score": 6,
+      "fit_reason": "Leadership role (training director) at YWAM Tyler. Identified as key leader but no personal support page or prayer letter found. At YWAM leadership positions typically require support-raising, but evidence ambiguous.",
+      "source_query": "hunter:w2026-08-30c:ywamtyler",
+      "meta": {
+        "tier": "C",
+        "role": "Frontier Missions Training Director",
+        "target_org": "YWAM Tyler",
+        "evidence_url": "https://www.linkedin.com/in/ron-moyer-83140610/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Joseph Lemons",
+      "summary": "YWAM Tyler — Christian Graphic Designer & Missionary",
+      "fit_score": 4,
+      "fit_reason": "Emerging/future missionary staff at YWAM Tyler. No personal support-raising evidence found. Early-stage staff position with low public visibility.",
+      "source_query": "hunter:w2026-08-30c:ywamtyler",
+      "meta": {
+        "tier": "C",
+        "role": "Christian Graphic Designer & Future Missionary",
+        "target_org": "YWAM Tyler",
+        "evidence_url": "https://www.linkedin.com/in/josephlemons/",
+        "confidence": "low"
+      }
+    }
+  ],
+  "negatives": [
+    {
+      "name": "Patty Beck",
+      "reason_code": "insufficient_verification",
+      "note": "Mentioned in search results as 'donor contact' at YWAM Tyler. No verified individual profile found; role ambiguous (may be volunteer or administrative rather than support-raised staff member)."
+    }
+  ],
+  "coverage": [
+    {
+      "query": "YWAM Tyler Texas staff team leadership",
+      "outcome": "Found organizational info (56 employees, Lindale TX). No individual staff roster.",
+      "people_found": 0
+    },
+    {
+      "query": "ywamtyler.org staff roster",
+      "outcome": "No staff roster page exists on website.",
+      "people_found": 0
+    },
+    {
+      "query": "\"YWAM Tyler\" Lindale support raising team members",
+      "outcome": "General YWAM support-raising practices documented. No individual staff support pages.",
+      "people_found": 0
+    },
+    {
+      "query": "YWAM Tyler director 2024 2025 2026 after Leland Paris",
+      "outcome": "Confirmed Leland Paris resignation; new leadership team established but names not detailed in results.",
+      "people_found": 0
+    },
+    {
+      "query": "site:linkedin.com YWAM Tyler staff employees",
+      "outcome": "Found David Leatherman (Server Administrator) and Joseph Lemons (Graphic Designer) with LinkedIn profiles.",
+      "people_found": 2
+    },
+    {
+      "query": "\"YWAM Tyler\" staff \"prayer letter\" OR \"support raised\" OR \"partner with\"",
+      "outcome": "No individual staff prayer letters or personal support pages indexed.",
+      "people_found": 0
+    },
+    {
+      "query": "\"Twin Oaks\" YWAM Tyler leadership team names",
+      "outcome": "Blog post titled 'Twin Oaks Introduces New Leadership Team' referenced but content not provided in results. Ron Moyer and Patty Beck mentioned.",
+      "people_found": 1
+    },
+    {
+      "query": "Ron Moyer Patty Beck YWAM Tyler support raising",
+      "outcome": "Confirmed Ron Moyer is Frontier Missions training director at YWAM. No personal support pages found.",
+      "people_found": 1
+    }
+  ]
+}
