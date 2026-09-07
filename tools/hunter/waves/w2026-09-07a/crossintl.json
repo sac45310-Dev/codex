@@ -1,0 +1,184 @@
+{
+  "wave_id": "w2026-09-07a",
+  "agent": "roster:cross-international",
+  "target_org": "Cross International",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "name": "Emily Blair Dow",
+      "org": "Cross International",
+      "role": "Director of Development",
+      "tier": "B",
+      "fit_score": 9,
+      "confidence": "high",
+      "source_url": "https://www.linkedin.com/in/emily-blair-dow-221359a4/",
+      "fit_reason": "Leads development and fundraising efforts for major gifts program; direct responsibility for donor relations and advancement",
+      "meta": {}
+    },
+    {
+      "name": "Zach Oles",
+      "org": "Cross International",
+      "role": "President & CEO",
+      "tier": "C",
+      "fit_score": 8,
+      "confidence": "high",
+      "source_url": "https://www.linkedin.com/in/zach-oles-49a3b52a/",
+      "fit_reason": "Senior executive officer with ultimate organizational authority and influence; appointed October 2025",
+      "meta": {
+        "tenure_start": "2025-10"
+      }
+    },
+    {
+      "name": "Richard Cimino",
+      "org": "Cross International",
+      "role": "Chief Financial Officer",
+      "tier": "C",
+      "fit_score": 7,
+      "confidence": "high",
+      "source_url": "https://www.linkedin.com/in/richard-cimino/",
+      "fit_reason": "Senior leadership with 30+ years international operations and financial management experience; joined 2023",
+      "meta": {
+        "tenure_start": "2023"
+      }
+    },
+    {
+      "name": "Jimmy Dodd",
+      "org": "Cross International",
+      "role": "Board Chair",
+      "tier": "C",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://www.crossinternational.org/ourteam/",
+      "fit_reason": "Board leadership position; provides strategic oversight and governance",
+      "meta": {}
+    },
+    {
+      "name": "Mark Montoney",
+      "org": "Cross International",
+      "role": "Vice-Chairman of Board",
+      "tier": "C",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://www.crossinternational.org/ourteam/",
+      "fit_reason": "Board leadership position; provides strategic oversight and governance",
+      "meta": {}
+    },
+    {
+      "name": "Kelly Miller",
+      "org": "Cross International",
+      "role": "CEO Emeritus (Former CEO)",
+      "tier": "C",
+      "fit_score": 5,
+      "confidence": "high",
+      "source_url": "https://www.linkedin.com/in/kelly-miller-63072946/",
+      "fit_reason": "Former CEO until October 2025; maintains emeritus status and organizational influence; 30+ years faith-based leadership experience",
+      "meta": {
+        "tenure_start": "2018",
+        "tenure_end": "2025-10"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "theorg.com \"Cross International\" development",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com \"Cross International\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "linkedin.com \"Cross International\" \"development\" OR \"major gifts\" OR \"donor relations\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"Cross International\" CEO OR \"chief development officer\" OR \"executive director\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"Cross International\" \"director of development\" OR \"major gifts officer\" OR \"advancement\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "linkedin \"Cross International\" Pompano Beach staff development fundraising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Emily Dow\" \"Cross International\" development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Cross International\" leadership team staff officers",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Cross International\" board members directors trustees",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Cross International\" 990 form officers 2024 2025",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:propublica.org \"Cross International\" officers president secretary",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Cross International\" annual report 2024 2023 staff team",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Cross International\" \"Rich Cimino\" OR \"chief financial officer\" OR \"CFO\" OR operations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"Cross International\" development OR fundraising OR grants OR partnerships",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "linkedin.com/company/cross-international employees staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Kelly Miller\" \"Cross International\" founder OR president OR CEO",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jim Cavnar\" \"Cross International\" founder president",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Cross International\" staff directory OR contact OR team members",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "reason_code": "unconfirmed_role",
+      "description": "Andrew Lai, Deborah Bensen, Elrood Loheol Liberius listed as 'decision makers' in company data but specific roles/titles not confirmed in search results"
+    },
+    {
+      "reason_code": "retired_founder",
+      "description": "Jim Cavnar - Founding President, retired; excluded as not currently active in fundraising role"
+    }
+  ],
+  "needs_review": []
+}
