@@ -499,10 +499,29 @@ def ingest_wave(directory, min_fit, out_dir, batch_size):
             # dedup within the batch: two agents in one wave can return the same
             # org under different websites, and NOT EXISTS below only sees rows
             # committed before this statement. Keep the richest row.
-            "dedup as (select distinct on (lower(trim(org_name))) * from src\n"
+            "dedup_name as (select distinct on (lower(trim(org_name))) * from src\n"
             "  order by lower(trim(org_name)),\n"
             "           (website is not null) desc, (notes is not null) desc,\n"
-            "           (headcount_est is not null) desc)\n"
+            "           (headcount_est is not null) desc),\n"
+            # Second pass on the website: one org can arrive under two names in
+            # a single batch ("Medical Missions for Children" and "Medical
+            # Missions for Children - MMFC", both mmfc.org). Websites are
+            # already normalized by norm_site() before they get here.
+            #
+            # Mirrors the >=3 guard in dedupe() above: a domain carried by 3+
+            # name-distinct orgs is a parent/national site, not one org's
+            # identity. Campus Outreach city chapters and denominational
+            # mission boards legitimately share a national domain, and
+            # collapsing those would delete real distinct targets. Only a
+            # domain held by 1-2 rows is treated as an identity key.
+            "ranked as (select *,\n"
+            "    count(*) over (partition by website) as site_n,\n"
+            "    row_number() over (partition by website\n"
+            "      order by (notes is not null) desc, (headcount_est is not null) desc,\n"
+            "               org_name) as site_rn\n"
+            "  from dedup_name),\n"
+            "dedup as (select * from ranked\n"
+            "  where website is null or site_n >= 3 or site_rn = 1)\n"
             "insert into sales.hunt_targets\n"
             "  (org_name, website, org_type, size_estimate, tier_profile, priority,\n"
             "   discovered_by, headcount_est, faith_orientation, crm_incumbent,\n"
@@ -513,6 +532,8 @@ def ingest_wave(directory, min_fit, out_dir, batch_size):
             "from dedup s\n"
             "where not exists (select 1 from sales.hunt_targets t\n"
             "                  where lower(trim(t.org_name)) = lower(trim(s.org_name)))\n"
+            "  and (s.website is null or not exists (select 1 from sales.hunt_targets t2\n"
+            "                  where t2.website = s.website))\n"
             "  and not exists (select 1 from sales.hunt_negatives n\n"
             "                  where n.entity_kind = 'org'\n"
             "                    and lower(trim(n.name)) = lower(trim(s.org_name)))\n"

@@ -1,0 +1,450 @@
+{
+  "wave_id": "w2026-09-07a",
+  "agent": "prospector:sending-agencies",
+  "orgs_discovered": [
+    {
+      "org_name": "Upstream Sending",
+      "website": "https://upstreamsending.org",
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "ECFA-accredited missionary sending organization for Protestant churches"
+    },
+    {
+      "org_name": "Christian Missionary Fellowship International",
+      "website": "https://www.cmfi.org",
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "ECFA-accredited agency assisting churches in world evangelism and sending missionaries"
+    },
+    {
+      "org_name": "Gospel Missionary Union",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "ECFA-accredited missionary sending organization"
+    },
+    {
+      "org_name": "Fellowship International Mission",
+      "website": "https://www.fimission.org",
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "ECFA-accredited family of global servants providing personalized missionary ministries"
+    },
+    {
+      "org_name": "Missionary Ventures International",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "ECFA-accredited agency providing accountable means for missionary support to field"
+    },
+    {
+      "org_name": "International Mission Board",
+      "website": "https://www.imb.org",
+      "org_type": "mission_board",
+      "size_estimate": "large",
+      "tier_profile": "AB",
+      "faith_orientation": "christian",
+      "notes": "SBC denominational mission board with 3,500+ missionaries in 155 countries"
+    },
+    {
+      "org_name": "Assemblies of God World Missions",
+      "website": "https://www.agwm.org",
+      "org_type": "mission_board",
+      "size_estimate": "large",
+      "tier_profile": "AB",
+      "faith_orientation": "christian",
+      "notes": "AG denominational missions agency sending 2,756 world missionaries from USA"
+    },
+    {
+      "org_name": "Foursquare Missions International",
+      "website": "https://www.foursquaremissions.org",
+      "org_type": "mission_board",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "faith_orientation": "christian",
+      "notes": "Foursquare Church missions arm operating in 158 countries with 100,000 partnered churches"
+    },
+    {
+      "org_name": "Alliance Missions",
+      "website": "https://cmalliance.org/our-work/alliance-missions",
+      "org_type": "mission_board",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "faith_orientation": "christian",
+      "notes": "Christian and Missionary Alliance denominational missions arm in 65+ countries"
+    },
+    {
+      "org_name": "Free Methodist World Missions",
+      "website": "https://www.fmwm.org",
+      "org_type": "mission_board",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "faith_orientation": "christian",
+      "notes": "Free Methodist Church missions sending agency operating in 82 countries"
+    },
+    {
+      "org_name": "Resonate Global Mission",
+      "website": "https://www.resonateglobalmission.org",
+      "org_type": "mission_board",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "faith_orientation": "christian",
+      "notes": "Christian Reformed Church missions (merged home and world missions) in 23 countries"
+    },
+    {
+      "org_name": "Global Mission",
+      "website": "https://www.rca.org/global-mission",
+      "org_type": "mission_board",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "faith_orientation": "christian",
+      "notes": "Reformed Church in America denominational missions board"
+    },
+    {
+      "org_name": "Pioneers",
+      "website": "https://www.pioneers.org",
+      "org_type": "agency",
+      "size_estimate": "large",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Interdenominational agency founded 1979, operating in 97 countries with 3,077 members"
+    },
+    {
+      "org_name": "SIM",
+      "website": "https://www.sim.org",
+      "org_type": "agency",
+      "size_estimate": "large",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Major interdenominational missionary sending agency listed in 50 largest missions organizations"
+    },
+    {
+      "org_name": "Serge",
+      "website": "https://serge.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Reformed missions organization helping churches engage in global mission"
+    },
+    {
+      "org_name": "Greater Europe Mission",
+      "website": "https://www.gemission.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Interdenominational agency ministering in Europe for 75+ years with short and long-term missions"
+    },
+    {
+      "org_name": "Avant Ministries",
+      "website": "https://www.avantministries.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Founded 1892, one of oldest US sending agencies focused on church planting worldwide"
+    },
+    {
+      "org_name": "Wycliffe Bible Translators",
+      "website": "https://www.wycliffe.org",
+      "org_type": "agency",
+      "size_estimate": "large",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Interdenominational Bible translation agency founded 1942, Missio Nexus member"
+    },
+    {
+      "org_name": "SIL International",
+      "website": "https://www.sil.org",
+      "org_type": "agency",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Scientific and faith-based linguistic organization supporting Bible translation and literacy"
+    },
+    {
+      "org_name": "Frontiers USA",
+      "website": "https://frontiersusa.org",
+      "org_type": "agency",
+      "size_estimate": "large",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Interdenominational agency founded 1982, focused on unreached Muslim peoples"
+    },
+    {
+      "org_name": "Christar",
+      "website": "https://www.christar.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "115+ year old agency establishing churches among Buddhists, Hindus, Muslims, and unreached"
+    },
+    {
+      "org_name": "Ethnos360",
+      "website": "https://ethnos360.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Formerly New Tribes Mission (founded 1942), helps churches send missionaries to isolated peoples"
+    },
+    {
+      "org_name": "Gospel for Asia",
+      "website": "https://www.gfa.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Recruits, trains, sends and supports native missionaries in Asia and Africa"
+    },
+    {
+      "org_name": "Christian Aid Mission",
+      "website": "https://www.christianaid.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Supports indigenous Christian leadership and local church work in multiple regions"
+    },
+    {
+      "org_name": "ACTS - Antioch Center for Training and Sending",
+      "website": "https://acts.global",
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Equips young leaders to pioneer gospel expansion among unreached people groups"
+    },
+    {
+      "org_name": "Multiply",
+      "website": "https://www.mbmsint.org",
+      "org_type": "mission_board",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "faith_orientation": "christian",
+      "notes": "MBMS International, global missions agency of US and Canadian Mennonite Brethren"
+    },
+    {
+      "org_name": "SEND International",
+      "website": "https://www.sendint.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Interdenominational faith mission founded 1947, 450+ missionaries in 20+ countries"
+    },
+    {
+      "org_name": "Eastern Mennonite Missions",
+      "website": "https://www.emnissions.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "faith_orientation": "christian",
+      "notes": "Mennonite mission agency based in Lancaster PA, equips and sends workers to 30+ countries"
+    },
+    {
+      "org_name": "Barnabas International",
+      "website": "https://barnabas.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Missionary care and support organization for Protestant missionaries serving globally"
+    },
+    {
+      "org_name": "World Gospel Mission",
+      "website": "https://www.worldgospel.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Interdenominational missionary sending agency"
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Missio Nexus member directory missionary agencies",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "ECFA accredited members missionary sending agencies list",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Southern Baptist Convention International Mission Board IMB missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Assemblies of God World Missions sending missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Foursquare Missions International Foursquare Church missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Christian and Missionary Alliance\" \"The Alliance\" missions sending agency",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Free Methodist\" \"Christian Reformed\" World Missions sending missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Christian Reformed World Missions Evangelical Free Church World Mission",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Pioneers SIM Serge Greater Europe Mission Avant missionary sending organizations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "WorldVenture Barnabas Fund Christar missionary sending agencies",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Wycliffe Bible Translators SIL International Frontiers missionary agency",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Frontiers missionary agency Muslim unreached people groups",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Mission to the World\" PCA \"Orthodox Presbyterian\" missions sending",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"New Tribes Mission\" \"Ethnos360\" \"Grace Brethren\" missionary sending agencies",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Grace Brethren\" \"Missionary Alliance\" \"Bible League\" missionary sending",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Gospel for Asia\" \"Christian Aid Ministries\" \"Send the Light\" missionary agencies",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Catalists \"Multiply Network\" \"Antioch Network\" missionary sending organizations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"SEND USA\" \"OC International\" \"Mennonite Brethren\" interdenominational sending agencies",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Operation Mobilization",
+      "reason_code": "already_in_system",
+      "detail": "Excluded per do-not-return list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Cross International",
+      "reason_code": "already_in_system",
+      "detail": "Excluded per do-not-return list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Partners International",
+      "reason_code": "already_in_system",
+      "detail": "Excluded per do-not-return list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "World Impact",
+      "reason_code": "already_in_system",
+      "detail": "Excluded per do-not-return list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Jesus Film Project",
+      "reason_code": "already_in_system",
+      "detail": "Excluded per do-not-return list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "ReachGlobal/EFCA",
+      "reason_code": "already_in_system",
+      "detail": "Excluded per do-not-return list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "YWAM",
+      "reason_code": "already_in_system",
+      "detail": "Excluded per do-not-return list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "TEAM",
+      "reason_code": "already_in_system",
+      "detail": "The Evangelical Alliance Mission already in system"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Campus Outreach",
+      "reason_code": "already_in_system",
+      "detail": "Excluded per do-not-return list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Mission Doctors Association",
+      "reason_code": "already_in_system",
+      "detail": "Excluded per do-not-return list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "World Witness/ARP",
+      "reason_code": "already_in_system",
+      "detail": "Excluded per do-not-return list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Send the Light",
+      "reason_code": "too_institutional",
+      "detail": "Part of Operation Mobilization which is already in system"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Council for World Mission",
+      "reason_code": "offtopic",
+      "detail": "International ecumenical network, not a primary sending agency"
+    }
+  ],
+  "needs_review": []
+}
