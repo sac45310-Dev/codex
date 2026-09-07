@@ -133,8 +133,10 @@ Do not re-run these queries or trivial rewordings of them:
 
 ## Budget
 
-At most 20 web searches and 25 page fetches. Stop early when a search stops
-yielding new organizations. Do not read any file or page over ~50KB of text.
+At most 18 web searches. **Page fetching is blocked in this environment — you
+cannot retrieve page bodies.** Work entirely from search result titles and
+snippets; craft queries so the answer appears in the snippet itself. Stop early
+when a search stops yielding new organizations.
 
 ## Output
 

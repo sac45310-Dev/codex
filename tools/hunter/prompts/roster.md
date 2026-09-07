@@ -16,6 +16,17 @@ Do not work on any other organization.
 
 ## Where to look (in order)
 
+0. **The Org (theorg.com) — try this FIRST for Tier B.** It publishes
+   structured org charts with named development teams, and it surfaces in
+   search results without needing a fetch. Query shapes that work:
+   `theorg.com {org name} development` · `theorg.com {org name} teams` ·
+   `"{org name}" "director of development" theorg`. Read the names straight
+   out of the result titles and snippets — a title like
+   "Larry Buck - Associate Director Of Development at X | The Org" is a
+   complete Tier B record on its own. Two searches here have repeatedly
+   beaten twenty against an org's own site. If The Org has no page for this
+   org, move on immediately — do not spend more than 2 searches finding out.
+
 1. The org's own site: /staff /team /about /our-people /missionaries
    /leadership /field-workers pages.
 2. The org's page in agency directories (Missio Nexus, ECFA, mission-board
@@ -121,7 +132,10 @@ a staff roster that will belong to somebody else.
 
 ## Budget
 
-At most 20 searches and 30 page fetches, all about this one org. No file or
+At most 18 searches, all about this one org. **Page fetching is blocked in
+this environment — you cannot retrieve page bodies.** Work entirely from search
+result titles and snippets; craft queries so the answer appears in the snippet
+itself (include the role in the query, not just the org name). No file or
 page over ~50KB of text. Public web only; no auth-walled scraping.
 
 ## Output
