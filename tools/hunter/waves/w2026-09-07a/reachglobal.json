@@ -164,39 +164,42 @@
       "name": "Mike Davis",
       "org": "ReachGlobal (Evangelical Free Church of America)",
       "role": "Director of Mobilization, ReachGlobal",
-      "tier": "B",
+      "tier": "C",
       "fit_score": 6,
       "confidence": "high",
       "source_url": "https://contacts.efca.org/contacts/recruitment",
       "fit_reason": "Leadership staff responsible for mobilization of missionaries; identified in EFCA contacts directory",
       "meta": {
-        "evidence_basis": "staff_directory"
+        "evidence_basis": "staff_directory",
+        "orchestrator_note": "Retiered B->C: leadership role, not development/donor-facing."
       }
     },
     {
       "name": "Mark Lewis",
       "org": "ReachGlobal (Evangelical Free Church of America)",
       "role": "Director, ReachGlobal Crisis Response",
-      "tier": "B",
+      "tier": "C",
       "fit_score": 6,
       "confidence": "high",
       "source_url": "https://contacts.efca.org/contacts/mark-lewis",
       "fit_reason": "Director-level leadership staff for ReachGlobal Crisis Response division; identified in EFCA contacts directory",
       "meta": {
-        "evidence_basis": "staff_directory"
+        "evidence_basis": "staff_directory",
+        "orchestrator_note": "Retiered B->C: leadership role, not development/donor-facing."
       }
     },
     {
       "name": "James Petersen",
       "org": "ReachGlobal (Evangelical Free Church of America)",
       "role": "Executive Director of IMA Personnel, ReachGlobal",
-      "tier": "B",
+      "tier": "C",
       "fit_score": 6,
       "confidence": "high",
       "source_url": "https://contacts.efca.org/contacts/james-petersen",
       "fit_reason": "Executive-level leadership staff responsible for international missionary personnel; identified in EFCA contacts directory",
       "meta": {
-        "evidence_basis": "staff_directory"
+        "evidence_basis": "staff_directory",
+        "orchestrator_note": "Retiered B->C: leadership role, not development/donor-facing."
       }
     }
   ],

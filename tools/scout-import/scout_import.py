@@ -346,6 +346,30 @@ def normalize_person(raw, target_org=None):
         meta = {}
         raw["meta"] = meta
 
+    # Accept the flat person shape agents naturally emit ({name, org, role,
+    # tier, source_url, confidence}) as well as the schema's nested one. The
+    # schema stores the PERSON's name in org_name and the employer in
+    # meta.target_org -- a reuse of sales.scout_candidates that no agent
+    # guesses unprompted, so a prompt that spells the fields out differently
+    # silently yields zero people. Map instead of dropping.
+    if not str(raw.get("org_name") or "").strip() and raw.get("name"):
+        raw["org_name"] = str(raw["name"]).strip()
+        notes.append("mapped name -> org_name")
+    for flat, dest in (("tier", "tier"), ("role", "role"),
+                       ("confidence", "confidence"), ("source_url", "source_url")):
+        if raw.get(flat) is not None and meta.get(dest) is None:
+            meta[dest] = raw[flat]
+            notes.append(f"mapped {flat} -> meta.{dest}")
+    if raw.get("org") and not meta.get("target_org"):
+        meta["target_org"] = str(raw["org"]).strip()
+        notes.append("mapped org -> meta.target_org")
+    if not str(raw.get("summary") or "").strip():
+        employer = meta.get("target_org") or target_org or ""
+        role = meta.get("role") or ""
+        if employer or role:
+            raw["summary"] = " \u2014 ".join(x for x in (employer, role) if x)
+            notes.append("synthesized summary from org + role")
+
     tier = meta.get("tier")
     if tier in TIER_ALIASES:
         meta["tier"] = TIER_ALIASES[tier]
