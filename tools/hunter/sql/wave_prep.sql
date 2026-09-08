@@ -45,21 +45,44 @@ LIMIT 40;
 --     Agent-guessed org size measures the org, not what it publishes, and it
 --     was pulling the queue toward big unreachable targets.
 --   * A missing website is a real handicap — there is nothing to search.
-UPDATE sales.hunt_targets SET priority =
-  (CASE org_type
-     WHEN 'parachurch'   THEN 32
-     WHEN 'nonprofit'    THEN 28
-     WHEN 'agency'       THEN 26
-     WHEN 'mission_board' THEN 26
-     WHEN 'network'      THEN 12
-     WHEN 'ministry'     THEN 4
-     ELSE 14 END
-   + CASE WHEN tier_profile IN ('A','AB') THEN 20 ELSE 0 END
-   + CASE WHEN website IS NOT NULL THEN 12 ELSE 0 END
-   + CASE WHEN size_estimate IN ('mid','small') THEN 10
-          WHEN size_estimate = 'large' THEN 8
-          WHEN size_estimate = 'micro' THEN 2 ELSE 0 END
-   + CASE WHEN headcount_est >= 50 THEN 5 ELSE 0 END);
+UPDATE sales.hunt_targets SET priority = greatest(0, least(100,
+-- Priority v3, rebuilt 2026-09-08 on the team triage rather than on yield stats.
+--
+-- What the triage showed: every Tier-A-rich agency was approved, including ones
+-- with no development contact at all (Ethnos360 33 Tier A, World Gospel 25,
+-- Cru 12). All five orgs passed over had ZERO Tier A -- and four of them had
+-- fully sourced development staff. Support-raised volume converts; a lone
+-- development director does not. v2 had this backwards.
+--
+-- Food banks deprioritized at the user's direction: board-heavy rosters, no
+-- support-raised base, high search cost per usable contact.
+--
+-- backfill:approved rows keep a neutral base because their org_type is an
+-- import default, not a classification -- scoring it as 'ministry' buried
+-- Operation Mobilization and Cross International.
+    CASE
+      WHEN discovered_by = 'backfill:approved' THEN 14
+      ELSE CASE org_type
+        WHEN 'agency' THEN 34 WHEN 'mission_board' THEN 34
+        WHEN 'parachurch' THEN 28
+        WHEN 'nonprofit' THEN 16
+        WHEN 'network' THEN 4 WHEN 'ministry' THEN 12 ELSE 14 END
+    END
+  + CASE WHEN tier_profile IN ('A','AB') THEN 30 ELSE 0 END
+  + least(30, tier_a_found * 2)
+  + CASE WHEN website IS NOT NULL AND website NOT ILIKE '%usachurches.org%' THEN 12 ELSE 0 END
+  + CASE WHEN size_estimate IN ('mid','small') THEN 10
+         WHEN size_estimate = 'large' THEN 8
+         WHEN size_estimate = 'micro' THEN 2 ELSE 0 END
+  - CASE WHEN org_name ~* '\y(food ?bank|feeding|food network|food pantry)\y' THEN 30 ELSE 0 END
+));
+
+-- Refresh tier_a_found before recomputing priority; it is the strongest term.
+UPDATE sales.hunt_targets t SET tier_a_found = coalesce(c.n, 0)
+FROM (SELECT lower(trim(meta->>'target_org')) AS k, count(*) AS n
+      FROM sales.scout_candidates
+      WHERE meta->>'tier' = 'A' AND status <> 'rejected' GROUP BY 1) c
+WHERE lower(trim(t.org_name)) = c.k AND t.tier_a_found IS DISTINCT FROM c.n;
 
 -- 5. Known negatives (context for prompt building; keeps agents off dead ends)
 SELECT entity_kind, name, reason_code FROM sales.hunt_negatives ORDER BY name;

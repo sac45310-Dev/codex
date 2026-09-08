@@ -365,3 +365,43 @@ Human feedback loop — three channels, all driven by your approve/reject/skip a
 > Check: /staff /team /about /missionaries /our-people pages; the org's page on agency directories; giving-portal name slugs; prayer-letter archives and newsletters; speaker lists. For micro-orgs: state filings, Facebook page "about", charity registries.
 > Tier + kill test + coverage + output rules as in Appendix A. Do not return people already in the skip list: {skip_snippet}.
 > When you stop, set `roster_verdict`: `rostered` (found the people there are to find), `exhausted` (site defeated me — say how), or `rejected:{reason_code}` (org fails the kill test).
+
+## Ranking v3 — what the 2026-09-08 triage changed
+
+The first real triage of hunter output (69 organizations decided by the team)
+contradicted the ranking the system had been using, and the ranking lost.
+
+The formula had been tuned on *yield*: which org types produce the most people,
+and the most Tier B development staff. The triage optimized for something else
+entirely. Every Tier-A-rich sending agency was approved — Ethnos360 (33
+support-raised staff), World Gospel Mission (25), Cru (12), Serge (7) — including
+several with **no donor-facing contact at all**. Meanwhile all five organizations
+passed over had **zero Tier A**, and four of the five had fully sourced
+development staff. Jesus Film Project was passed despite five verified Tier B
+contacts.
+
+The logic is obvious in hindsight and the system had it backwards: for
+donor-management software, an agency with 33 people who each raise their own
+support is 33 potential users. A food bank's development director is one buyer
+for one organization.
+
+So `tier_a_found` is now a real column, refreshed from the candidate table, and
+the strongest term in the formula. `tier_profile A` doubled to +30. Secular
+nonprofits dropped from 22 to 16, and food banks take a flat −30 at the user's
+direction — board-heavy rosters, no support-raised base, high search cost per
+usable contact.
+
+**The general lesson: buying decisions beat inferred yield statistics.** Nine
+waves of tuning against internal metrics were less informative than one
+afternoon of someone actually deciding who to call.
+
+## Local prospecting
+
+`prompts/local-prospector.md` is assigned per **region** rather than per niche.
+Its practical constraint: state Secretary of State and AG charity registries are
+the authoritative source but are almost all search-form-gated and JavaScript
+driven, so they are unreachable in a fetch-blocked environment. What works
+instead is the 990 aggregator layer — ProPublica Nonprofit Explorer, CauseIQ,
+TaxExemptWorld — which is heavily indexed and whose snippets carry org name,
+city and state directly. Community-foundation giving-day directories are the
+other rich seam: they enumerate every participating local nonprofit in a metro.
