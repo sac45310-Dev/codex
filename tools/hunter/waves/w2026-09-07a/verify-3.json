@@ -1,0 +1,305 @@
+{
+  "wave_id": "w2026-09-07a",
+  "agent": "verify:group-3",
+  "searches_used": 16,
+  "results": [
+    {
+      "person": "Megan Cramer",
+      "org": "Greater Pittsburgh Community Food Bank",
+      "recorded_role": "Director of Development and Donor Relations",
+      "status": "role_differs",
+      "url": "https://pittsburghfoodbank.org/staff-board/megan-bailey/",
+      "role_seen": "Director of Philanthropy Operations",
+      "notes": "Title differs: recorded as 'Director of Development and Donor Relations' but found as 'Director of Philanthropy Operations' in primary sources. May be titled 'Director of Development & Donor Relations' on The Org."
+    },
+    {
+      "person": "Jennifer Zgurich",
+      "org": "Greater Pittsburgh Community Food Bank",
+      "recorded_role": "Fundraising Professional",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Searched directly and via organization staff pages; no public source surfaced her name or role."
+    },
+    {
+      "person": "Ann Prifrel",
+      "org": "Harry Chapin Food Bank",
+      "recorded_role": "Chief Development Officer",
+      "status": "confirmed",
+      "url": "https://harrychapinfoodbank.org/about-us/lead-staff/",
+      "role_seen": "Chief Development Officer",
+      "notes": "Confirmed on official Lead Staff page."
+    },
+    {
+      "person": "Stuart I. Haniff",
+      "org": "Harry Chapin Food Bank",
+      "recorded_role": "Chief Development Officer",
+      "status": "contradicted",
+      "url": "https://harrychapinfoodbank.org/about-us/lead-staff/",
+      "role_seen": "Not found; Ann Prifrel holds Chief Development Officer title",
+      "notes": "No evidence found of Stuart I. Haniff at Harry Chapin. Staff searches show Ann Prifrel as CDO and Jennifer Denike promoted from major gifts officer. Both individuals recorded with same title unlikely; Ann Prifrel confirmed current."
+    },
+    {
+      "person": "Varina Mead",
+      "org": "Heart of Alabama Food Bank",
+      "recorded_role": "Chief Development Officer",
+      "status": "confirmed",
+      "url": "https://www.zoominfo.com/p/Varina-Mead/891990894",
+      "role_seen": "Chief Development Officer (CDO)",
+      "notes": "Confirmed as CDO via ZoomInfo contact record."
+    },
+    {
+      "person": "Chris Mitchell",
+      "org": "Homes for Our Troops",
+      "recorded_role": "Director of Development",
+      "status": "confirmed",
+      "url": "https://www.linkedin.com/in/chris-mitchell-2054b152/",
+      "role_seen": "Director of Development & Community Engagement",
+      "notes": "Title slightly expanded to include 'Community Engagement' but functionally matches recorded role."
+    },
+    {
+      "person": "Suzanne Shaheen",
+      "org": "Homes for Our Troops",
+      "recorded_role": "Gifts Officer, Planned Giving",
+      "status": "confirmed",
+      "url": "https://www.linkedin.com/in/suzanne-shaheen-70bb59100/",
+      "role_seen": "Planned Giving Officer",
+      "notes": "Confirmed; 'Gifts Officer' is close match for 'Planned Giving Officer'."
+    },
+    {
+      "person": "Jeanne Long",
+      "org": "Hope For The Warriors",
+      "recorded_role": "VP of Development",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Staff leadership page URL found (https://www.hopeforthewarriors.org/about/staff-leadership/) but could not access full staff list. Could not verify this individual."
+    },
+    {
+      "person": "Kelly Sokalski",
+      "org": "Hope For The Warriors",
+      "recorded_role": "Head of Development",
+      "status": "confirmed",
+      "url": "https://www.hopeforthewarriors.org/about/staff-leadership/",
+      "role_seen": "Head of Development",
+      "notes": "Confirmed in search results mentioning 'Kelly Sokalski serves as Head of Development at Hope For The Warriors'."
+    },
+    {
+      "person": "Raquel Painter",
+      "org": "Hope For The Warriors",
+      "recorded_role": "Community Development Director",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Staff page URL found but could not verify this individual from search results."
+    },
+    {
+      "person": "Rob Clapper",
+      "org": "Hope For The Warriors",
+      "recorded_role": "Chief Advancement Officer",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Staff page URL found but could not verify this individual from search results."
+    },
+    {
+      "person": "Ruth Jones",
+      "org": "Hope For The Warriors",
+      "recorded_role": "Senior Director of Donor Engagement",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Staff page URL found but could not verify this individual from search results."
+    },
+    {
+      "person": "Karla Prentiss",
+      "org": "International Medical Relief",
+      "recorded_role": "VP of Development and Sustainable Education",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "No search results returned for this person at this organization."
+    },
+    {
+      "person": "Beth Atkinson",
+      "org": "Lowcountry Food Bank",
+      "recorded_role": "Director of Fundraising / Major Gifts Officer",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Organization staff pages found but this individual not confirmed in search results."
+    },
+    {
+      "person": "Brenda Shaw",
+      "org": "Lowcountry Food Bank",
+      "recorded_role": "Chief Development Officer",
+      "status": "confirmed",
+      "url": "https://lowcountryfoodbank.org/about-us/our-team/",
+      "role_seen": "Chief Development Officer",
+      "notes": "Confirmed as CDO at Lowcountry Food Bank."
+    },
+    {
+      "person": "Barbara Walters",
+      "org": "Lowcountry Food Bank",
+      "recorded_role": "Donor Services Manager",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Organization staff pages found but this individual not confirmed in search results."
+    },
+    {
+      "person": "Abby Miller",
+      "org": "Lowcountry Food Bank",
+      "recorded_role": "Donor Services Coordinator",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Organization staff pages found but this individual not confirmed in search results."
+    },
+    {
+      "person": "Stacey Jordan",
+      "org": "Mississippi Food Network",
+      "recorded_role": "Director, Development and External Affairs",
+      "status": "confirmed",
+      "url": "https://www.linkedin.com/in/stacey-jordan-6698459",
+      "role_seen": "Director of Development and External Affairs",
+      "notes": "Confirmed on LinkedIn. Also found staff page at https://www.msfoodnet.org/about-us/staff/"
+    },
+    {
+      "person": "Stephanie Vargas",
+      "org": "Operation Homefront",
+      "recorded_role": "VP of Individual Giving",
+      "status": "confirmed",
+      "url": "https://operationhomefront.org/oh-welcomes-stephanie-vargas/",
+      "role_seen": "Vice President of Individual Giving",
+      "notes": "Confirmed on organizational announcement page."
+    },
+    {
+      "person": "Arika Richardson",
+      "org": "Second Harvest Food Bank of Central Florida",
+      "recorded_role": "Philanthropy Manager",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "No search results returned for this person at this organization."
+    },
+    {
+      "person": "Gay Burden",
+      "org": "Second Harvest Food Bank of Middle Tennessee",
+      "recorded_role": "Director of Development Operations",
+      "status": "confirmed",
+      "url": "https://www.linkedin.com/in/gay-burden-7762aa55/",
+      "role_seen": "Director of Development Operations",
+      "notes": "Confirmed on LinkedIn profile."
+    },
+    {
+      "person": "Kristen Reedy",
+      "org": "Second Harvest Food Bank of Northeast Tennessee",
+      "recorded_role": "Director, Development",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "No search results returned for this person. Note: Organization operates as both secondharvesttn.org and netfoodbank.org; canonical domain not determined from searches."
+    },
+    {
+      "person": "Douglas K Batchelder",
+      "org": "TEAM - The Evangelical Alliance Mission",
+      "recorded_role": "Donor Relations Manager",
+      "status": "confirmed",
+      "url": "https://theorg.com/org/the-evangelical-alliance-mission-team/org-chart/douglas-k-batchelder",
+      "role_seen": "Donor Relations Manager",
+      "notes": "Confirmed on The Org organizational chart."
+    },
+    {
+      "person": "Dr. April Moreton",
+      "org": "TEAM - The Evangelical Alliance Mission",
+      "recorded_role": "Donor Contact",
+      "status": "role_differs",
+      "url": "https://www.linkedin.com/in/april-moreton/",
+      "role_seen": "Executive Director of Advancement and Communications",
+      "notes": "Recorded role 'Donor Contact' is vague. Actual title at TEAM was 'Executive Director of Advancement and Communications' (senior role). Currently at Dallas Theological Seminary as VP of Advancement."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "\"Hope For The Warriors\" staff development team leadership",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Lowcountry Food Bank\" staff development team",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Harry Chapin Food Bank\" staff development leadership",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greater Pittsburgh Community Food Bank\" staff development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Megan Cramer \"Greater Pittsburgh Community Food Bank\" Director Development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Second Harvest Food Bank of Middle Tennessee\" staff leadership",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Gay Burden \"Second Harvest\" Tennessee Director Development Operations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Operation Homefront\" staff leadership development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Stephanie Vargas \"Operation Homefront\" VP Individual Giving",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Heart of Alabama Food Bank\" staff leadership development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Varina Mead \"Heart of Alabama Food Bank\" Chief Development Officer",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Homes for Our Troops\" staff development leadership",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Chris Mitchell \"Homes for Our Troops\" Director Development OR Suzanne Shaheen Gifts Officer",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"TEAM\" \"Evangelical Alliance Mission\" staff leadership development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Douglas Batchelder \"TEAM\" \"Evangelical Alliance Mission\" Donor Relations OR \"April Moreton\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Stacey Jordan \"Mississippi Food Network\" Director Development External Affairs",
+      "outcome": "found_people"
+    }
+  ]
+}
