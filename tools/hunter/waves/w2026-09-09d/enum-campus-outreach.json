@@ -1,0 +1,580 @@
+{
+  "wave_id": "w2026-09-09d",
+  "agent": "enum:campus-outreach",
+  "target_org": "Campus Outreach",
+  "searches_used": 15,
+  "people": [
+    {
+      "org_name": "Deja Jones",
+      "summary": "Campus Outreach Houston — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://cohouston.org/deja-jones",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Houston"
+      }
+    },
+    {
+      "org_name": "Andre Lurhuma",
+      "summary": "Campus Outreach Houston — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://cohouston.org/andre",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Houston"
+      }
+    },
+    {
+      "org_name": "Martin Azua",
+      "summary": "Campus Outreach Houston — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://cohouston.org/martin",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Houston"
+      }
+    },
+    {
+      "org_name": "Enrique Herrera",
+      "summary": "Campus Outreach Houston — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://cohouston.org/enrique-paola",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Houston"
+      }
+    },
+    {
+      "org_name": "Paola Herrera",
+      "summary": "Campus Outreach Houston — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://cohouston.org/enrique-paola",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Houston"
+      }
+    },
+    {
+      "org_name": "AJ Juarez",
+      "summary": "Campus Outreach Houston — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://cohouston.org/aj-haley",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Houston"
+      }
+    },
+    {
+      "org_name": "Haley Juarez",
+      "summary": "Campus Outreach Houston — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://cohouston.org/aj-haley",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Houston"
+      }
+    },
+    {
+      "org_name": "Julie Ubadinobi",
+      "summary": "Campus Outreach Houston — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://cohouston.org/julieandemmanuelubadinobi",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Houston"
+      }
+    },
+    {
+      "org_name": "Emmanuel Ubadinobi",
+      "summary": "Campus Outreach Houston — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://cohouston.org/julieandemmanuelubadinobi",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Houston"
+      }
+    },
+    {
+      "org_name": "Nevah Barnett",
+      "summary": "Campus Outreach Indianapolis — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.coindy.org/barnett",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Indianapolis"
+      }
+    },
+    {
+      "org_name": "Holladay",
+      "summary": "Campus Outreach Indianapolis — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.coindy.org/holladays",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Indianapolis"
+      }
+    },
+    {
+      "org_name": "Cazee",
+      "summary": "Campus Outreach Indianapolis — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.coindy.org/cazees",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Indianapolis"
+      }
+    },
+    {
+      "org_name": "Lawson",
+      "summary": "Campus Outreach Indianapolis — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.coindy.org/lawsons",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Indianapolis"
+      }
+    },
+    {
+      "org_name": "Barnes",
+      "summary": "Campus Outreach Indianapolis — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.coindy.org/barnes",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Indianapolis"
+      }
+    },
+    {
+      "org_name": "Peter Lane",
+      "summary": "Campus Outreach Minneapolis — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cominneapolis.org/lane",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Minneapolis"
+      }
+    },
+    {
+      "org_name": "Jonathan Buschke",
+      "summary": "Campus Outreach Minneapolis — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cominneapolis.org/buschke",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Minneapolis"
+      }
+    },
+    {
+      "org_name": "Nick Watkins",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/watkins",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Jackie Watkins",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/watkins",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Mykala Anderson",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/anderson",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Landon Tucker",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/tucker",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Betsy Tucker",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/tucker",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Ryan Miller",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/miller",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Catherine Miller",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/miller",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Andrew Hawkins",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/hawkins",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Ali Hawkins",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/hawkins",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Michael Harpe",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/harpe",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Kiersten Harpe",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/harpe",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Chris Amond",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/amond",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Sarah Amond",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/amond",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Brittainy Crisp",
+      "summary": "Campus Outreach Columbia — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbia.org/give/crisp",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbia"
+      }
+    },
+    {
+      "org_name": "Rahsaan Gainer",
+      "summary": "Campus Outreach Columbus — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbus.org/gainer",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbus"
+      }
+    },
+    {
+      "org_name": "Miranda Somers",
+      "summary": "Campus Outreach Columbus — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbus.org/somers",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbus"
+      }
+    },
+    {
+      "org_name": "Brianna Wenger",
+      "summary": "Campus Outreach Columbus — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbus.org/wenger",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbus"
+      }
+    },
+    {
+      "org_name": "Wright",
+      "summary": "Campus Outreach Columbus — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbus.org/wright",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbus"
+      }
+    },
+    {
+      "org_name": "Logan Carpenter",
+      "summary": "Campus Outreach Columbus — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://www.cocolumbus.org/carpenter",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Columbus"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach Atlanta\" Perimeter Church independent 501c3 nonprofit",
+      "outcome": "found_parentage_issue"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach Atlanta\" EIN nonprofit organization separate",
+      "outcome": "found_parentage_issue"
+    },
+    {
+      "kind": "query",
+      "value": "site:comemphis.org staff support partner give",
+      "outcome": "found_page"
+    },
+    {
+      "kind": "query",
+      "value": "site:cocolumbia.org staff support partner give",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:colex.org staff support partner give",
+      "outcome": "found_page"
+    },
+    {
+      "kind": "query",
+      "value": "site:cocolumbus.org staff support partner give",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach\" Houston OR Charlotte OR Minneapolis OR Indianapolis staff give",
+      "outcome": "found_chapters"
+    },
+    {
+      "kind": "query",
+      "value": "site:cohouston.org staff give support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:coindy.org staff give",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cominneapolis.org staff give",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach\" Charlotte North Carolina staff support",
+      "outcome": "found_page"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach\" Charlotte site:cocharlotte.org OR site:churchplant",
+      "outcome": "found_page"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Campus Outreach Atlanta parentage determination",
+      "finding": "Campus Outreach Atlanta is a ministry of Perimeter Church, not an independent 501(c)(3). Established 1999, operates under Perimeter Church authority as host church. All staff are Perimeter Church employees. Donations process through Perimeter Church (EIN 58-1348544). This constitutes a kill-test reject per organizational structure criteria.",
+      "evidence": "Search 1: coatlanta.org/about-us confirms partnership with Perimeter Church. Multiple sources establish CO Atlanta as a program ministry within Perimeter Church structure, following Campus Outreach franchise model where host churches assume authority and oversight.",
+      "recommendation": "Flag for review - staff records inherited from Atlanta phase stand individually, but organizational parentage disqualifies Campus Outreach Atlanta as independent target."
+    },
+    {
+      "issue": "Incomplete staff enumeration for Memphis, Lexington, Charlotte",
+      "finding": "Located staff pages for Memphis (comemphis.org/staff), Lexington (colex.org/staff), and Charlotte (cocharlotte.org/staff), but search results did not return individual staff member names in page titles. Cannot extract names without page fetch capability.",
+      "evidence": "Searches 3, 5, 11, 12 confirmed page existence but individual names not visible in search result titles.",
+      "recommendation": "Would require WebFetch to enumerate staff from these chapters - recommend follow-up with fetch capability if available."
+    },
+    {
+      "issue": "Partial name clarity for Indianapolis staff",
+      "finding": "Some Indianapolis names extracted as single surnames only: Holladay, Cazee, Lawson, Barnes. Unable to determine if these are first names, last names, or need full name extraction.",
+      "evidence": "Search 9 returned URLs with partial naming patterns (holladays, cazees, lawsons, barnes). Recommend verification of full names.",
+      "recommendation": "These 4 Indianapolis records may need name clarification on verification."
+    }
+  ]
+}
