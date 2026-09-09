@@ -1,0 +1,517 @@
+{
+  "wave_id": "w2026-09-09a",
+  "agent": "local:texas",
+  "searches_used": 18,
+  "orgs_discovered": [
+    {
+      "org_name": "Homeless Veterans Services Of Dallas Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Dallas",
+      "state": "TX",
+      "notes": "Serves homeless veterans; found on ProPublica 990 database; individual donor base likely"
+    },
+    {
+      "org_name": "Mission East Dallas And Metroplex",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Dallas",
+      "state": "TX",
+      "notes": "Community mission work in East Dallas; listed on ProPublica 990 database"
+    },
+    {
+      "org_name": "Dallas Eviction Advocacy Center",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Dallas",
+      "state": "TX",
+      "notes": "Advocacy organization; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "The Bridge Dallas",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Dallas",
+      "state": "TX",
+      "notes": "Homeless recovery center providing stabilization and recovery services"
+    },
+    {
+      "org_name": "OurCalling Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Dallas",
+      "state": "TX",
+      "notes": "Community services nonprofit; found on nonprofit database listing"
+    },
+    {
+      "org_name": "Big Brothers Big Sisters Lone Star",
+      "website": "https://bbbstx.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Dallas",
+      "state": "TX",
+      "notes": "Youth mentoring organization serving Dallas, Houston, Austin, and surrounding counties; local chapters fundraise"
+    },
+    {
+      "org_name": "Dallas Leadership Foundation",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Dallas",
+      "state": "TX",
+      "notes": "Youth mentorship and leadership development; Power Mentoring program for high school students"
+    },
+    {
+      "org_name": "The Stewpot",
+      "website": "https://www.thewpot.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Dallas",
+      "state": "TX",
+      "notes": "Community ministry serving homeless and at-risk; 50+ years; housed at First Presbyterian Church Dallas but independent 501c3; robust individual donor base"
+    },
+    {
+      "org_name": "Interfaith Ministries for Greater Houston",
+      "website": "https://www.imgh.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "interfaith",
+      "city": "Houston",
+      "state": "TX",
+      "notes": "Refugee resettlement, Meals on Wheels, interfaith dialogue; extensive individual giving"
+    },
+    {
+      "org_name": "Hope For Youth",
+      "website": "https://hopeforyouth.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Houston",
+      "state": "TX",
+      "notes": "Christian youth mentoring organization; founded 1991; operates Friday Night Live, college prep, camps"
+    },
+    {
+      "org_name": "Coalition for the Homeless of Houston/Harris County",
+      "website": "https://www.cfthhouston.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Houston",
+      "state": "TX",
+      "notes": "Backbone organization developing community strategies to prevent and end homelessness; individual donors"
+    },
+    {
+      "org_name": "Center for Refugee Services",
+      "website": "https://sarefugees.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "San Antonio",
+      "state": "TX",
+      "notes": "Independent 501c3 founded 2010; refugee resettlement and community integration; no government funding; entirely donor-supported"
+    },
+    {
+      "org_name": "San Antonio AIDS Foundation",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "San Antonio",
+      "state": "TX",
+      "notes": "Health services nonprofit; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "San Antonio Area Foundation",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "San Antonio",
+      "state": "TX",
+      "notes": "Community foundation; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "Nonprofit Financial Services Of San Antonio",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "San Antonio",
+      "state": "TX",
+      "notes": "Public and society benefit organization; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "Central Service Office Of San Antonio Texas Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "San Antonio",
+      "state": "TX",
+      "notes": "Mental health and crisis intervention; alcohol/drug abuse services"
+    },
+    {
+      "org_name": "RAICES",
+      "website": "https://raicestexas.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Austin",
+      "state": "TX",
+      "notes": "Refugee and Immigrant Center for Education and Legal Services; large Texas org; extensive individual donor programs including monthly giving, vehicle donations, stock donations"
+    },
+    {
+      "org_name": "Leadership Fort Worth",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Fort Worth",
+      "state": "TX",
+      "notes": "Leadership development organization; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "Catholic Charities Diocese Of Fort Worth",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Fort Worth",
+      "state": "TX",
+      "notes": "Human services; refugee resettlement partner; Catholic Charities network"
+    },
+    {
+      "org_name": "Read Fort Worth",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Fort Worth",
+      "state": "TX",
+      "notes": "Literacy and student services nonprofit; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "Light Of Fort Worth",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Fort Worth",
+      "state": "TX",
+      "notes": "Community services nonprofit; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "North & East Lubbock Community Development Corporation",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Lubbock",
+      "state": "TX",
+      "notes": "Community development organization; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "Family Service Association Of Lubbock",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Lubbock",
+      "state": "TX",
+      "notes": "Family counseling and human services; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "Volunteer Center Of Lubbock Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Lubbock",
+      "state": "TX",
+      "notes": "Community service coordination; 2024 revenue $608k; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "Community Partners Of Lubbock",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Lubbock",
+      "state": "TX",
+      "notes": "Children and youth services nonprofit; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "Candlelighters Of The El Paso Area",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "El Paso",
+      "state": "TX",
+      "notes": "Health services for children with cancer and their families; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "El Paso Exploreum",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "El Paso",
+      "state": "TX",
+      "notes": "Science and education nonprofit; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "United Way Of El Paso County",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "El Paso",
+      "state": "TX",
+      "notes": "Community funding and services coordination; found on ProPublica 990 database"
+    },
+    {
+      "org_name": "Recovery Resource Council",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Fort Worth",
+      "state": "TX",
+      "notes": "Free mental health and substance use services for veterans and families across North Texas"
+    },
+    {
+      "org_name": "The Other Ones Foundation",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Austin",
+      "state": "TX",
+      "notes": "Homelessness prevention and housing; low-barrier shelter and workforce development"
+    },
+    {
+      "org_name": "Catholic Charities of the Rio Grande Valley",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "McAllen",
+      "state": "TX",
+      "notes": "Immigration legal services and refugee services in Rio Grande Valley; Catholic Charities network"
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Dallas\" rescue mission homeless",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Houston\" nonprofit rescue mission",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Austin\" Texas nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"San Antonio\" Texas nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"North Texas Giving Day\" participating nonprofits church planting",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Texas church planting networks sending agencies support-raising missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"El Paso\" Texas nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Fort Worth\" Texas nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Lubbock\" Texas nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Texas refugee resettlement border ministry organizations nonprofits",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"RAICES\" Texas donate website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Center for Refugee Services\" San Antonio donate website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "youth mentoring after-school programs Dallas Houston Austin nonprofits",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "veterans services addiction recovery Texas nonprofits crisis pregnancy",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Interfaith Ministries\" Houston refugee donate website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"The Stewpot\" Dallas donate website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Hope For Youth\" Houston mentoring donate website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Texas housing homeless nonprofits community development organizations",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "San Antonio Academy Of Texas",
+      "reason_code": "wrong_type",
+      "detail": "School - K-12 educational institution"
+    },
+    {
+      "entity_kind": "org",
+      "name": "El Paso Leadership Academy",
+      "reason_code": "wrong_type",
+      "detail": "K-12 school - educational institution"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Texas Health Harris Methodist Hospital Fort Worth",
+      "reason_code": "wrong_type",
+      "detail": "Hospital - government-adjacent healthcare system"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Texas Rollergirls",
+      "reason_code": "insufficient_donor_base",
+      "detail": "Sports/recreational organization - limited individual donor fundraising model"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Goodwill Industries Of Lubbock",
+      "reason_code": "too_institutional",
+      "detail": "National chain - too large and institutional for local prospecting"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Junior League Of Lubbock",
+      "reason_code": "wrong_type",
+      "detail": "Service club - primarily membership-based"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Discover El Paso Association Inc",
+      "reason_code": "wrong_type",
+      "detail": "Chamber of commerce / tourism association"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Austin Community Foundation",
+      "reason_code": "too_institutional",
+      "detail": "Community foundation - primarily grantmaking organization without direct service mission"
+    }
+  ],
+  "needs_review": [
+    {
+      "org_name": "Texas Baptists Center for Missional Engagement",
+      "reason": "Church planting network - potential Tier A (support-raised missionaries) but no website found in search results; denominational office"
+    },
+    {
+      "org_name": "Send Network SBTC",
+      "reason": "Church planting network - potential Tier A but website not confirmed in snippets; Baptist Send Network"
+    },
+    {
+      "org_name": "PCA Southwest Church Planting Network",
+      "reason": "Church planting network - potential Tier A (100+ churches, 16,000 members in Southwest) but website/organization status unclear"
+    },
+    {
+      "org_name": "Reformed Baptist Network",
+      "reason": "Sending agency for missionaries - potential Tier A but organizational structure/website not confirmed"
+    },
+    {
+      "org_name": "ABWE (Association of Baptists for World Evangelism)",
+      "reason": "Church planting focus - potential Tier A but may be national organization with Texas operations; website not confirmed"
+    },
+    {
+      "org_name": "Avant Ministries",
+      "reason": "Sending agency - potential Tier A but likely national; website not confirmed in snippets"
+    }
+  ]
+}
