@@ -1,0 +1,176 @@
+{
+  "wave_id": "w2026-09-09c",
+  "agent": "roster:campus-outreach-atlanta",
+  "target_org": "Campus Outreach - Atlanta",
+  "searches_used": 15,
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Matt & Laurie Williams",
+      "summary": "Campus Outreach Atlanta — Staff (Georgia Tech)",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page established at coatlanta.org/williams; documented staff raising personal support",
+      "source_url": "https://www.coatlanta.org/williams",
+      "meta": {
+        "tier": "A",
+        "role": "Georgia Tech Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Atlanta"
+      }
+    },
+    {
+      "org_name": "Jeremy & Jordan Moore",
+      "summary": "Campus Outreach Atlanta — Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page established at coatlanta.org/moore; documented staff raising personal support",
+      "source_url": "https://www.coatlanta.org/moore",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Atlanta"
+      }
+    },
+    {
+      "org_name": "Zach & Claudia Katzman",
+      "summary": "Campus Outreach Atlanta — Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page established at coatlanta.org/katzman; documented staff raising personal support",
+      "source_url": "https://www.coatlanta.org/katzman",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Atlanta"
+      }
+    },
+    {
+      "org_name": "Caitlin Cornwell",
+      "summary": "Campus Outreach Atlanta — Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page established at coatlanta.org/cornwell; documented staff raising personal support",
+      "source_url": "https://www.coatlanta.org/cornwell",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Atlanta"
+      }
+    },
+    {
+      "org_name": "Tessa Allen",
+      "summary": "Campus Outreach Atlanta — Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page established at coatlanta.org/tessa; documented staff raising personal support",
+      "source_url": "https://www.coatlanta.org/tessa",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Atlanta"
+      }
+    },
+    {
+      "org_name": "Anna Pannell",
+      "summary": "Campus Outreach Atlanta — Staff",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page established at coatlanta.org/anna; documented staff raising personal support",
+      "source_url": "https://www.coatlanta.org/anna",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Campus Outreach - Atlanta"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:coatlanta.org staff support giving",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach Atlanta\" staff team members leaders",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:coatlanta.org staff ministry directors",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"coatlanta.org\" staff name Georgia Tech UGA",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Campus Outreach Atlanta LinkedIn staff members",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:coatlanta.org/josh OR site:coatlanta.org/ryan OR site:coatlanta.org/andrew",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach Atlanta\" staff bio director coordinator",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:facebook.com \"Campus Outreach Atlanta\" staff team",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach Atlanta\" \"Davis\" OR \"Perimeter\" staff ministry",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "coatlanta.org hannah OR coatlanta.org sarah OR coatlanta.org chris",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.campusoutreach.org Atlanta OR site:campusoutreach.org/atlanta staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:instagram.com \"coatlanta\" OR site:instagram.com \"Campus Outreach Atlanta\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach Atlanta\" DiscipleShift Georgia Tech UGA staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "coatlanta.org/matt OR coatlanta.org/jeremy OR coatlanta.org/zach OR coatlanta.org/caitlin",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"coatlanta.org\" personal giving pages staff team members",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [],
+  "needs_review": [
+    "URL pattern confirmed: coatlanta.org/<firstname> for personal giving pages. Same pattern likely applies to other Campus Outreach city chapters. Search for: codonver.org, coraleigh.org, counleashed.org (Charlotte), etc.",
+    "Organization policy documented: All Campus Outreach Atlanta field staff maintain personal giving pages for supporter fundraising. This is core to their ministry model.",
+    "Campus Outreach Atlanta is incorporated as ministry of Perimeter Church; donations go to Perimeter Church but designated for specific staff members and ministries."
+  ]
+}
