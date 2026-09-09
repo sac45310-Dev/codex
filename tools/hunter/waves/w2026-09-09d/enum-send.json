@@ -1,0 +1,1359 @@
+{
+ "wave_id": "w2026-09-09d",
+ "agent": "enum:send",
+ "target_org": "SEND International",
+ "searches_used": 15,
+ "people": [
+  {
+   "org_name": "Nathan Woerner",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/woerner",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Maryah Woerner",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/woerner",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Timothy Burda",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/burda",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Paul Suzuki",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/suzuki",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Carol Suzuki",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/suzuki",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Jonathon Rhyne",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/Rhyne",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Amanda Rhyne",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/Rhyne",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "John Edwards",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/jsedwards",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Susan Edwards",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/jsedwards",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Shigeko Yamaguma",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/yamaguma",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Steve Kotlarczyk",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/kotlarczyk",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Belva Rae Kotlarczyk",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/kotlarczyk",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Don Ekstrand",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/ekstrand",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Janet Ekstrand",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/ekstrand",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Robert Kopp",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/kopp",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Larry Thiessen",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/thiessen",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Joyce Thiessen",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/thiessen",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Ubaldo Rodriguez",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/rodriguez-u-j",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Joy Rodriguez",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/rodriguez-u-j",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Siomie Denila",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/denila",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Scott Powell",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/powell",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Leslie Powell",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/powell",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Amanda Benson",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/benson",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "James Aberin",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/aberin",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Helen Aberin",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/aberin",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Paul Eager",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/eager",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Carlene Eager",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/eager",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Kenny Humphries",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/humphries",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Lauren Humphries",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/humphries",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Alex Chow",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/alex-and-cherrie-chow",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Cherrie Chow",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/alex-and-cherrie-chow",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Alex Kerr",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/Kerr",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Nichole Kerr",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/Kerr",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Jon Winter",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/winter",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Elaine Winter",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/winter",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Tyler Hildebrandt",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/Hildebrandt",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Camille Hildebrandt",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/Hildebrandt",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Sammy Rubia",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/rubia",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Dadai Rubia",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/rubia",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Pol Suyu",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/psuyu",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Chad Wiebe",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/wiebe",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Leanna Wiebe",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/wiebe",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Jeff Olson",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/jjolson",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Jayne Olson",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/jjolson",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Steven Collier",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/collier",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Meg Collier",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/collier",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Alfie Mosse",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/mosse",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Julie Mosse",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/mosse",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Ken Guenther",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/guenther",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Bertha Guenther",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/guenther",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Herb Burkett",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/burkett",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Kim Burkett",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/burkett",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Joseph Mosse",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/jmosse",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Jim May",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/may",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Angela May",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/may",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Jill Nguyen",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/jill-nguyen",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Trevor McGee",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/mcgee",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Aeryn McGee",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/mcgee",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Audrey Lawrence",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/lawrence",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Barry Rempel",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/rempel",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Ruth Rempel",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/rempel",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Carl Kresge",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/kresge",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Lori Kresge",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/kresge",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "John Wicker",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/wicker",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Sharon Wicker",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/wicker",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Ed Vencio",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/vencio",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Marlu Vencio",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/vencio",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Brett Hamilton",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/hamilton",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Michelle Hamilton",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/hamilton",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Andy Miller",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/acmiller",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Cassie Miller",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/acmiller",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Genna Friesen",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/gafriesen",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Armie Friesen",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/gafriesen",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Lisa Sorley",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/sorley",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Gary Ridley",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/ridley",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Carol Ridley",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/ridley",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Brandon Garlock",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/Garlock",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Abby Garlock",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/Garlock",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Matt Rossman",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/Rossman",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Clive Donaldson",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/donaldson",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Sharlane Donaldson",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/donaldson",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Larry Bigelow",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/bigelow",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  },
+  {
+   "org_name": "Kelly Bigelow",
+   "summary": "SEND International \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://send.org/give/missionaries/bigelow",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "SEND International"
+   }
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries Japan",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries Philippines",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries Thailand",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries Ukraine",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries church planter",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries Alaska Spain Taiwan",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries Central Asia",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries Russia Bulgaria",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries campus mobilizer",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries media member care",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries theological education Middle East",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/missionaries 2026",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give/missionaries Hungary Czech Macedonia",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:send.org/give missionaries -nakamura -enns -harder -javery -mueller -paetkau -phillips -stoesz -eipperle -hershberger",
+   "outcome": "found_people"
+  }
+ ],
+ "needs_review": [
+  {
+   "name": "Leif",
+   "last_name": "Unknown (G...)",
+   "source_url": "https://send.org/give/missionaries/l-j-g",
+   "reason": "Title shows only first name, surname unclear from URL pattern"
+  },
+  {
+   "name": "Jami",
+   "last_name": "Unknown (G...)",
+   "source_url": "https://send.org/give/missionaries/l-j-g",
+   "reason": "Title shows only first name, surname unclear from URL pattern"
+  },
+  {
+   "surname_only": "Kirtland",
+   "source_url": "https://send.org/give/missionaries/kirtland",
+   "reason": "URL shows Kirtland but first name not clearly visible in search result"
+  },
+  {
+   "name": "D",
+   "last_name": "Gray",
+   "source_url": "https://send.org/give/missionaries/gray",
+   "reason": "Only initial shown for first name"
+  },
+  {
+   "name": "L",
+   "last_name": "Gray",
+   "source_url": "https://send.org/give/missionaries/gray",
+   "reason": "Only initial shown for first name"
+  },
+  {
+   "surname_only": "Stout",
+   "source_url": "https://send.org/give/missionaries/stout",
+   "reason": "First name unclear or missing from search results"
+  },
+  {
+   "initial_only": "G",
+   "source_url": "https://send.org/give/missionaries/gp",
+   "reason": "Only initial shown for first name, surname unclear"
+  },
+  {
+   "name": "J",
+   "last_name": "Willis",
+   "source_url": "https://send.org/give/missionaries/willis",
+   "reason": "Only first name initial visible in search results"
+  },
+  {
+   "name": "E",
+   "last_name": "Unknown (G...)",
+   "source_url": "https://send.org/give/missionaries/e-g",
+   "reason": "Only initials shown, full names unclear"
+  },
+  {
+   "name": "G",
+   "last_name": "Unknown",
+   "source_url": "https://send.org/give/missionaries/e-g",
+   "reason": "Only initials shown, full names unclear"
+  },
+  {
+   "name": "E.G.",
+   "last_name": "Reasoner",
+   "source_url": "https://send.org/give/missionaries/reasoner",
+   "reason": "Unclear if E.G. are first name initials or nickname"
+  },
+  {
+   "name": "C",
+   "last_name": "Unknown (G...)",
+   "source_url": "https://send.org/give/missionaries/c-l-g",
+   "reason": "Only initial shown, full names unclear"
+  },
+  {
+   "name": "L",
+   "last_name": "Unknown (G...)",
+   "source_url": "https://send.org/give/missionaries/c-l-g",
+   "reason": "Only initial shown, full names unclear"
+  },
+  {
+   "initials": "MN",
+   "source_url": "https://send.org/give/missionaries/MN",
+   "reason": "Only initials provided in search results"
+  },
+  {
+   "name": "H",
+   "last_name": "Johnson",
+   "source_url": "https://send.org/give/missionaries/hjohnson",
+   "reason": "Only first name initial shown"
+  },
+  {
+   "kind": "deliberately_anonymized",
+   "value": "Dave Brubacher",
+   "url": "https://send.org/give/missionaries/d-m-b",
+   "description": "Giving page uses initials only, which SEND does for workers in sensitive regions. Not ingesting a full name against an intentionally anonymized page; route to manual review."
+  },
+  {
+   "kind": "deliberately_anonymized",
+   "value": "Martina Brubacher",
+   "url": "https://send.org/give/missionaries/d-m-b",
+   "description": "Giving page uses initials only, which SEND does for workers in sensitive regions. Not ingesting a full name against an intentionally anonymized page; route to manual review."
+  },
+  {
+   "kind": "deliberately_anonymized",
+   "value": "Rick Perhai",
+   "url": "https://send.org/give/missionaries/r-m-p",
+   "description": "Giving page uses initials only, which SEND does for workers in sensitive regions. Not ingesting a full name against an intentionally anonymized page; route to manual review."
+  },
+  {
+   "kind": "deliberately_anonymized",
+   "value": "Marilyn Perhai",
+   "url": "https://send.org/give/missionaries/r-m-p",
+   "description": "Giving page uses initials only, which SEND does for workers in sensitive regions. Not ingesting a full name against an intentionally anonymized page; route to manual review."
+  }
+ ]
+}
