@@ -1,0 +1,593 @@
+{
+  "wave_id": "w2026-09-09a",
+  "agent": "local:mid-south",
+  "searches_used": 18,
+  "orgs_discovered": [
+    {
+      "org_name": "Youth With A Mission Louisville Inc",
+      "website": "ywamlouisville.org",
+      "org_type": "agency",
+      "size_estimate": "medium",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Louisville",
+      "state": "KY",
+      "notes": "Support-raised missionary sending organization. YWAM operates DTS (Discipleship Training School) and sends missionaries globally. Support-raising model evident."
+    },
+    {
+      "org_name": "Campus Outreach Lexington",
+      "website": "colex.org",
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Lexington",
+      "state": "KY",
+      "notes": "College ministry building laborers on campus. Support-raised staff evident from mission and operations."
+    },
+    {
+      "org_name": "Christian Student Fellowship",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Lexington",
+      "state": "KY",
+      "notes": "Campus ministry at University of Kentucky founded 1958. Staffed by recent graduates giving first 1-2 years post-graduation to ministry work. Support-raised model."
+    },
+    {
+      "org_name": "Bluegrass Christian Fellowship",
+      "website": "bluegrassfellowship.org",
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Lexington",
+      "state": "KY",
+      "notes": "Church planting network in Kentucky. Spirit-led church planting and ministry support with support-raised model."
+    },
+    {
+      "org_name": "City For The Nations",
+      "website": "cityforthenations.com",
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Lexington",
+      "state": "KY",
+      "notes": "Church planting and missions organization. Works internationally and domestically. Support-raised staff model. Train and deploy workers for gospel work."
+    },
+    {
+      "org_name": "Every Nation Lexington",
+      "website": "everynationlexington.org",
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Lexington",
+      "state": "KY",
+      "notes": "Church planting network operating support-raised model. Aaron Rooks and others operate on individual giving/support teams for church planting work."
+    },
+    {
+      "org_name": "Young Life Chattanooga",
+      "website": "chattanooga.younglife.org",
+      "org_type": "agency",
+      "size_estimate": "medium",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Chattanooga",
+      "state": "TN",
+      "notes": "Youth ministry organization serving teens. Part of nationwide Young Life network with support-raised staff model."
+    },
+    {
+      "org_name": "Nashville Rescue Mission",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Nashville",
+      "state": "TN",
+      "notes": "Rescue mission and homeless services. Large organization with $24.1M revenue (2024), $30.7M assets."
+    },
+    {
+      "org_name": "Downtown Rescue Mission Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Nashville",
+      "state": "TN",
+      "notes": "Rescue mission for homeless and at-risk individuals."
+    },
+    {
+      "org_name": "City Rescue Mission",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Nashville",
+      "state": "TN",
+      "notes": "Rescue mission providing emergency services and recovery support."
+    },
+    {
+      "org_name": "Nashville Safe Haven Family Shelter",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Nashville",
+      "state": "TN",
+      "notes": "Family homeless shelter providing temporary shelter and support services."
+    },
+    {
+      "org_name": "Nashville CARES",
+      "website": "nashvillecares.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Nashville",
+      "state": "TN",
+      "notes": "HIV/AIDS services and support organization. Individual donor fundraising model."
+    },
+    {
+      "org_name": "Room In The Inn",
+      "website": "roomintheinn.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Nashville",
+      "state": "TN",
+      "notes": "Homeless housing and support services. Welcome Home program for newly-housed participants. Individual donor supported."
+    },
+    {
+      "org_name": "Nurses for Newborns of Tennessee",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Nashville",
+      "state": "TN",
+      "notes": "Maternal health and infant mortality prevention. Free home nursing visits for families with newborns. Individual donor supported."
+    },
+    {
+      "org_name": "Tennessee Prison Outreach Ministry",
+      "website": "tpom.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Nashville",
+      "state": "TN",
+      "notes": "Prison ministry and rehabilitation. Over 50 years operation. 500+ volunteers. Operates halfway houses and provides mentoring, faith classes. Individual donor supported."
+    },
+    {
+      "org_name": "The Contributor",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Nashville",
+      "state": "TN",
+      "notes": "Bi-weekly street newspaper providing economic opportunities for people experiencing homelessness and poverty."
+    },
+    {
+      "org_name": "The Belcourt",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Nashville",
+      "state": "TN",
+      "notes": "Arts and entertainment nonprofit. Participates in Big Payback individual fundraising."
+    },
+    {
+      "org_name": "YWCA Nashville & Middle Tennessee",
+      "website": "ywcanashville.com",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Nashville",
+      "state": "TN",
+      "notes": "Women's empowerment and domestic violence services. Dress For Success program. Individual donor supported."
+    },
+    {
+      "org_name": "Knox Area Rescue Ministries",
+      "website": "karm.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Knoxville",
+      "state": "TN",
+      "notes": "Established 1960. Rescue mission for homeless and at-risk. 88.5% of donations go to direct services. Individual donor supported."
+    },
+    {
+      "org_name": "Bridge Refugee Services, Inc.",
+      "website": "bridgerefugees.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Knoxville",
+      "state": "TN",
+      "notes": "Refugee resettlement and services. Founded 1982. Ecumenical. Employment assistance, English language training, case management. Individual donors and sponsor volunteers."
+    },
+    {
+      "org_name": "Jubilee Community Arts",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Knoxville",
+      "state": "TN",
+      "notes": "Founded 1969. Preserves performing arts of Southern Appalachian region. Operates Laurel Theater. Community cultural engagement."
+    },
+    {
+      "org_name": "Appalachian Community Fund",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Knoxville",
+      "state": "TN",
+      "notes": "Founded 1987. Community development and social change in Central Appalachia. Serves East TN, Eastern KY, Southwest VA, West VA."
+    },
+    {
+      "org_name": "Adult & Teen Challenge (MidSouth)",
+      "website": "tcmidsouth.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Chattanooga",
+      "state": "TN",
+      "notes": "Addiction recovery center. Holistic recovery model addressing body, mind, spirit. Individual donor supported."
+    },
+    {
+      "org_name": "CADAS Chattanooga",
+      "website": "cadas.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Chattanooga",
+      "state": "TN",
+      "notes": "Substance abuse services. Operating since 1964. Serves individuals regardless of ability to pay. Individual donor supported."
+    },
+    {
+      "org_name": "Louisville Youth Philanthropy Council Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Louisville",
+      "state": "KY",
+      "notes": "Youth development and community service leadership."
+    },
+    {
+      "org_name": "Louisville Youth Training Center Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Louisville",
+      "state": "KY",
+      "notes": "Youth training and career development."
+    },
+    {
+      "org_name": "Mentorkids Kentucky Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Louisville",
+      "state": "KY",
+      "notes": "Adult-child mentoring program for youth development."
+    },
+    {
+      "org_name": "Louisville Youth Group Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Louisville",
+      "state": "KY",
+      "notes": "Youth programs and community engagement."
+    },
+    {
+      "org_name": "Kentucky Youth Advocates Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Lexington",
+      "state": "KY",
+      "notes": "Youth advocacy and policy work statewide."
+    },
+    {
+      "org_name": "Youth Mentoring Connection",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Louisville",
+      "state": "KY",
+      "notes": "Youth mentoring and matching program."
+    },
+    {
+      "org_name": "Team Memphis Rescue and Support",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Memphis",
+      "state": "TN",
+      "notes": "Animal rescue for abandoned and neglected pets. Provides wellness care, boarding, specialty training. Donor dependent."
+    },
+    {
+      "org_name": "Humane Society of Memphis and Shelby County",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Memphis",
+      "state": "TN",
+      "notes": "Animal rescue and adoption. Humane education and spay-neuter programs. Individual donor supported."
+    },
+    {
+      "org_name": "Animal World USA",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Memphis",
+      "state": "TN",
+      "notes": "Animal shelter and welfare organization. Founded 2003."
+    },
+    {
+      "org_name": "Unity for Animals",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Memphis",
+      "state": "TN",
+      "notes": "Animal welfare organization. Founded 2017."
+    },
+    {
+      "org_name": "Community Alliance for the Homeless",
+      "website": "cafth.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Memphis",
+      "state": "TN",
+      "notes": "Homeless services coordination and planning. Provides technical assistance to agencies. Individual donor supported."
+    },
+    {
+      "org_name": "Mane Up Memphis",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Memphis",
+      "state": "TN",
+      "notes": "Youth mental health services and financial literacy. Ages 11-25 and families. Community development focus."
+    },
+    {
+      "org_name": "The Hospitality Hub of Memphis",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Memphis",
+      "state": "TN",
+      "notes": "Homeless services and stable housing connections. Health outcomes improvement."
+    },
+    {
+      "org_name": "Homes for Hearts",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Memphis",
+      "state": "TN",
+      "notes": "Builds tiny homes for people experiencing homelessness. Affordable sustainable homeownership model."
+    },
+    {
+      "org_name": "Appalachian Prison Book Project",
+      "website": "appalachianprisonbookproject.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Knoxville",
+      "state": "TN",
+      "notes": "Sends free books and educational opportunities to incarcerated individuals. Serves 6 Appalachian states. Restorative justice focus."
+    },
+    {
+      "org_name": "Sav-A-Life",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Birmingham",
+      "state": "AL",
+      "notes": "Largest pregnancy care center in Birmingham metro. Free pregnancy and STI testing. Supported by individual donations and businesses."
+    },
+    {
+      "org_name": "Her Choice Birmingham Women's Center",
+      "website": "herchoicebirmingham.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Birmingham",
+      "state": "AL",
+      "notes": "Pregnancy care center. Free pregnancy tests, limited ultrasounds, post-abortion recovery, counseling."
+    },
+    {
+      "org_name": "Life On Wheels - Alabama",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Birmingham",
+      "state": "AL",
+      "notes": "Free ultrasounds and pregnancy support services. Serves multiple Alabama cities including Birmingham."
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Nashville rescue mission homeless shelter",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Louisville Kentucky youth mentoring after-school",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "site:causeiq.com nonprofits Memphis Tennessee animal rescue community development",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "site:taxexemptworld.com Knoxville Tennessee nonprofit refugees literacy",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "\"Big Payback\" Nashville participating nonprofits 2026",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "\"Nashville CARES\" \"Room in the Inn\" \"Nurses for Newborns\" nonprofit donate website",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "Chattanooga Tennessee nonprofits \"addiction recovery\" \"veterans services\" faith-based fundraising",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "Lexington Kentucky nonprofits church planting campus ministry support-raised staff",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "Birmingham Alabama nonprofits \"crisis pregnancy center\" \"free clinic\" \"community development\"",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "\"Appalachian\" nonprofit \"prison ministry\" \"Appalachian outreach\" Kentucky Tennessee",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "\"Youth With A Mission\" Louisville Kentucky donate website \"support team\"",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "Memphis Tennessee \"literacy nonprofit\" \"homeless shelter\" \"community development\" donate website",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "Nashville \"The Contributor\" \"Belcourt\" \"YWCA\" nonprofit fundraising individual donors",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "Knoxville Tennessee \"Knox Area Rescue Ministries\" \"Bridge Refugee Services\" nonprofit donate fundraising",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "\"City For The Nations\" Lexington Kentucky international students church planting support team",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "Every Nation church Louisville Kentucky Lexington Tennessee missions support-raised network",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "Knoxville Tennessee \"community development\" \"Appalachian\" nonprofit heritage arts youth",
+      "outcome": "found_orgs"
+    },
+    {
+      "kind": "query",
+      "value": "Chattanooga Tennessee \"covenant college\" campus ministry \"young life\" \"teen challenge\" nonprofit",
+      "outcome": "found_orgs"
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Covenant College",
+      "reason_code": "too_institutional",
+      "detail": "Educational institution - does not fundraise from individual donors for field operations"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Haven Of Rest Rescue Mission Of Bristol Inc",
+      "reason_code": "offtopic",
+      "detail": "Located in Bristol - outside primary Mid-South & Appalachia territory"
+    }
+  ],
+  "needs_review": [
+    {
+      "org_name": "Mentorkids Kentucky Inc",
+      "reason": "Need to verify website and specific location (Louisville vs statewide)",
+      "contact_method": "ProPublica/CauseIQ lookup"
+    },
+    {
+      "org_name": "Kentucky Youth Advocates Inc",
+      "reason": "Need to verify primary location and individual donor fundraising model",
+      "contact_method": "ProPublica/CauseIQ lookup"
+    },
+    {
+      "org_name": "Jubilee Community Arts",
+      "reason": "Need to verify website and current operational status",
+      "contact_method": "Knoxville contact or web search"
+    }
+  ]
+}
