@@ -1,0 +1,390 @@
+{
+  "wave_id": "w2026-09-09c",
+  "agent": "roster:greater-europe-mission",
+  "target_org": "Greater Europe Mission",
+  "searches_used": 15,
+  "roster_verdict": "exhausted:hit_search_cap",
+  "people": [
+    {
+      "org_name": "Eric Duey",
+      "summary": "Greater Europe Mission — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/13003/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Matthew Huber",
+      "summary": "Greater Europe Mission — Missionary/Trainer",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; trains new missionaries; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/23230/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Karen Huber",
+      "summary": "Greater Europe Mission — Storytelling Team Leader",
+      "fit_score": 9,
+      "fit_reason": "Named missionary/staff member with personal giving page; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/23230/",
+      "meta": {
+        "tier": "A",
+        "role": "Storytelling Team Leader",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "David Crick",
+      "summary": "Greater Europe Mission — Missionary at Black Forest Academy",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; serves at Black Forest Academy in Germany; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/10811/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Carol Crick",
+      "summary": "Greater Europe Mission — Missionary at Black Forest Academy",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; serves at Black Forest Academy in Germany; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/10811/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Jonathan Bourbeau",
+      "summary": "Greater Europe Mission — Missionary in Latvia",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; serving in Latvia since 1993; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/05191/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Deborah Bourbeau",
+      "summary": "Greater Europe Mission — Missionary in Latvia",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; serving in Latvia since 1993; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/05191/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Anna Minor",
+      "summary": "Greater Europe Mission — Theater Teacher at Black Forest Academy",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; serves as teacher in Germany; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/29505/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Bern Vilahur",
+      "summary": "Greater Europe Mission — Camp Consultant in Spain",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; serves as camp consultant in Spain; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/58750/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Jordi Vilahur",
+      "summary": "Greater Europe Mission — Camp Consultant in Spain",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; serves as camp consultant in Spain; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/58750/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Gene W",
+      "summary": "Greater Europe Mission — Missionary in Eastern Europe",
+      "fit_score": 8,
+      "fit_reason": "Named missionary with personal giving page; serves in Eastern Europe and Northern Sweden; Tier A profile",
+      "source_url": "https://gemission.org/give/46865/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "medium",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Inga W",
+      "summary": "Greater Europe Mission — Missionary in Eastern Europe",
+      "fit_score": 8,
+      "fit_reason": "Named missionary with personal giving page; serves in Eastern Europe and Northern Sweden; Tier A profile",
+      "source_url": "https://gemission.org/give/46865/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "medium",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Rafa Villalba",
+      "summary": "Greater Europe Mission — Facilities Management and Youth Ministry in Spain",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; serves in northeast Spain; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/58764/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Yolanda Villalba",
+      "summary": "Greater Europe Mission — Facilities Management and Youth Ministry in Spain",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; serves in northeast Spain; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/58764/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Jonathan Bachman",
+      "summary": "Greater Europe Mission — Missionary at Black Forest Academy",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; works in IT and drone ministry in Germany; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/01725/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Heather Bachman",
+      "summary": "Greater Europe Mission — Missionary at Black Forest Academy",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; serves at Black Forest Academy in Germany; high-value Tier A profile",
+      "source_url": "https://gemission.org/give/01725/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Susan Strohschein",
+      "summary": "Greater Europe Mission — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal giving page; high-value Tier A profile",
+      "source_url": "https://gemission.org/donatemissionary/susan-strohschein/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Cassie Knowlton",
+      "summary": "Greater Europe Mission — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with personal profile page; high-value Tier A profile",
+      "source_url": "https://gemission.org/missionaries/knowlton/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Seb Brandt",
+      "summary": "Greater Europe Mission UK — Director of Development and Support",
+      "fit_score": 6,
+      "fit_reason": "Development staff; director of development and support for GEM UK regional office; has personal support page",
+      "source_url": "https://famillebrandt.com/partner-with-us",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development and Support",
+        "confidence": "high",
+        "evidence_basis": "job_title",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Jon Burns",
+      "summary": "Greater Europe Mission — Chief Executive Officer",
+      "fit_score": 6,
+      "fit_reason": "Senior leadership; CEO since January 2015; former pastor and church-planter",
+      "source_url": "https://gemission.org/about/leadership/",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Executive Officer",
+        "confidence": "high",
+        "evidence_basis": "org_policy",
+        "target_org": "Greater Europe Mission"
+      }
+    },
+    {
+      "org_name": "Charlie Lyons",
+      "summary": "Greater Europe Mission Canada — Executive Director",
+      "fit_score": 6,
+      "fit_reason": "Senior leadership; GEM Canada Executive Director since 2025; 25+ years in vocational ministry",
+      "source_url": "https://gemission.ca/donate/charlie-lyons",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "confidence": "high",
+        "evidence_basis": "org_policy",
+        "target_org": "Greater Europe Mission"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:gemission.org missionary give support giving page",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"gemission.org/missionary\" missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.gemission.org\" missionary partner monthly",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:gemission.org \"missionary\" deputation support raising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:gemission.org/give/ missionary names workers",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:gemission.org/give/missionaries Greater Europe Mission workers",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"gemission.org/give/\" Timothy OR Sarah OR Peter OR Mark OR Luke missionary",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:gemission.org development director advancement donor relations staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:gemission.org/about/leadership Greater Europe Mission team",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greater Europe Mission\" board members leadership 2024 2025",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:gemission.org/give Stefan OR Rachel OR James OR Andrew OR Michael missionary",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greater Europe Mission\" UK staff Seb Brandt director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:gemission.ca \"Charlie\" OR \"Jon\" OR \"Sarah\" leadership Canada",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greater Europe Mission\" \"US President\" \"Chief Executive Officer\" 2024",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:gemission.org \"Jon Burns\" OR \"board of directors\" OR \"executive team\"",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [],
+  "needs_review": [
+    "URL pattern established: gemission.org/give/<ID>/ for individual missionary giving pages (most reliable pattern)",
+    "Alternative pattern found: gemission.org/donatemissionary/<name>/ for some missionaries",
+    "Secondary pattern: gemission.org/missionaries/<name>/ for some missionary profiles",
+    "Full name 'Sarah' not found for US President - search results truncated",
+    "Recommended next phase: Access gemission.org/give/missionaries/page/ directory directly to enumerate remaining missionaries beyond page 17",
+    "Gene W and Inga W names appear truncated - full surnames not retrieved in search results",
+    "Additional Tier B candidates may exist in support/advancement roles not captured with 15-search limit"
+  ]
+}
