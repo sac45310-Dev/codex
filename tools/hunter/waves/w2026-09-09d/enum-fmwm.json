@@ -1,0 +1,513 @@
+{
+  "wave_id": "w2026-09-09d",
+  "agent": "enum:fmwm",
+  "target_org": "Free Methodist World Missions",
+  "searches_used": 15,
+  "people": [
+    {
+      "org_name": "Mark Morrison",
+      "summary": "Free Methodist World Missions — VISA Missionary in Asia",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/asia/morrison/",
+      "meta": {
+        "tier": "A",
+        "role": "VISA Missionary",
+        "region": "Asia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Judi Morrison",
+      "summary": "Free Methodist World Missions — VISA Missionary in Asia",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/asia/morrison/",
+      "meta": {
+        "tier": "A",
+        "role": "VISA Missionary",
+        "region": "Asia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Trevor Foley",
+      "summary": "Free Methodist World Missions — Missionary in Asia",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/asia/foley/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Asia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Jordan Kaufmann",
+      "summary": "Free Methodist World Missions — VISA Coordinator in Africa",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/africa/kaufmanns/",
+      "meta": {
+        "tier": "A",
+        "role": "VISA Coordinator",
+        "region": "Africa",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Audrey Kaufmann",
+      "summary": "Free Methodist World Missions — VISA Coordinator Support in Africa",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/africa/kaufmanns/",
+      "meta": {
+        "tier": "A",
+        "role": "VISA Coordinator",
+        "region": "Africa",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Emmanuel Nzungize",
+      "summary": "Free Methodist World Missions — Associate Missionary in Africa",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/africa/nzungize/",
+      "meta": {
+        "tier": "A",
+        "role": "Associate Missionary",
+        "region": "Africa",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Rachel Nzungize",
+      "summary": "Free Methodist World Missions — Associate Missionary in Africa",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/africa/nzungize/",
+      "meta": {
+        "tier": "A",
+        "role": "Associate Missionary",
+        "region": "Africa",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Erin Kingsley",
+      "summary": "Free Methodist World Missions — Missionary in Europe",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/europe/kingsley/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Europe",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Paul Olver",
+      "summary": "Free Methodist World Missions — Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/latin-america/olver/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Juan Carlos Rodriguez",
+      "summary": "Free Methodist World Missions — Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/latin-america/rodriguez-aguirre/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Yaneth Aguirre",
+      "summary": "Free Methodist World Missions — Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/latin-america/rodriguez-aguirre/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "John Jairo Leal",
+      "summary": "Free Methodist World Missions — Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/latin-america/leal-castro/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Susana Castro",
+      "summary": "Free Methodist World Missions — Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/latin-america/leal-castro/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Rich Sheriff",
+      "summary": "Free Methodist World Missions — Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/latin-america/sheriff/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Laurie Sheriff",
+      "summary": "Free Methodist World Missions — Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/latin-america/sheriff/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Dan Snyder",
+      "summary": "Free Methodist World Missions — Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/latin-america/snyder/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Dee Ann Snyder",
+      "summary": "Free Methodist World Missions — Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/latin-america/snyder/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Shane Jewell",
+      "summary": "Free Methodist World Missions — Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/shane-and-katie-jewell/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Katie Jewell",
+      "summary": "Free Methodist World Missions — Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/shane-and-katie-jewell/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Glenn Lorenz",
+      "summary": "Free Methodist World Missions — Africa Area Associate Director",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://fmwm.org/",
+      "meta": {
+        "tier": "A",
+        "role": "Area Associate Director",
+        "region": "Africa",
+        "confidence": "high",
+        "evidence_basis": "site_mention",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "David Lopez",
+      "summary": "Free Methodist World Missions — International Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Missionary info packet",
+      "source_url": "https://fmwm.org/wp-content/uploads/2022/06/Lopez.pdf",
+      "meta": {
+        "tier": "A",
+        "role": "International Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Ginegda Lopez",
+      "summary": "Free Methodist World Missions — International Missionary in Latin America",
+      "fit_score": 9,
+      "fit_reason": "Missionary info packet",
+      "source_url": "https://fmwm.org/wp-content/uploads/2022/06/Lopez.pdf",
+      "meta": {
+        "tier": "A",
+        "role": "International Missionary",
+        "region": "Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "José Hernández",
+      "summary": "Free Methodist World Missions — Missionary in Europe",
+      "fit_score": 9,
+      "fit_reason": "Missionary assignment",
+      "source_url": "https://fmwm.org/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Europe",
+        "confidence": "high",
+        "evidence_basis": "site_mention",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Ada Hernández",
+      "summary": "Free Methodist World Missions — Missionary in Europe",
+      "fit_score": 9,
+      "fit_reason": "Missionary assignment",
+      "source_url": "https://fmwm.org/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Europe",
+        "confidence": "high",
+        "evidence_basis": "site_mention",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Moisés Souza",
+      "summary": "Free Methodist World Missions — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Missionary assignment",
+      "source_url": "https://fmwm.org/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Africa",
+        "confidence": "high",
+        "evidence_basis": "site_mention",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Jacione Souza",
+      "summary": "Free Methodist World Missions — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Missionary assignment",
+      "source_url": "https://fmwm.org/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "region": "Africa",
+        "confidence": "high",
+        "evidence_basis": "site_mention",
+        "target_org": "Free Methodist World Missions"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/asia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/africa",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/europe",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/latin-america",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/middle-east",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org asia missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org africa missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org europe missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org latin-america missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org middle-east",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org give",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/europe/michael-tanya",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/latin-america/casto",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "org_name": "Jason",
+      "note": "Only first name recovered from asia/jason-wendi/ page",
+      "source_url": "https://fmwm.org/asia/jason-wendi/",
+      "issue": "Last name not visible in search results"
+    },
+    {
+      "org_name": "Wendi",
+      "note": "Only first name recovered from asia/jason-wendi/ page",
+      "source_url": "https://fmwm.org/asia/jason-wendi/",
+      "issue": "Last name not visible in search results"
+    },
+    {
+      "org_name": "Michael",
+      "note": "Only first name recovered from europe/michael-tanya/ page",
+      "source_url": "https://fmwm.org/europe/michael-tanya/",
+      "issue": "Last name not visible in search results"
+    },
+    {
+      "org_name": "Tanya",
+      "note": "Only first name recovered from europe/michael-tanya/ page",
+      "source_url": "https://fmwm.org/europe/michael-tanya/",
+      "issue": "Last name not visible in search results"
+    },
+    {
+      "org_name": "Casto",
+      "note": "Only first name recovered from latin-america/casto/ page",
+      "source_url": "https://fmwm.org/latin-america/casto/",
+      "issue": "Surname not visible in search results, serves with Flor Marlene"
+    },
+    {
+      "org_name": "Flor Marlene",
+      "note": "Names recovered from latin-america/casto/ page",
+      "source_url": "https://fmwm.org/latin-america/casto/",
+      "issue": "Unclear if both names are first names or if one is surname, serves with Casto"
+    }
+  ]
+}
