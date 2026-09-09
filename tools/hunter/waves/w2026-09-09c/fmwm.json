@@ -1,0 +1,381 @@
+{
+  "wave_id": "w2026-09-09c",
+  "agent": "roster:free-methodist-world-missions",
+  "target_org": "Free Methodist World Missions",
+  "searches_used": 15,
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Richard Dickinson",
+      "summary": "Free Methodist World Missions — Asia Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; part of FMWM org-wide support-raising model",
+      "source_url": "https://fmwm.org/asia/dickinson/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Asia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Sheila Dickinson",
+      "summary": "Free Methodist World Missions — Asia Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; part of FMWM org-wide support-raising model",
+      "source_url": "https://fmwm.org/asia/dickinson/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Asia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Albert Delali-Yevunya",
+      "summary": "Free Methodist World Missions — Europe Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; part of FMWM org-wide support-raising model",
+      "source_url": "https://fmwm.org/europe/delali/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Europe",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Gene Hall",
+      "summary": "Free Methodist World Missions — Asia Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; leadership training specialist in Asia",
+      "source_url": "https://fmwm.org/asia/hall/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Asia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Minori Hall",
+      "summary": "Free Methodist World Missions — Asia Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; serving in Asia",
+      "source_url": "https://fmwm.org/asia/hall/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Asia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Gerry McNamara",
+      "summary": "Free Methodist World Missions — Europe Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; regional director Central/Eastern Europe",
+      "source_url": "https://fmwm.org/europe/mcnamara/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Europe",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Kathy McNamara",
+      "summary": "Free Methodist World Missions — Europe Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; serves in Hungary and Central Europe",
+      "source_url": "https://fmwm.org/europe/mcnamara/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Europe",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Wendi",
+      "summary": "Free Methodist World Missions — Asia Missionary",
+      "fit_score": 8,
+      "fit_reason": "Named missionary with confirmed personal giving page; serves in Southeast Asia",
+      "source_url": "https://fmwm.org/asia/jason-wendi/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Asia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Wendy Lorenz",
+      "summary": "Free Methodist World Missions — Latin America Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; care coordinator for Third Culture Kids",
+      "source_url": "https://fmwm.org/latin-america/wendy-lorenz/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Thom Cahill",
+      "summary": "Free Methodist World Missions — Asia Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; serving in Asia",
+      "source_url": "https://fmwm.org/asia/cahill/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Asia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Sherry Cahill",
+      "summary": "Free Methodist World Missions — Asia Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; serving in Asia",
+      "source_url": "https://fmwm.org/asia/cahill/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Asia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Joanne",
+      "summary": "Free Methodist World Missions — Middle East Missionary",
+      "fit_score": 8,
+      "fit_reason": "Named missionary with confirmed personal giving page; serves in Middle East",
+      "source_url": "https://fmwm.org/middle-east/hany-joanne/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Middle East",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Dosseh Takpale",
+      "summary": "Free Methodist World Missions — Africa Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; superintendent and regional supervisor",
+      "source_url": "https://fmwm.org/africa/takpale/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Africa",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Scott Edinger",
+      "summary": "Free Methodist World Missions — Africa Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; serving in Africa",
+      "source_url": "https://fmwm.org/africa/edinger/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Africa",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Natasha Edinger",
+      "summary": "Free Methodist World Missions — Africa Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; serving in Africa",
+      "source_url": "https://fmwm.org/africa/edinger/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Africa",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Guy Crawford",
+      "summary": "Free Methodist World Missions — Latin America Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; pastoral care coordinator",
+      "source_url": "https://fmwm.org/latin-america/crawford/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Betsy Crawford",
+      "summary": "Free Methodist World Missions — Latin America Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; serving in Latin America",
+      "source_url": "https://fmwm.org/latin-america/crawford/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Latin America",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Camilo Mora",
+      "summary": "Free Methodist World Missions — Europe Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; serving in Europe with administrative and training focus",
+      "source_url": "https://fmwm.org/europe/mora/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Europe",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    },
+    {
+      "org_name": "Magaly Mora",
+      "summary": "Free Methodist World Missions — Europe Missionary",
+      "fit_score": 9,
+      "fit_reason": "Named missionary with confirmed personal giving page; education focus in Spain",
+      "source_url": "https://fmwm.org/europe/mora/",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary - Europe",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Free Methodist World Missions"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:fmwm.org missionaries support giving page",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Free Methodist World Missions\" missionary \"partner with us\" giving",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "fmwm.org missionary deputation support raising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/missionaries OR site:fmwm.org missionary names",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Free Methodist\" missionary Africa Asia support team giving personal",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org \"how to support\" missionary monthly partner",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org \"Alan Bacus\" OR \"Darin\" OR \"Mike\" OR \"Glenn Lorenz\" missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org latin-america africa asia missionaries directory",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Free Methodist World Missions\" missionary list directory names 2024 2025",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/africa/ missionary",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/europe/ missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/middle-east/ missionary",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org Crawford Bacus Hall missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"fmwm.org\" personal giving page support missionaries commit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org missionaries Paulo Clara \"support\" OR \"giving\" OR \"commit\"",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "platform_not_person": "FMWM uses MSA (Missionary Support Account) system - this is an institutional structure, not a person"
+    },
+    {
+      "reference_only": "Alan and Ammabellee Bacus - mentioned as FMWM-Asia missionaries but no individual personal page found in searches"
+    },
+    {
+      "reference_only": "Darin and Jill - mentioned in context but no confirmed individual page or last name"
+    },
+    {
+      "reference_only": "Mike and Vicki - mentioned as Area Directors but may be administrative staff rather than field missionaries"
+    },
+    {
+      "reference_only": "Jason - first name only, no confirmed last name in search results"
+    },
+    {
+      "reference_only": "Hany - first name only, no confirmed last name in search results"
+    },
+    {
+      "reference_only": "Paulo and Clara - newsletter mentions but no confirmed individual personal page URLs found"
+    }
+  ],
+  "needs_review": [
+    "CONFIRMED PATTERN: fmwm.org/region/lastname/ URL structure for personal missionary pages (e.g., fmwm.org/asia/dickinson/, fmwm.org/africa/takpale/)",
+    "ORG POLICY - Tier A Support Raising Model: FMWM operates an explicit support-raising system where missionaries build their own donor teams through 'Commit' system - visitors can pledge monthly support to individual missionaries on their personal pages",
+    "MSA (Missionary Support Account) system - each missionary has a dedicated fund account managed through FMWM",
+    "Giving infrastructure: fmwm.org features individual commitment forms for each missionary, online giving portal, and phone-based commitment system (800.342.5531 ext. 232)"
+  ]
+}
