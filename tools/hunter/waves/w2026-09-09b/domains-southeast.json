@@ -1,0 +1,322 @@
+{
+  "wave_id": "w2026-09-09b",
+  "agent": "domain:southeast",
+  "searches_used": 18,
+  "results": [
+    {
+      "org": "Bounce Back Charleston",
+      "city": "Charleston, SC",
+      "website": "bouncebackincorporated.net",
+      "evidence_url": "https://www.bouncebackincorporated.net/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Carolina Youth Development Center",
+      "city": "Charleston, SC",
+      "website": null,
+      "evidence_url": "",
+      "note": "Only aggregator results found (Yelp, nonprofitlist.org, greatnonprofits.org); no official website detected"
+    },
+    {
+      "org": "Charleston Hope",
+      "city": "Charleston, SC",
+      "website": "charlestonhope.org",
+      "evidence_url": "https://www.charlestonhope.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Low Country Orphan Relief",
+      "city": "Charleston, SC",
+      "website": "lowcountryorphanrelief.org",
+      "evidence_url": "https://www.lowcountryorphanrelief.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Palmetto Goodwill",
+      "city": "Charleston, SC",
+      "website": null,
+      "evidence_url": "",
+      "note": "Mentioned in search results but no official website URL found"
+    },
+    {
+      "org": "Ronald McDonald House Charities of Charleston",
+      "city": "Charleston, SC",
+      "website": null,
+      "evidence_url": "",
+      "note": "Only aggregator results found; no official website detected"
+    },
+    {
+      "org": "SC Coastal Conservation League",
+      "city": "Charleston, SC",
+      "website": "coastalconservationleague.org",
+      "evidence_url": "https://coastalconservationleague.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Southern Tails for Precious Paws",
+      "city": "Charleston, SC",
+      "website": "southerntailsforpreciouspaws.org",
+      "evidence_url": "https://www.southerntailsforpreciouspaws.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Books on the House",
+      "city": "Charlotte, NC",
+      "website": "booksonthehouse.org",
+      "evidence_url": "https://booksonthehouse.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Friends of Feral Felines",
+      "city": "Charlotte, NC",
+      "website": "friendsofferalfelines.org",
+      "evidence_url": "https://www.friendsofferalfelines.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Humane Society of Charlotte",
+      "city": "Charlotte, NC",
+      "website": "humanesocietyofcharlotte.org",
+      "evidence_url": "https://humanesocietyofcharlotte.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Southeast Shih-Tzu Rescue and Hospice",
+      "city": "Charlotte, NC",
+      "website": "southeastshihtzurescueandhospice.org",
+      "evidence_url": "https://www.southeastshihtzurescueandhospice.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Boys & Girls Clubs of the Midlands",
+      "city": "Columbia, SC",
+      "website": "midlands.begreat.club",
+      "evidence_url": "https://midlands.begreat.club/",
+      "note": "Found directly in search results; also related to bgc-columbia.org"
+    },
+    {
+      "org": "Family Promise of the Midlands",
+      "city": "Columbia, SC",
+      "website": "familypromisemidlands.org",
+      "evidence_url": "https://familypromisemidlands.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Homeless No More",
+      "city": "Columbia, SC",
+      "website": "homelessnomoresc.org",
+      "evidence_url": "https://www.homelessnomoresc.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Palmetto Place Children's Emergency Shelter",
+      "city": "Columbia, SC",
+      "website": "palmettoplace.org",
+      "evidence_url": "https://www.palmettoplace.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "NC African Services Coalition",
+      "city": "Greensboro, NC",
+      "website": "ascafrica.org",
+      "evidence_url": "https://www.ascafrica.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Reading Connections",
+      "city": "Greensboro, NC",
+      "website": "readingconnections.org",
+      "evidence_url": "https://readingconnections.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Greenville Housing Futures",
+      "city": "Greenville, SC",
+      "website": "greenvillehousingfutures.com",
+      "evidence_url": "https://greenvillehousingfutures.com/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Greenville Rescue Mission",
+      "city": "Greenville, SC",
+      "website": null,
+      "evidence_url": "https://miraclehill.org/shelters/greenville-rescue-mission/",
+      "note": "Appears to be part of Miracle Hill Ministries; no standalone official website found"
+    },
+    {
+      "org": "Homes of Hope",
+      "city": "Greenville, SC",
+      "website": "homesofhope.org",
+      "evidence_url": "https://homesofhope.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Triune Mercy Center",
+      "city": "Greenville, SC",
+      "website": "triunemercy.org",
+      "evidence_url": "https://www.triunemercy.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Warriors and Families Organization",
+      "city": "Greenville, SC",
+      "website": null,
+      "evidence_url": "https://upstatewarriorsolution.org/",
+      "note": "Exact name not found; closest match is Upstate Warrior Solution (upstatewarriorsolution.org), which serves veterans and families in Greenville area"
+    },
+    {
+      "org": "Pet Helpers Inc",
+      "city": "North Charleston, SC",
+      "website": "pethelpers.org",
+      "evidence_url": "https://pethelpers.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Tri County Family Ministries",
+      "city": "North Charleston, SC",
+      "website": "tricountyfamilyministries.org",
+      "evidence_url": "https://www.tricountyfamilyministries.org/",
+      "note": "Found directly in search results; note that organization has changed name to Neighbors Together"
+    },
+    {
+      "org": "Community Immigrant Services Inc.",
+      "city": "Raleigh, NC",
+      "website": null,
+      "evidence_url": "https://www.raleighimmigrantcommunity.org/",
+      "note": "Exact name not found; closest match is Raleigh Immigrant Community (raleighimmigrantcommunity.org)"
+    },
+    {
+      "org": "Raleigh Park After School Care",
+      "city": "Raleigh, NC",
+      "website": null,
+      "evidence_url": "https://raleighnc.gov/parks-and-recreation/services/youth-programs/community-after-school-program-caps",
+      "note": "Found reference to Community After School Program (CAPS) through city government; no standalone nonprofit website found"
+    },
+    {
+      "org": "Youth Mentoring Connection",
+      "city": "Raleigh, NC",
+      "website": null,
+      "evidence_url": "",
+      "note": "No official website or organization found in search results"
+    },
+    {
+      "org": "Greenbriar Children's Center",
+      "city": "Savannah, GA",
+      "website": "greenbriarchildrenscenter.org",
+      "evidence_url": "https://greenbriarchildrenscenter.org/",
+      "note": "Found directly in search results"
+    },
+    {
+      "org": "Inner City Night Shelter",
+      "city": "Savannah, GA",
+      "website": null,
+      "evidence_url": "https://dcs.georgia.gov/locations/inner-city-night-shelter",
+      "note": "Found in government agency listing (Georgia DCS) but no official website found"
+    },
+    {
+      "org": "Lutheran Services of Georgia",
+      "city": "Savannah, GA",
+      "website": null,
+      "evidence_url": "",
+      "note": "No information found in search results"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "\"Bounce Back Charleston\" OR \"Carolina Youth Development Center\" OR \"Charleston Hope\" Charleston SC nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Low Country Orphan Relief\" OR \"Palmetto Goodwill\" OR \"Ronald McDonald House Charities\" Charleston SC",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"SC Coastal Conservation League\" OR \"Southern Tails for Precious Paws\" Charleston SC",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Books on the House\" OR \"Friends of Feral Felines\" OR \"Humane Society of Charlotte\" Charlotte NC nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Humane Society of Charlotte\" NC website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Books on the House\" Charlotte NC nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Southeast Shih-Tzu Rescue and Hospice\" Charlotte NC",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Boys & Girls Clubs of the Midlands\" OR \"Family Promise of the Midlands\" OR \"Homeless No More\" Columbia SC nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Palmetto Place Children's Emergency Shelter\" Columbia SC",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"NC African Services Coalition\" OR \"Reading Connections\" Greensboro NC nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Reading Connections\" Greensboro NC",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greenville Housing Futures\" OR \"Greenville Rescue Mission\" OR \"Homes of Hope\" Greenville SC nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greenville Housing Futures\" SC website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greenville Rescue Mission\" OR \"Triune Mercy Center\" OR \"Warriors and Families Organization\" Greenville SC",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Warriors and Families Organization\" Greenville SC",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Pet Helpers Inc\" OR \"Tri County Family Ministries\" North Charleston SC nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Community Immigrant Services\" OR \"Raleigh Park After School Care\" OR \"Youth Mentoring Connection\" Raleigh NC",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greenbriar Children's Center\" OR \"Inner City Night Shelter\" OR \"Lutheran Services of Georgia\" Savannah GA",
+      "outcome": "found_people"
+    }
+  ],
+  "summary": {
+    "total_organizations": 31,
+    "resolved": 22,
+    "null_results": 9,
+    "resolution_rate": "71%"
+  }
+}
