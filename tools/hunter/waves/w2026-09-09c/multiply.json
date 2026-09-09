@@ -1,0 +1,209 @@
+{
+  "wave_id": "w2026-09-09c",
+  "agent": "roster:multiply",
+  "target_org": "Multiply",
+  "searches_used": 14,
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Sam Dick",
+      "summary": "Multiply — Regional Mobilizer",
+      "fit_score": 6,
+      "fit_reason": "Regional leader connecting churches with mission opportunities; profile available on multiply.net global-worker directory",
+      "source_url": "https://multiply.net/global-worker/sam-dick",
+      "meta": {
+        "tier": "C",
+        "role": "Regional Mobilizer",
+        "confidence": "high",
+        "evidence_basis": "org_policy",
+        "target_org": "Multiply"
+      }
+    },
+    {
+      "org_name": "Viv Johnstone",
+      "summary": "Multiply — Director of Global Projects",
+      "fit_score": 5,
+      "fit_reason": "Senior leadership role responsible for project application processing and monitoring; not primarily focused on direct fundraising",
+      "source_url": "https://multiply.net/global-worker/viv-johnstone",
+      "meta": {
+        "tier": "C",
+        "role": "Director of Global Projects",
+        "confidence": "high",
+        "evidence_basis": "org_policy",
+        "target_org": "Multiply"
+      }
+    },
+    {
+      "org_name": "Larry Neufeld",
+      "summary": "Multiply — Director of Global Partnership",
+      "fit_score": 5,
+      "fit_reason": "Senior leadership providing oversight of mission support services and missionary resourcing",
+      "source_url": "https://multiply.net/global-worker/larry-neufeld",
+      "meta": {
+        "tier": "C",
+        "role": "Director of Global Partnership",
+        "confidence": "high",
+        "evidence_basis": "org_policy",
+        "target_org": "Multiply"
+      }
+    },
+    {
+      "org_name": "Johann Matthies",
+      "summary": "Multiply — Regional Team Leader for Europe and Central Asia",
+      "fit_score": 6,
+      "fit_reason": "Regional leader providing oversight and resourcing to Multiply workers and projects in Europe/Central Asia",
+      "source_url": "https://multiply.net/global-worker/johann-matthies",
+      "meta": {
+        "tier": "C",
+        "role": "Regional Team Leader",
+        "confidence": "high",
+        "evidence_basis": "org_policy",
+        "target_org": "Multiply"
+      }
+    },
+    {
+      "org_name": "Greg Ouellette",
+      "summary": "Multiply — HR and Training Support",
+      "fit_score": 4,
+      "fit_reason": "Staff member facilitating training for long-term global workers",
+      "source_url": "https://multiply.net/global-worker/greg-ouellette",
+      "meta": {
+        "tier": "C",
+        "role": "HR team member",
+        "confidence": "medium",
+        "evidence_basis": "org_policy",
+        "target_org": "Multiply"
+      }
+    },
+    {
+      "org_name": "Joan Godard",
+      "summary": "Multiply — Global Worker",
+      "fit_score": 7,
+      "fit_reason": "Named global worker with profile on Multiply directory; presumed involved in field work",
+      "source_url": "https://multiply.net/global-worker/joan-godard",
+      "meta": {
+        "tier": "B",
+        "role": "Global Worker",
+        "confidence": "medium",
+        "evidence_basis": "org_policy",
+        "target_org": "Multiply"
+      }
+    },
+    {
+      "org_name": "Greg Laing",
+      "summary": "Multiply — Global Worker",
+      "fit_score": 7,
+      "fit_reason": "Named global worker with profile on Multiply directory",
+      "source_url": "https://multiply.net/global-worker/greg-laing",
+      "meta": {
+        "tier": "B",
+        "role": "Global Worker",
+        "confidence": "medium",
+        "evidence_basis": "org_policy",
+        "target_org": "Multiply"
+      }
+    },
+    {
+      "org_name": "Heidi Quiring",
+      "summary": "Multiply — Global Worker",
+      "fit_score": 7,
+      "fit_reason": "Named individual with verified worker profile on Multiply directory",
+      "source_url": "https://multiply.net/global-worker/heidi-quiring",
+      "meta": {
+        "tier": "B",
+        "role": "Global Worker",
+        "confidence": "medium",
+        "evidence_basis": "org_policy",
+        "target_org": "Multiply"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Multiply mission agency Mennonite Brethren website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:multiply.net workers support giving",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"multiply.net\" missionary workers individual support page",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:multiply.net/global-worker",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:multiply.net/give missionaries monthly partners",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Multiply\" \"Mennonite Brethren\" missionary \"partner with us\" support raising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:multiply.net global-worker missionaries list names",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"multiply.net\" Sam Dick giving support personal page",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:multiply.net \"give to\" worker missionary donation partner",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Multiply\" mission workers \"support this worker\" OR \"partner with\" Mennonite Brethren",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:multiply.net/give/",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:multiply.net/global-worker Kari Zeller Shelly Wiebe Daryl Busenitz",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:multiply.net global workers raise support funding model",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Multiply\" MBMS \"mission board\" \"workers raise support\" OR \"self-funded\" OR \"personal support\"",
+      "outcome": "no_people"
+    }
+  ],
+  "negatives": [
+    {
+      "query": "site:multiply.net/give/",
+      "finding": "no_personal_giving_pages",
+      "note": "Personal giving page pattern /give/<name> does not exist; Multiply uses centralized project-based giving model"
+    }
+  ],
+  "needs_review": [
+    "Domain confirmed: multiply.net (formerly mbmsint.org) — organization rebranded as 'Multiply'",
+    "URL pattern identified: /global-worker/<name> for worker profiles, NOT /give/<name>",
+    "No evidence of Tier A (personal giving pages) found; Multiply operates org-wide centralized support model",
+    "Support model appears to be org-managed rather than individual self-funded raising",
+    "Some worker profiles use initials/anonymity (A & R, R & M S) suggesting security concerns in certain regions",
+    "71 long-term workers documented as of 2025 report; fewer than 8 named individuals found with full names in searchable profiles",
+    "Multiply is a valid mission board/organizational target but operates under different support-raising model than agencies with per-person fundraising pages"
+  ]
+}
