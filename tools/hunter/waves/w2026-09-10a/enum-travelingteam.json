@@ -1,0 +1,238 @@
+{
+ "wave_id": "w2026-09-10a",
+ "agent": "enum-travelingteam",
+ "target_domain": "thetravelingteam.org",
+ "searches_used": 15,
+ "url_pattern_confirmed": "/[name-slug] and /ministry-endorsements/[name-slug]",
+ "people": [
+  {
+   "name": "Seth F.",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Staff Member",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://www.thetravelingteam.org/staff",
+   "fit_reason": "Listed on staff roster as graduate of Illinois State University, on staff since 2018, after serving with Cru in East Asia"
+  },
+  {
+   "name": "Peyton T.",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Staff Member",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://www.thetravelingteam.org/staff",
+   "fit_reason": "Listed on staff roster as graduate of University of Central Arkansas, served mission to Thailand"
+  },
+  {
+   "name": "Sydney W.",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Staff Member",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://www.thetravelingteam.org/staff",
+   "fit_reason": "Listed on staff roster, digital film production background from University of Central Arkansas"
+  },
+  {
+   "name": "David Summer W.",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Team Leader",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://www.thetravelingteam.org/staff",
+   "fit_reason": "Listed as Team Leader on staff roster, graduate of Florida State University"
+  },
+  {
+   "name": "Brit C.",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Staff Member",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://www.thetravelingteam.org/staff",
+   "fit_reason": "Listed on staff roster, graduate of University of Mary Hardin-Baylor, attended IT Project"
+  },
+  {
+   "name": "Katherine L.",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Staff Member",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://www.thetravelingteam.org/staff",
+   "fit_reason": "Listed on staff roster, graduate of Baylor University"
+  },
+  {
+   "name": "Liv H.",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Staff Member",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://www.thetravelingteam.org/staff",
+   "fit_reason": "Listed on staff roster, graduate of California Baptist University, mobilizing senders and goers"
+  },
+  {
+   "name": "Lauryn W.",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Staff Member",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://www.thetravelingteam.org/staff",
+   "fit_reason": "Listed on staff roster, graduate of California Baptist University, attended IT Project"
+  },
+  {
+   "name": "Sarah McMakin",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Staff Member",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://www.thetravelingteam.org/staff",
+   "fit_reason": "Listed on staff roster, graduate of University of Arkansas, adopted cross-culturally"
+  },
+  {
+   "name": "Ryan Bibb",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Staff Member",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.thetravelingteam.org/ministry-endorsements/ryan-bibb",
+   "fit_reason": "Individual ministry endorsements page; page content not verified due to access constraints"
+  },
+  {
+   "name": "Ryan Penley",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Staff Member",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.thetravelingteam.org/ministry-endorsements/ryan-penley",
+   "fit_reason": "Individual ministry endorsements page; page content not verified due to access constraints"
+  },
+  {
+   "name": "Michael Mehaffie",
+   "org": "The Traveling Team",
+   "tier": "C",
+   "role": "Staff Member",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.thetravelingteam.org/ministry-endorsements/michael-mehaffie",
+   "fit_reason": "Individual ministry endorsements page; page content not verified due to access constraints"
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org staff",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org/staff/ OR site:thetravelingteam.org/people/",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org -/staff -/ministry -/endorsements -/articles -/resources",
+   "outcome": "offtopic"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org rebecca OR seth OR david OR sydney OR peyton",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org \"the traveling team\" person staff -give.thetravelingteam.org",
+   "outcome": "offtopic"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org/dr- OR site:thetravelingteam.org/todd OR site:thetravelingteam.org/claude",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org intitle:\"Traveling Team\" -staff -ministry -endorsements -resources",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org katherine OR evan OR william OR sarah OR liv",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org inurl:/ -/staff -/ministry -/endorsements -/articles -/resources -/give -/agencies",
+   "outcome": "offtopic"
+  },
+  {
+   "kind": "query",
+   "value": "\"thetravelingteam.org/\" -staff -ministry -endorsements -articles -resources -giving -agencies -schedule -donate -mission -videos -contact",
+   "outcome": "offtopic"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org/ -staff -ministry -endorsements -articles -resources -giving -/agencies -/schedule -/donate -/mission -/videos",
+   "outcome": "offtopic"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org/ahrend OR site:thetravelingteam.org/hickman OR site:thetravelingteam.org/seth OR site:thetravelingteam.org/peyton OR site:thetravelingteam.org/sydney",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org \"— The Traveling Team\" -give -/staff -/ministry -/endorsements",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org mason OR brit OR lauryn OR will OR katherine OR ryan",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:thetravelingteam.org staff \"graduated\" OR \"university\" -ministry-endorsements -giving -articles",
+   "outcome": "found_people"
+  }
+ ],
+ "needs_review": [
+  {
+   "issue": "Excluded leadership pages",
+   "finding": "Found individual pages for Dr. Todd Ahrend (/dr-todd-ahrend) and Claude Hickman (/claude) with apparent personal/bio content, but both excluded per assignment parameters (surnames in exclusion list: ahrend, hickman)",
+   "evidence": "https://www.thetravelingteam.org/dr-todd-ahrend and https://www.thetravelingteam.org/claude visible in search results",
+   "recommendation": "These leadership pages confirm the per-person URL pattern exists; exclusions were applied per assignment"
+  },
+  {
+   "issue": "Incomplete last names in search results",
+   "finding": "Several staff appear in snippets only with first name + last initial (e.g., Seth F., Peyton T.). Full last names not visible in search result snippets but may be available in full staff roster page.",
+   "evidence": "Staff directory snippets and giving platform URLs show abbreviated format",
+   "recommendation": "Access full /staff page or staff database directly to capture complete names for all members"
+  },
+  {
+   "issue": "Additional staff mentioned without complete information",
+   "finding": "Search snippets mention Evan, Will, Tate, Cameron, Kamy as staff with educational backgrounds, but no last names captured in search results. Could not confidently report without full names.",
+   "evidence": "References in staff section snippets from searches 8 and 15",
+   "recommendation": "Full roster page needed to complete identification for these individuals"
+  },
+  {
+   "issue": "Primary giving platform on subdomain",
+   "finding": "Most staff have giving/support pages on give.thetravelingteam.org subdomain rather than personal pages on main thetravelingteam.org. Limited per-person pages on main domain.",
+   "evidence": "Searches for staff names returned primarily give.thetravelingteam.org results; main domain pages limited to /staff roster and leadership bios",
+   "recommendation": "Clarify if future enumerations should include giving subdomain or focus on main domain only"
+  },
+  {
+   "issue": "Initial-only names harvested from the shared /staff roster",
+   "finding": "8 records carried a first name plus a surname initial only (Seth F., Peyton T., Sydney W., David Summer W., Brit C., Katherine L., Liv H., Lauryn W.). The roster page abbreviates surnames and page fetching is blocked, so the full names are not recoverable from search.",
+   "evidence": "Orchestrator audit at ingest, w2026-09-10a.",
+   "recommendation": "Dropped from the load. The agent also found that staff giving pages live on give.thetravelingteam.org, a subdomain we have never touched -- that is the surface to mine, not the roster page."
+  }
+ ]
+}

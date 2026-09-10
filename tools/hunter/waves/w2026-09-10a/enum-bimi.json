@@ -1,0 +1,1420 @@
+{
+ "wave_id": "w2026-09-10a",
+ "agent": "enum-bimi",
+ "target_domain": "bimi.org",
+ "searches_used": 15,
+ "url_pattern_confirmed": "https://www.bimi.org/pages/missionary/<numeric_id>",
+ "people": [
+  {
+   "name": "Mike A Barber",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1696",
+   "fit_reason": "Personal missionary profile page with giving information; pattern /pages/missionary/numeric confirms personal fundraising responsibility."
+  },
+  {
+   "name": "Megan E Barber",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1696",
+   "fit_reason": "Spouse profile on same giving page; splits couple into two Tier A records."
+  },
+  {
+   "name": "Karie Ferguson",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1550",
+   "fit_reason": "Individual missionary profile page in Ivory Coast; personal fundraising via BIMI platform."
+  },
+  {
+   "name": "Daniel Dwire",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1223",
+   "fit_reason": "Missionary with personal profile page; Uganda field worker with personal giving page."
+  },
+  {
+   "name": "Amie Dwire",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1223",
+   "fit_reason": "Spouse profile on joint giving page; Uganda missionary couple."
+  },
+  {
+   "name": "Dan DeLong",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "International Representative",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/21",
+   "fit_reason": "Leadership role but maintains personal profile page for fundraising on BIMI platform."
+  },
+  {
+   "name": "Sandra DeLong",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "International Representative",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/21",
+   "fit_reason": "Spouse with joint giving profile; supports missionary fundraising through BIMI."
+  },
+  {
+   "name": "David H Snyder",
+   "org": "BIMI",
+   "tier": "B",
+   "role": "BIMI Leadership",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/898",
+   "fit_reason": "Home office leader with personal profile, but primary role is organizational leadership rather than field fundraising."
+  },
+  {
+   "name": "Barbara Snyder",
+   "org": "BIMI",
+   "tier": "B",
+   "role": "BIMI Leadership",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/898",
+   "fit_reason": "Home office spouse profile; primarily organizational support role."
+  },
+  {
+   "name": "James R Ray",
+   "org": "BIMI",
+   "tier": "B",
+   "role": "BIMI Leadership",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/111",
+   "fit_reason": "International Representative in leadership; maintains profile but primary function is organizational."
+  },
+  {
+   "name": "Mary Ray",
+   "org": "BIMI",
+   "tier": "B",
+   "role": "BIMI Leadership",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/111",
+   "fit_reason": "Spouse with organizational leadership profile."
+  },
+  {
+   "name": "Jonas B Godfrey",
+   "org": "BIMI",
+   "tier": "C",
+   "role": "BIMI Vice President",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/316",
+   "fit_reason": "Vice President at BIMI Home Office; executive leadership role rather than field missionary fundraising."
+  },
+  {
+   "name": "Linda Godfrey",
+   "org": "BIMI",
+   "tier": "C",
+   "role": "BIMI Vice President",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/316",
+   "fit_reason": "Spouse of executive; home office staff."
+  },
+  {
+   "name": "Anthony R Hess",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1201",
+   "fit_reason": "Field missionary with personal profile page; Pennsylvania-based church-planting missionary."
+  },
+  {
+   "name": "Dawn Hess",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1201",
+   "fit_reason": "Spouse on joint missionary profile; field fundraiser."
+  },
+  {
+   "name": "Edimone Navato",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Military Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1248",
+   "fit_reason": "US Military Ministry profile page; specialized missionary fundraising through BIMI."
+  },
+  {
+   "name": "Elvie Navato",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Military Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1248",
+   "fit_reason": "Spouse on military missionary profile."
+  },
+  {
+   "name": "Anthony Applegate",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1295",
+   "fit_reason": "Uganda church-planting missionary with personal profile page since 2002."
+  },
+  {
+   "name": "Kristy Applegate",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1295",
+   "fit_reason": "Spouse on Uganda missionary profile."
+  },
+  {
+   "name": "Michael Haley",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1560",
+   "fit_reason": "Botswana church-planting missionary with personal giving profile."
+  },
+  {
+   "name": "Lucinda Haley",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1560",
+   "fit_reason": "Spouse on Botswana missionary profile."
+  },
+  {
+   "name": "Swante Lindquist",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/297",
+   "fit_reason": "Africa missionary with personal profile page."
+  },
+  {
+   "name": "Linda Lindquist",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/297",
+   "fit_reason": "Spouse on Africa missionary profile."
+  },
+  {
+   "name": "Nathaniel Wright",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1272",
+   "fit_reason": "Africa field missionary with personal fundraising profile."
+  },
+  {
+   "name": "Sara Wright",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1272",
+   "fit_reason": "Spouse on Africa missionary profile."
+  },
+  {
+   "name": "Matt Gardner",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1623",
+   "fit_reason": "Individual Africa missionary with personal profile page."
+  },
+  {
+   "name": "William Brouwer",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/784",
+   "fit_reason": "Kenya missionary with personal giving profile."
+  },
+  {
+   "name": "Tammy Brouwer",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/784",
+   "fit_reason": "Spouse on Kenya missionary profile."
+  },
+  {
+   "name": "Jeff Bassett",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/223",
+   "fit_reason": "Africa missionary with personal profile page."
+  },
+  {
+   "name": "Carla Bassett",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/223",
+   "fit_reason": "Spouse on Africa missionary profile."
+  },
+  {
+   "name": "Fredrick Kearney",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1296",
+   "fit_reason": "Ghana church-planting missionary with personal giving profile."
+  },
+  {
+   "name": "Antoinette Kearney",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1296",
+   "fit_reason": "Spouse on Ghana church-planting profile."
+  },
+  {
+   "name": "Ron White",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/137",
+   "fit_reason": "Japan church-planting missionary with 34 years service; personal fundraising profile."
+  },
+  {
+   "name": "Stephen Burke",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/83",
+   "fit_reason": "Singapore/Southeast Asia missionary with personal profile page."
+  },
+  {
+   "name": "Bonnie Burke",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/83",
+   "fit_reason": "Spouse on Southeast Asia missionary profile."
+  },
+  {
+   "name": "Stephen D Benefield",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1126",
+   "fit_reason": "Cambodia missionary with personal giving profile since 2000."
+  },
+  {
+   "name": "Angela Benefield",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1126",
+   "fit_reason": "Spouse on Cambodia missionary profile."
+  },
+  {
+   "name": "David Board",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1275",
+   "fit_reason": "Cambodia church-planting missionary with personal fundraising profile."
+  },
+  {
+   "name": "Debbie Board",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1275",
+   "fit_reason": "Spouse on Cambodia missionary profile."
+  },
+  {
+   "name": "Paul Fischer",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/152",
+   "fit_reason": "Emeritus Japan missionary; personal profile confirms fundraising history."
+  },
+  {
+   "name": "Jan Fischer",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/152",
+   "fit_reason": "Emeritus spouse profile."
+  },
+  {
+   "name": "Jeff Alverson",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/745",
+   "fit_reason": "Asia missionary with personal giving profile."
+  },
+  {
+   "name": "Joyce Alverson",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/745",
+   "fit_reason": "Spouse on Asia missionary profile."
+  },
+  {
+   "name": "Jason Ritchie",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1393",
+   "fit_reason": "Mongolia church-planting missionary with personal profile; now at home office but maintains giving page."
+  },
+  {
+   "name": "Mary Ritchie",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1393",
+   "fit_reason": "Spouse on Mongolia missionary profile."
+  },
+  {
+   "name": "David Harris",
+   "org": "BIMI",
+   "tier": "B",
+   "role": "Far East Director",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/319",
+   "fit_reason": "Japan church planter now in leadership role; director position is organizational rather than field fundraising."
+  },
+  {
+   "name": "Jenny Harris",
+   "org": "BIMI",
+   "tier": "B",
+   "role": "Far East Director",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/319",
+   "fit_reason": "Spouse with organizational leadership profile."
+  },
+  {
+   "name": "Paul W Daku",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/139",
+   "fit_reason": "Fiji missionary with personal giving profile; worked Singapore and Australia."
+  },
+  {
+   "name": "Martha Daku",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/139",
+   "fit_reason": "Spouse on Fiji missionary profile."
+  },
+  {
+   "name": "David L Barrett",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1660",
+   "fit_reason": "Brazil missionary continuing family mission legacy; personal fundraising profile."
+  },
+  {
+   "name": "Aline L Barrett",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1660",
+   "fit_reason": "Spouse on Brazil missionary profile."
+  },
+  {
+   "name": "Mark Liedtke",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1436",
+   "fit_reason": "Central America/Peru missionary with personal giving profile."
+  },
+  {
+   "name": "Brenda Liedtke",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1436",
+   "fit_reason": "Spouse on Central America missionary profile."
+  },
+  {
+   "name": "Bryan Johnson",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1212",
+   "fit_reason": "Latin America missionary with personal profile page."
+  },
+  {
+   "name": "Rebekah Johnson",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1212",
+   "fit_reason": "Spouse on Latin America missionary profile."
+  },
+  {
+   "name": "Stephen L Barrett",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1642",
+   "fit_reason": "Latin America missionary with personal giving profile."
+  },
+  {
+   "name": "Abigail Barrett",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1642",
+   "fit_reason": "Spouse on Latin America missionary profile."
+  },
+  {
+   "name": "Justin Grinstead",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1495",
+   "fit_reason": "Argentina church-planting missionary with personal fundraising profile."
+  },
+  {
+   "name": "April Grinstead",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1495",
+   "fit_reason": "Spouse on Argentina church-planting profile."
+  },
+  {
+   "name": "Edward Hembree",
+   "org": "BIMI",
+   "tier": "B",
+   "role": "Europe Director",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/702",
+   "fit_reason": "Europe director overseeing 20+ countries; leadership role is organizational rather than field fundraising."
+  },
+  {
+   "name": "Carole Hembree",
+   "org": "BIMI",
+   "tier": "B",
+   "role": "Europe Director",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/702",
+   "fit_reason": "Spouse with organizational leadership profile."
+  },
+  {
+   "name": "Larry J Writesel",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1607",
+   "fit_reason": "Spain missionary with personal giving profile."
+  },
+  {
+   "name": "Brenda G Writesel",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1607",
+   "fit_reason": "Spouse on Spain missionary profile."
+  },
+  {
+   "name": "J J Spillman",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1610",
+   "fit_reason": "Europe missionary; name appears in title (numeric ID only shows in URL, so medium confidence)."
+  },
+  {
+   "name": "Allison Spillman",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1610",
+   "fit_reason": "Spouse on Europe profile; medium confidence on numeric ID."
+  },
+  {
+   "name": "Jeremiah D Roper",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1650",
+   "fit_reason": "Europe missionary with personal giving profile."
+  },
+  {
+   "name": "Erika E Roper",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1650",
+   "fit_reason": "Spouse on Europe missionary profile."
+  },
+  {
+   "name": "Dottie Lancaster",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1331",
+   "fit_reason": "Europe missionary with individual personal giving profile."
+  },
+  {
+   "name": "Donald A Carney",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/596",
+   "fit_reason": "Mexico missionary with personal giving profile."
+  },
+  {
+   "name": "Carolyn Carney",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/596",
+   "fit_reason": "Spouse on Mexico missionary profile."
+  },
+  {
+   "name": "Robert B Willoughby",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1362",
+   "fit_reason": "Estonia missionary with personal giving profile."
+  },
+  {
+   "name": "Angela Willoughby",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1362",
+   "fit_reason": "Spouse on Estonia missionary profile."
+  },
+  {
+   "name": "Chad Pape",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1458",
+   "fit_reason": "Dominican Republic missionary with personal fundraising profile."
+  },
+  {
+   "name": "Cynthia Pape",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1458",
+   "fit_reason": "Spouse on Dominican Republic missionary profile."
+  },
+  {
+   "name": "Jeffri Polanco",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1539",
+   "fit_reason": "Dominican Republic missionary with personal giving profile."
+  },
+  {
+   "name": "Pamela M Polanco",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1539",
+   "fit_reason": "Spouse on Dominican Republic missionary profile."
+  },
+  {
+   "name": "Alexis Givans",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1224",
+   "fit_reason": "Dominican Republic missionary with personal fundraising profile."
+  },
+  {
+   "name": "Consuelo Givans",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1224",
+   "fit_reason": "Spouse on Dominican Republic missionary profile."
+  },
+  {
+   "name": "Francisco Mendez",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1725",
+   "fit_reason": "Dominican Republic missionary with personal giving profile."
+  },
+  {
+   "name": "Megan Mendez",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1725",
+   "fit_reason": "Spouse on Dominican Republic missionary profile."
+  },
+  {
+   "name": "Paul Valles",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1541",
+   "fit_reason": "Turks and Caicos Islands missionary with personal giving profile."
+  },
+  {
+   "name": "Amy Valles",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1541",
+   "fit_reason": "Spouse on Caribbean missionary profile."
+  },
+  {
+   "name": "Wesley Bartley",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1416",
+   "fit_reason": "St. Lucia missionary with personal fundraising profile."
+  },
+  {
+   "name": "Faith-Ann Bartley",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1416",
+   "fit_reason": "Spouse on Caribbean missionary profile."
+  },
+  {
+   "name": "Nathan P Owens",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Radio Director",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1400",
+   "fit_reason": "Antigua radio ministry with personal giving profile; station manager fundraising role."
+  },
+  {
+   "name": "Renee Owens",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Radio Ministry",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1400",
+   "fit_reason": "Spouse on radio ministry profile in Antigua."
+  },
+  {
+   "name": "Robert Larson",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/217",
+   "fit_reason": "Church-planting support missionary with personal giving profile."
+  },
+  {
+   "name": "Jennifer Larson",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/217",
+   "fit_reason": "Spouse on church-planting profile."
+  },
+  {
+   "name": "Jeremy N Blanz",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1443",
+   "fit_reason": "Costa Rica church-planting missionary with personal giving profile."
+  },
+  {
+   "name": "Michelle Blanz",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1443",
+   "fit_reason": "Spouse on Costa Rica church-planting profile."
+  },
+  {
+   "name": "Daniel Lee Bennett",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Deaf Ministry",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/814",
+   "fit_reason": "Specialized missionary (Deaf/Hearing ministry) with personal fundraising profile."
+  },
+  {
+   "name": "Rebecca Bennett",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Deaf Ministry",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/814",
+   "fit_reason": "Spouse on Deaf ministry profile."
+  },
+  {
+   "name": "Christopher M Reed",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1555",
+   "fit_reason": "Thailand church-planting missionary with personal giving profile."
+  },
+  {
+   "name": "Rebecca M Reed",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1555",
+   "fit_reason": "Spouse on Thailand missionary profile."
+  },
+  {
+   "name": "Caleb Caviness",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1589",
+   "fit_reason": "Republic of Congo missionary with personal funding profile; linguistics training."
+  },
+  {
+   "name": "Kelci Caviness",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1589",
+   "fit_reason": "Spouse on Congo missionary profile."
+  },
+  {
+   "name": "Scott W Whiting",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1708",
+   "fit_reason": "Rwanda missionary with personal giving profile."
+  },
+  {
+   "name": "Melissa R Whiting",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1708",
+   "fit_reason": "Spouse on Rwanda missionary profile."
+  },
+  {
+   "name": "Shane R Tasker",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1685",
+   "fit_reason": "Africa missionary with personal fundraising profile."
+  },
+  {
+   "name": "Emily Tasker",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1685",
+   "fit_reason": "Spouse on Africa missionary profile."
+  },
+  {
+   "name": "Matthew Stensaas",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1065",
+   "fit_reason": "Africa missionary with personal giving profile."
+  },
+  {
+   "name": "Keila Stensaas",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1065",
+   "fit_reason": "Spouse on Africa missionary profile."
+  },
+  {
+   "name": "Jerry Baker",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Radio Broadcaster",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/559",
+   "fit_reason": "Radio ministry pioneer in Caribbean with personal giving profile; 33 years service."
+  },
+  {
+   "name": "Linda Baker",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Radio Broadcaster",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/559",
+   "fit_reason": "Spouse on radio broadcasting profile in Antigua."
+  },
+  {
+   "name": "Scot C Daku",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1367",
+   "fit_reason": "Samoa/Fiji missionary with personal fundraising profile."
+  },
+  {
+   "name": "Katie Daku",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1367",
+   "fit_reason": "Spouse on Samoa/Fiji missionary profile."
+  },
+  {
+   "name": "Jessica Harris",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1690",
+   "fit_reason": "Individual Asia-Pacific missionary with personal giving profile."
+  },
+  {
+   "name": "Brett L Hoffman",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1603",
+   "fit_reason": "Asia-Pacific missionary with personal fundraising profile."
+  },
+  {
+   "name": "Jenny Hoffman",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1603",
+   "fit_reason": "Spouse on Asia-Pacific missionary profile."
+  },
+  {
+   "name": "Josh Zacharias",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1641",
+   "fit_reason": "Australia church-planting missionary with personal giving profile."
+  },
+  {
+   "name": "Ira Zacharias",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1641",
+   "fit_reason": "Spouse on Australia church-planting profile."
+  },
+  {
+   "name": "Samuel D Hutchens",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1573",
+   "fit_reason": "Asia missionary with personal fundraising profile."
+  },
+  {
+   "name": "Juliana L Hutchens",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1573",
+   "fit_reason": "Spouse on Asia missionary profile."
+  },
+  {
+   "name": "J Daniel Files",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1548",
+   "fit_reason": "Asia missionary with personal giving profile."
+  },
+  {
+   "name": "Lisa E Files",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1548",
+   "fit_reason": "Spouse on Asia missionary profile."
+  },
+  {
+   "name": "Tom Border",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/140",
+   "fit_reason": "Japan church-planting missionary with personal fundraising profile; long-term service."
+  },
+  {
+   "name": "Renee Border",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/140",
+   "fit_reason": "Spouse on Japan church-planting profile."
+  },
+  {
+   "name": "Bryan Baggett",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Military Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/43",
+   "fit_reason": "US Military Ministries missionary with personal giving profile."
+  },
+  {
+   "name": "Kris Baggett",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Military Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/43",
+   "fit_reason": "Spouse on military missions profile."
+  },
+  {
+   "name": "Susan G Jackson",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1668",
+   "fit_reason": "Individual Japan missionary with personal giving profile."
+  },
+  {
+   "name": "Kevin Akana",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1329",
+   "fit_reason": "Hawaii missionary with personal fundraising profile."
+  },
+  {
+   "name": "Roxanne Akana",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1329",
+   "fit_reason": "Spouse on Hawaii missionary profile."
+  },
+  {
+   "name": "David Edens",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/180",
+   "fit_reason": "North Africa missionary with personal giving profile."
+  },
+  {
+   "name": "Donna Edens",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/180",
+   "fit_reason": "Spouse on North Africa missionary profile."
+  },
+  {
+   "name": "Bill Norton",
+   "org": "BIMI",
+   "tier": "B",
+   "role": "Central America Director",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/757",
+   "fit_reason": "Regional director position is organizational leadership rather than field fundraising."
+  },
+  {
+   "name": "Lynne Norton",
+   "org": "BIMI",
+   "tier": "B",
+   "role": "Central America Director",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/757",
+   "fit_reason": "Spouse with organizational leadership profile."
+  },
+  {
+   "name": "David D Johnson",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1646",
+   "fit_reason": "Missionary with personal giving profile."
+  },
+  {
+   "name": "Lily R Johnson",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1646",
+   "fit_reason": "Spouse on missionary profile."
+  },
+  {
+   "name": "Alan Bradley",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1632",
+   "fit_reason": "Missionary with personal giving profile."
+  },
+  {
+   "name": "Jamie Bradley",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/1632",
+   "fit_reason": "Spouse on missionary profile."
+  },
+  {
+   "name": "Chuck Sligh",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/454",
+   "fit_reason": "Missionary with personal giving profile."
+  },
+  {
+   "name": "Susan Sligh",
+   "org": "BIMI",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.bimi.org/pages/missionary/454",
+   "fit_reason": "Spouse on missionary profile."
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary Africa",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary Asia",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary \"Latin America\" OR \"South America\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary Spain OR Europe",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary \"Middle East\" OR Turkey OR Israel",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary Mexico OR Caribbean OR Haiti",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary \"church planter\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary translator OR linguist OR \"Bible translation\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary Kenya OR Rwanda OR Ethiopia OR Tanzania",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary aviation OR pilot OR \"radio\" OR \"media ministry\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary Philippines OR Indonesia OR \"Papua New Guinea\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary -norris -mach -akuokoh -behman -bohac -dove -gerosin -granger -hill -kerr",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary -lunday -reisinger -robinson -staley -sweet -barber -ferguson -dwire -delong -snyder -ray -godfrey -hess -navato -border",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:bimi.org/pages/missionary -baggett -jackson -caviness -akana -edens -fischer -grinstead -brouwer -ritchie -norton -haley -lindquist -wright -gardner -applegate -white -burke -benefield -board -alverson -hembree -writesel -spillman -roper -lancaster",
+   "outcome": "found_people"
+  }
+ ],
+ "needs_review": [
+  {
+   "issue": "Mixed Tier classifications based on leadership roles",
+   "finding": "Some missionaries (DeLong, Snyder, Ray, Godfrey, Harris, Norton, Hembree) hold positions as directors or BIMI leadership",
+   "evidence": "Search results show titles like 'Far East Director', 'Europe Director', 'Vice President at Home Office'",
+   "recommendation": "Review whether leadership-focused roles should be downtiered from A to B or C; initial assessment downtiers non-field directors to Tier B/C."
+  },
+  {
+   "issue": "Orchestrator audit at ingest (w2026-09-10a)",
+   "finding": "128 records claimed high confidence on an opaque numeric-ID URL; the name came only from the search-result title. 0 records dropped for a missing URL or a single-token name.",
+   "evidence": "name-in-slug audit",
+   "recommendation": "numeric-ID records lowered to medium"
+  }
+ ]
+}
