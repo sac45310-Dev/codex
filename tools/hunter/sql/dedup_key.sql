@@ -73,3 +73,34 @@ language sql stable as $$
     where sales.norm_name(c.org_name) = x.nname
     limit 1) m_any on true;
 $$;
+
+-- ---------------------------------------------------------------------------
+-- Exclusion tokens, corrected 2026-09-10.
+--
+-- First cut took the last whitespace-delimited token of org_name as the
+-- surname. For legacy "Name (Agency)" rows that yields "(bimi)" -- so all 16
+-- BIMI records collapsed to a single useless token, and the domains that most
+-- needed exclusions got none. Strip the parenthetical first, require the result
+-- to look like a name, and raise the cap to 60.
+--
+-- Even at 60 the cap binds on the biggest domains: resonateglobalmission.org
+-- holds 131 people, so exclusions cover 46% of them. Exclusion paging is a tool
+-- for domains we have PARTIALLY mined, not a way to re-open one already worked
+-- to exhaustion.
+-- ---------------------------------------------------------------------------
+create or replace view sales.v_hunt_domain_exclusions as
+with cleaned as (
+  select c.id,
+    lower(regexp_replace(regexp_replace(c.source_url,'^https?://(www\.)?',''),'/.*$','')) domain,
+    trim(regexp_replace(c.org_name, '\s*\([^()]*\)\s*$', '')) nm
+  from sales.scout_candidates c
+  where c.source_url ~ '^https?://'),
+s as (
+  select id, domain,
+    lower(split_part(nm,' ', array_length(string_to_array(nm,' '),1))) surname
+  from cleaned where nm ~ ' ')
+select domain, count(distinct id) people_held,
+       (array_agg(distinct surname))[1:60] as exclude_tokens
+from s
+where surname ~ '^[a-z][a-z''-]{2,}$'
+group by 1;
