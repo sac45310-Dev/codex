@@ -61,6 +61,17 @@ per domain.
 
 ## Hard rules
 
+- **The `source_url` must be a page about the person.** Not a search-results
+  URL. Many sites echo your query into a path or parameter
+  (`ethnos360.org/missionaries?query=Thailand`), so a citation can *look* like
+  a real page while pointing at your own search. In w2026-09-10e twelve
+  records were emitted this way, all high confidence, all unusable. If you
+  cannot cite the person's own page, cite the directory page that names them
+  and grade it `staff_directory` / `medium` — never the search URL.
+- **Never cite a page that belongs to someone else.** If the only page you
+  found is a different missionary's, the record does not exist yet. Two
+  records were emitted in w2026-09-10e citing another couple's profile because
+  the two families are related.
 - **Real named humans only.** No funds, no appeals, no project pages, no job
   postings, no vacant roles, no "The Smith Family" without first names, no
   surname-only fragments, no first-name-plus-initial ("Seth F.", "Brad M.").

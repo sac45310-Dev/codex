@@ -1,0 +1,489 @@
+{
+  "wave_id": "w2026-09-10e",
+  "agent": "ibfi",
+  "target_org": "Independent Baptist Fellowship International",
+  "slice": "missionaries-by-region directory and per-person prayer-letter folders",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Tyler Yates",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/north-america/tyler-yates",
+      "fit_reason": "Tier A support-raised missionary; surname and first name in URL slug, both spouses named in page title"
+    },
+    {
+      "name": "Mishel Yates",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/north-america/tyler-yates",
+      "fit_reason": "Tier A support-raised missionary; spouse of Tyler Yates, both named in page title; coupled record"
+    },
+    {
+      "name": "Daniel Coates",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/central-america/daniel-and-tammy-coates",
+      "fit_reason": "Tier A support-raised missionary; full name in URL slug, both spouses in title; also verified via prayer letter folder"
+    },
+    {
+      "name": "Tammy Coates",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/central-america/daniel-and-tammy-coates",
+      "fit_reason": "Tier A support-raised missionary; spouse of Daniel Coates, both in title; coupled record"
+    },
+    {
+      "name": "Bill Smith",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/south-america/bill-and-sharon-smith",
+      "fit_reason": "Tier A support-raised missionary; full names in URL slug, both spouses in title"
+    },
+    {
+      "name": "Sharon Smith",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/south-america/bill-and-sharon-smith",
+      "fit_reason": "Tier A support-raised missionary; spouse of Bill Smith, both in title; coupled record"
+    },
+    {
+      "name": "True Hawkins",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/south-america/true-and-diana-hawkins",
+      "fit_reason": "Tier A support-raised missionary; full names in URL slug, both spouses in title"
+    },
+    {
+      "name": "Diana Hawkins",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/south-america/true-and-diana-hawkins",
+      "fit_reason": "Tier A support-raised missionary; spouse of True Hawkins, both in title; coupled record"
+    },
+    {
+      "name": "John Yelle",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/south-america/john-and-neila-yelle",
+      "fit_reason": "Tier A support-raised missionary in Brazil; full names in URL slug, both spouses in title"
+    },
+    {
+      "name": "Neila Yelle",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/south-america/john-and-neila-yelle",
+      "fit_reason": "Tier A support-raised missionary; spouse of John Yelle, both in title; coupled record"
+    },
+    {
+      "name": "Darrain Coker",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/north-america/darrain-and-mari-coker",
+      "fit_reason": "Tier A support-raised missionary; full names in URL slug, both spouses in title"
+    },
+    {
+      "name": "Mari Coker",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/north-america/darrain-and-mari-coker",
+      "fit_reason": "Tier A support-raised missionary; spouse of Darrain Coker, both in title; coupled record"
+    },
+    {
+      "name": "Jared Blair",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/Jared_Blair/2501JaredBlair.PDF",
+      "fit_reason": "Tier A support-raised missionary; prayer letter folder with name confirms identity; found in Europe region"
+    },
+    {
+      "name": "Elizabeth Blair",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/Jared_Blair/2501JaredBlair.PDF",
+      "fit_reason": "Tier A support-raised missionary; spouse of Jared Blair, named in search results; coupled record"
+    },
+    {
+      "name": "J.D. Young",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/JDYoung/1903JDYoung.pdf",
+      "fit_reason": "Tier A support-raised missionary; prayer letter folder with name confirms identity; serves in Central America and Europe"
+    },
+    {
+      "name": "Vanessa Young",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/JDYoung/1903JDYoung.pdf",
+      "fit_reason": "Tier A support-raised missionary; spouse of J.D. Young; coupled record"
+    },
+    {
+      "name": "Leslie Priday",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/Leslie%20Priday/1601LesliePriday.pdf",
+      "fit_reason": "Tier A support-raised missionary; prayer letter folder with name; Central America (Honduras)"
+    },
+    {
+      "name": "Daniel Jones",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/Daniel%20Jones/1705DanielJonesInst.pdf",
+      "fit_reason": "Tier A support-raised missionary; prayer letter folder with name; verified in confirmed seam"
+    },
+    {
+      "name": "Mark Haynes",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/Mark%20Haynes/1905MarkHaynes.pdf",
+      "fit_reason": "Tier A support-raised missionary; prayer letter folder with name"
+    },
+    {
+      "name": "Tricia Haynes",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/Mark%20Haynes/1905MarkHaynes.pdf",
+      "fit_reason": "Tier A support-raised missionary; spouse of Mark Haynes named in search results for North America missionaries"
+    },
+    {
+      "name": "Larry McKinney",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/Larry%20McKinney/1504LarryMckinney001.pdf",
+      "fit_reason": "Tier A support-raised missionary; prayer letter folder with name"
+    },
+    {
+      "name": "Regina McKinney",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/Larry%20McKinney/1504LarryMckinney001.pdf",
+      "fit_reason": "Tier A support-raised missionary; spouse of Larry McKinney named in search results"
+    },
+    {
+      "name": "Melissa Houston",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/Melissa%20Houston/1805MelissaHouston.pdf",
+      "fit_reason": "Tier A support-raised missionary; prayer letter folder with name"
+    },
+    {
+      "name": "Robert Nordgren",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/images/files/Missionary%20Prayer%20Letters/Robert_B.J._Nordgren/2010BJNordgren.pdf",
+      "fit_reason": "Tier A support-raised missionary; prayer letter folder with name (B.J. is middle initial, not sensitive region coding)"
+    },
+    {
+      "name": "Jeremy Bennett",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/south-america/john-and-neila-yelle",
+      "fit_reason": "Tier A support-raised missionary; son-in-law of John and Neila Yelle, working in Brazil; named in search results"
+    },
+    {
+      "name": "Joneia Bennett",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/south-america/john-and-neila-yelle",
+      "fit_reason": "Tier A support-raised missionary; daughter of John and Neila Yelle, working in Brazil in church planting; coupled record"
+    },
+    {
+      "name": "Scott Griffin",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries",
+      "fit_reason": "Named in regional index page snippet for North America missionaries; no direct slug-based URL recovered in searches"
+    },
+    {
+      "name": "Darla Griffin",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries",
+      "fit_reason": "Spouse of Scott Griffin; named in regional index page snippet; coupled record"
+    },
+    {
+      "name": "Zack Doty",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries",
+      "fit_reason": "Named in regional index page snippet for North America missionaries; no direct slug-based URL recovered"
+    },
+    {
+      "name": "Charish Doty",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries",
+      "fit_reason": "Spouse of Zack Doty; named in regional index page snippet; coupled record"
+    },
+    {
+      "name": "Tony Roa",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries",
+      "fit_reason": "Named in regional index page snippet for North America missionaries"
+    },
+    {
+      "name": "Melissa Roa",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries",
+      "fit_reason": "Spouse of Tony Roa; named in regional index page snippet; coupled record"
+    },
+    {
+      "name": "Derek Bray",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries",
+      "fit_reason": "Named in regional index page snippet for North America missionaries; no direct slug-based URL recovered"
+    },
+    {
+      "name": "Heath Van Zandt",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries",
+      "fit_reason": "Named in regional index page snippet for North America missionaries"
+    },
+    {
+      "name": "Caryssa Van Zandt",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries",
+      "fit_reason": "Spouse of Heath Van Zandt; named in regional index page snippet; coupled record"
+    },
+    {
+      "name": "Daniel Jones",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries",
+      "fit_reason": "Named in North America missionaries snippet; also has prayer letter folder (separate record as prayer-letter-based)"
+    },
+    {
+      "name": "Michelle Jones",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries",
+      "fit_reason": "Spouse of Daniel Jones; named in regional index snippet; coupled record"
+    },
+    {
+      "name": "Harold Priday",
+      "org": "Independent Baptist Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ibfi.us/missionaries/missionaries-by-region/central-america",
+      "fit_reason": "Named in Central America regional page; spouse of Leslie Priday; no individual slug-based URL recovered"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/missionaries/missionaries-by-region north-america",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/missionaries/missionaries-by-region/south-america",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/missionaries/missionaries-by-region/africa",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/missionaries/missionaries-by-region/asia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us missionaries Philippines Asia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/images/files/Missionary Prayer Letters",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/missionaries/missionaries-by-region/central-america",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/missionaries/missionaries-by-region/europe",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/missionaries church planting Guatemala Mexico",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us missionaries Brazil Peru Ecuador",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us missionaries Kenya Ghana Uganda Africa",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us missionaries Japan Philippines Indonesia Asia deputation",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/images/files \"Missionary Prayer Letters\" 2024 2025",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/images/files/Missionary Prayer Letters McKinney Griffin Roa Houston",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us missionaries \"Van Zandt\" OR \"Scott Griffin\" OR \"Heath\" OR \"Jones\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/missionaries/missionaries-by-region/north-america daniel-jones OR heath-van-zandt OR scott-griffin",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/images/files/Missionary Prayer Letters \"Jones\" OR \"Van Zandt\" OR \"Griffin\" OR \"Haynes\" OR \"Serugamba\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ibfi.us/missionaries/missionaries-by-region oceania pacific retired",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Breze and Chantal Serugamba URL not recovered",
+      "finding": "Mentioned in Africa regional page snippet as IBFI missionaries; approved as first IBFI missionary to Africa (Norris Bible Baptist Seminary, May 2019)",
+      "evidence": "Africa page title mentions them; no direct URL slug pattern recovered in searches",
+      "recommendation": "High confidence based on brief but verify direct URL to regional Africa page for slug pattern"
+    }
+  ]
+}

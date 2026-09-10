@@ -1,0 +1,787 @@
+{
+  "wave_id": "w2026-09-10e",
+  "agent": "fmc",
+  "target_org": "Family Missions Company",
+  "slice": "/project/ per-missionary pages",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Mary Clare",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/mary-clare/",
+      "fit_reason": "Full name in slug; title confirms identity"
+    },
+    {
+      "name": "Emmanuel Peña",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/ekpena/",
+      "fit_reason": "Initials (ek) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Kree Peña",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/ekpena/",
+      "fit_reason": "Initials (ek) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Marcos Cisneros",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/mjcisneros/",
+      "fit_reason": "Initials (mj) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Jessica Cisneros",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/mjcisneros/",
+      "fit_reason": "Initials (mj) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Sara Diaz",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/sara-v/",
+      "fit_reason": "First name and surname initial in slug; title names person"
+    },
+    {
+      "name": "Luigi Di Paolo",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/ldipaolo/",
+      "fit_reason": "Full name in slug; title confirms identity"
+    },
+    {
+      "name": "Chris Waldrop",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/cawaldrop/",
+      "fit_reason": "Initials (ca) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Angie Waldrop",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/cawaldrop/",
+      "fit_reason": "Initials (ca) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Faith Lewis",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/kflewis/",
+      "fit_reason": "Full name in title; slug may use different initial"
+    },
+    {
+      "name": "Gary Paschall",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/gmpaschall/",
+      "fit_reason": "Initials (gm) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Macy Paschall",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/gmpaschall/",
+      "fit_reason": "Initials (gm) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Jonathan Kiehl",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/jonathan-and-teresa-kiehl/",
+      "fit_reason": "Full name in slug; title confirms both spouses; couple split into two records"
+    },
+    {
+      "name": "Teresa Kiehl",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/jonathan-and-teresa-kiehl/",
+      "fit_reason": "Full name in slug; title confirms both spouses; couple split into two records"
+    },
+    {
+      "name": "Nick Hennemann",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/nmhennemann/",
+      "fit_reason": "Initials (nm) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Millie Hennemann",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/nmhennemann/",
+      "fit_reason": "Initials (nm) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Tonio Garza",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/tonio-and-mari-garza/",
+      "fit_reason": "Full name in slug; title confirms both spouses; couple split into two records"
+    },
+    {
+      "name": "Maria Garza",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/tonio-and-mari-garza/",
+      "fit_reason": "Full name in slug; title confirms both spouses; couple split into two records"
+    },
+    {
+      "name": "Miguel Alvarado",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/maalvarado/",
+      "fit_reason": "Initials (ma) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Angela Alvarado",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/maalvarado/",
+      "fit_reason": "Initials (ma) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Gallo Andrade",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/gallo-and-rita-andrade/",
+      "fit_reason": "Full name in slug; title confirms both spouses; couple split into two records"
+    },
+    {
+      "name": "Rita Andrade",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/gallo-and-rita-andrade/",
+      "fit_reason": "Full name in slug; title confirms both spouses; couple split into two records"
+    },
+    {
+      "name": "Chris Carmody",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://familymissionscompany.com/project/chris-and-karen-carmody",
+      "fit_reason": "Full names in slug; title abbreviates as CKC; couple split into two records"
+    },
+    {
+      "name": "Karen Carmody",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://familymissionscompany.com/project/chris-and-karen-carmody",
+      "fit_reason": "Full names in slug; title abbreviates as CKC; couple split into two records"
+    },
+    {
+      "name": "Madeleine Hackmann",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/mmhackmann/",
+      "fit_reason": "Full name in title; initials in slug"
+    },
+    {
+      "name": "Jonathan Oakes",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/oakesfamily/",
+      "fit_reason": "Full names in title; slug shows family surname; couple split into two records"
+    },
+    {
+      "name": "Hannah Oakes",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/oakesfamily/",
+      "fit_reason": "Full names in title; slug shows family surname; couple split into two records"
+    },
+    {
+      "name": "Matt Glafcke",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/mkglafcke/",
+      "fit_reason": "Initials (mk) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Katie Glafcke",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/mkglafcke/",
+      "fit_reason": "Initials (mk) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Kellie Herrera",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/kgoff/",
+      "fit_reason": "Full name in title; slug may show maiden name or middle initial"
+    },
+    {
+      "name": "Kevin Granger",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/kevin-and-sarah-granger/",
+      "fit_reason": "Full name in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Sarah Granger",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/kevin-and-sarah-granger/",
+      "fit_reason": "Full name in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Teresa Reardon",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/teresa-reardon/",
+      "fit_reason": "Full name in slug and title"
+    },
+    {
+      "name": "Karen Del Castillo",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/karen-del-castillo/",
+      "fit_reason": "Full name in slug and title"
+    },
+    {
+      "name": "Robert Erisman",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/rterisman/",
+      "fit_reason": "Initials (rt) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Tami Erisman",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/rterisman/",
+      "fit_reason": "Initials (rt) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Jason Becker",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/jibecker/",
+      "fit_reason": "Initials (ji) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Inge Becker",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/jibecker/",
+      "fit_reason": "Initials (ji) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Alexis Young",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/aayoung/",
+      "fit_reason": "Full name in title; initials in slug"
+    },
+    {
+      "name": "Michael Henderson",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/henderson-family/",
+      "fit_reason": "Full names in title; slug shows family surname; couple split into two records"
+    },
+    {
+      "name": "Veronica Henderson",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/henderson-family/",
+      "fit_reason": "Full names in title; slug shows family surname; couple split into two records"
+    },
+    {
+      "name": "Kim Marie Capoun",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/kim-marie-krings/",
+      "fit_reason": "Full name in title; slug may show maiden name or middle initial"
+    },
+    {
+      "name": "Logan Detraz",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/ljdetraz/",
+      "fit_reason": "Full name in title; initials in slug"
+    },
+    {
+      "name": "Junar Mardoquio",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/junar-and-dian-mardoquio/",
+      "fit_reason": "Full name in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Dian Mardoquio",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/junar-and-dian-mardoquio/",
+      "fit_reason": "Full name in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Soren Spiehler",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/saspiehler/",
+      "fit_reason": "Full name in title; initials in slug"
+    },
+    {
+      "name": "Madelyn Weaver",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/mjweaver/",
+      "fit_reason": "Full name in title; initials in slug"
+    },
+    {
+      "name": "Aleksandra Rogulska",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/amrogulska/",
+      "fit_reason": "Full name in title; initials in slug"
+    },
+    {
+      "name": "David Quinn",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/david-and-andrea-quinn/",
+      "fit_reason": "Full name in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Andrea Quinn",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/david-and-andrea-quinn/",
+      "fit_reason": "Full name in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Matt Doktor",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/mmdoktor/",
+      "fit_reason": "Initials (mm) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Mallory Doktor",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/mmdoktor/",
+      "fit_reason": "Initials (mm) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Leeann Graff",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/lrgraff/",
+      "fit_reason": "Full name in title; initials in slug"
+    },
+    {
+      "name": "Raul Soto",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/raul-and-marta-soto/",
+      "fit_reason": "Full name in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Marta Soto",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/raul-and-marta-soto/",
+      "fit_reason": "Full name in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Pablo Rigioni",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/pyrigioni/",
+      "fit_reason": "Initials (py) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Yalile Rigioni",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/pyrigioni/",
+      "fit_reason": "Initials (py) in slug; title names both spouses; couple split into two records"
+    },
+    {
+      "name": "Luciana Diaz",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/ldiaz/",
+      "fit_reason": "Full name in title; initials in slug"
+    },
+    {
+      "name": "Ben Schumann",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/schumannfamily/",
+      "fit_reason": "Full names in title; slug shows family surname; couple split into two records"
+    },
+    {
+      "name": "Natalia Schumann",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/schumannfamily/",
+      "fit_reason": "Full names in title; slug shows family surname; couple split into two records"
+    },
+    {
+      "name": "Joan Jackson",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/jmjackson/",
+      "fit_reason": "Full name in title; initials in slug"
+    },
+    {
+      "name": "Lisa Acosta",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/lmacosta/",
+      "fit_reason": "Full name in title; spouse listed as 'Family' without first name; only named individual emitted"
+    },
+    {
+      "name": "Thomas",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/thomasgenevieve/",
+      "fit_reason": "Only first name given in URL and title; surname not identified; coupled with Genevieve on same page"
+    },
+    {
+      "name": "Genevieve",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/thomasgenevieve/",
+      "fit_reason": "Only first name given in URL and title; surname not identified; coupled with Thomas on same page"
+    },
+    {
+      "name": "Ronny",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/rrg/",
+      "fit_reason": "Only first name given in URL and title; surname not identified; couple split into two records"
+    },
+    {
+      "name": "Reagan",
+      "org": "Family Missions Company",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.familymissionscompany.com/project/rrg/",
+      "fit_reason": "Only first name given in URL and title; surname not identified; couple split into two records"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Mexico",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Ecuador",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Peru",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Honduras",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Guatemala",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Philippines",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Thailand",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ \"sponsor a missionary\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Haiti",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Uganda",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Tanzania",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Nicaragua",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ \"Papua New Guinea\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ \"monthly support\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ Abbeville",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ \"missionary family\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:familymissionscompany.com/project/ SERVE",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "First name and initial only; intentional anonymization",
+      "finding": "Joanne (URL: /project/joanne-g/) listed with first name and single initial; served in Philippines (potential restricted region); title shows only 'Joanne'",
+      "evidence": "URL pattern /project/joanne-g/ withholds surname; hard rule violation: 'page withholds a surname, uses initials only'",
+      "recommendation": "Do not emit; place in needs_review per FMC's anonymization practice for restricted-country workers"
+    },
+    {
+      "issue": "Family surname only; no first names",
+      "finding": "The Martins Family (URL: /project/martins-family/) listed as family surname without individual first names",
+      "evidence": "Title: 'The Martins Family | Family Missions Company'; hard rule specifies 'no The Smith Family without first names'",
+      "recommendation": "Do not emit; skip per explicit hard rule"
+    },
+    {
+      "issue": "Opaque URL with first names only in snippet; surname unknown",
+      "finding": "John-Paul & Sheila (URL: /project/jps/) - initials in URL; title 'Lay Catholic Missionary Family' does not name them; snippet names first names only",
+      "evidence": "URL /project/jps/ does not tie the named people to the page (numeric-ID rule); no surname appears in URL, title, or available snippet text",
+      "recommendation": "Do not emit; surname cannot be identified; URL lacks confirmatory tie to named individuals"
+    },
+    {
+      "issue": "Different URL pattern; appears to be archived project page",
+      "finding": "Reymark (URL: /serve-spring-2016-reymark/) found in search results but uses non-standard URL pattern; not a /project/ page",
+      "evidence": "URL pattern /serve-spring-2016-reymark/ differs from confirmed per-person pattern /project/<slug>/",
+      "recommendation": "Cannot verify as current per-person giving page; outside confirmed slice scope"
+    }
+  ]
+}
