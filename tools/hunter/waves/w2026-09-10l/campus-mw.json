@@ -1,0 +1,1021 @@
+{
+  "wave_id": "w2026-09-10l",
+  "agent": "focus-campus-mw",
+  "target_org": "FOCUS",
+  "slice": "campus axis, Midwest and Great Plains",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Rylan Maas",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rylan-maas/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan Tech / University of Michigan campus query."
+    },
+    {
+      "name": "Breanna Mehrwerth",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/breanna-mehrwerth/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan Tech / University of Michigan campus query."
+    },
+    {
+      "name": "Madison Schmitz",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/madison-schmitz/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan Tech / University of Michigan campus query."
+    },
+    {
+      "name": "Alexis Moran",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/alexis-moran/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan Tech / University of Michigan campus query."
+    },
+    {
+      "name": "Michael Melancon",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/michael-melancon/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan Tech / University of Michigan campus query."
+    },
+    {
+      "name": "Katherine Stevenson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/katherine-stevenson/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan Tech / University of Michigan campus query."
+    },
+    {
+      "name": "Hyoung Min Cho",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/hyoung-min-cho/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan Tech / University of Michigan campus query."
+    },
+    {
+      "name": "Stefanie Sugiaman",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/stefanie-sugiaman/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan Tech / University of Michigan campus query."
+    },
+    {
+      "name": "Rachel Bliss",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rachel-bliss/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Title 'Rachel Bliss (Sherry)' carries a maiden name in parentheses; slug matches the married surname. Michigan Tech query."
+    },
+    {
+      "name": "Julia Hyde",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/julia-hyde/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Wisconsin (Madison / Eau Claire / Milwaukee) query."
+    },
+    {
+      "name": "Rose vonErden",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rose-vonerden/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Wisconsin (Madison / Eau Claire / Milwaukee) query."
+    },
+    {
+      "name": "Andrew Simaz",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/andrew-simaz/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Wisconsin (Madison / Eau Claire / Milwaukee) query."
+    },
+    {
+      "name": "Jaden Henley",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/jaden-henley/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Wisconsin (Madison / Eau Claire / Milwaukee) query."
+    },
+    {
+      "name": "Justine Hinkley",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/justine-hinkley/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Wisconsin (Madison / Eau Claire / Milwaukee) query."
+    },
+    {
+      "name": "Nate Garcia",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/nathan-garcia/",
+      "fit_reason": "Tier A; per-person giving page. Title 'Nate Garcia' is the short form of the slug's 'nathan-garcia'; surname in slug. UW campus query."
+    },
+    {
+      "name": "Cassidy Nelson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/cassidy-nelson/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on North Dakota / South Dakota State query."
+    },
+    {
+      "name": "Miah Monson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/miah-monson/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on North Dakota / South Dakota State query."
+    },
+    {
+      "name": "Chase Porter",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/chase-porter/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on North Dakota / South Dakota State query."
+    },
+    {
+      "name": "Ethan Smith",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ethan-smith/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on North Dakota / South Dakota State query."
+    },
+    {
+      "name": "Amanda Heggedal",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/amanda-heggedal/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on North Dakota / South Dakota State query."
+    },
+    {
+      "name": "Jane Voelker",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/jane-voelker/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on North Dakota / South Dakota State query."
+    },
+    {
+      "name": "Tom Manning",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/thomas-manning/",
+      "fit_reason": "Tier A; per-person giving page. Title 'Tom Manning' is the short form of the slug's 'thomas-manning'; surname in slug. Dakotas query."
+    },
+    {
+      "name": "Brendon Pond",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Director of Collegiate Outreach",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/brendonpond/",
+      "fit_reason": "Tier A; FOCUS staff raise 100% of their own salary and the role sits on the same per-person giving page. Slug 'brendonpond' is unhyphenated but carries first name and surname; title names him."
+    },
+    {
+      "name": "Tristen Perreault",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/tristen-sarah-perreault/",
+      "fit_reason": "Tier A; per-person giving page. Couple page \u2014 slug names both spouses and the shared surname; title 'Tristen and Sarah Perreault'. Loras College."
+    },
+    {
+      "name": "Sarah Perreault",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/tristen-sarah-perreault/",
+      "fit_reason": "Tier A; per-person giving page. Spouse on a shared couple page \u2014 her first name is in the slug and the title 'Tristen and Sarah Perreault'. Loras College."
+    },
+    {
+      "name": "Evan Horak",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/evan-horak/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Iowa / Iowa State / Loras College query."
+    },
+    {
+      "name": "Lauren Diiulio",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/lauren-diiulio/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Iowa / Iowa State / Loras College query."
+    },
+    {
+      "name": "Colin Holtan",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/colin-holtan/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Iowa / Iowa State / Loras College query."
+    },
+    {
+      "name": "Matthew Eubank",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/matthew-eubank/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Iowa / Iowa State / Loras College query."
+    },
+    {
+      "name": "Daniel Sahyouni",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/daniel-sahyouni/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Iowa / Iowa State / Loras College query."
+    },
+    {
+      "name": "Ethan Holverson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/holversons/",
+      "fit_reason": "Tier A; per-person giving page. Shared family page: slug 'holversons' carries only the surname, but the page TITLE is 'Ethan & Alli Holverson', naming him explicitly. Iowa query."
+    },
+    {
+      "name": "Alli Holverson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/holversons/",
+      "fit_reason": "Tier A; per-person giving page. Shared family page: slug carries only the surname; the page TITLE 'Ethan & Alli Holverson' names her explicitly. Iowa query."
+    },
+    {
+      "name": "Delaney Olmer",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/delaney-olmer/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Missouri / Mizzou query."
+    },
+    {
+      "name": "Sophia Portner",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/sophia-portner/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Missouri / Mizzou query."
+    },
+    {
+      "name": "Julia Hejkal",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/julia-hejkal/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Missouri / Mizzou query."
+    },
+    {
+      "name": "Adam Heskett",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/adam-heskett/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Missouri / Mizzou query."
+    },
+    {
+      "name": "Emma Bruegenhemke",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/emma-bruegenhemke/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Missouri / Mizzou query."
+    },
+    {
+      "name": "Christine Wendell",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/christine-wendell/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Missouri / Mizzou query."
+    },
+    {
+      "name": "Kennedee Weber",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/kennedee-weber/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Missouri / Mizzou query."
+    },
+    {
+      "name": "Erin Powers",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Associate Team Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/erin-powers/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Associate Team Director at Mizzou; role is not a tier signal at FOCUS."
+    },
+    {
+      "name": "McKenna Furrer",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/mckenna-kukla/",
+      "fit_reason": "Tier A; per-person giving page. Title 'McKenna Furrer (Kukla)' \u2014 slug carries the maiden name 'kukla', which also appears in the title, so the URL ties to the named person. Mizzou query."
+    },
+    {
+      "name": "Erin Mahaffa",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/erin-mahaffa/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Indiana University / Ball State / Butler query."
+    },
+    {
+      "name": "Erin Johlie",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/erin-johlie/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Indiana University / Ball State / Butler query."
+    },
+    {
+      "name": "Anthony Thompson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/anthony-thompson/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Indiana University / Ball State / Butler query."
+    },
+    {
+      "name": "Grace Matocha",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/grace-matocha/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Bowling Green / Miami University (Ohio) query."
+    },
+    {
+      "name": "Madison Rogers",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/madison-rogers/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Bowling Green / Miami University (Ohio) query."
+    },
+    {
+      "name": "Ashley Miller",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ashley-miller/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Bowling Green / Miami University (Ohio) query."
+    },
+    {
+      "name": "Andrew Deick",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/andrew-deick/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Bowling Green / Miami University (Ohio) query."
+    },
+    {
+      "name": "Gabriel Diaz",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/gabriel-diaz/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Kansas State / Wichita State / Pittsburg State query."
+    },
+    {
+      "name": "Simon Sutton",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/simon-sutton/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Kansas State / Wichita State / Pittsburg State query."
+    },
+    {
+      "name": "Maggie Vincent",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/maggie-vincent/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Kansas State / Wichita State / Pittsburg State query."
+    },
+    {
+      "name": "Xander Manzanares",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/xander-manzanares/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Kansas State / Wichita State / Pittsburg State query."
+    },
+    {
+      "name": "Thomas Schott",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/thomas-schott/",
+      "fit_reason": "Tier A; per-person giving page. Shared family page: slug names him, page TITLE is 'Thomas and Grace Schott'. Team Director at Winona State."
+    },
+    {
+      "name": "Grace Schott",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/thomas-schott/",
+      "fit_reason": "Tier A; per-person giving page. Spouse on a shared family page \u2014 slug omits her but the page TITLE 'Thomas and Grace Schott' names her. Winona State. (Their baby daughter is deliberately not emitted \u2014 children are not missionaries.)"
+    },
+    {
+      "name": "John Baldus",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/john-baldus/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Minnesota (Winona State) query."
+    },
+    {
+      "name": "Nicholas Filzen",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/nicholas-filzen/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Minnesota (Winona State) query."
+    },
+    {
+      "name": "Francesca Schiro",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/francesca-schiro/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Minnesota (Winona State) query."
+    },
+    {
+      "name": "Hailey Wolkerstorfer",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/hailey-wolkerstorfer/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Minnesota (Winona State) query."
+    },
+    {
+      "name": "Becca Lasher",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rebecca-mccarty/",
+      "fit_reason": "Tier A; per-person giving page, but MEDIUM confidence: the page title is 'Becca Lasher' while the slug is 'rebecca-mccarty' \u2014 the URL carries a different (apparently maiden) surname, so the slug does not tie to the name as published. Winona State."
+    },
+    {
+      "name": "Julia Dennison",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/julia-dennison/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Serving at Southern Illinois University Edwardsville."
+    },
+    {
+      "name": "Bethany Vogt",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.focus.org/missionaries/bethany-vogt",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Team Director at Grand Valley State University."
+    },
+    {
+      "name": "Justin Sulak",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/justin-sulak/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan State / Grand Valley / Central Michigan query."
+    },
+    {
+      "name": "Ryan Korby",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ryan-korby/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan State / Grand Valley / Central Michigan query."
+    },
+    {
+      "name": "Ashley Christopher",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ashley-christopher/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan State / Grand Valley / Central Michigan query."
+    },
+    {
+      "name": "Abbey Heinrichs",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/abbey-heinrichs/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan State / Grand Valley / Central Michigan query."
+    },
+    {
+      "name": "Giavanna Walker",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/giavanna-walker/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Michigan State / Grand Valley / Central Michigan query."
+    },
+    {
+      "name": "Dan Krebsbach",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/dan-krebsbach/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Midwest family/Team Director query."
+    },
+    {
+      "name": "Grace Henrich",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/grace-henrich/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Team Director at University of Wisconsin-Oshkosh."
+    },
+    {
+      "name": "Isaac Nieto",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/isaac-nieto/",
+      "fit_reason": "Tier A; per-person giving page. Shared family page: slug names him, page TITLE 'Isaac and Anna Nieto'. UW-Stevens Point. Their two children are deliberately not emitted."
+    },
+    {
+      "name": "Anna Nieto",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/isaac-nieto/",
+      "fit_reason": "Tier A; per-person giving page. Spouse on a shared family page \u2014 slug omits her but the page TITLE 'Isaac and Anna Nieto' names her. UW-Stevens Point."
+    },
+    {
+      "name": "Mike Huelsing",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/mike-andrea-huelsing/",
+      "fit_reason": "Tier A; per-person giving page. Couple page: slug 'mike-andrea-huelsing' names both spouses and the shared surname; title names him."
+    },
+    {
+      "name": "Andrea Huelsing",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/mike-andrea-huelsing/",
+      "fit_reason": "Tier A; per-person giving page. Spouse on a shared couple page \u2014 her first name and the shared surname are both in the slug 'mike-andrea-huelsing', though the title shows only 'Mike Huelsing'."
+    },
+    {
+      "name": "Matthew Russell",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/matthew-russell/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Varsity Catholic (Midwest/Great Plains) query."
+    },
+    {
+      "name": "Teddy Hall",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/theodore-hall/",
+      "fit_reason": "Tier A; per-person giving page. Title 'Teddy Hall' is the short form of the slug's 'theodore-hall'; surname in slug. UW-Oshkosh, year 2."
+    },
+    {
+      "name": "Daniel McKearn",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/danielmckearn/",
+      "fit_reason": "Tier A; per-person giving page. Slug 'danielmckearn' is unhyphenated but carries first name and surname; title names him. University of Toledo."
+    },
+    {
+      "name": "Tommy Braswell",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/tommy-braswell/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Toledo / Kent State / Xavier / Cincinnati query."
+    },
+    {
+      "name": "Brittany Korff",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/brittany-korff/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Toledo / Kent State / Xavier / Cincinnati query."
+    },
+    {
+      "name": "Avery Nelson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/avery-nelson/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on University of Toledo / Kent State / Xavier / Cincinnati query."
+    },
+    {
+      "name": "William Yanek",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/william-yanek/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Northern Illinois / Northwestern / DePaul / Valparaiso query."
+    },
+    {
+      "name": "Simon Bickford",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/simon-bickford/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Northern Illinois / Northwestern / DePaul / Valparaiso query."
+    },
+    {
+      "name": "Rafael Avila Jr",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rafael-avila-jr/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Northern Illinois / Northwestern / DePaul / Valparaiso query."
+    },
+    {
+      "name": "Marcelli Vios",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/marcelli-vios/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Northern Illinois / Northwestern / DePaul / Valparaiso query."
+    },
+    {
+      "name": "Azure Radford",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/azure-radford/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Northern Illinois / Northwestern / DePaul / Valparaiso query."
+    },
+    {
+      "name": "Daniel Augustin",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/daniel-augustin/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Surfaced on Northern Illinois / Northwestern / DePaul / Valparaiso query."
+    },
+    {
+      "name": "Miles Casey",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/miles-casey/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Serving at Missouri University of Science and Technology, Rolla, MO."
+    },
+    {
+      "name": "Allison Koller",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/allison-koller/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Serving at Missouri University of Science and Technology, Rolla, MO."
+    },
+    {
+      "name": "Olivia Wright",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/olivia-wright/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of their own salary. Per-person giving page; surname in slug and title names the person. Serving at Missouri University of Science and Technology, Rolla, MO."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "focus.org/missionaries University of Michigan OR \"Michigan Tech\" FOCUS missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"University of Wisconsin\" Madison OR \"Eau Claire\" OR Milwaukee FOCUS missionary support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"North Dakota\" OR \"South Dakota State\" OR \"University of South Dakota\" FOCUS missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Iowa State\" OR \"University of Iowa\" OR \"Loras College\" FOCUS missionary team",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"University of Missouri\" OR Mizzou OR \"Missouri State\" FOCUS missionary serving",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Indiana University\" OR \"Ball State\" OR \"Butler University\" FOCUS missionary Bible study",
+      "outcome": "found_people",
+      "note": "Thin \u2014 three personal pages. Butler returned nothing; Indiana University returned only press releases and a campus page."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Ohio University\" OR \"Bowling Green\" OR \"Miami University\" OR \"University of Dayton\" FOCUS missionary",
+      "outcome": "found_people",
+      "note": "Ohio University and Dayton returned no personal pages."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Kansas State University\" OR \"Wichita State\" OR \"Pittsburg State\" FOCUS missionary Manhattan Kansas",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"St. Cloud State\" OR \"Minnesota State Mankato\" OR \"University of St. Thomas\" OR \"Winona State\" FOCUS missionary",
+      "outcome": "found_people",
+      "note": "Only Winona State produced people; St. Cloud State, Mankato and St. Thomas returned nothing."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"University of Nebraska Omaha\" OR \"Nebraska-Kearney\" OR \"Wayne State College\" FOCUS missionary",
+      "outcome": "no_people",
+      "note": "Returned only two campus landing pages. Nebraska outside Lincoln looks unindexed at the personal-page level."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Illinois State University\" OR \"Southern Illinois\" OR \"Loyola University Chicago\" OR \"Bradley University\" FOCUS missionary",
+      "outcome": "found_people",
+      "note": "One personal page only. The veteran-missionary page named 'Thomas' and 'Matt' first-name-only; not emitted."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Michigan State University\" OR \"Grand Valley State\" OR \"Central Michigan\" OR \"Western Michigan\" FOCUS missionary",
+      "outcome": "found_people",
+      "note": "Michigan State and Western Michigan returned no personal pages."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org/missionaries \"and\" Family FOCUS Team Director Wisconsin OR Michigan OR Iowa OR Ohio wife children",
+      "outcome": "found_people",
+      "note": "Best couple-shape query in this slice. Also surfaced Hickson and Wentworth couple pages, left to the focus-couples sibling agent."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Varsity Catholic\" Nebraska OR Kansas OR Missouri OR Indiana student-athletes missionary",
+      "outcome": "found_people",
+      "note": "Low yield \u2014 one personal page. Varsity Catholic as a qualifier pulls program/press pages, not missionary pages."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"UW-La Crosse\" OR \"UW-Platteville\" OR \"UW-Stout\" OR \"UW-Oshkosh\" FOCUS missionary serving",
+      "outcome": "found_people",
+      "note": "Only three results total; the hyphenated 'UW-' abbreviation indexes poorly versus 'University of Wisconsin'."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"University of Toledo\" OR \"Kent State\" OR \"Xavier University\" OR \"University of Cincinnati\" FOCUS missionary",
+      "outcome": "found_people",
+      "note": "All people came from Toledo; Kent State, Xavier and Cincinnati returned nothing."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Northern Illinois\" OR \"Northwestern University\" OR \"DePaul University\" OR \"Valparaiso University\" FOCUS missionary",
+      "outcome": "found_people",
+      "note": "Also surfaced the Bosco formation house (Naperville, IL) as a Midwest non-campus posting."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Missouri University of Science\" OR \"Rockhurst\" OR \"Truman State\" OR \"University of Northern Iowa\" FOCUS missionary",
+      "outcome": "found_people",
+      "note": "Rockhurst and Truman State returned nothing."
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Spouse named in page body snippet only, not in slug or title",
+      "finding": "Dylan Heggedal, husband of Amanda Heggedal, described as serving with her at South Dakota State University.",
+      "evidence": "https://focus.org/missionaries/amanda-heggedal/ \u2014 title is 'Amanda Heggedal' only; the snippet reads 'serving with her husband Dylan and teammates'.",
+      "recommendation": "Per the brief's couple grading table (neither slug nor title names them), not emitted. A reviewer who can open the page should confirm whether Dylan is a FOCUS missionary with his own or a shared giving page."
+    },
+    {
+      "issue": "Spouse named in page body snippet only, not in slug or title",
+      "finding": "Jordan Lasher, husband of Becca Lasher, described as serving with her at Winona State University.",
+      "evidence": "https://focus.org/missionaries/rebecca-mccarty/ \u2014 title is 'Becca Lasher'; the snippet reads 'Becca Lasher and her husband Jordan serve at Winona State University'.",
+      "recommendation": "Not emitted. Also note the slug/title surname mismatch on Becca's own record (graded medium)."
+    },
+    {
+      "issue": "Spouse named in page body snippet only; part-time FOCUS role",
+      "finding": "Mikayla Pond, wife of Brendon Pond, described as working part-time with FOCUS.",
+      "evidence": "https://focus.org/missionaries/brendonpond/ \u2014 title is 'Brendon Pond'; the snippet reads 'his wife Mikayla works part-time with FOCUS, and together they're raising four children'.",
+      "recommendation": "Not emitted (slug and title name only Brendon). Their four children are deliberately excluded as children."
+    },
+    {
+      "issue": "Person named in a snippet with no citable personal page",
+      "finding": "Kathryn Kueppers, described as serving at Miami University of Ohio.",
+      "evidence": "Named in the snippet returned for the Bowling Green/Miami University query, but no focus.org/missionaries/ URL for her appeared in the result set.",
+      "recommendation": "Re-query 'Kathryn Kueppers FOCUS' on a later wave; do not cite Ashley Miller's page for her."
+    },
+    {
+      "issue": "First-name-only teammates \u2014 cannot be emitted under the no-first-name-only rule",
+      "finding": "Teammates 'Ben, Liv, Brady, and Anna' at the University of Toledo, and 'Levi', the fiance of Avery Nelson also placed at Toledo.",
+      "evidence": "https://focus.org/missionaries/tommy-braswell/ and https://focus.org/missionaries/avery-nelson/ snippets.",
+      "recommendation": "Toledo has an unenumerated team; a targeted Toledo-only query with surname exclusions would likely surface these five as full records."
+    },
+    {
+      "issue": "Out-of-slice couple pages surfaced incidentally",
+      "finding": "'David and Linda Hickson Family' (/missionaries/david-hickson) and 'David and Catherine Wentworth' (/missionaries/david-and-catherine-wentworth) appeared in the Midwest family query.",
+      "evidence": "Both URLs appeared as titled results; no Midwest campus tie was shown in the snippets.",
+      "recommendation": "Left to the focus-couples sibling agent to avoid duplicate work; both are the brief's own worked examples."
+    }
+  ]
+}
