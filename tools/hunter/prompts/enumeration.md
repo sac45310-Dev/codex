@@ -85,6 +85,16 @@ per domain.
   category, put it in `needs_review` and move on** — even if you can infer the
   full name from elsewhere. These people are unnamed on purpose, and publishing
   them undoes a protection their agency put there deliberately.
+- **A support-function ROLE is not the same as not being support-raised.** At
+  a faith mission, a spouse listed as "Builder Support", an office
+  administrator and a home-office member-care director may all raise their own
+  salary, which makes them Tier A. In w2026-09-10f four agents graded 210 of
+  367 records Tier B on job function alone; only 14 had any home-office signal
+  at all, and Ethnos360 states plainly that its support-raising requirement
+  "applies to home office staff as well as those serving overseas". Tier on
+  whether the person raises personal support, not on their job title or where
+  they sit. If your assignment's tier rule seems to contradict what the
+  agency's own giving pages say, follow the agency and note it.
 - Never record or infer anyone's demographic or identity attributes.
 - Do not guess emails. Blank beats guessed.
 
