@@ -78,6 +78,34 @@ still worth more than a policy page, and the CRM needs to be able to tell the
 two apart. Never stretch this to an org that merely *sounds* like it works
 that way.
 
+#### The `evidence_basis` vocabulary
+
+Set `meta.evidence_basis` on every person record. Strongest first:
+
+| value | means | typical confidence |
+|---|---|---|
+| `personal_page` | a page for this person, on the org's own site, with their giving/support ask | high |
+| `org_policy` | the org documents that all its staff raise support; the page is not about this person | medium |
+| `staff_directory` | a page that names this person but carries no support-raising ask | medium |
+| `job_title` | the role alone implies the tier | low |
+
+**Never emit `unverified`.** It is a fifth value, but it belongs to review, not
+to hunting. It marks a record whose own citation fails to support the claim it
+makes — the URL does not name the person, or is not the kind of page the
+`evidence_basis` asserts. It is a grade applied to your output, not a finding
+you can report.
+
+So if the honest label for a record would be `unverified`, that record is not
+finished. Either find a citation that does support it, or drop it to a lower
+tier, or put it in `needs_review` with what you could not confirm. Emitting a
+record whose citation does not back it is worse than emitting nothing: it costs
+a reviewer the same time as a real find and then has to be unwound.
+
+The cheapest self-check, and the one review actually runs: **does the person's
+name appear in the URL you are citing?** If it does not, say why in the
+`fit_reason` — a couple sharing one page, an agency that keys giving pages by
+numeric ID — rather than leaving the reviewer to guess.
+
 ### Every person record must be a real, named individual
 
 A person record requires a **human being's actual name**. Never emit a record

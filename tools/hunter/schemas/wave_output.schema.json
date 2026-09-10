@@ -32,7 +32,7 @@
           "source_query": { "type": "string", "description": "hunter:<wave_id>:<agent-slug>" },
           "meta": {
             "type": "object",
-            "required": ["tier", "target_org", "evidence_url"],
+            "required": ["tier", "target_org", "evidence_url", "evidence_basis"],
             "properties": {
               "tier": { "enum": ["A", "B", "C"], "description": "A support-raised · B development staff · C board member / major donor (influencer)" },
               "role": { "type": "string" },
@@ -41,6 +41,10 @@
               "email": { "type": "string", "description": "Only if free on the page; never guessed" },
               "linkedin_url": { "type": "string" },
               "donation_page": { "type": "string" },
+              "evidence_basis": {
+                "enum": ["personal_page", "org_policy", "staff_directory", "job_title"],
+                "description": "What the evidence actually is, strongest first. 'unverified' is deliberately NOT accepted here: it is a review-side grade for a record whose citation fails to support its claim, never something an agent reports. If the honest label would be 'unverified', fix the citation, tier down, or send it to needs_review."
+              },
               "confidence": { "enum": ["high", "medium", "low"] }
             }
           }
