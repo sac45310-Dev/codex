@@ -1,0 +1,181 @@
+{
+  "wave_id": "w2026-09-10m",
+  "agent": "focus-newman-west",
+  "target_org": "FOCUS",
+  "slice": "West, Southwest, Mountain and Pacific campus ministries, plus international",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Rhianna Thomas",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rhianna-thomas/",
+      "fit_reason": "Tier A; FOCUS states all missionaries raise 100% of their own support. Surfaced from the calnewman.org (UC Berkeley Newman Hall) FOCUS roster query; the Berkeley page itself lists the team as first names only (Josh, Jency, Rhianna, Henry) so the campus tie is NOT asserted here. Cited page is her own focus.org person page: full name in the URL slug and in the page title."
+    },
+    {
+      "name": "Grace Varsek",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/grace-varsek/",
+      "fit_reason": "Tier A; all FOCUS missionaries raise full personal support. Surfaced alongside catholicjacks.org/focus (Holy Trinity Newman Center, NAU Flagstaff), whose 2024-2025 roster names nobody in snippet, so no campus claim is made. Cited page is her own focus.org person page; surname in slug and title."
+    },
+    {
+      "name": "Jeremy Cassidy",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Senior Director of Apostolic Outreach, Pacific Northwest region",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/jeremy-cassidy/",
+      "fit_reason": "Tier A; a regional/apostolic-outreach director at FOCUS still carries a personal focus.org giving page, so the support-raising test is met regardless of job function (per the standing 'support-function role is not the same as not support-raised' rule). Surname in slug and title. Snippet places his region as EWU, WWU, UW, WSU, U of Oregon, U of Idaho, Boise State, Idaho State, U of Utah, Carroll College and U of Montana - squarely inside this slice."
+    },
+    {
+      "name": "Brianna Morris",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director, University of Washington",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/brianna-morris/",
+      "fit_reason": "Tier A; all FOCUS missionaries raise 100% of their support. Surname in slug and title. Snippet states she is Team Director at the University of Washington and entering her third year, so the roster reference is current (2025-2026 cohort)."
+    },
+    {
+      "name": "Perla Rodriguez",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Campus Missionary, UCLA",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/perla-rodriguez/",
+      "fit_reason": "Tier A. Two-stage: harvested off the UCLA University Catholic Center roster (uccla.org/focus-1), then upgraded in a batched stage-2 query to her own focus.org person page. Surname in slug and title; snippet says she is starting her fourth year with FOCUS at UCLA, so the roster is current."
+    },
+    {
+      "name": "Clare Stephens",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/clare-stephens/",
+      "fit_reason": "Tier A. Harvested off uacatholic.org/focus (St. Thomas More Newman Center, University of Arizona), which named her and Mitchell as third-year missionaries; upgraded by batched stage-2 query to her own focus.org page. Slug carries her first name and the shared surname; page title is 'Clare and Mitch Stephens', a couple page. NOTE the focus.org snippet places the couple as Parish Missionaries at Mother of Perpetual Help, Maryville IL, which conflicts with the UArizona roster - the UArizona roster year is unstated and may be stale. The person record stands on the focus.org page; the campus assignment does not."
+    },
+    {
+      "name": "Mitch Stephens",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/clare-stephens/",
+      "fit_reason": "Tier A; second name on a shared couple page. The slug omits him but the title 'Clare and Mitch Stephens' names him on a shared family page, which is the graded-high case in the couple rule. Also named on uacatholic.org/focus as 'Mitchell Stephens', third-year missionary from St. Louis. Same caveat as his spouse: focus.org places the couple at a parish in Maryville IL, so the UArizona campus tie is not asserted."
+    },
+    {
+      "name": "Hannah Philpot",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary, Katholische Hochschulgemeinde Wien (University of Vienna)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.erzdioezese-wien.at/site/home/nachrichten/article/56332.html",
+      "fit_reason": "Tier A; FOCUS missionaries in Austria are the same support-raised cohort. Found only by retrying Austria IN GERMAN, which did break the wall the English wave-l queries hit. Full first and last name published by the Archdiocese of Vienna alongside the KHG Wien FOCUS team. Two caveats, both logged in needs_review: (a) the roster claims no year and the Vienna FOCUS partnership dates from 2016, so this may be an older cohort; (b) the German-language result set returned two Archdiocese of Vienna pages about the same team and the name may sit on the sibling page https://www.erzdioezese-wien.at/focusmissionare or on https://www.khg.wien/ueber-uns/focus-team - graded medium accordingly. No stage-2 upgrade: a batched focus.org query returned no person page for her."
+    },
+    {
+      "name": "Devon Kathol",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Team Leader, Katholische Hochschulgemeinde Wien (University of Vienna)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.erzdioezese-wien.at/site/home/nachrichten/article/56332.html",
+      "fit_reason": "Tier A. Same German-language Vienna source as Hannah Philpot; described as leading the four-person Vienna FOCUS team. Full first and last name. Same two caveats: unstated roster year (Vienna FOCUS began 2016, so possibly an older cohort) and ambiguity between the two Archdiocese of Vienna pages returned together - hence medium, not high. Batched stage-2 focus.org query returned no person page for him."
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "calnewman.org FOCUS missionaries team Berkeley", "outcome": "found_people"},
+    {"kind": "query", "value": "uonewman.org FOCUS missionaries University of Oregon Newman Center", "outcome": "no_people"},
+    {"kind": "query", "value": "Newman Center \"FOCUS missionaries\" 2025-2026 team Arizona Nevada New Mexico Catholic campus ministry", "outcome": "found_people"},
+    {"kind": "query", "value": "\"meet our FOCUS missionaries\" Newman Center Colorado Wyoming Montana Idaho Utah", "outcome": "no_people"},
+    {"kind": "query", "value": "asucatholic.org FOCUS missionaries Tempe team names; catholicjacks.org Flagstaff FOCUS missionaries", "outcome": "found_people"},
+    {"kind": "query", "value": "\"FOCUS missionaries\" Catholic campus ministry team 2025 UCLA UCSD Stanford \"San Diego State\" \"Cal Poly\" Newman", "outcome": "no_people"},
+    {"kind": "query", "value": "\"FOCUS\" missionaries team Catholic Newman Washington State Gonzaga \"University of Washington\" Oregon State Newman Center meet the team", "outcome": "no_people"},
+    {"kind": "query", "value": "\"FOCUS missionaries\" Catholic campus ministry Colorado State University Boulder Denver \"Newman\" meet our missionaries 2025", "outcome": "no_people"},
+    {"kind": "query", "value": "\"FOCUS Team Director\" Newman Catholic center missionary bio California Oregon Washington Nevada Utah Idaho 2025-2026", "outcome": "found_people"},
+    {"kind": "query", "value": "saintjohn.church focus missionaries names Colorado State; uccla.org FOCUS missionaries names UCLA", "outcome": "found_people"},
+    {"kind": "query", "value": "site:focus.org/missionaries \"Mitchell Stephens\" OR \"Clare Stephens\" OR \"Perla Rodriguez\" OR \"Grace Varsek\"", "outcome": "found_people"},
+    {"kind": "query", "value": "\"FOCUS Missionare\" Katholische Hochschulgemeinde Graz Wien Studenten Team", "outcome": "no_people"},
+    {"kind": "query", "value": "khg.wien FOCUS Missionare Team Namen Studienjahr Missionarinnen vorstellen", "outcome": "found_people"},
+    {"kind": "query", "value": "khg-graz.at FOCUS Missionare Team Namen Universität Graz Missionarinnen", "outcome": "no_people"},
+    {"kind": "query", "value": "FOCUS missionaries Catholic chaplaincy Ireland \"University College Dublin\" Maynooth meet the team names", "outcome": "no_people"},
+    {"kind": "query", "value": "FOCUS missionaries Catholic chaplaincy England \"Queen's University Belfast\" OR Southampton team names 2025", "outcome": "no_people"},
+    {"kind": "query", "value": "qubcatholic.org \"meet the team\" FOCUS missionaries names; \"Four Focus Missionaries\" UCC Chaplaincy Cork names", "outcome": "no_people"},
+    {"kind": "query", "value": "site:focus.org/missionaries \"Hannah Philpot\" OR \"Devon Kathol\" OR \"Mitchell Stephens\" OR \"Clare Stephens\"", "outcome": "found_people"},
+    {"kind": "page", "value": "https://www.calnewman.org/students/focus and /contact (UC Berkeley Newman Hall)", "outcome": "no_people"},
+    {"kind": "page", "value": "https://www.uonewman.org/focus--newman.html (St. Thomas More Newman Center, U of Oregon)", "outcome": "no_people"},
+    {"kind": "page", "value": "https://asucatholic.org/focus (All Saints Newman Center, ASU Tempe)", "outcome": "no_people"},
+    {"kind": "page", "value": "https://catholicjacks.org/focus (Holy Trinity Newman Center, NAU Flagstaff) - 2024-2025 team, no names in snippet", "outcome": "no_people"},
+    {"kind": "page", "value": "https://www.saintjohn.church/focus (Ram Catholic, Colorado State) - page states it lists FIRST NAMES ONLY", "outcome": "no_people"},
+    {"kind": "page", "value": "https://www.qubcatholic.org/meet-the-team (Queen's University Belfast Catholic Chaplaincy) - first name only", "outcome": "no_people"},
+    {"kind": "page", "value": "https://corkandross.org/news/four-focus-missionaries-welcomed-to-the-diocese-to-join-ucc-chaplaincy (UCC Cork)", "outcome": "no_people"},
+    {"kind": "page", "value": "https://www.khg-graz.at/ and khg.graz-seckau.at (KHG Graz) - four FOCUS missionaries confirmed present, none named", "outcome": "no_people"},
+    {"kind": "page", "value": "https://www.khg.wien/ueber-uns/focus-team and /khg/focusmissionare (KHG Vienna FOCUS roster)", "outcome": "found_people"},
+    {"kind": "page", "value": "https://www.rcbo.org/ministry/university-campus-ministry/ (Diocese of Orange, Cal State Fullerton) - FOCUS presence, no names", "outcome": "no_people"},
+    {"kind": "page", "value": "https://www.scd.org/newman (Diocese of Sacramento Newman Centers) - index only", "outcome": "offtopic"},
+    {"kind": "page", "value": "https://www.togethergoforth.org/en/newman-centers/ (Diocese of Phoenix Newman Centers) - index only", "outcome": "offtopic"}
+  ],
+  "needs_review": [
+    {
+      "issue": "First-name-only rosters - the dominant failure mode on this axis, confirmed repeatedly in the West",
+      "finding": "UC Berkeley (calnewman.org) publishes its FOCUS team as 'Josh, Jency, Rhianna, Henry'. Saint John XXIII / Ram Catholic (Colorado State) states outright on its FOCUS page that it will place students' and missionaries' FIRST NAMES there. QUB Catholic (Belfast) names a sixth-year FOCUS missionary as 'Cassandra' only.",
+      "evidence": "https://www.calnewman.org/students/focus ; https://www.saintjohn.church/focus ; https://www.qubcatholic.org/meet-the-team",
+      "recommendation": "Do not emit and do not attempt to pair these first names with surnames from focus.org - that is invention. These pages are only usable if a future wave can fetch them directly (a rendered roster may carry surnames the snippet drops). Search alone will not resolve them."
+    },
+    {
+      "issue": "Name inferred from an email address, not from printed text - deliberately NOT emitted",
+      "finding": "The UCLA University Catholic Center FOCUS roster snippet renders as 'FOCUS Missionary ana.kwan@focus.org - Perla Rodriguez'. A missionary named Ana Kwan is strongly implied by the focus.org first.last mailbox, but her name is not printed in anything I saw.",
+      "evidence": "https://uccla.org/focus-1",
+      "recommendation": "Verify by fetching the UCLA page or by a targeted focus.org/missionaries/ana-kwan check. Do not ingest on the email alone."
+    },
+    {
+      "issue": "Citation-page ambiguity for the two Vienna records",
+      "finding": "The German query returned two Archdiocese of Vienna pages about the same KHG Wien FOCUS team plus two KHG Wien roster pages, and the bios for Hannah Philpot and Devon Kathol could sit on any of them. I cited the news article that best matches the biographical framing.",
+      "evidence": "https://www.erzdioezese-wien.at/site/home/nachrichten/article/56332.html ; https://www.erzdioezese-wien.at/focusmissionare ; https://www.erzdioezese-wien.at/site/home/nachrichten/article/79738.html ; https://www.khg.wien/ueber-uns/focus-team",
+      "recommendation": "Re-point the source_url once one of these pages can be fetched. Both records are graded medium for exactly this reason."
+    },
+    {
+      "issue": "Possible stale roster - Vienna cohort year unstated",
+      "finding": "Vienna and Graz received their first four-person FOCUS teams in autumn 2016 at the invitation of Cardinal Schoenborn and Bishop Krautwaschl. The Vienna bios I captured state no academic year, and one companion article describes 'three years of work' by the team, which would put it around 2019.",
+      "evidence": "https://www.erzdioezese-wien.at/site/home/nachrichten/article/79738.html ; https://katholisch.de/artikel/24241-studentenmissionare-die-speerspitze-der-neuevangelisierung",
+      "recommendation": "Treat Hannah Philpot and Devon Kathol as possibly-former missionaries pending a current KHG Wien roster. Neither has a focus.org person page today, which is consistent with departure."
+    },
+    {
+      "issue": "Campus assignment conflict on a confirmed couple",
+      "finding": "uacatholic.org/focus (University of Arizona) names Mitchell and Clare Stephens as third-year missionaries on the UArizona Newman team, but their focus.org page places them as Parish Missionaries at Mother of Perpetual Help, Maryville, Illinois.",
+      "evidence": "https://www.uacatholic.org/focus/ ; https://focus.org/missionaries/clare-stephens/",
+      "recommendation": "Ingest the two people (the focus.org page is unambiguous) but do not ingest the UArizona campus tag. The UArizona roster states no year and is likely stale."
+    },
+    {
+      "issue": "Unnamed international teams confirmed to exist - a target list, not records",
+      "finding": "Four FOCUS missionaries are confirmed present at KHG Graz (Universitaet Graz), a team of four-to-five at UCC Cork via the Diocese of Cork and Ross, and a team at Queen's University Belfast. None are named in any snippet. No FOCUS roster surfaced for St. Poelten, University College Dublin, Maynooth or Southampton at all.",
+      "evidence": "https://www.khg-graz.at/ ; https://corkandross.org/news/four-focus-missionaries-welcomed-to-the-diocese-to-join-ucc-chaplaincy ; https://www.qubcatholic.org/",
+      "recommendation": "These are page-fetch targets, not further search targets. Note for the record: none of these are sensitive-region or anonymized cases - the names are simply absent from the index, so the sensitive-region rule does not apply and no anonymized worker was encountered anywhere in this slice."
+    },
+    {
+      "issue": "Non-missionaries encountered on roster pages and correctly excluded",
+      "finding": "MMag. Alois Koelbl is listed as chaplain (Hochschulseelsorger) at KHG Graz alongside the FOCUS team; the Diocese of Cork and Ross article centres on Bishop Fintan Gavin welcoming the team. Neither is a FOCUS missionary.",
+      "evidence": "https://www.katholische-kirche-steiermark.at/goto/instvisitenkarte/139/Katholische_Hochschulgemeinde_Graz ; https://corkandross.org/news/four-focus-missionaries-welcomed-to-the-diocese-to-join-ucc-chaplaincy",
+      "recommendation": "No action - logged so a future wave does not re-harvest chaplains and bishops as missionaries."
+    },
+    {
+      "issue": "Out-of-slice roster names seen in passing - left for the sibling agent",
+      "finding": "A 2025-2026 roster naming Jaden Henley (Team Director), Micah Gehring, Rose VonErden and Kaylie Skoumal, and a Rapid City SDSM&T team naming Kevin Baltzer, Alice Major, Abigail Mason and Joseph Allen, both surfaced from my Mountain-West queries.",
+      "evidence": "https://bulldogcatholic.org/missionaries/2025-2026-missionaries/ ; https://www.rapidcitydiocese.org/focus-sdsmt/",
+      "recommendation": "North Dakota and South Dakota belong to focus-newman-mw. If that agent's file misses them, they are free volume - both rosters carry full first and last names and both state a current year."
+    }
+  ]
+}
