@@ -101,3 +101,50 @@ CMML remains the deepest unmined seam we have found since Ethnos360 — the
 prayer handbook lists 750+ commended workers and we hold 41. MWBM, IBFI and FMC
 all look close to exhausted at this depth; each agent reported repeats in its
 last three searches.
+
+## Addendum — should CMML be mined deeper? No.
+
+Asked after the wave landed, and the answer reverses the closing line above.
+That line called CMML "the deepest unmined seam since Ethnos360" on the size of
+the pool. Per-query yield says the opposite:
+
+| agent | searches | emitted | per query |
+|---|---|---|---|
+| eth-deep | 18 | 85 | **4.7** |
+| fmc | 18 | 66 | 3.7 |
+| mwbm | 18 | 40 | 2.2 |
+| ibfi | 18 | 38 | 2.1 |
+| cmml-high | 18 | 28 | 1.6 |
+| cmml-low | 18 | 13 | **0.7** |
+
+CMML combined: 41 from 36 searches, **1.1/query** — below the 1.3 (WGM) and 1.4
+(FMWM) at which those domains were retired as exhausted, and that is CMML's
+*first* pass, not its fifth.
+
+Five further searches tested whether a different surface unlocks it. Two exist:
+
+- `cmml.us/missionaries/m<id>` — a second path whose titles carry real names
+  ("Robinson, Todd & Leah"), unlike the `/m/<id>` we mined.
+- `cmml.us/missionary-search/<letter>` — an A–Z index.
+
+Neither is enumerable. `site:cmml.us/missionaries/m` surfaced one `/m/510` and
+otherwise unrelated results; `site:cmml.us/missionary-search` returned only the
+root page. They are barely indexed, and with page fetching blocked an
+un-indexed directory is invisible to us. **The bottleneck is indexing, not
+slicing** — so more qualifiers, finer slices and exclusion tokens all fail for
+the same reason.
+
+The remaining ~700 sit in the **printed** Missionary Prayer Handbook (annual,
+MSC Canada + CMML, sold through Gospel Folio Press) with names, contact details
+and ministry descriptions. Obtaining a copy is the only route to CMML depth,
+and it is a procurement step rather than an agent task.
+
+CMML stays a valid target — 41 held, all Tier A, `do_not_pursue` false. It is
+marked SEARCH-CAPPED in `hunt_targets.notes` so a future wave planner sees the
+measurement before spending budget on it. The five diagnostic searches are
+recorded in `hunt_coverage`.
+
+Next wave should go to untouched agencies via verify-then-dispatch — the
+pattern that produced FMC, MWBM and IBFI from a standing start this wave — and
+to Ethnos360, still the best rate we have at 4.7/query with role qualifiers
+barely worked.
