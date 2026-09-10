@@ -85,3 +85,34 @@ WHERE s.source_query LIKE 'hunter:%' AND s.meta->>'legacy_agency' IS NOT NULL
       ~* '\y(deputation|support-rais|support rais|prayer letter|giving page|partner with|donate|support team)\y';
 
 -- Then re-run promote_orgs_to_leads.sql to fold these into the org headcounts.
+
+-- ---------------------------------------------------------------------------
+-- Second pass (2026-09-10, at the user's direction): tier the remainder.
+--
+-- The rows left untiered above are at faith missions where personal
+-- support-raising is the universal funding model. Tiering them Tier A rests on
+-- ORG POLICY, not on evidence about the individual, so they carry confidence
+-- 'low' and are discounted to 0.35 by the weighting in promote_orgs_to_leads.sql.
+-- That is what makes this safe: the headcount grows, the evidenced headcount
+-- barely moves, and the notes show both figures side by side.
+-- ---------------------------------------------------------------------------
+UPDATE sales.scout_candidates s
+SET meta = s.meta || jsonb_build_object('tier','A','role','Missionary',
+      'evidence_basis','org_policy','confidence','low',
+      'tier_source','agency funding model',
+      'review_note','tier rests on the agency funding model, NOT on evidence about this individual')
+WHERE s.source_query LIKE 'hunter:%' AND s.meta->>'legacy_agency' IS NOT NULL
+  AND s.meta->>'target_org' IS NOT NULL AND s.meta->>'tier' IS NULL;
+
+-- The unmapped singletons got the same treatment ONLY where their own text
+-- identifies a sent or support-raising worker. Five were deliberately left
+-- untiered because the record contradicts the org-policy inference: a
+-- retirement-community director, a staff-directory associate director, a pastor
+-- who is also a software professional, and two people running their own 501(c)(3)
+-- rather than raising support through an agency.
+UPDATE sales.scout_candidates s
+SET meta = s.meta || jsonb_build_object('tier','A','role','Missionary',
+      'evidence_basis','org_policy','confidence','low','tier_source','own record text')
+WHERE s.source_query LIKE 'hunter:%' AND s.meta->>'legacy_agency' IS NOT NULL
+  AND s.meta->>'tier' IS NULL
+  AND s.org_name ~* '(Duryee|Schierkolk|Heil|Bys|Farran|Cullum|Phoenix|Reaching & Teaching|Russ and Heidi Smith|Liermann|Wild|Carl & Amy Johnson|Elliott|Vasquez|John David Worship|Dwayne and Jennifer)';
