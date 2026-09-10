@@ -1,0 +1,1060 @@
+{
+ "wave_id": "w2026-09-10c",
+ "agent": "oms-americas-africa",
+ "target_org": "One Mission Society",
+ "slice": "the Americas, Africa, and US-based roles",
+ "searches_used": 15,
+ "people": [
+  {
+   "name": "David Roof",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Roof",
+   "fit_reason": "Tier A; per-person giving page, surname in slug, title names both spouses; serves in Brazil church planting"
+  },
+  {
+   "name": "Conce Roof",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Roof",
+   "fit_reason": "Tier A; per-person giving page, surname in slug, title names both spouses; serves in Brazil church planting"
+  },
+  {
+   "name": "Micah Routon",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/routon",
+   "fit_reason": "Tier A; Brazil field leader; per-person giving page with surname in slug"
+  },
+  {
+   "name": "Marla Routon",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/routon",
+   "fit_reason": "Tier A; per-person giving page with surname in slug; Brazil church planting"
+  },
+  {
+   "name": "Mel Noah",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Noah",
+   "fit_reason": "Tier A; Brazil missionary since 1972; per-person giving page with surname in slug"
+  },
+  {
+   "name": "Fran Noah",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Noah",
+   "fit_reason": "Tier A; Brazil missionary since 1972; per-person giving page with surname in slug"
+  },
+  {
+   "name": "Gwen Pinkerton",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Pinkerton",
+   "fit_reason": "Tier A; Brazil service 1988-1991 and 2003-2011; per-person giving page"
+  },
+  {
+   "name": "Paulo Almeida",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Almeida",
+   "fit_reason": "Tier A; serves in multiple countries including Brazil and Mozambique; per-person giving page"
+  },
+  {
+   "name": "Fernanda Almeida",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Almeida",
+   "fit_reason": "Tier A; serves in multiple countries including Brazil and Mozambique; per-person giving page"
+  },
+  {
+   "name": "Rod Dormer",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/dormer",
+   "fit_reason": "Tier A; served in Brazil and Kenya; OMS Bible college director; per-person giving page"
+  },
+  {
+   "name": "Jan Dormer",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/dormer",
+   "fit_reason": "Tier A; served in Brazil and Kenya; OMS Bible college director; per-person giving page"
+  },
+  {
+   "name": "Eli Chaves Filho",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Filho",
+   "fit_reason": "Tier A; Bible teacher in Mozambique and Brazil; per-person giving page"
+  },
+  {
+   "name": "Steve Rehner",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Field Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Rehner",
+   "fit_reason": "Tier A; Colombia field director; per-person giving page with surname in slug"
+  },
+  {
+   "name": "David Cosby",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Cosby",
+   "fit_reason": "Tier A; Colombia missionary since 1975; Cristalina Bible Institute and Biblical Seminary; per-person giving page"
+  },
+  {
+   "name": "Carol Cosby",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Cosby",
+   "fit_reason": "Tier A; Colombia missionary since 1975; Cristalina Bible Institute and Biblical Seminary; per-person giving page"
+  },
+  {
+   "name": "Jason Campbell",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Campbell",
+   "fit_reason": "Tier A; Colombia missionary; per-person giving page with surname in slug"
+  },
+  {
+   "name": "Lora Campbell",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Campbell",
+   "fit_reason": "Tier A; Colombia missionary; per-person giving page with surname in slug"
+  },
+  {
+   "name": "John-Mark Brabon",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/brabon1",
+   "fit_reason": "Tier A; Colombia missionary; per-person giving page with surname and numeric suffix in slug"
+  },
+  {
+   "name": "Susan Brabon",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/brabon1",
+   "fit_reason": "Tier A; Colombia missionary; per-person giving page with surname and numeric suffix in slug"
+  },
+  {
+   "name": "Troy Gentry",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/gentry",
+   "fit_reason": "Tier A; Mexico City missionary since 2007; per-person giving page"
+  },
+  {
+   "name": "Jenny Gentry",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/gentry",
+   "fit_reason": "Tier A; Mexico City missionary since 2007; per-person giving page"
+  },
+  {
+   "name": "Lydia Gard",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/gard",
+   "fit_reason": "Tier A; transitioning to Mexico as short-term team coordinator; per-person giving page"
+  },
+  {
+   "name": "Willie Hochhalter",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/hochhalter",
+   "fit_reason": "Tier A; Mexico pioneer missionary 1990; church planting and ECC; per-person giving page"
+  },
+  {
+   "name": "Joani Hochhalter",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/hochhalter",
+   "fit_reason": "Tier A; Mexico pioneer missionary 1990; church planting and ECC; per-person giving page"
+  },
+  {
+   "name": "Margo Concepcion",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Concepcion",
+   "fit_reason": "Tier A; Mexico missionary; per-person giving page"
+  },
+  {
+   "name": "Pablo Pazmino",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/pazmino",
+   "fit_reason": "Tier A; Ecuador church planting and leadership training; per-person giving page"
+  },
+  {
+   "name": "Rebecca Pazmino",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/pazmino",
+   "fit_reason": "Tier A; Ecuador church planting; Latin America/Caribbean regional director since 2023; per-person giving page"
+  },
+  {
+   "name": "Jim Smith",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Smith1",
+   "fit_reason": "Tier A; Ecuador missionary 1983-2002; church planting and discipleship; per-person giving page with numeric suffix"
+  },
+  {
+   "name": "Sue Smith",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Smith1",
+   "fit_reason": "Tier A; Ecuador missionary 1983-2002; women and children's ministry; per-person giving page with numeric suffix"
+  },
+  {
+   "name": "Tom Stiles",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Stiles",
+   "fit_reason": "Tier A; Ecuador 35+ years; Quichua church planting and evangelism; per-person giving page"
+  },
+  {
+   "name": "Susan Stiles",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Stiles",
+   "fit_reason": "Tier A; Ecuador 35+ years; Quichua church planting and evangelism; per-person giving page"
+  },
+  {
+   "name": "Tom Sparrow",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/sparrow",
+   "fit_reason": "Tier A; Ecuador missionary since 1975; church planter; per-person giving page"
+  },
+  {
+   "name": "Jan Sparrow",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/sparrow",
+   "fit_reason": "Tier A; Ecuador missionary since 1975; per-person giving page"
+  },
+  {
+   "name": "Steve Skinner",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Field Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Skinner2",
+   "fit_reason": "Tier A; Ecuador field director as of 2025; per-person giving page with numeric suffix"
+  },
+  {
+   "name": "Hannah Skinner",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Field Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Skinner2",
+   "fit_reason": "Tier A; Ecuador field director as of 2025; per-person giving page with numeric suffix"
+  },
+  {
+   "name": "BJ Williamson",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/williamson2",
+   "fit_reason": "Tier A; Ecuador church planter; MFM regional director Kentucky; per-person giving page with numeric suffix"
+  },
+  {
+   "name": "Andi Williamson",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/williamson2",
+   "fit_reason": "Tier A; Ecuador church planter; per-person giving page with numeric suffix"
+  },
+  {
+   "name": "Dean Davis",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/davis",
+   "fit_reason": "Tier A; Ecuador Saraguros church planter; ECC leadership 2005-2018; per-person giving page"
+  },
+  {
+   "name": "Gail Davis",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/davis",
+   "fit_reason": "Tier A; Ecuador Saraguros church planter and leader training; per-person giving page"
+  },
+  {
+   "name": "Paul Chance",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Chance",
+   "fit_reason": "Tier A; Ecuador missionary; MFM regional director Southeast US; per-person giving page"
+  },
+  {
+   "name": "Diana Chance",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Chance",
+   "fit_reason": "Tier A; Ecuador missionary; MFM regional director Southeast US; per-person giving page"
+  },
+  {
+   "name": "David Aufrance",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/aufrance",
+   "fit_reason": "Tier A; Haiti missionary; per-person giving page"
+  },
+  {
+   "name": "Cindy Aufrance",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/aufrance",
+   "fit_reason": "Tier A; Haiti missionary; per-person giving page"
+  },
+  {
+   "name": "David Shaferly",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Shaferly",
+   "fit_reason": "Tier A; Haiti missionary since 1966; per-person giving page"
+  },
+  {
+   "name": "Marilyn Shaferly",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Shaferly",
+   "fit_reason": "Tier A; Haiti missionary since 1963; per-person giving page"
+  },
+  {
+   "name": "David Long",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Long1",
+   "fit_reason": "Tier A; Haiti missionary; theological education; per-person giving page with numeric suffix"
+  },
+  {
+   "name": "Lori Long",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Long1",
+   "fit_reason": "Tier A; Haiti missionary; theological education; per-person giving page with numeric suffix"
+  },
+  {
+   "name": "Hannah Kappler",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Kappler2",
+   "fit_reason": "Tier A; Haiti and South Africa experience; per-person giving page with numeric suffix"
+  },
+  {
+   "name": "Aimee Howarth",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/howarth",
+   "fit_reason": "Tier A; taught in Mozambique and Haiti; church planting and discipleship; per-person giving page"
+  },
+  {
+   "name": "Silas Waweru",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Waweru",
+   "fit_reason": "Tier A; Kenya national leader; church leadership training; per-person giving page"
+  },
+  {
+   "name": "Rahab Waweru",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Waweru",
+   "fit_reason": "Tier A; Kenya national leader; church leadership training; per-person giving page"
+  },
+  {
+   "name": "Troy Backhuus",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Backhuus",
+   "fit_reason": "Tier A; Kenya missionary; missionary care director; per-person giving page"
+  },
+  {
+   "name": "Roma Jean Backhuus",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Backhuus",
+   "fit_reason": "Tier A; Kenya missionary; missionary care specialist; per-person giving page"
+  },
+  {
+   "name": "Allen Conner",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/conner-allen",
+   "fit_reason": "Tier A; Kenya missionary; per-person giving page with hyphenated slug"
+  },
+  {
+   "name": "Brian Kessler",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/kessler",
+   "fit_reason": "Tier A; Kenya missionary; ECC director; per-person giving page"
+  },
+  {
+   "name": "Mike Miner",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Miner",
+   "fit_reason": "Tier A; Kenya missionary; MFM regional director Northwest US; per-person giving page"
+  },
+  {
+   "name": "Ann Miner",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Miner",
+   "fit_reason": "Tier A; Kenya missionary; MFM regional director Northwest US; per-person giving page"
+  },
+  {
+   "name": "James Kigamwa",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Kigamwa",
+   "fit_reason": "Tier A; Kenya/Uganda missionary; per-person giving page"
+  },
+  {
+   "name": "Anja Staten",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/staten",
+   "fit_reason": "Tier A; Uganda missionary; per-person giving page"
+  },
+  {
+   "name": "Darren Sweeney",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Sweeney",
+   "fit_reason": "Tier A; Mozambique missionary 2014+; Christian Academy and local church; per-person giving page"
+  },
+  {
+   "name": "Sherilyn Sweeney",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Sweeney",
+   "fit_reason": "Tier A; Mozambique missionary 2014+; Christian Academy and local church; per-person giving page"
+  },
+  {
+   "name": "Bruce Callender",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/callender",
+   "fit_reason": "Tier A; Mozambique team founder 1996; Christian Academy and Biblical Seminary founder; per-person giving page"
+  },
+  {
+   "name": "Mabel Callender",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/callender",
+   "fit_reason": "Tier A; Mozambique team founder 1996; Christian Academy and Biblical Seminary founder; per-person giving page"
+  },
+  {
+   "name": "Jose Banales",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Banales",
+   "fit_reason": "Tier A; Mozambique missionary; South Region director (OK, TX, NM, AR, LA); per-person giving page"
+  },
+  {
+   "name": "Audrey Banales",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Banales",
+   "fit_reason": "Tier A; Mozambique missionary; South Region director (OK, TX, NM, AR, LA); per-person giving page"
+  },
+  {
+   "name": "Brad Snowden",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Snowden",
+   "fit_reason": "Tier A; Mozambique missionary; per-person giving page"
+  },
+  {
+   "name": "Danielle Snowden",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Snowden",
+   "fit_reason": "Tier A; Mozambique missionary; per-person giving page"
+  },
+  {
+   "name": "Claude Douti",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/douti-claude",
+   "fit_reason": "Tier A; Mozambique missionary; per-person giving page"
+  },
+  {
+   "name": "Andrea McFall",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/McFall2",
+   "fit_reason": "Tier A; South Africa short-term mission trips; per-person giving page with numeric suffix [orchestrator: slug McFall2 did not return a result in an independent site: search; collision-suffix slug unconfirmed]"
+  },
+  {
+   "name": "Valeene Hayes",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/hayes",
+   "fit_reason": "Tier A; Haiti/Caribbean radio ministry 1962+; per-person giving page"
+  },
+  {
+   "name": "Chris Williams",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Williams",
+   "fit_reason": "Tier A; Caribbean regional field director; per-person giving page"
+  },
+  {
+   "name": "Heather Williams",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Williams",
+   "fit_reason": "Tier A; Caribbean missionary; per-person giving page"
+  },
+  {
+   "name": "Warren Hardig",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/hardig",
+   "fit_reason": "Tier A; Caribbean/Latin America missionary; per-person giving page"
+  },
+  {
+   "name": "Velma Hardig",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/hardig",
+   "fit_reason": "Tier A; Caribbean/Latin America missionary; per-person giving page"
+  },
+  {
+   "name": "Cynthia Carr",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Carr",
+   "fit_reason": "Tier A; Caribbean missionary; per-person giving page"
+  },
+  {
+   "name": "Jonathan Brower",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Brower",
+   "fit_reason": "Tier A; Caribbean missionary; per-person giving page"
+  },
+  {
+   "name": "Holly Brower",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Brower",
+   "fit_reason": "Tier A; Caribbean missionary; per-person giving page"
+  },
+  {
+   "name": "Kent Eller",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Executive Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Eller",
+   "fit_reason": "Tier A; Men for Missions executive director; US-based role; per-person giving page"
+  },
+  {
+   "name": "Monica Eller",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Eller",
+   "fit_reason": "Tier A; Men for Missions leadership; US-based role; per-person giving page"
+  },
+  {
+   "name": "Kasey Dillman",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/dillman",
+   "fit_reason": "Tier A; Men for Missions Indiana regional director; US-based role; per-person giving page"
+  },
+  {
+   "name": "Heather Dillman",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/dillman",
+   "fit_reason": "Tier A; Men for Missions support; US-based role; per-person giving page"
+  },
+  {
+   "name": "Carl Poynter",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Poynter",
+   "fit_reason": "Tier A; Men for Missions Ohio regional director; US-based role; per-person giving page"
+  },
+  {
+   "name": "Teresa Poynter",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Poynter",
+   "fit_reason": "Tier A; Men for Missions Ohio regional director; US-based role; per-person giving page"
+  },
+  {
+   "name": "Micheal Shrode",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/shrode",
+   "fit_reason": "Tier A; Men for Missions role; US-based; per-person giving page"
+  },
+  {
+   "name": "Bonnie Shrode",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/shrode",
+   "fit_reason": "Tier A; Men for Missions support; US-based; per-person giving page"
+  },
+  {
+   "name": "Brent Burdick",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Burdick",
+   "fit_reason": "Tier A; US-based missionary role; per-person giving page"
+  },
+  {
+   "name": "Kim Burdick",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Burdick",
+   "fit_reason": "Tier A; US-based missionary role; per-person giving page"
+  },
+  {
+   "name": "Shane Christopher",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Development Officer",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Christopher",
+   "fit_reason": "Tier A; Every Community for Christ development officer; per-person giving page"
+  },
+  {
+   "name": "Roger Kruse",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Kruse",
+   "fit_reason": "Tier A; Every Community for Christ church multiplication facilitator; per-person giving page"
+  },
+  {
+   "name": "Paul Pawelski",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Pawelski",
+   "fit_reason": "Tier A; Every Community for Christ; per-person giving page"
+  },
+  {
+   "name": "Anita Pawelski",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Pawelski",
+   "fit_reason": "Tier A; Every Community for Christ; per-person giving page"
+  },
+  {
+   "name": "Bob Warren",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Warren",
+   "fit_reason": "Tier A; Every Community for Christ church multiplication facilitator Japan/Korea; per-person giving page"
+  },
+  {
+   "name": "Suzanne Warren",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Warren",
+   "fit_reason": "Tier A; Every Community for Christ church multiplication facilitator Japan/Korea; per-person giving page"
+  },
+  {
+   "name": "Jonathan Morton",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Morton",
+   "fit_reason": "Tier A; Every Community for Christ; per-person giving page"
+  },
+  {
+   "name": "Lupita Morton",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Morton",
+   "fit_reason": "Tier A; Every Community for Christ; per-person giving page"
+  },
+  {
+   "name": "Sandy Newcomer",
+   "org": "One Mission Society",
+   "tier": "A",
+   "role": "Administrative Assistant",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Newcomer",
+   "fit_reason": "Tier A; Men for Missions administrative assistant; OMS HQ Greenwood Indiana; per-person giving page"
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries Brazil",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries Colombia",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries Mexico",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries Ecuador",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries Haiti",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries Africa Kenya",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries Uganda",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries Mozambique",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries \"South Africa\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries \"church planting\" Latin America",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries Caribbean",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries \"Men for Missions\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries regional director United States",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries \"Every Community for Christ\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:onemissionsociety.org missionaries -bryant -dragon -dunnuck -edwards -kappler -overton -shroyer -sullivan -wilder",
+   "outcome": "found_people"
+  }
+ ],
+ "needs_review": [
+  {
+   "name": "Nancy",
+   "org": "One Mission Society",
+   "source_url": "https://onemissionsociety.org/missionaries/detail/Nancy",
+   "reason": "First name only with no recoverable surname; likely sensitive-region worker in European immigrant neighborhoods per search results; OMS practice of withholding surnames for creative-access regions"
+  },
+  {
+   "issue": "Unverified collision-suffix slug",
+   "finding": "/detail/McFall2 did not appear in an independent site: search, unlike four other sampled slugs from this file which all verified. Affects: Andrea McFall.",
+   "evidence": "Orchestrator spot-check, 5-URL sample, w2026-09-10c.",
+   "recommendation": "Lowered to medium. Re-check before treating as a confirmed contact."
+  }
+ ]
+}
