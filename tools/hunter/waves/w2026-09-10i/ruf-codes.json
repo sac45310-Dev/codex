@@ -1,0 +1,362 @@
+{
+  "wave_id": "w2026-09-10i",
+  "agent": "ruf-codes",
+  "target_org": "Reformed University Fellowship",
+  "slice": "campus codes not yet spent, weighted to small and regional colleges",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Chris Blackman",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/ksu",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Quinn Sloan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/kansas",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Kelly Jackson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/fsu",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "John Crosby",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/memphis",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Jim Hahn",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/unc",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Trey Martin",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/ung",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Henry Holmberg",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/anderson",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Chad Turner",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/unf",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Justin Helms",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/lsu",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Ian Deffenbaugh",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/cnu",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "George Hamm",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/emory",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Brooks Harwood",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/houston",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "David Barnes",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/missouri",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "David Augustine",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/uconn",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "James Post",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/ou",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Daniel Davalos",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/nmsu",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Ryan Dougan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/ut-austin",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "JR Biggs",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/osu",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Way Rutherford",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/baylor",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Matt Dabiero",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/pennstate",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Bradford Green",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/tcu",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "James Rantzow",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/uvm",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Hardy Reynolds",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/ucf",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Curtis Shields",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/rice",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Chase Daws",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/vandy",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    },
+    {
+      "name": "Lee Wright",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/utsa",
+      "fit_reason": "Campus-code page belongs to the ministry, not the person, though it names the campus minister. Surname not in URL slug."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate kennesaw",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate valdosta georgiasouthern westgeorgia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org donate valdosta",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"givetoruf.org/donate/\" georgia southern presbyterian college",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate berry lagrange anderson",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate roanoke bridgewater emoryhenry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate uconn fordham nyu columbia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate xavier dayton miamioh",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate unm nmsu utep txstate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate csu wyoming montana uidaho",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate sewanee lipscomb harding ouachita",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate pepperdine oregonstate wsu baylor",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate swarthmore haverford penn princeton",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate vcsu uncg uncp meredith",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate bgsu toledo akron",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate sdsu ucr ucdavis calpoly",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate umaine unh uvm binghamton",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "givetoruf.org/donate unt marshall ucf rice vanderbilt",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}
