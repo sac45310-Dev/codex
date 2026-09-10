@@ -188,3 +188,18 @@ A URL listing 3+ people is a roster page, not a person. Public web only —
 never log into or scrape auth-walled sites.
 
 wave_id: `{wave_id}` · agent: `prospector:{niche_slug}`
+
+## Do not summarise your counts
+
+**The JSON file is the only report. Do not state how many people, orgs or
+records you found in your closing message.**
+
+This is measured, not stylistic. Across waves w2026-09-10a and w2026-09-10c,
+agent prose counts disagreed with the agents' own files in **seven of fourteen
+cases** — BIMI said 143 and wrote 132, One Mission Society said 122 and wrote
+96, Free Methodist said 66 and wrote 72. Wrong in both directions, so it is
+not inflation; it is a number produced by recollection rather than by counting.
+
+A figure that is right by coin flip is worse than no figure, because whoever
+reads it may act on it without opening the file. Describe what you did and
+what you hit. Let the orchestrator count.

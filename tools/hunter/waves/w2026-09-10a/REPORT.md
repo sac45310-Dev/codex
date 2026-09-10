@@ -49,8 +49,11 @@ thing checked before any future wave.
   ("Seth F.", "Brit C."), harvested off a roster page that abbreviates surnames.
   Not recoverable without fetching, which is blocked.
 - **InterVarsity — 5 numeric-ID records lowered to medium** on the same rule.
-- Prose counts disagreed with file counts in **five of eight** agents (BIMI
-  143→132, Modern Day 100→96, WWNTBM 61→60, FBMI 66→72, Traveling Team 12→4).
+- Prose counts disagreed with file counts in **four of eight** agents (BIMI
+  143→132, Modern Day 100→96, WWNTBM 61→60, FBMI 66→72). Traveling Team was
+  listed here originally as a fifth; that was wrong — its prose count of 12
+  matched its file, and the 12→4 drop was the orchestrator dropping fragments
+  at ingest, not the agent misreporting.
   The files are authoritative. This is now the single most reliable agent defect
   and the brief should stop asking for a prose count at all.
 

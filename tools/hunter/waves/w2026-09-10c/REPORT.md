@@ -60,9 +60,14 @@ place deliberately. All seven are held with the reasoning recorded in
 
 w2026-09-10b caught three fabricated patterns before they cost a wave. This
 wave caught eleven safety records and 49 duplicates before they entered the
-database. Neither would have surfaced from reading agent summaries — five of
-six agents again gave prose counts that disagreed with their own files
-(OMS 122→96, Converge 37→41, WGM 56→58).
+database. Neither would have surfaced from reading agent summaries.
 
-That defect is now universal enough to act on: **stop asking agents for a prose
-count.** The file is the only number that has ever been right.
+On the prose-count defect, an earlier draft of this report said five of six
+agents misreported. That was wrong. Measured against the files as produced,
+it is **three of six** here (OMS 122→96, Converge 37→41, WGM 56→58) and four
+of eight in w2026-09-10a — **seven of fourteen across both waves.**
+
+Half is still reason enough to act: a number that is right by coin flip is
+worse than no number, because it invites exactly the kind of unchecked claim
+this paragraph originally contained. **Stop asking agents for a prose count.**
+The file has been right every time; the prose has been right half the time.
