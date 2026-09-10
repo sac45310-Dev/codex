@@ -1,0 +1,775 @@
+{
+  "wave_id": "w2026-09-10k",
+  "agent": "focus-n",
+  "target_org": "FOCUS",
+  "slice": "FOCUS missionaries with first names N-Z",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Nathan Demuth",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/nathaniel-demuth/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, serving Elmhurst University as Bosco Missionary"
+    },
+    {
+      "name": "Nathan Lipinski",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/nathan-lipinski/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Nicholas Folz",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/nicholas-folz/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Olivia Alexander",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missions Specialist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/olivia-alexander/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, serving sixth year at Denver Support Center"
+    },
+    {
+      "name": "Olivia Ahlberg",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/olivia-ahlberg/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Olivia Choi",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/olivia-choi/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, serving Montclair State University in New Jersey"
+    },
+    {
+      "name": "Olivia Hebert",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/olivia-hebert/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, third-year serving at Louisiana State University"
+    },
+    {
+      "name": "Olivia Hennigan",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/olivia-hennigan/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Olivia Rathbun",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/olivia-rathbun/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Olivia Robb",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/olivia-robb/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, second-year at West Virginia University"
+    },
+    {
+      "name": "Olivia Wright",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/olivia-wright/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, first year missionary"
+    },
+    {
+      "name": "Owen Gardner",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/owen-gardner/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Owen Grot",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/owen-grot/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Owen Hale",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/owen-hale/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Patrick Harkins",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/patrick-harkins/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Paul Kariuki",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/paul-kariuki/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, serves at Indiana University and Purdue University Indianapolis"
+    },
+    {
+      "name": "Paul Lee",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/paul-lee/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Peter Manfre",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/amber-peter-manfre/",
+      "fit_reason": "Tier A; couple page with Amber, Peter's name in slug and title, couple missionaries"
+    },
+    {
+      "name": "Peter Smith",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/peter-smith/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Peter Walters",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/peter-and-claire-walters/",
+      "fit_reason": "Tier A; couple page with Claire, Peter's name in slug and title"
+    },
+    {
+      "name": "Priscilla Garza",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/priscilla-pris-garza/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, working with 153 Initiative"
+    },
+    {
+      "name": "Rachel Bieker",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rachel-bieker/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Rachel Bliss",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rachel-bliss/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Rachel Dalton",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rachel-dalton/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Rachel Luke",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rachel-luke/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Rachel Stovall",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rachel-stovall/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, served Southern Illinois University and Iowa State"
+    },
+    {
+      "name": "Rebecca Lasher",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rebecca-mccarty/",
+      "fit_reason": "Tier A; per-person giving page, surname in slug, serving at Winona State University in Minnesota"
+    },
+    {
+      "name": "Rebecca McCartney",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rebecca-mccartney/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, Team Director at Western Kentucky University"
+    },
+    {
+      "name": "Rebecca Meyer",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rebecca-meyer/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Rebecca Peed",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/rebecca-peed/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Ryan Brisnehan",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ryan-brisnehan/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, fifth year with Philanthropy Engagement Team"
+    },
+    {
+      "name": "Ryan Clark",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Parish Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ryan-clark/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, parish missionary at Mother of Perpetual Help Church in Maryville IL"
+    },
+    {
+      "name": "Ryan Haskell",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ryan-haskell/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, serving Wichita State University in Kansas"
+    },
+    {
+      "name": "Ryan Korby",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ryan-korby/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, second year at Grand Valley State University in Grand Rapids MI"
+    },
+    {
+      "name": "Ryan Noll",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ryan-thomas-noll/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, facilitating domestic and international mission trips"
+    },
+    {
+      "name": "Ryan Vega",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ryan-vega/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, first-year serving University of Texas at Dallas"
+    },
+    {
+      "name": "Ryan Vozza",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ryan-vozza/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Ryan Wesselmann",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ryan-wesselmann/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, serving remotely from O'Fallon Missouri on Philanthropy Engagement Team"
+    },
+    {
+      "name": "Samuel Fischer",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/samuel-fischer/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Samuel Fulbright",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/samuel-fulbright/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Samuel Mcphillips",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/samuel-mcphillips/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Samuel Recker",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/samuel-recker/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Samuel Sproule",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/samuel-sproule/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, second-year missionary at Belmont Abbey College in North Carolina"
+    },
+    {
+      "name": "Samuel Van Motman",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/samuel-van-motman/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Samantha Kopecky",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/samanthakopecky/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, served at San Diego State first year"
+    },
+    {
+      "name": "Sarah Arellano",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Manager",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/sarah-arellano/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, Manager of FOCUS Greek in Denver"
+    },
+    {
+      "name": "Sarah Larson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/sarah-larson/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, second year at East Tennessee State University"
+    },
+    {
+      "name": "Seth Robert",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/seth-robert/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, serving eighth year with FOCUS"
+    },
+    {
+      "name": "Siena M. Rollin",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/siena-rollin/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, Team Director at University of Tulsa"
+    },
+    {
+      "name": "Sophia F. Olomi",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/sophia-olomi/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Steven Debolt",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/steven-debolt/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, Team Director of FOCUS Team at St. Thomas More Catholic Church in Irvine CA"
+    },
+    {
+      "name": "Thomas Angelo",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/thomas-angelo/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, second year missionary from Maine serving at PennWest Edinboro"
+    },
+    {
+      "name": "Thomas Case",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/thomas-case/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Thomas Donovan",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/thomas-donovan/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Thomas Manning",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/thomas-manning/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, served four years as missionary at Benedictine College"
+    },
+    {
+      "name": "Thomas Schumacher",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/thomas-schumacher/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Thomas Schott",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/thomas-schott/",
+      "fit_reason": "Tier A; couple page with Grace, Team Director at Winona State University"
+    },
+    {
+      "name": "Thomas Watza",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/thomas-watza/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Timothy Broderick",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/timothy-broderick/",
+      "fit_reason": "Tier A; couple page with Emily, serving at University of Pennsylvania"
+    },
+    {
+      "name": "Veronica Werner",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/veronica-werner/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, first year serving University of Wisconsin Stevens Point while finishing studies"
+    },
+    {
+      "name": "Violeta Sanchez",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/violeta-sanchez/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Will Patrick",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/will-patrick/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "William Whitney",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/william-whitney/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug, serving University of South Dakota"
+    },
+    {
+      "name": "Zachary Glass",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/zach-glass/",
+      "fit_reason": "Tier A; per-person giving page, slug carries Zachary as Zach, full name corroborated in title"
+    },
+    {
+      "name": "Natalia Ibarra",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/natalia-ibarra/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    },
+    {
+      "name": "Natalia Martinez",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/natalia-martinez/",
+      "fit_reason": "Tier A; per-person giving page, full name in slug"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries samuel-sproule",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Paul OR Peter OR Philip",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Rachel OR Rebecca OR Robert",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Ryan OR Sarah OR Sean",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Sophia OR Stephen OR Thomas OR Timothy",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Veronica OR Victoria OR Vincent OR William",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Zachary OR Nathan OR Nicholas OR Nicole",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Notre Dame OR Marquette OR Purdue OR Gonzaga",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Steubenville OR Texas Tech OR Oklahoma OR Kansas",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Teresa OR Theresa OR Tyler OR Olivia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Patrick OR Olivia OR Stephen -Lauren -Benjamin -Justine",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries San Diego State OR Creighton OR Benedictine OR Franciscan",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Natalie OR Natalia OR Norman OR Oscar OR Owen",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Siena OR Summer OR Susanna OR Susan",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Priscilla OR Piper OR Phoebe OR Portia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Raquel OR Rosemary OR Roxanne OR Ruth",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Tabitha OR Trinity OR Tiffany OR Tamara",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:focus.org/missionaries Valerie OR Vanessa OR Violet OR Vivian",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Couple pages",
+      "finding": "Several records are from couple pages where both spouses share one source_url",
+      "evidence": "Peter Manfre (with Amber), Peter Walters (with Claire), Thomas Schott (with Grace), Timothy Broderick (with Emily)",
+      "recommendation": "These should be split into two records per enumeration rule 'Split couples into two records'. Couple missionaries both raise support and are both Tier A FOCUS missionaries. Consider adding: Amber Manfre, Claire Walters, Grace Schott, Emily Broderick to the people list with the shared source_url and fit_reason noting they share a page with spouse"
+    },
+    {
+      "issue": "Names not found in searches",
+      "finding": "Despite systematic searches, no individual pages found for: Raquel, Rosemary, Roxanne, Ruth, Tabitha, Trinity, Tiffany, Tamara, Victoria, Vincent, Theresa, Tyler",
+      "evidence": "Search 16 (Raquel...Ruth) returned no people; Search 17 (Tabitha...Tamara) returned mentions only in team context; No dedicated pages found for these names despite focused queries",
+      "recommendation": "These names either do not have missionaries at FOCUS currently, or their pages are not indexed by search engines, or they go by different names (e.g., Theresa as Tess or Terri). Searches were thorough within budget constraints."
+    }
+  ]
+}
