@@ -1,0 +1,892 @@
+{
+  "wave_id": "w2026-09-10f",
+  "agent": "eth-care-admin",
+  "target_org": "Ethnos360",
+  "slice": "member care and administrative roles",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Tom Brendle",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Director of Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/tom-and-danielle-brendle",
+      "fit_reason": "Home-office leadership member care role. Surname in slug (brendle), title corroborates. Paired with spouse Danielle."
+    },
+    {
+      "name": "Danielle Brendle",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Director of Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/tom-and-danielle-brendle",
+      "fit_reason": "Home-office leadership member care role. Surname in slug (brendle), title corroborates. Paired with spouse Tom."
+    },
+    {
+      "name": "Pete Humphreys",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Regional Member Care / Pastoral Counselor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/pete-and-leah-humphreys",
+      "fit_reason": "Field-based member care (Canada) with pastoral counseling credentials. Surname in slug (humphreys), titles corroborate."
+    },
+    {
+      "name": "Leah Humphreys",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Member Care / Counselor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/pete-and-leah-humphreys",
+      "fit_reason": "Field-based member care (Canada), doctorate in Christian Counseling. Surname in slug (humphreys), title corroborates."
+    },
+    {
+      "name": "Phil Garton",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Member Care and Administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/phil-and-heather-garton",
+      "fit_reason": "Home-office administrative member care role. Surname in slug (garton), role titles corroborate."
+    },
+    {
+      "name": "Heather Garton",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Education and Administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/phil-and-heather-garton",
+      "fit_reason": "Home-office administrative role. Surname in slug (garton), education consultant title corroborates."
+    },
+    {
+      "name": "Tim Holmgren",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Benefits Administrator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/tim-and-rhonda-holmgren",
+      "fit_reason": "Home-office administrative benefits/member care role. Surname in slug (holmgren), titles corroborate."
+    },
+    {
+      "name": "Rhonda Holmgren",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Benefits Administrator and Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/tim-and-rhonda-holmgren",
+      "fit_reason": "Home-office administrative member care role. Surname in slug (holmgren), titles corroborate."
+    },
+    {
+      "name": "John Anderson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Regional Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/john-and-genise-anderson",
+      "fit_reason": "Regional field-based member care role raising personal support. Surname in slug (anderson), title corroborates."
+    },
+    {
+      "name": "Genise Anderson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Member Care Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/john-and-genise-anderson",
+      "fit_reason": "Regional field-based member care role. Surname in slug (anderson). Paired with spouse John."
+    },
+    {
+      "name": "Derrick Dobbs",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/derrick-and-lashawn-dobbs",
+      "fit_reason": "Member care support role. Surname in slug (dobbs), title corroborates. Home-office based."
+    },
+    {
+      "name": "LaShawn Dobbs",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/derrick-and-lashawn-dobbs",
+      "fit_reason": "Member care support role. Surname in slug (dobbs), title corroborates. Paired with spouse Derrick."
+    },
+    {
+      "name": "George Heckman",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Human Resources",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/george-and-linda-heckman",
+      "fit_reason": "Home-office HR administration. Surname in slug (heckman), search indicated HR team member."
+    },
+    {
+      "name": "Linda Heckman",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/george-and-linda-heckman",
+      "fit_reason": "Surname in slug (heckman), home-office based with George. Title not specifically named in results."
+    },
+    {
+      "name": "Randy Wood",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Regional Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/randy-wood/",
+      "fit_reason": "Regional member care role supporting field missionaries. Blog page confirms regional member care ministry."
+    },
+    {
+      "name": "Tom Carlton",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Member Care / Administrative",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/tom-carlton/",
+      "fit_reason": "Blog author on member care and burnout topics; appears home-office or support role based on burnout counseling content."
+    },
+    {
+      "name": "Beth Carlton",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Member Care Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/tom-carlton/",
+      "fit_reason": "Co-author on member care content with Tom; appears support role. No independent page found."
+    },
+    {
+      "name": "Dean Hess",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Assistant in Accounting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/dean-hess/",
+      "fit_reason": "Home-office accounting administration. Blog page and search result confirm accounting assistant role."
+    },
+    {
+      "name": "Trudy Hess",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/dean-hess/",
+      "fit_reason": "Home-office based with Dean. No specific role listed in results, appears married to Dean Hess."
+    },
+    {
+      "name": "David Watters",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative / Leadership",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/david-watters/",
+      "fit_reason": "Blog author on relational wisdom and organizational topics. Appears leadership/administrative role."
+    },
+    {
+      "name": "Robin Watters",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/david-watters/",
+      "fit_reason": "Co-author with David on relational topics. No specific title identified in results."
+    },
+    {
+      "name": "Summer Zimmer",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Member Care / Counseling Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/summer-zimmer/",
+      "fit_reason": "Blog author on pastoral care and support topics; appears home-office counseling support role."
+    },
+    {
+      "name": "Matt Long",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative / Leadership",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/matt-long/",
+      "fit_reason": "Blog author with counseling/mentoring content; appears support/administrative role."
+    },
+    {
+      "name": "Karissa Long",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/matt-long/",
+      "fit_reason": "Co-author with Matt. No specific title identified in results."
+    },
+    {
+      "name": "Jack Housley",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Recruiter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/jack-housley/",
+      "fit_reason": "Blog content identifies Jack as 'recruiter for the Kingdom of God'. Recruitment is Tier B role per assignment."
+    },
+    {
+      "name": "Jane Housley",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Recruiter Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/jack-housley/",
+      "fit_reason": "Co-author/spouse of Jack Housley. Recruitment support role."
+    },
+    {
+      "name": "David Hilt",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Mobilizer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/david-hilt/",
+      "fit_reason": "Mobilization is Tier B role per assignment. Blog page for David Hilt found."
+    },
+    {
+      "name": "Joyce Hilt",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Mobilization Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/david-hilt/",
+      "fit_reason": "Mobilization support role with David. Bookkeeping background noted in search results."
+    },
+    {
+      "name": "Aaron Jex",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Mobilization / Training",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/aaron-stacy-jex/",
+      "fit_reason": "Training and mobilization content; appears support/administrative role."
+    },
+    {
+      "name": "Stacy Jex",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Mobilization / Training Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/aaron-stacy-jex/",
+      "fit_reason": "Co-author with Aaron on training/mobilization topics."
+    },
+    {
+      "name": "Randy Smyth",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Mobilizer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/randy-smyth/",
+      "fit_reason": "Mobilization is Tier B role per assignment. Blog page and multiple posts on mobilization topics."
+    },
+    {
+      "name": "Diana Smyth",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Mobilization Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/randy-smyth/",
+      "fit_reason": "Mobilization support role with Randy."
+    },
+    {
+      "name": "Walter Spicer",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative / Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/walter-spicer/",
+      "fit_reason": "Blog author; appears administrative/support role based on context."
+    },
+    {
+      "name": "Cheryl Spicer",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/walter-spicer/",
+      "fit_reason": "Co-author with Walter."
+    },
+    {
+      "name": "Robyn Green",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative / Member Care Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/robyn-green/",
+      "fit_reason": "Blog author on organizational needs and school administration; appears administrative support role."
+    },
+    {
+      "name": "Scott Rodman",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative / Communication",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/regina-rodman/",
+      "fit_reason": "Co-author on organizational transition (name change blog); appears administrative role."
+    },
+    {
+      "name": "Regina Rodman",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative / Communication",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/regina-rodman/",
+      "fit_reason": "Blog post about organizational name change to Ethnos360; appears communications/administrative role."
+    },
+    {
+      "name": "Crystal Pierce",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Guest House / Hospitality",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/crystal-pierce/",
+      "fit_reason": "Blog post 'Guest House Stint' documents hospitality work. Home-office guest services role."
+    },
+    {
+      "name": "Randy Steel",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative / Office Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/randy-and-laurie-steel",
+      "fit_reason": "Missionaries profile found. Appears office/administrative support role based on search context."
+    },
+    {
+      "name": "Laurie Steel",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/randy-and-laurie-steel",
+      "fit_reason": "Missionaries profile found with Randy. Administrative support role."
+    },
+    {
+      "name": "Neal Raetz",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/neal-and-carol-raetz",
+      "fit_reason": "Administration role at NTM Homes. Surname in slug (raetz), title corroborates."
+    },
+    {
+      "name": "Carol Raetz",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Receptionist / Administrative",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/neal-and-carol-raetz",
+      "fit_reason": "Receptionist role at NTM Homes. Surname in slug (raetz), title corroborates."
+    },
+    {
+      "name": "Andrew Kim",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/andrew-and-christine-kim",
+      "fit_reason": "Missionaries profile found in admin/personnel search results. Surname in slug."
+    },
+    {
+      "name": "Christine Kim",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/andrew-and-christine-kim",
+      "fit_reason": "Missionaries profile found with Andrew. Administrative role."
+    },
+    {
+      "name": "Peter Van Der Decker",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/peter-and-pam-van-der-decker",
+      "fit_reason": "Missionaries profile found in admin search results. Surname in slug."
+    },
+    {
+      "name": "Pam Van Der Decker",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/peter-and-pam-van-der-decker",
+      "fit_reason": "Missionaries profile found with Peter."
+    },
+    {
+      "name": "Aaron Weatherl",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/aaron-and-erika-weatherl",
+      "fit_reason": "Missionaries profile found in admin search results. Surname in slug."
+    },
+    {
+      "name": "Erika Weatherl",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/aaron-and-erika-weatherl",
+      "fit_reason": "Missionaries profile found with Aaron."
+    },
+    {
+      "name": "Marty Lehman",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/marty-josh-and-jill-lehman",
+      "fit_reason": "Missionaries profile found in admin search results. Goes by Josh/Marty. Surname in slug."
+    },
+    {
+      "name": "Jill Lehman",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/marty-josh-and-jill-lehman",
+      "fit_reason": "Missionaries profile found with Marty."
+    },
+    {
+      "name": "Alex Minium",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/alex-and-elizabeth-minium",
+      "fit_reason": "Missionaries profile found in admin search results. Surname in slug."
+    },
+    {
+      "name": "Elizabeth Minium",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/alex-and-elizabeth-minium",
+      "fit_reason": "Missionaries profile found with Alex."
+    },
+    {
+      "name": "Dave Field",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative / Bookkeeping",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/dave-and-kim-field",
+      "fit_reason": "Missionaries profile found in bookkeeper/finance search. Surname in slug."
+    },
+    {
+      "name": "Kim Field",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/dave-and-kim-field",
+      "fit_reason": "Missionaries profile found with Dave."
+    },
+    {
+      "name": "Kathryn Kreiger",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/kathryn-kreiger",
+      "fit_reason": "Missionaries profile found in bookkeeper/finance search. Single missionary, administrative role."
+    },
+    {
+      "name": "Todd Nelson",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative / Financial",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/todd-and-sue-nelson",
+      "fit_reason": "Missionaries profile found in financial search. Surname in slug (nelson)."
+    },
+    {
+      "name": "Sue Nelson",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/todd-and-sue-nelson",
+      "fit_reason": "Missionaries profile found with Todd."
+    },
+    {
+      "name": "Trevor Clarke",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/trevor-and-judy-clarke",
+      "fit_reason": "Missionaries profile found in bookkeeper search. Surname in slug."
+    },
+    {
+      "name": "Judy Clarke",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/trevor-and-judy-clarke",
+      "fit_reason": "Missionaries profile found with Trevor."
+    },
+    {
+      "name": "Ron Carraway",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/ron-and-sally-carraway",
+      "fit_reason": "Missionaries profile found in finance search. Surname in slug."
+    },
+    {
+      "name": "Sally Carraway",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/ron-and-sally-carraway",
+      "fit_reason": "Missionaries profile found with Ron."
+    },
+    {
+      "name": "Wayne Baker",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/wayne-and-diane-baker",
+      "fit_reason": "Missionaries profile found in finance search. Surname in slug."
+    },
+    {
+      "name": "Diane Baker",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/wayne-and-diane-baker",
+      "fit_reason": "Missionaries profile found with Wayne."
+    },
+    {
+      "name": "Marv Ketcham",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/marv-and-ruth-ketcham",
+      "fit_reason": "Missionaries profile found in finance search. Surname in slug."
+    },
+    {
+      "name": "Ruth Ketcham",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/marv-and-ruth-ketcham",
+      "fit_reason": "Missionaries profile found with Marv."
+    },
+    {
+      "name": "Aaron Knapp",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/aaron-and-kim-knapp",
+      "fit_reason": "Missionaries profile found in finance search. Surname in slug."
+    },
+    {
+      "name": "Kim Knapp",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/aaron-and-kim-knapp",
+      "fit_reason": "Missionaries profile found with Aaron."
+    },
+    {
+      "name": "Ken Tibberts",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/ken-and-betty-tibberts",
+      "fit_reason": "Missionaries profile found in finance search. Surname in slug."
+    },
+    {
+      "name": "Betty Tibberts",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/ken-and-betty-tibberts",
+      "fit_reason": "Missionaries profile found with Ken."
+    },
+    {
+      "name": "Megan Lewis",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/megan-lewis",
+      "fit_reason": "Single missionary found in personnel/administrative search results."
+    },
+    {
+      "name": "Ron James",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/ron-and-tami-james",
+      "fit_reason": "Missionaries profile found in finance search. Surname in slug."
+    },
+    {
+      "name": "Tami James",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/ron-and-tami-james",
+      "fit_reason": "Missionaries profile found with Ron."
+    },
+    {
+      "name": "John Jr Pierce",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Personnel / Administrative",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/john-and-carol-pierce",
+      "fit_reason": "HR team member noted in search results. Surname in slug (pierce), title corroborates."
+    },
+    {
+      "name": "Carol Pierce",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Personnel Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/john-and-carol-pierce",
+      "fit_reason": "Missionaries profile with John Jr. Surname in slug (pierce)."
+    },
+    {
+      "name": "Richard See",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Personnel",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/richard-and-allison-see",
+      "fit_reason": "Missionaries profile found. Surname in slug (see)."
+    },
+    {
+      "name": "Allison See",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrative Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/richard-and-allison-see",
+      "fit_reason": "Missionaries profile with Richard. Surname in slug (see)."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org/missionaries member care",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org counselor counseling",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org debriefing",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org pastoral care chaplain",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org guest home hospitality",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org human resources personnel administrator",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org office manager bookkeeper",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org accountant bookkeeping",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org mobilizer mobilization",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org recruiter recruitment",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org church relations candidate coach",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org donor services giving partner",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org support services administrative",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:blogs.ethnos360.org member care counselor",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org/missionaries administrator personnel",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org guest services hospitality coordinator",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org benefits administrator care coordinator",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:blogs.ethnos360.org administrative assistant office",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org/missionaries bookkeeper finance personnel",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Ambiguous role classification",
+      "finding": "Joe and Sharon Goodman, Bryan and Del Coupland mentioned in search results as Member Care/Counseling staff but no individual missionary profiles found to verify roles and tier",
+      "evidence": "Search 2 results mentioned these names as part of Member Care/Counseling team but no direct source URLs available",
+      "recommendation": "If profiles exist at ethnos360.org/missionaries/<slug>, they should be enumerated. Consider targeted follow-up search if high-value lead."
+    },
+    {
+      "issue": "Guest services staff without clear profiles",
+      "finding": "Gwen Kreider, Beth Wick, Dawn/Day Shaylor, Carol Mahan, Les and Debbie Bowden identified as guest services/hospitality but no individual profiles found",
+      "evidence": "Search 5 results mentioned these names but no URLs to individual pages",
+      "recommendation": "Guest services/hospitality roles should be Tier B. If individual profiles exist, enumerate. May be staff versus missionary distinction."
+    },
+    {
+      "issue": "HR team members without full verification",
+      "finding": "George Heckman, Dave Simpson, Jill Simpson, John Pierce mentioned as HR team members in search results but only George Heckman has a missionaries profile URL confirmed",
+      "evidence": "Search 5 results mentioned HR team members by name but limited source documentation",
+      "recommendation": "Follow-up: verify Simpson and John Pierce (different from John Jr Pierce) have individual profiles."
+    },
+    {
+      "issue": "Erica Dorsey - bookkeeper role",
+      "finding": "Erica Dorsey clearly identified as bookkeeper with business office work but specific missionaries profile URL not confirmed in search results",
+      "evidence": "Search 6 and 7 mentioned Erica Dorsey by name with bookkeeping role but no direct profile URL provided",
+      "recommendation": "If profile exists at ethnos360.org/missionaries/erica-dorsey, verify and enumerate."
+    }
+  ]
+}
