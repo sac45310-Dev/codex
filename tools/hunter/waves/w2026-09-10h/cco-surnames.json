@@ -1,0 +1,77 @@
+{
+  "wave_id": "w2026-09-10h",
+  "agent": "cco-surnames",
+  "target_org": "Coalition for Christian Outreach",
+  "slice": "common-surname sweep of ccojubilee.org/staff",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Charles Dudley",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Director of Community Outreach, CCO Associate",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/cdudley",
+      "fit_reason": "Tier A; slug cdudley matches first-initial + Dudley pattern, title confirms full name, director/associate role indicates support-raising position"
+    },
+    {
+      "name": "Steve Montgomery",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Associate, Education and Design Specialist with Department of Transformative Opportunities",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/smontgomery",
+      "fit_reason": "Tier A; slug smontgomery matches first-initial + Montgomery pattern, title names Steve Montgomery, Associate role is Tier A"
+    },
+    {
+      "name": "Jessica Stover",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO staff, reaches out to students at Chatham University",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/jessica-stover",
+      "fit_reason": "Tier A; full name Jessica Stover appears in URL slug and title, campus ministry staff position"
+    },
+    {
+      "name": "Michael Cobillas",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/mcobillas",
+      "fit_reason": "Tier A; slug mcobillas matches first-initial + Cobillas pattern, title confirms Michael Cobillas listed on CCO staff directory, role not detailed in search results but staff status implied"
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "site:ccojubilee.org/staff Johnson OR Jones OR Jackson OR James OR Jenkins", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Jordan OR Joseph OR Jimenez", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Nelson OR Nguyen OR Newman OR Norris OR Nichols", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Novak OR Nash OR Nolan", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Underwood OR Vance OR Vaughn OR Vega", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Young OR Yoder OR Zimmerman OR Zeller", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Davis OR Duncan OR Dixon OR Dean", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Lewis OR Long OR Lopez OR Lawson", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Owens OR Oliver OR Ortiz OR O'Brien", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Williams OR Brown OR Wilson OR Taylor", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Thomas OR Martinez OR Garcia OR Rodriguez", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Anderson OR King OR Wright OR Baker", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org staff directory missionaries", "outcome": "found_people"},
+    {"kind": "query", "value": "\"ccojubilee.org/staff\" -wikipedia", "outcome": "found_people"},
+    {"kind": "query", "value": "CCO Campus Ministry staff list", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff area director OR ministry leader", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff fellow OR associate OR director", "outcome": "found_people"},
+    {"kind": "query", "value": "\"ccojubilee.org/staff\" Greg OR Sean OR Jessica OR Michael", "outcome": "found_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "Volunteer status",
+      "finding": "Greg Anderson listed as CCO Volunteer at Juniata College",
+      "evidence": "URL: https://ccojubilee.org/staff/ganderson, Title: Greg Anderson - CCO | Campus Ministry",
+      "recommendation": "Per brief, CCO volunteers are not Tier A and must not be emitted as people. Anderson role explicitly states 'Volunteer'. Do not include in people[] unless volunteer status is clarified as different role."
+    }
+  ]
+}
