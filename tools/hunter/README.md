@@ -8,6 +8,11 @@ Operating kit for the DonorSend Hunter Agent system. Full design:
 ```
 prompts/prospector.md   discovery agent prompt template (Haiku 4.5)
 prompts/roster.md       org-roster agent prompt template (Haiku 4.5, Sonnet escalation)
+prompts/enumeration.md  enumeration agent template — mining a CONFIRMED per-person
+                        giving URL pattern (Haiku 4.5). Consolidated from the
+                        hand-written briefs of w2026-09-10a/b/c; edit this rather
+                        than writing a fresh brief each wave.
+prompts/local-prospector.md  per-region local nonprofit discovery template
 prompts/verifier.md     QA agent prompt template (Haiku 4.5)
 schemas/wave_output.schema.json   the JSON every agent must emit
 sql/wave_prep.sql       pre-wave exports (skip lists, coverage, unrostered targets)
