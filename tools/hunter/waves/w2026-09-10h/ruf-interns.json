@@ -1,0 +1,652 @@
+{
+  "wave_id": "w2026-09-10h",
+  "agent": "ruf-interns",
+  "target_org": "Reformed University Fellowship",
+  "slice": "RUF interns and campus staff, by personal name on givetoruf.org/donate",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Mitchell Cloutier",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/mitchell.cloutier",
+      "fit_reason": "Personal giving page; surname in slug; title confirms identity; serves as RUF intern at Boston University"
+    },
+    {
+      "name": "Ava Concannon",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ava.concannon",
+      "fit_reason": "Personal giving page; surname in slug; confirmed RUF-International intern in Tuscaloosa"
+    },
+    {
+      "name": "Jake Mancuso",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/jake.mancuso",
+      "fit_reason": "Personal giving page; surname in slug; incoming RUF intern at University of Virginia"
+    },
+    {
+      "name": "Adriana Fernandez",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/adriana.fernandez",
+      "fit_reason": "Personal giving page; surname in slug; RUF Intern at University of New Mexico"
+    },
+    {
+      "name": "Molly Kerr",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/molly.kerr",
+      "fit_reason": "Personal giving page; surname in slug; RUF intern at University of Alabama"
+    },
+    {
+      "name": "Noah Hendrick",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/noah.hendrick",
+      "fit_reason": "Personal giving page on givetoruf.org/donate with first and last name in slug"
+    },
+    {
+      "name": "Mikaela Sesler",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/mikaela.sesler",
+      "fit_reason": "Personal giving page; Orange County CA native; UCLA graduate"
+    },
+    {
+      "name": "Riley Tarter",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/riley.tarter",
+      "fit_reason": "Personal giving page; Sacramento, CA intern; UCLA economics graduate"
+    },
+    {
+      "name": "Jackie Lee",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/Jackie.Lee",
+      "fit_reason": "Personal giving page; RUF intern at UCI for 3 years"
+    },
+    {
+      "name": "Laurian Lien",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/laurian.lien",
+      "fit_reason": "Personal giving page; Los Angeles native; Purdue University graduate in biological engineering"
+    },
+    {
+      "name": "Josh Dailey",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/josh.dailey",
+      "fit_reason": "Personal giving page; McMurray PA; Saint Vincent College graduate with sports media degree 2025"
+    },
+    {
+      "name": "Adelyn Sun",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/adelyn.sun",
+      "fit_reason": "Personal giving page; Pennsylvania-based intern"
+    },
+    {
+      "name": "Andy Reed",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/andy.reed",
+      "fit_reason": "Personal giving page; Hereford PA; Millersville University graduate in Applied Engineering"
+    },
+    {
+      "name": "Will Custer",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/will.custer",
+      "fit_reason": "Personal giving page; serving as intern at Penn State University"
+    },
+    {
+      "name": "Nick Molicki",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/nick.molicki",
+      "fit_reason": "Personal giving page; Pennsylvania-based"
+    },
+    {
+      "name": "Caleb Sklena",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/Caleb.sklena",
+      "fit_reason": "Personal giving page; Cincinnati OH native; Rhodes College graduate 2023; serves at Davidson College"
+    },
+    {
+      "name": "Niko Fannin",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/niko.fannin",
+      "fit_reason": "Personal giving page; Toledo OH native; grew up in Chelsea MI"
+    },
+    {
+      "name": "Edgar Galvan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/edgar.galvan",
+      "fit_reason": "Personal giving page; RUF internship participant"
+    },
+    {
+      "name": "Nate Gibson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/nate.gibson",
+      "fit_reason": "Personal giving page; RUF internship"
+    },
+    {
+      "name": "Hannah Humphreys",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/hhumphreys",
+      "fit_reason": "Personal giving page; completed two-year RUF internship at Belhaven in Jackson, Mississippi; now Campus Staff at SMU"
+    },
+    {
+      "name": "Kelley Van Haitsma",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/kelley.vanhaitsma",
+      "fit_reason": "Personal giving page; RUF internship participant"
+    },
+    {
+      "name": "Noah Brown",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/noah.brown",
+      "fit_reason": "Personal giving page; RUF internship"
+    },
+    {
+      "name": "Hannah Blankenship",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/Hannah.blankenship",
+      "fit_reason": "Personal giving page; RUF intern"
+    },
+    {
+      "name": "Hannah Murphy",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/Hannah.murphy",
+      "fit_reason": "Personal giving page; University of Tulsa graduate 2021 (Mathematics); returned to pursue ministry with RUF full-time"
+    },
+    {
+      "name": "Hannah Sung",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/hannah.sung",
+      "fit_reason": "Personal giving page; NYC native; attended City Campus RUF in NYC"
+    },
+    {
+      "name": "Hannah Sandridge",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/hannah.sandridge",
+      "fit_reason": "Personal giving page; Richmond VA native"
+    },
+    {
+      "name": "Emily Wilson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/emily.wilson",
+      "fit_reason": "Personal giving page; RUF campus staff"
+    },
+    {
+      "name": "Emily Williams",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/emilywilliams",
+      "fit_reason": "Personal giving page; University of Tulsa graduate May 2021 (Mathematics); in ministry with RUF"
+    },
+    {
+      "name": "Emily Cartledge",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ecartledge",
+      "fit_reason": "Personal giving page; RUF intern at James Madison University"
+    },
+    {
+      "name": "Jacob Hatfield",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/Jacob.Hatfield",
+      "fit_reason": "Personal giving page; pursued RUF internship after growth through RUF community"
+    },
+    {
+      "name": "John Ahlin",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/john.ahlin",
+      "fit_reason": "Personal giving page; serves as RUF intern at Duke University"
+    },
+    {
+      "name": "John Craft",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/rhodes",
+      "fit_reason": "Personal giving page; completed two-year internship with RUF at University of Georgia"
+    },
+    {
+      "name": "Johnathan Smith",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/Johnathan.Smith",
+      "fit_reason": "Personal giving page; Texas Tech University graduate 2019; RUF intern"
+    },
+    {
+      "name": "John Pearson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/johnpearson",
+      "fit_reason": "Personal giving page on givetoruf.org/donate"
+    },
+    {
+      "name": "Grace Potter",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/grace.potter",
+      "fit_reason": "Personal giving page; served two years as RUF intern at Kennesaw State University"
+    },
+    {
+      "name": "Grace Hoyme",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/gracehoyme",
+      "fit_reason": "Personal giving page; worked two years as intern at UCSB, became full-time campus staff in 2019"
+    },
+    {
+      "name": "Grace Kreul",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/grace.kreul",
+      "fit_reason": "Personal giving page; completed internship at UTC, continued as Campus Staff"
+    },
+    {
+      "name": "Grace Nelson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/Grace.Nelson",
+      "fit_reason": "Personal giving page; from Decatur, Alabama; Mississippi State University graduate in Special Education"
+    },
+    {
+      "name": "Grace Catherine Beckham",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/grace.beckham",
+      "fit_reason": "Personal giving page; Belmont University graduate May 2024 (Christian Leadership and Psychology)"
+    },
+    {
+      "name": "Mary Grace Leuenberger",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/mary.leuenberger",
+      "fit_reason": "Personal giving page; RUF staff or intern"
+    },
+    {
+      "name": "Joanna Woo",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/joanna.woo",
+      "fit_reason": "Personal giving page; RUF intern or staff"
+    },
+    {
+      "name": "Paige Jackson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/Paige.jackson",
+      "fit_reason": "Personal giving page; RUF intern or staff"
+    },
+    {
+      "name": "Matt Vanderworp",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ncsurufi",
+      "fit_reason": "Personal giving page; University of Houston graduate; discovered passion for ministry through RUF; pursuing internship"
+    },
+    {
+      "name": "Matthew Trexler",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ucla",
+      "fit_reason": "Personal giving page; RUF intern at University of South Carolina"
+    },
+    {
+      "name": "Matt Esswein",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/arizona",
+      "fit_reason": "Personal giving page; Campus Minister at RUF from Southern California"
+    },
+    {
+      "name": "Sam Stackler",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/sam.stackler",
+      "fit_reason": "Personal giving page; Elkton MD native; University of Southern Mississippi graduate 2023 (Computer Science); serving at UC Berkeley"
+    },
+    {
+      "name": "Sam Jones",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/sam.jones",
+      "fit_reason": "Personal giving page; Auburn graduate 2024 (mechanical engineering); Fort Payne, AL native"
+    },
+    {
+      "name": "Devin Phandara",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/devin.phandara",
+      "fit_reason": "Personal giving page; RUF intern or staff"
+    },
+    {
+      "name": "Jiwon Kim",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/jiwon.kim",
+      "fit_reason": "Personal giving page; RUF intern or staff"
+    },
+    {
+      "name": "Will Hamill",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/will.hamill",
+      "fit_reason": "Personal giving page; Southern Methodist University graduate (Public Relations and Strategic Communications)"
+    },
+    {
+      "name": "Will Schaufelberger",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/will.schaufelberger",
+      "fit_reason": "Personal giving page; RUF intern or staff"
+    },
+    {
+      "name": "Madeline Custer",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/madeline.custer",
+      "fit_reason": "Personal giving page; serving as intern at Penn State University with spouse Will Custer"
+    },
+    {
+      "name": "Alana Kelley",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/alana.kelley",
+      "fit_reason": "Personal giving page; RUF intern or staff"
+    },
+    {
+      "name": "Ben Pate",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ben.pate",
+      "fit_reason": "Personal giving page; served 2022-2024 as RUF Intern at Columbia University in New York; pursuing MDiv at Covenant Seminary"
+    },
+    {
+      "name": "Reuben Stecher",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/reuben.stecher",
+      "fit_reason": "Personal giving page; RUF intern or staff"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate RUF intern",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"RUF intern\" California site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"RUF intern\" Pennsylvania site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"RUF intern\" Ohio site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"RUF internship\" site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"RUF campus staff\" site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate/sarah",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"hannah\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"emily\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"katie\" RUF intern site:givetoruf.org/donate",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"jacob\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"john\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"grace\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"raising support\" \"RUF intern\" site:givetoruf.org/donate",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"matt\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"sam\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"will\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"ben\" OR \"drew\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}
