@@ -76,7 +76,17 @@ per domain.
   postings, no vacant roles, no "The Smith Family" without first names, no
   surname-only fragments, no first-name-plus-initial ("Seth F.", "Brad M.").
 - **Split couples into two records.** "Tony and Katie Losinger" is two people,
-  both surnamed Losinger, sharing one `source_url`.
+  both surnamed Losinger, sharing one `source_url`. This is where the volume
+  is: at Baptist Mid-Missions 116 pages carried 206 adults, so half that
+  agency's yield lived in the second name on a page.
+- **A one-name slug can still be a couple page — read the TITLE.** FOCUS
+  serves `focus.org/missionaries/david-hickson` under the title *"David and
+  Linda Hickson Family"*. Judging by the slug alone loses the spouse silently,
+  and you will never know you lost her. Wave k did exactly this and left
+  eight people behind on pages it had already cited. Grade the spouse `high`
+  when the slug carries their first name and the shared surname, `high` when
+  the slug omits them but the title names them on a shared family page (say
+  so in `fit_reason`), and do not emit them when neither does.
 - **Sensitive-region workers must NOT be emitted.** Agencies label them and the
   labels vary: WGM publishes `sensitive-missionary`, FMWM files them under
   "creative access", SEND and Converge shorten the slug to initials
@@ -95,6 +105,18 @@ per domain.
   whether the person raises personal support, not on their job title or where
   they sit. If your assignment's tier rule seems to contradict what the
   agency's own giving pages say, follow the agency and note it.
+- **A missionary's children are not missionaries.** Profile pages routinely
+  name a spouse *and* the children, and a snippet will hand you all of them in
+  one sentence — "he and his wife Kelly have seven children including Gianna".
+  Emit the staff member and the support-raising spouse. Nobody else on the
+  page. A name introduced by "their children", "their kids", "son",
+  "daughter", or a list following a child-count is out. They do not raise
+  support and many of them are minors, so this is a protection rule as much as
+  a data-quality one. If you cannot tell a spouse from a child, that is
+  `needs_review`, not a record.
+- **A person quoted on a page is not a person found.** Devotional sites quote
+  saints, authors and founders. St. Maximilian Kolbe appearing on a
+  missionary's profile is not a missionary.
 - Never record or infer anyone's demographic or identity attributes.
 - Do not guess emails. Blank beats guessed.
 
