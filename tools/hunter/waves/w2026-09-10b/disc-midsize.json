@@ -1,0 +1,147 @@
+{
+  "wave_id": "w2026-09-10b",
+  "agent": "disc-midsize",
+  "searches_used": 13,
+  "orgs": [
+    {
+      "org": "Mission to the World",
+      "domain": "mtw.org",
+      "pattern": null,
+      "pattern_kind": "none",
+      "examples": [
+        "https://mtw.org/missionaries/",
+        "https://mtw.org/featured-ministries?No=92410",
+        "https://donate.mtw.org/"
+      ],
+      "estimated_depth": "Unknown - no clear per-person URL pattern found",
+      "notes": "Found centralized giving hub at donate.mtw.org, featured-ministries page with query parameters (?No=<ID>), and missionaries directory at mtw.org/missionaries/. No clear per-person URL path or subdomain pattern like other orgs. Query-parameter based IDs are not a clean enumerable pattern."
+    },
+    {
+      "org": "Encompass World Partners",
+      "domain": "encompassworldpartners.org",
+      "pattern": "https://give.encompassworldpartners.org/person/<slug>",
+      "pattern_kind": "subdomain",
+      "examples": [
+        "https://give.encompassworldpartners.org/person/tedandkaylin",
+        "https://give.encompassworldpartners.org/person/barbwooler",
+        "https://give.encompassworldpartners.org/person/steveandceleste",
+        "https://give.encompassworldpartners.org/person/eliseklawitter"
+      ],
+      "estimated_depth": "Multiple confirmed - at least 4 individual pages found in single search",
+      "notes": "Pattern confirmed quickly with strong multiple examples. Subdomain give.encompassworldpartners.org with /person/<slug> path structure. Names are lowercase concatenations of first names (couples shown together)."
+    },
+    {
+      "org": "Mission Aviation Fellowship",
+      "domain": "maf.org",
+      "pattern": "https://give.maf.org/s/fund/<fund-uuid>/<id>-<person-name>-ministry-support",
+      "pattern_kind": "subdomain",
+      "examples": [
+        "https://give.maf.org/s/fund/a0e6Q00000HmvpjQAB/9506-bruce-and-molly-harcey-ministry-support",
+        "https://give.maf.org/s/fund/a0e6Q00000HmvoeQAB/9168-brian-and-pam-behal-ministry-support",
+        "https://give.maf.org/s/fund/a0eVR0000011LzVYAU/9169-jeremy-and-darlene-simkins-ministry-support",
+        "https://give.maf.org/s/fund/a0e6Q00000HmvnrQAB/9053-nathan-and-becky-fagerlie-ministry-support"
+      ],
+      "estimated_depth": "Multiple confirmed - at least 4 individual fund pages found",
+      "notes": "Pattern confirmed with multiple examples. Subdomain give.maf.org with UUID-based fund structure including person names. Each entry has a numeric ID + person name slug following the structure <id>-<first-and-last-names>-ministry-support."
+    },
+    {
+      "org": "Free Methodist World Missions",
+      "domain": "fmwm.org",
+      "pattern": "https://fmwm.org/missionaries/<name> and https://fmwm.org/<region>/<lastname>/",
+      "pattern_kind": "path",
+      "examples": [
+        "https://fmwm.org/missionaries/clemente",
+        "https://fmwm.org/missionaries/creative-access",
+        "https://fmwm.org/asia/morrison/",
+        "https://fmwm.org/asia/dickinson/",
+        "https://fmwm.org/africa/edinger/"
+      ],
+      "estimated_depth": "Multiple surfaces confirmed - regional paths already known; /missionaries/ path is secondary surface",
+      "notes": "SECOND SURFACE FOUND. In addition to known regional paths (fmwm.org/<region>/<lastname>/), discovered general /missionaries/<name> path at fmwm.org/missionaries/<name>/. This explains records in holdings citing only homepage - they may be reachable via /missionaries/ path in addition to regional paths. Both are path-based patterns on main domain."
+    },
+    {
+      "org": "Converge",
+      "domain": "converge.org",
+      "pattern": "https://converge.org/global-worker/<id-or-name>",
+      "pattern_kind": "path",
+      "examples": [
+        "https://converge.org/global-worker/208717/",
+        "https://converge.org/global-worker/226974/",
+        "https://converge.org/global-worker/187229/",
+        "https://converge.org/global-worker/238314/",
+        "https://converge.org/global-worker/238323/"
+      ],
+      "estimated_depth": "Multiple confirmed - at least 5 individual worker pages found in single search",
+      "notes": "Pattern found on main domain with /global-worker/ path structure. Supports both numeric ID-based URLs (e.g., /208717/) and name-slug variants (e.g., /freeman). Names appear to be family-unit pairs or individuals. Some listings use numeric IDs for security/privacy of certain workers."
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:mtw.org give OR donate OR support missionary",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org give",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:maf.org give",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:converge.org give OR donate OR support missionary",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org missionaries giving support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:donate.mtw.org person OR individual OR name",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.maf.org person OR fund individual",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:converge.org missionaries individual giving page",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/missionaries support OR give OR donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org featured-ministries missionary individual",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fmwm.org/missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org missionaries individual giving page person",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:converge.org/missions worker OR global OR individual",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}
