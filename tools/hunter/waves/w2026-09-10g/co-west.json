@@ -1,0 +1,391 @@
+{
+  "wave_id": "w2026-09-10g",
+  "agent": "co-west",
+  "target_org": "Campus Outreach",
+  "slice": "Campus Outreach regions and cities M-Z plus international",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Tim Miles",
+      "org": "Campus Outreach Memphis",
+      "tier": "A",
+      "role": "Campus Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.comemphis.org/staff",
+      "fit_reason": "Tier A staff; per regional city staff page, title names role and organization"
+    },
+    {
+      "name": "Veronica Parker",
+      "org": "Campus Outreach Memphis",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.comemphis.org/staff",
+      "fit_reason": "Tier A staff; named on regional staff page"
+    },
+    {
+      "name": "James Luecke",
+      "org": "Campus Outreach Memphis",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.comemphis.org/staff",
+      "fit_reason": "Tier A staff; named on regional staff page"
+    },
+    {
+      "name": "Erin Luecke",
+      "org": "Campus Outreach Memphis",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.comemphis.org/staff",
+      "fit_reason": "Tier A staff; named on regional staff page"
+    },
+    {
+      "name": "Drew Richardson",
+      "org": "Campus Outreach Memphis",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.comemphis.org/staff",
+      "fit_reason": "Tier A staff; named on regional staff page"
+    },
+    {
+      "name": "Mariah Smothers",
+      "org": "Campus Outreach Memphis",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.comemphis.org/staff",
+      "fit_reason": "Tier A staff at University of Tennessee Knoxville; named on regional staff page"
+    },
+    {
+      "name": "Derek Grassia",
+      "org": "Campus Outreach Memphis",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.comemphis.org/staff",
+      "fit_reason": "Tier A staff at Middle Tennessee State University; named on regional staff page"
+    },
+    {
+      "name": "Carrie Weber",
+      "org": "Campus Outreach Memphis",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.comemphis.org/staff",
+      "fit_reason": "Tier A staff at Rhodes College; named on regional staff page"
+    },
+    {
+      "name": "Jonathan Buschke",
+      "org": "Campus Outreach Minneapolis",
+      "tier": "A",
+      "role": "Resource Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cominneapolis.org/buschke",
+      "fit_reason": "Tier A staff; has personal profile page at regional site"
+    },
+    {
+      "name": "Stephanie Pohl",
+      "org": "Campus Outreach Minneapolis",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cominneapolis.org/pohl",
+      "fit_reason": "Tier A staff; has personal profile page at regional site"
+    },
+    {
+      "name": "Sam Collins",
+      "org": "Campus Outreach San Diego",
+      "tier": "A",
+      "role": "Field Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cosandiego.org/team",
+      "fit_reason": "Tier A staff; per regional staff page, title names role and organization"
+    },
+    {
+      "name": "Janie Collins",
+      "org": "Campus Outreach San Diego",
+      "tier": "A",
+      "role": "Field Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cosandiego.org/team",
+      "fit_reason": "Tier A staff; spouse of Sam Collins, both Field Directors; split couple per enumeration rule"
+    },
+    {
+      "name": "Berkeley Gomez",
+      "org": "Campus Outreach San Diego",
+      "tier": "A",
+      "role": "Women's Ministry Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cosandiego.org/team",
+      "fit_reason": "Tier A staff; per regional staff page, title names role and organization"
+    },
+    {
+      "name": "Carlos Gomez",
+      "org": "Campus Outreach San Diego",
+      "tier": "A",
+      "role": "Women's Ministry Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cosandiego.org/team",
+      "fit_reason": "Tier A staff; spouse of Berkeley Gomez, both Women's Ministry Directors; split couple per enumeration rule"
+    },
+    {
+      "name": "Alan Yu",
+      "org": "Campus Outreach San Diego",
+      "tier": "A",
+      "role": "Resource Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cosandiego.org/team",
+      "fit_reason": "Tier A staff; per regional staff page, title names role and organization"
+    },
+    {
+      "name": "Noah Lee",
+      "org": "Campus Outreach San Diego",
+      "tier": "A",
+      "role": "Campus Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cosandiego.org/team",
+      "fit_reason": "Tier A staff at UC San Diego; per regional staff page"
+    },
+    {
+      "name": "Sea Choi",
+      "org": "Campus Outreach San Diego",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cosandiego.org/team",
+      "fit_reason": "Tier A staff at UC San Diego; per regional staff page"
+    },
+    {
+      "name": "Abby Angalet",
+      "org": "Campus Outreach San Diego",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cosandiego.org/team",
+      "fit_reason": "Tier A staff at UC San Diego; per regional staff page"
+    },
+    {
+      "name": "Cara Comstock",
+      "org": "Campus Outreach San Diego",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cosandiego.org/team",
+      "fit_reason": "Tier A staff at UC San Diego; per regional staff page"
+    },
+    {
+      "name": "Elsa Kim",
+      "org": "Campus Outreach San Diego",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cosandiego.org/team",
+      "fit_reason": "Tier A staff at UC San Diego; per regional staff page"
+    },
+    {
+      "name": "David Jun",
+      "org": "Campus Outreach San Diego",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cosandiego.org/team",
+      "fit_reason": "Tier A staff at UC San Diego; per regional staff page"
+    },
+    {
+      "name": "Madison Ewers",
+      "org": "Campus Outreach Central Florida",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocentralflorida.org/madison-ewers",
+      "fit_reason": "Tier A staff; has personal profile page at regional site"
+    },
+    {
+      "name": "Brynlee Neal",
+      "org": "Campus Outreach Central Florida",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocentralflorida.org/brynlee-neal",
+      "fit_reason": "Tier A staff; has personal profile page at regional site"
+    },
+    {
+      "name": "Sami McAdams",
+      "org": "Campus Outreach Central Florida",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocentralflorida.org/sami-mcadams",
+      "fit_reason": "Tier A staff; has personal profile page at regional site"
+    },
+    {
+      "name": "Brianda Valdez",
+      "org": "Campus Outreach Central Florida",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocentralflorida.org/brianda-valdez",
+      "fit_reason": "Tier A staff; has personal profile page at regional site"
+    },
+    {
+      "name": "Craig Nagle",
+      "org": "Campus Outreach Central Florida",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocentralflorida.org/craig-nagle",
+      "fit_reason": "Tier A staff; has personal profile page at regional site"
+    },
+    {
+      "name": "Seth Terrell",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Assistant Director / Regional Launcher",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://www.cobirmingham.org/donate/seth-terrell",
+      "fit_reason": "Tier A staff; Assistant Director since 2000, launched CO Tuscaloosa at University of Alabama in 2017"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:donate.campusoutreach.org giving-search staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cophiladelphia.org staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cophoenix.org staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:conashville.org staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:comemphis.org staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach\" Memphis staff members site:comemphis.org",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cominneapolis.org staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:conapoleon.org staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:coneworleans.org staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach\" Orlando staff site:coorlands.org",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach\" \"San Diego\" staff site:.org",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach\" staff Nashville Tennessee",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach\" international staff Greece Africa \"Southeast Asia\"",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "site:cosandiego.org staff team members",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cocentralflorida.org staff team",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach\" Milwaukee staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach\" \"donate.campusoutreach.org/giving-search\" regions cities",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:donate.campusoutreach.org regions list",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "International regions listed but no staff enumerated",
+      "finding": "donate.campusoutreach.org/giving-search directory lists 17 international regions: Athens (Greece), Belo Horizonte (Brazil), Brisbane (Australia), Cape Town (South Africa), Chiang Mai (Thailand), Christchurch (New Zealand), Dunedin (New Zealand), Edinburgh (Scotland), Guadalajara (Mexico), Johannesburg (South Africa), Khon Kaen (Thailand), Lima (Peru), London (UK), Lusaka (Zambia), Manila (Philippines), Monterrey (Mexico), Udon Thani (Thailand)",
+      "evidence": "Search result from site:donate.campusoutreach.org regions list query showed comprehensive listing of all regional operations in the giving-search directory",
+      "recommendation": "International regions are present but page-fetching is blocked; enumeration agent cannot access individual staff details from search snippets alone. These regions confirm depth in the give-search directory but require direct page access to extract staff member names. For future waves, consider whether orchestrator verification searches should target these international staff pages directly."
+    },
+    {
+      "issue": "M-Z cities without verified staff pages or insufficient indexing",
+      "finding": "Domain searches for Milwaukee (no results), Nashville (conashville.org not indexed), New Orleans (coneworleans.org not indexed), Philadelphia (cophiladelphia.org not indexed), Phoenix (cophoenix.org not indexed), Pittsburgh (no indexed pages found), Tampa (cotampa.org not indexed), Richmond (corichmond.org not indexed), and several other M-Z cities returned no indexed results or redirects to other regional hubs",
+      "evidence": "Site-specific queries for: site:cophiladelphia.org, site:cophoenix.org, site:conashville.org, site:conapoleon.org, site:coneworleans.org, site:corichmond.org, site:cotampa.org all returned zero results for Campus Outreach staff",
+      "recommendation": "Either these regional domains do not exist or are not being indexed by search engines. Some cities (Nashville area) may operate under Memphis; some may be under construction or not yet launched. The confirmed pattern holds for Memphis, Minneapolis, San Diego, and Central Florida but appears to have gaps in coverage for other M-Z cities. Suggest checking the main Campus Outreach locations page or contacting headquarters for complete regional listing."
+    },
+    {
+      "issue": "Charlotte/Raleigh regional consolidation",
+      "finding": "coraleigh.org redirects to Charlotte operations (cocharlotte.org), indicating Raleigh is served by Campus Outreach Charlotte rather than a standalone regional site",
+      "evidence": "Search result: 'We've Moved - CO Raleigh Campus Outreach Raleigh CO Raleigh' URL shows 'coraleigh.org/' redirects to Charlotte",
+      "recommendation": "Charlotte is in A-L slice assigned to co-east agent, so Raleigh staff (if distinct) should be enumerated by that agent. Not included in this wave's M-Z slice."
+    }
+  ]
+}

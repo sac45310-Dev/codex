@@ -1,0 +1,511 @@
+{
+  "wave_id": "w2026-09-10g",
+  "agent": "co-east",
+  "target_org": "Campus Outreach",
+  "slice": "Campus Outreach regions and cities beginning A-L",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Caitlin Cornwell",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.coatlanta.org/cornwell",
+      "fit_reason": "Tier A; personal giving page at coatlanta.org (Atlanta region), surname in slug, title/page context indicates staff status"
+    },
+    {
+      "name": "Kyler Allen",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.coatlanta.org/kyler",
+      "fit_reason": "Tier A; personal giving page at coatlanta.org (Atlanta region), served at Georgia Tech then moved to UGA Campus Director"
+    },
+    {
+      "name": "Zach Katzman",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.coatlanta.org/katzman",
+      "fit_reason": "Tier A; shared personal giving page at coatlanta.org (Atlanta region), couples giving page with spouse Claudia; surname in slug"
+    },
+    {
+      "name": "Claudia Katzman",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.coatlanta.org/katzman",
+      "fit_reason": "Tier A; shared personal giving page at coatlanta.org (Atlanta region), couples giving page with spouse Zach"
+    },
+    {
+      "name": "Matt Williams",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.coatlanta.org/williams",
+      "fit_reason": "Tier A; personal giving page at coatlanta.org (Atlanta region), Resource Director role; couples page with Laurie"
+    },
+    {
+      "name": "Laurie Williams",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.coatlanta.org/williams",
+      "fit_reason": "Tier A; personal giving page at coatlanta.org (Atlanta region), Regional Women's Manager; couples page with Matt"
+    },
+    {
+      "name": "Jeremy Moore",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.coatlanta.org/moore",
+      "fit_reason": "Tier A; personal giving page at coatlanta.org (Atlanta region), 14 years of service; couples page with Jordan"
+    },
+    {
+      "name": "Jordan Moore",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.coatlanta.org/moore",
+      "fit_reason": "Tier A; personal giving page at coatlanta.org (Atlanta region), 14 years of service; couples page with Jeremy"
+    },
+    {
+      "name": "Tessa Allen",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.coatlanta.org/tessa",
+      "fit_reason": "Tier A; personal giving page at coatlanta.org (Atlanta region), individual staff member page"
+    },
+    {
+      "name": "Ben Espy",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.coatlanta.org/ben",
+      "fit_reason": "Tier A; personal giving page at coatlanta.org (Atlanta region), staff profile page"
+    },
+    {
+      "name": "Anna Pannell",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.coatlanta.org/anna",
+      "fit_reason": "Tier A; personal giving page at coatlanta.org (Atlanta region), staff member"
+    },
+    {
+      "name": "Charlie Paciocco",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/paciocco",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), surname in slug"
+    },
+    {
+      "name": "Nick Watkins",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/watkins",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Jackie; surname in slug"
+    },
+    {
+      "name": "Jackie Watkins",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/watkins",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Nick"
+    },
+    {
+      "name": "Mykala Anderson",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/anderson",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), surname in slug"
+    },
+    {
+      "name": "Chris Amond",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/amond",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Sarah; surname in slug"
+    },
+    {
+      "name": "Sarah Amond",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/amond",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Chris"
+    },
+    {
+      "name": "Vaughn Volious",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/volious",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Joni; surname in slug"
+    },
+    {
+      "name": "Joni Volious",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/volious",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Vaughn"
+    },
+    {
+      "name": "Blake Ward",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/ward",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), surname in slug"
+    },
+    {
+      "name": "Andrew Hawkins",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/hawkins",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Ali; surname in slug"
+    },
+    {
+      "name": "Ali Hawkins",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/hawkins",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Andrew"
+    },
+    {
+      "name": "Michael Harpe",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/harpe",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Kiersten; surname in slug"
+    },
+    {
+      "name": "Kiersten Harpe",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/harpe",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Michael"
+    },
+    {
+      "name": "Matt Brown",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/brown",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Faith; surname in slug"
+    },
+    {
+      "name": "Faith Brown",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/brown",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Matt"
+    },
+    {
+      "name": "Landon Tucker",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/tucker",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Betsy; surname in slug"
+    },
+    {
+      "name": "Betsy Tucker",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/tucker",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), couples page with spouse Landon"
+    },
+    {
+      "name": "Josh Mackey",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cocolumbia.org/give/mackey",
+      "fit_reason": "Tier A; personal giving page at cocolumbia.org (Columbia region), surname in slug"
+    },
+    {
+      "name": "Deja Jones",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cohouston.org/deja-jones",
+      "fit_reason": "Tier A; personal giving page at cohouston.org (Houston region, beyond A-L slice but confirmed surface), staff profile"
+    },
+    {
+      "name": "Enrique Herrera",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cohouston.org/enrique-paola",
+      "fit_reason": "Tier A; personal giving page at cohouston.org (Houston region, confirmed surface), couples page with spouse Paola"
+    },
+    {
+      "name": "Paola Herrera",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cohouston.org/enrique-paola",
+      "fit_reason": "Tier A; personal giving page at cohouston.org (Houston region, confirmed surface), couples page with spouse Enrique"
+    },
+    {
+      "name": "Julie Ubadinobi",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cohouston.org/julieandemmanuelubadinobi",
+      "fit_reason": "Tier A; personal giving page at cohouston.org (Houston region, confirmed surface); couples page with Emmanuel; inferred surname from URL"
+    },
+    {
+      "name": "Emmanuel Ubadinobi",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cohouston.org/julieandemmanuelubadinobi",
+      "fit_reason": "Tier A; personal giving page at cohouston.org (Houston region, confirmed surface); couples page with Julie; inferred surname from URL"
+    },
+    {
+      "name": "Andre Lurhuma",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cohouston.org/andre",
+      "fit_reason": "Tier A; personal giving page at cohouston.org (Houston region, confirmed surface), surname in slug"
+    },
+    {
+      "name": "Gaby Moran",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cohouston.org/gaby-moran",
+      "fit_reason": "Tier A; personal giving page at cohouston.org (Houston region, confirmed surface), surname in slug"
+    },
+    {
+      "name": "Martin Azua",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cohouston.org/martin",
+      "fit_reason": "Tier A; personal giving page at cohouston.org (Houston region, confirmed surface), joined staff 2017 at Sam Houston State"
+    },
+    {
+      "name": "Thomas Menke",
+      "org": "Campus Outreach",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cohouston.org/thomas",
+      "fit_reason": "Tier A; personal giving page at cohouston.org (Houston region, confirmed surface), surname in slug"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "donate.campusoutreach.org giving-search staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "coatlanta.org staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cocolumbia.org staff directory",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Campus Outreach Auburn Alabama",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "Campus Outreach Boston staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "cocolumbia.org give Paciocco Watkins Anderson",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cocharlestonsc.org staff OR cocharleston.org staff Campus Outreach",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "coclemson.org staff OR Campus Outreach Clemson",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cocolumbia.org give staff directory",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:coatlanta.org /cornwell /katzman /moore /williams /kyler staff pages",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Campus Outreach Charlotte Dallas Denver staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "coindianapolis.org OR co-indianapolis staff Campus Outreach",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "serve.campusoutreach.org donate staff Atlanta Columbia Charleston",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Campus Outreach Knoxville Chattanooga Greenville Jacksonville staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:coatlanta.org donate give staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cocolumbia.org /give/ -leadership -usc -clemson -conference",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Campus Outreach Birmingham Columbus Lynchburg staff donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cohouston.org staff OR serve.campusoutreach.org houston donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cohouston.org /give donate staff member",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cocolumbia.org /give/smith OR /give/hill OR /give/taylor OR /give/johnson staff",
+      "outcome": "no_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Houston staff outside slice",
+      "finding": "Deja Jones, Enrique & Paola Herrera, Julie & Emmanuel Ubadinobi, Andre Lurhuma, Gaby Moran, Martin Azua, Thomas Menke from cohouston.org",
+      "evidence": "These individuals appear in cohouston.org staff pages; Houston is a confirmed surface but not in A-L regional slice",
+      "recommendation": "Included per brief note that cohouston.org is a confirmed surface with no previous mining. Coordinate with co-west agent who may cover M-Z regions"
+    },
+    {
+      "issue": "Charleston region unclear domain",
+      "finding": "No staff members found for Charleston, South Carolina despite search attempts for cocharlestonsc.org and cocharleston.org",
+      "evidence": "Searches for Charleston produced no regional domain hits; only general Campus Outreach and Coastal Carolina University references",
+      "recommendation": "Follow-up needed to identify correct regional domain pattern for Charleston (may use different naming convention)"
+    },
+    {
+      "issue": "Boston, Boone, Auburn domains not located",
+      "finding": "Despite searches, no dedicated regional websites found for Boston, Boone, Alabama or Auburn, Alabama",
+      "evidence": "Searches returned only general Campus Outreach pages, not regional co<city>.org domains",
+      "recommendation": "These regions may use different domain patterns or may be served by adjacent regions; requires additional research"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "wave_id": "w2026-09-10g",
+  "agent": "avant",
+  "target_org": "Avant Ministries",
+  "slice": "avantministries.org/missionary/",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Bryan Smith",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Camp Administration & Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/bryan-and-lori-smith",
+      "fit_reason": "Couple page with surnames in slug and full names in title. Both spouses named on support page."
+    },
+    {
+      "name": "Lori Smith",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Camp Administration & Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/bryan-and-lori-smith",
+      "fit_reason": "Couple page with surnames in slug and full names in title. Both spouses named on support page."
+    },
+    {
+      "name": "Alan McManus",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Education & Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/alan-and-beth-mcmanus-1",
+      "fit_reason": "Couple page with surnames in slug and full names in title. Both spouses named on support page."
+    },
+    {
+      "name": "Beth McManus",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Education & Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/alan-and-beth-mcmanus-1",
+      "fit_reason": "Couple page with surnames in slug and full names in title. Both spouses named on support page."
+    },
+    {
+      "name": "Phil O'Day",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Church Planting & Field Administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/oday",
+      "fit_reason": "Couple page with surname in slug (oday = O'Day) and full names in title. Both spouses named on support page."
+    },
+    {
+      "name": "Lori O'Day",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Church Planting & Field Administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/oday",
+      "fit_reason": "Couple page with surname in slug (oday = O'Day) and full names in title. Both spouses named on support page."
+    },
+    {
+      "name": "Jessica Jenkins",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Community Outreach & Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/j-jenkins",
+      "fit_reason": "Per-person page with surname in slug (j-jenkins: j=initial, jenkins=surname) and full name in title."
+    },
+    {
+      "name": "Glenn Stewart",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/glenn-and-judy-stewart-1",
+      "fit_reason": "Couple page with surnames in slug and full names in title. Both spouses named on support page."
+    },
+    {
+      "name": "Judy Stewart",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/glenn-and-judy-stewart-1",
+      "fit_reason": "Couple page with surnames in slug and full names in title. Both spouses named on support page."
+    },
+    {
+      "name": "Chad Dalton",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/chad-and-kameren-dalton",
+      "fit_reason": "Couple page with surnames in slug and full names in title. Both spouses named on support page."
+    },
+    {
+      "name": "Kameren Dalton",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/chad-and-kameren-dalton",
+      "fit_reason": "Couple page with surnames in slug and full names in title. Both spouses named on support page."
+    },
+    {
+      "name": "Natalie Arauco",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary - Education & Evangelism",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/natalie-arauco-1",
+      "fit_reason": "Per-person page with full name in slug and title. Serves as support-raised staff on personal giving page."
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "site:avantministries.org/missionary Spain", "outcome": "no_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary Mexico", "outcome": "found_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary Ecuador Peru Bolivia", "outcome": "found_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary church planting", "outcome": "found_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary Colombia", "outcome": "no_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary France Italy", "outcome": "found_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary Thailand Asia", "outcome": "no_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary Bible translation", "outcome": "found_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary Africa Guinea Mali", "outcome": "no_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary \"Middle East\" Central Asia", "outcome": "no_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary Japan Indonesia", "outcome": "no_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary theological education", "outcome": "found_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary media aviation", "outcome": "found_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary Guatemala", "outcome": "found_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary Senegal Morocco", "outcome": "no_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary Reagan Taylor", "outcome": "no_people"},
+    {"kind": "query", "value": "site:avantministries.org/missionary -project -project2", "outcome": "found_people"},
+    {"kind": "query", "value": "Budget exhausted", "outcome": "offtopic"}
+  ],
+  "needs_review": [
+    {
+      "issue": "Limited coverage",
+      "finding": "Searches targeting Asia (Thailand, Japan, Indonesia), Africa (Guinea, Mali, Senegal, Morocco), and Colombia returned no results or only general regional pages, not individual missionary profiles.",
+      "evidence": "Multiple searches with region names yielded only directory/opportunity pages, not per-person pages.",
+      "recommendation": "The slice may have limited depth in these regions, or missionaries there may use different URL formats or anonymized slugs due to sensitive-region operations."
+    },
+    {
+      "issue": "Incomplete enumeration",
+      "finding": "Reagan Taylor mentioned in Asia field stories as Thailand church planter but no individual profile page URL found.",
+      "evidence": "Story pages reference the missionary but direct profile URL not surfaced in search results.",
+      "recommendation": "May require different search approach or manual directory review to locate individual profile page if one exists."
+    }
+  ]
+}
