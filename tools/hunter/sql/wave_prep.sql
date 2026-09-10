@@ -6,16 +6,38 @@ SELECT org_name, website FROM sales.scout_candidates WHERE status <> 'rejected'
 UNION
 SELECT org_name, website FROM sales.leads;
 
--- 2. Do-not-crawl domains: covered ground that yielded nothing, < 90 days old
-SELECT DISTINCT domain
-FROM sales.hunt_coverage
-WHERE kind = 'url'
-  AND outcome IN ('no_people','dead','offtopic')
-  AND visited_at > now() - interval '90 days'
-  AND domain IS NOT NULL
+-- 2. Domain status. REVISED 2026-09-10.
+--
+-- This section returned ZERO ROWS for its entire life: it filters on
+-- kind='url', and until the backfill every one of the 2,064 hunt_coverage rows
+-- was kind='query'. Nothing was ever excluded, and nothing was ever offered.
+--
+-- Worse, the skip-list prompt built from `website` told agents that a domain we
+-- already hold records from is a domain to avoid. That is backwards for the
+-- highest-yield technique we have: send.org, resonateglobalmission.org and
+-- give.cmfi.org are on that list precisely BECAUSE they are worth mining.
+-- 59 'productive' domains hold 1,331 of our people.
+--
+-- Only 'barren' domains -- covered and yielded nobody -- are skip-worthy.
+SELECT domain, status, urls_seen, people_found, last_visited
+FROM sales.v_hunt_domain_status
+WHERE status = 'barren' AND last_visited > now() - interval '90 days'
 ORDER BY domain;
 
--- 3. Covered queries (orchestrator drops duplicate assignments before dispatch)
+-- 2b. Productive domains, and the tokens that push a site: search past what we
+-- already hold. Hand these to an enumeration agent WITH its assignment: append
+-- them as -surname terms to reach the records a plain site: query will not
+-- surface. This is what made w2026-09-09d double the previous wave.
+SELECT s.domain, s.people_found, e.exclude_tokens
+FROM sales.v_hunt_domain_status s
+JOIN sales.v_hunt_domain_exclusions e USING (domain)
+WHERE s.status = 'productive'
+ORDER BY s.people_found DESC;
+
+-- 3. Covered queries (orchestrator drops duplicate assignments before dispatch).
+-- Deliberately NOT time-limited: a site: query that was exhaustive in March is
+-- still exhaustive now, and re-running it buys nothing. Re-open ground by
+-- changing the qualifier, not by waiting out a clock.
 SELECT value FROM sales.hunt_coverage WHERE kind = 'query' ORDER BY value;
 
 -- 4. Roster assignments: next unrostered targets, highest priority first.

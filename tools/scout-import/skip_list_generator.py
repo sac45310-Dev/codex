@@ -335,9 +335,9 @@ def generate_hunter_prompt(org_names_path: str, urls_path: str, limit: int = 200
     shown = domain_list[:limit]
 
     header = (
-        f"ALREADY IN THE DONORSEND CRM — do NOT return these; find NEW prospects.\n"
+        f"ALREADY IN THE DONORSEND CRM — do NOT return these PEOPLE; find NEW ones.\n"
         f"The CRM already has {len(org_names)} contacts across {len(domain_list)} domains.\n"
-        f"Known domains include:\n"
+        f"Domains we have already taken records from:\n"
     )
 
     snippet = header + ", ".join(shown)
@@ -346,8 +346,16 @@ def generate_hunter_prompt(org_names_path: str, urls_path: str, limit: int = 200
         snippet += f", …(+{len(domain_list) - limit} more)"
 
     snippet += (
-        "\n\nIf a prospect's giving page or website is on one of these domains, "
-        "assume we already have them unless it's a clearly different person."
+        "\n\nA domain on this list is NOT a domain to avoid. It usually means the"
+        " opposite: we found people there, so there are probably more. Skip the"
+        " PERSON if we already have them; keep mining the SITE."
+        "\n\nThe only domains worth avoiding are ones marked 'barren' in"
+        " sales.v_hunt_domain_status — covered already and yielded nobody."
+        "\n\nFor a domain we are actively mining, ask the orchestrator for its"
+        " exclusion tokens (sales.v_hunt_domain_exclusions). Appending them as"
+        " -surname terms pushes a site: search past the records we already hold"
+        " and into the ones we do not, which is how you get depth out of a search"
+        " engine that will not paginate."
     )
 
     return snippet
