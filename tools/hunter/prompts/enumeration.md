@@ -123,6 +123,21 @@ per domain.
   support and many of them are minors, so this is a protection rule as much as
   a data-quality one. If you cannot tell a spouse from a child, that is
   `needs_review`, not a record.
+- **A retiree on a giving page is not a prospect.** Agencies publish retired
+  missionaries on the same surface as active ones, with the same page shape and
+  the same donate button: `bcpusa.org` lists them among the missionaries,
+  Reach Beyond files them at `/missionaries/retired`, InterAct at `/retired/`.
+  The direction of the money is reversed — they are supported *by* the fund,
+  not raising support for themselves — so they fail the Tier A test entirely.
+  Three agencies set this trap in two waves. Check for a retired/legacy/emeritus
+  path or label before you emit anyone, and skip that path wholesale.
+- **If an agency says its workers use codenames, every name from that agency is
+  suspect.** Team Expansion states on its own giving page that "many workers
+  are serving in sensitive locations and appear using a codename." That is an
+  agency-wide warning, not a per-page one: it means you cannot tell a real name
+  from a pseudonym on any of their surfaces, so a name found *elsewhere* is not
+  safe to emit either. When an agency declares this, route the whole agency to
+  `needs_review` rather than trying to sort the real names from the covers.
 - **A person quoted on a page is not a person found.** Devotional sites quote
   saints, authors and founders. St. Maximilian Kolbe appearing on a
   missionary's profile is not a missionary.

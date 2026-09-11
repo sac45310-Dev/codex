@@ -13,6 +13,22 @@ Wave w2026-09-10n spent most of a slice rediscovering World Wide New
 Testament Baptist Missions because the brief's already-worked list was
 written from memory and omitted it. Do not write that list from recall.
 
+## Also check the rejections, not just the holdings
+
+`scout_candidates` tells you which agencies you have *mined*. It does not tell
+you which you have already *rejected*, and those are just as expensive to
+re-probe. Run this too:
+
+```sql
+select name, reason_code, source from sales.hunt_negatives
+where entity_kind='org' order by name;
+```
+
+In w2026-09-11s the orchestrator probed eight agencies before dispatch and two
+of them — Christar and Team Expansion — had already been probed and rejected in
+w2026-09-10n. Two wasted searches is cheap; the same mistake at agent scale is
+not. Both lists, every time.
+
 ## Snapshot, 2026-09-11 (4,409 approved people)
 
 **Heavily worked (100+):** Ethnos360 534 · FOCUS 522 · One Mission Society
