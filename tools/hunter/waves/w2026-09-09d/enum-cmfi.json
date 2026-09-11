@@ -1,0 +1,661 @@
+{
+  "wave_id": "w2026-09-09d",
+  "agent": "enum:cmfi",
+  "target_org": "Christian Missionary Fellowship International",
+  "searches_used": 15,
+  "people": [
+    {
+      "org_name": "Anna Thormodsgard",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/anna-thormodsgard",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Travis Weeks",
+      "summary": "CMF International — Church Planter",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/travis-emily-weeks",
+      "meta": {
+        "tier": "A",
+        "role": "Church Planter",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Emily Weeks",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/travis-emily-weeks",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Chandler Ospina",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/chandler-and-madison-ospina",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Madison Ospina",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/chandler-and-madison-ospina",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Jordan Sanchez",
+      "summary": "CMF International — Globalscope Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/jordan-sanchez",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Isabel Miller",
+      "summary": "CMF International — Marketplace Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/isabel-miller",
+      "meta": {
+        "tier": "A",
+        "role": "Marketplace Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Gigi Roman Ortega",
+      "summary": "CMF International — Campus Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/gigi-roman-ortega",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Hannah Frey",
+      "summary": "CMF International — Campus Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/hannah-frey",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Courtney Wilson",
+      "summary": "CMF International — Campus Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/courtney-wilson",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Misael Cruz",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/misael-yola-cruz",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Yola Cruz",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/misael-yola-cruz",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Steve Carpenter",
+      "summary": "CMF International — Church Planter",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/steve-kay-carpenter",
+      "meta": {
+        "tier": "A",
+        "role": "Church Planter",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Kay Carpenter",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/steve-kay-carpenter",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Alex Pereira",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/alex-pereira",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Eric Pitts",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/eric-cait-pitts",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Cait Pitts",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/eric-cait-pitts",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Jake Moore",
+      "summary": "CMF International — Church Catalyst Director",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/jake-moore",
+      "meta": {
+        "tier": "A",
+        "role": "Church Planter",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Nelson Mugarula",
+      "summary": "CMF International — Church Catalyst Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/nelson-megan-mugarula",
+      "meta": {
+        "tier": "A",
+        "role": "Church Planter",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Megan Mugarula",
+      "summary": "CMF International — Church Catalyst Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/nelson-megan-mugarula",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Joel Williams",
+      "summary": "CMF International — Church Catalyst Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/joel-rachel-williams",
+      "meta": {
+        "tier": "A",
+        "role": "Church Planter",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Rachel Williams",
+      "summary": "CMF International — Church Catalyst Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/joel-rachel-williams",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Tyler King",
+      "summary": "CMF International — Church Catalyst Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/tyler-king",
+      "meta": {
+        "tier": "A",
+        "role": "Church Planter",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "BJ Leonard",
+      "summary": "CMF International — Church Catalyst Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/bj-mary-leonard",
+      "meta": {
+        "tier": "A",
+        "role": "Church Planter",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Mary Leonard",
+      "summary": "CMF International — Church Catalyst Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/bj-mary-leonard",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Becca Schafer",
+      "summary": "CMF International — Thailand Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/becca-schafer",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Hannah Rowe",
+      "summary": "CMF International — Thailand Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/hannah-rowe",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Preston Coursey",
+      "summary": "CMF International — Thailand Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/preston-kristin-coursey",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Kristin Coursey",
+      "summary": "CMF International — Thailand Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/preston-kristin-coursey",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "James Thompson",
+      "summary": "CMF International — Thailand Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/james-thompson",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Mark Bernardino",
+      "summary": "CMF International — Thailand Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/mark-princess-bernardino",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Princess Bernardino",
+      "summary": "CMF International — Thailand Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/mark-princess-bernardino",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Jeff Prus",
+      "summary": "CMF International — Thailand Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/jeff-pilar-prus",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Pilar Prus",
+      "summary": "CMF International — Thailand Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/jeff-pilar-prus",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Jennifer Gilman",
+      "summary": "CMF International — Thailand Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/jennifer-gilman",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Aaron Lincoln",
+      "summary": "CMF International — Church Planter",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/aaron-diane-lincoln",
+      "meta": {
+        "tier": "A",
+        "role": "Church Planter",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Diane Lincoln",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/aaron-diane-lincoln",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Greg Klass",
+      "summary": "CMF International — Globalscope Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/greg-eli-klass",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Eli Klass",
+      "summary": "CMF International — Globalscope Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/greg-eli-klass",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Victoria Aguayo",
+      "summary": "CMF International — Globalscope Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/victoria-aguayo",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Allison Rocke",
+      "summary": "CMF International — Globalscope Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/allison-rocke",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Nathan Bell",
+      "summary": "CMF International — REACH Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/nathan-bell",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "David Ossa",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/david-claudia-ossa",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Claudia Ossa",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/david-claudia-ossa",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Brett McClain",
+      "summary": "CMF International — Missionary",
+      "fit_score": 9,
+      "fit_reason": "Personal giving page",
+      "source_url": "https://give.cmfi.org/donate/brett-mcclain",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "site:give.cmfi.org/donate Kenya", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate Ethiopia", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate Mexico", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate Brazil", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate Globalscope", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate \"Church Catalyst\"", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate India", "outcome": "no_people"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate Thailand", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate \"Women Together\"", "outcome": "no_people"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate \"church planter\"", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate \"On the Move\"", "outcome": "offtopic"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate Turkey", "outcome": "no_people"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate \"medical missionary\"", "outcome": "no_people"},
+    {"kind": "query", "value": "site:cmfi.org/missionaries", "outcome": "offtopic"},
+    {"kind": "query", "value": "site:give.cmfi.org/donate Chile Australia", "outcome": "found_people"}
+  ],
+  "needs_review": [],
+  "summary": {
+    "total_new_missionaries": 45,
+    "families_represented": 23,
+    "search_efficiency": "High - targeted site-specific queries across countries, programmes, and roles"
+  }
+}

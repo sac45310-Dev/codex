@@ -1,0 +1,1066 @@
+{
+  "wave_id": "w2026-09-10a",
+  "agent": "enum-modernday",
+  "target_domain": "modernday.org",
+  "searches_used": 15,
+  "url_pattern_confirmed": "/profile/<username-slug>",
+  "people": [
+    {
+      "name": "Machelle Wells",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Ministry Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/mawells/",
+      "fit_reason": "Personal support-raising profile with ministry calling to inspire youth and young adults"
+    },
+    {
+      "name": "Joel Bomberger",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Evangelist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/joelbomb/",
+      "fit_reason": "Personal profile featuring evangelistic event mobilization and revival gatherings"
+    },
+    {
+      "name": "Kris Beall",
+      "org": "Youth With A Mission (YWAM)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/beall1995/",
+      "fit_reason": "YWAM missionary with personal profile, served in 10+ countries"
+    },
+    {
+      "name": "Ben Ankarlo",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Ministry Leader",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/theankarlos/",
+      "fit_reason": "Personal profile on Modern Day Missions platform; couple split into two records"
+    },
+    {
+      "name": "Stacy Ankarlo",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Ministry Leader",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/theankarlos/",
+      "fit_reason": "Personal profile on Modern Day Missions platform; couple split into two records"
+    },
+    {
+      "name": "Joel Mott",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Worship Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/joelmott/",
+      "fit_reason": "Personal profile as full-time ministry traveling as worship leader and preacher"
+    },
+    {
+      "name": "Nick Swinford",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Ministry Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/nick_swinford/",
+      "fit_reason": "Personal profile with 10+ years ministry experience and leadership roles"
+    },
+    {
+      "name": "Josiah Houle",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/josiahhoule/",
+      "fit_reason": "Personal profile on platform; limited detail available from search results"
+    },
+    {
+      "name": "Nick Wu",
+      "org": "Indigitous US",
+      "tier": "A",
+      "role": "Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/nickwu/",
+      "fit_reason": "Director of Indigitous US, leads young adults and students in digital missions"
+    },
+    {
+      "name": "Ken Omondi",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/kennedy/",
+      "fit_reason": "Couple profile with Lencer; limited agency info in search results"
+    },
+    {
+      "name": "Lencer Omondi",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/kennedy/",
+      "fit_reason": "Couple profile with Ken; limited agency info in search results"
+    },
+    {
+      "name": "Odeta Mvuyekure",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/odeta/",
+      "fit_reason": "Personal profile on platform; limited detail from search results"
+    },
+    {
+      "name": "Lena Pira",
+      "org": "Leap Publishers",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/lena-pira/",
+      "fit_reason": "Full-time missionary in Uganda since 2009, founded Leap Publishers; personal fundraising profile"
+    },
+    {
+      "name": "Beshoy Metry",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/besho-ana-metry/",
+      "fit_reason": "Couple split; missionary in 10/40 window (Africa, Myanmar, Egypt); personal profile"
+    },
+    {
+      "name": "Ana Metry",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/besho-ana-metry/",
+      "fit_reason": "Couple split; missionary in 10/40 window work across Africa, Myanmar, Egypt"
+    },
+    {
+      "name": "Milana Ballard",
+      "org": "SOS Adventure",
+      "tier": "A",
+      "role": "Team Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/milana-ballard/",
+      "fit_reason": "Team Director of SOS Adventure evangelistic organization; personal fundraising profile"
+    },
+    {
+      "name": "Olajide Daniel Oluleye",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/olajide-oluleye/",
+      "fit_reason": "Personal profile on platform; limited detail from search results"
+    },
+    {
+      "name": "James Amos",
+      "org": "Awaken Love for Africa",
+      "tier": "A",
+      "role": "Ministry Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/jameskristinamos/",
+      "fit_reason": "Couple split; works with Awaken Love for Africa supporting orphan children in Kenya"
+    },
+    {
+      "name": "Kristin Amos",
+      "org": "Awaken Love for Africa",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/jameskristinamos/",
+      "fit_reason": "Couple split; serves as mother figure to young Kenyans through Awaken Love for Africa"
+    },
+    {
+      "name": "Katelynn Jenkins",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/katelynnjenkins/",
+      "fit_reason": "Full-time missionary in Mozambique since Feb 2023; personal support-raising profile"
+    },
+    {
+      "name": "Abigail Geraci",
+      "org": "Global Presence Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/abigailgeraci/",
+      "fit_reason": "Served poor and orphaned in Ghana through Global Presence Ministries; personal profile"
+    },
+    {
+      "name": "Vanessa LaRiza",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/vanessa-lariza/",
+      "fit_reason": "Full-time missionary living among Maasai in rural Kenya; personal fundraising profile"
+    },
+    {
+      "name": "Cassie Pfitzenmeier",
+      "org": "Global Presence Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/cassiepfitzenmeier/",
+      "fit_reason": "Served poor and orphaned in Ghana with Global Presence Ministries; personal profile"
+    },
+    {
+      "name": "Björn Lütke",
+      "org": "Dynamic Church Planting International (DCPI)",
+      "tier": "A",
+      "role": "World Zone Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/bjorn-lutke/",
+      "fit_reason": "Couple split; World Zone Leader for DCPI Europe–Mediterranean; personal profile"
+    },
+    {
+      "name": "Brita Lütke",
+      "org": "Dynamic Church Planting International (DCPI)",
+      "tier": "A",
+      "role": "Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/bjorn-lutke/",
+      "fit_reason": "Couple split; involved in DCPI Europe–Mediterranean church planting networks"
+    },
+    {
+      "name": "Liz Adleta",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/lizadleta/",
+      "fit_reason": "40+ years global ministry catalyzing disciple-making and church-planting movements"
+    },
+    {
+      "name": "Adam Balogh",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/adam-balogh/",
+      "fit_reason": "Personal profile with primary focus on planting and restructuring churches"
+    },
+    {
+      "name": "Joseph Hwa",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/josephhwa/",
+      "fit_reason": "Church planting passion drives personal ministry; personal fundraising profile"
+    },
+    {
+      "name": "Joaquin Noroña",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/susy-norona/",
+      "fit_reason": "Couple split; focused on micro-church planting including online during pandemic"
+    },
+    {
+      "name": "Susy Noroña",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/susy-norona/",
+      "fit_reason": "Couple split; focused on micro-church planting including online during pandemic"
+    },
+    {
+      "name": "Tom Gustafson",
+      "org": "Youth With A Mission (YWAM)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/tom-gustafson/",
+      "fit_reason": "YWAM missionary 8 years in Philippines; personal profile with extensive gospel work"
+    },
+    {
+      "name": "Chun Bulus Chun",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/chunb2019gmail-com/",
+      "fit_reason": "Couple split; pioneered worldview schools in Asia and Africa since 2003"
+    },
+    {
+      "name": "Sheila Chun",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/chunb2019gmail-com/",
+      "fit_reason": "Couple split; involved in worldview schools ministry in Asia and Africa since 2005"
+    },
+    {
+      "name": "Clark Robinson Jr",
+      "org": "Rising Light Ministries Philippines",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/clark-robinson-jr/",
+      "fit_reason": "Serves with wife through Rising Light Ministries in San Ildefonso, Bulacan"
+    },
+    {
+      "name": "Peter Clemison",
+      "org": "Youth With A Mission (YWAM)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/pclemison/",
+      "fit_reason": "Couple split; YWAM Philippines founder of 4Freedom Philippines protecting vulnerable children"
+    },
+    {
+      "name": "Becky Clemison",
+      "org": "Youth With A Mission (YWAM)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/pclemison/",
+      "fit_reason": "Couple split; YWAM Philippines co-founder of 4Freedom Philippines for families"
+    },
+    {
+      "name": "Adriana Trejo-Barrera",
+      "org": "Freedom Ministry",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/adriana-trejo/",
+      "fit_reason": "Full-time missionary since 2014 doing Freedom Ministry in Mexico; personal profile"
+    },
+    {
+      "name": "Ben Gonzalez",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/benjenng/",
+      "fit_reason": "Couple split; family missions trips to Guatemala, Mexico, El Salvador"
+    },
+    {
+      "name": "Jenn Gonzalez",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/benjenng/",
+      "fit_reason": "Couple split; family missions trips to Guatemala, Mexico, El Salvador"
+    },
+    {
+      "name": "Nate Ballivian",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/nate-lauren-ballivian/",
+      "fit_reason": "Couple split; Latin America missions work; personal profile"
+    },
+    {
+      "name": "Lauren Ballivian",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/nate-lauren-ballivian/",
+      "fit_reason": "Couple split; Latin America missions work; personal profile"
+    },
+    {
+      "name": "Wilder Picon Brandan",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/wilder-picon/",
+      "fit_reason": "Focuses on theological training for pastors and leaders in Latin America"
+    },
+    {
+      "name": "Sonya Sandoval",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/sonyasandoval/",
+      "fit_reason": "Personal profile on platform; limited detail from search results"
+    },
+    {
+      "name": "Amanda Frye",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/amandafrye/",
+      "fit_reason": "Sent to Latin America and Spanish-speaking communities; personal profile"
+    },
+    {
+      "name": "Casey Duncan",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/caseyduncan/",
+      "fit_reason": "Outreach across US, Mexico, South Africa; personal profile"
+    },
+    {
+      "name": "Andrew Wilson",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/wilson-family/",
+      "fit_reason": "Couple split; family missionary profile on Modern Day"
+    },
+    {
+      "name": "Mikayla Wilson",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/wilson-family/",
+      "fit_reason": "Couple split; family missionary profile on Modern Day"
+    },
+    {
+      "name": "Esteban Rojas",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/esteban-johana-rojas/",
+      "fit_reason": "Couple split; Latin America missions work"
+    },
+    {
+      "name": "Johana Rojas",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/esteban-johana-rojas/",
+      "fit_reason": "Couple split; Latin America missions work"
+    },
+    {
+      "name": "Daniel Morgenstern",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Ministry Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/themorgensterns/",
+      "fit_reason": "Couple split; part of support team for Southeast Asia missionaries"
+    },
+    {
+      "name": "Kristen Morgenstern",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Counselor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/themorgensterns/",
+      "fit_reason": "Couple split; counselor to missionary families in Southeast Asia"
+    },
+    {
+      "name": "Morgan Davis",
+      "org": "Strategic Mission Collective",
+      "tier": "A",
+      "role": "Scripture Engagement Strategist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/morgandavis/",
+      "fit_reason": "Scripture Engagement Strategist partnering with churches in Southeast Asia"
+    },
+    {
+      "name": "Salemah Wong",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/salemah-wong/",
+      "fit_reason": "Missionary reaching children in Nepal, Pakistan, Philippines, Indonesia, India, China"
+    },
+    {
+      "name": "Gina Marie Jones",
+      "org": "Awakening in Asia",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/gina-jones/",
+      "fit_reason": "Missionary called to Awakening in Asia for gospel and church planting"
+    },
+    {
+      "name": "Krystal Sim",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/krystalsim/",
+      "fit_reason": "Faith missions trips to Thailand, Philippines, Korea; bridges international teams"
+    },
+    {
+      "name": "Jen Yen",
+      "org": "Heroes of the Nations",
+      "tier": "A",
+      "role": "Administrator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/jeny/",
+      "fit_reason": "Serves Heroes of the Nations in Kenya as accountant; personal support-raising profile"
+    },
+    {
+      "name": "Regin Larson",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/reginlarson/",
+      "fit_reason": "Personal profile on platform; limited detail from search results"
+    },
+    {
+      "name": "Jennifer Seltzer",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/sam/",
+      "fit_reason": "Personal profile on platform; limited detail from search results"
+    },
+    {
+      "name": "Carlton Bates",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/carlton-bates/",
+      "fit_reason": "Personal profile on platform; limited detail from search results"
+    },
+    {
+      "name": "Willow Andrus",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/willowandrus/",
+      "fit_reason": "Personal profile on Modern Day; India focus; limited detail from search"
+    },
+    {
+      "name": "Charles Papa",
+      "org": "Youth With A Mission (YWAM)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/papashouseindia/",
+      "fit_reason": "Couple split; YWAM India church planting and youth empowerment; Spain/India cross-cultural"
+    },
+    {
+      "name": "Eunice Papa",
+      "org": "Youth With A Mission (YWAM)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/papashouseindia/",
+      "fit_reason": "Couple split; YWAM India church planting and youth empowerment; Spain/India cross-cultural"
+    },
+    {
+      "name": "Dr. Langkhanthang Lianzaw",
+      "org": "New Beginnings Gospel Ministry",
+      "tier": "A",
+      "role": "Founder",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/dr-langkhangthang-lianzaw-thang/",
+      "fit_reason": "Founder/evangelist of New Beginnings Gospel Ministry; personal profile recruiting church planters"
+    },
+    {
+      "name": "Max Lian",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/maxlian/",
+      "fit_reason": "Ministry focused on at-risk children in Manipur, India; personal profile"
+    },
+    {
+      "name": "Kelsie Krull",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/kelsie-krull/",
+      "fit_reason": "Focuses on glorification of Jesus and reconciliation in Middle East; personal profile"
+    },
+    {
+      "name": "Josh Elke",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/josh-elke/",
+      "fit_reason": "Couple split; Middle East missions work; personal profile"
+    },
+    {
+      "name": "Ruth Elke",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/josh-elke/",
+      "fit_reason": "Couple split; Middle East missions work; personal profile"
+    },
+    {
+      "name": "Michael Onifer",
+      "org": "The Bethlehem Project",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/michael-asha-onifer/",
+      "fit_reason": "Focus on Arab world and Palestinians; founder of Bethlehem Project employing Palestinian Christians"
+    },
+    {
+      "name": "Katie Temple",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/katietemple/",
+      "fit_reason": "Called to unreached and unengaged people groups in Middle East; personal profile"
+    },
+    {
+      "name": "Emily Mintz",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/emilymintzmissions/",
+      "fit_reason": "Full-time missionary to Paris, Europe, Middle East and beyond; personal profile"
+    },
+    {
+      "name": "Bailey Redmond",
+      "org": "One Voice Music",
+      "tier": "A",
+      "role": "Worship Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/baileymredmond/",
+      "fit_reason": "Leads One Voice Music worship team and itinerant worship ministry; personal profile"
+    },
+    {
+      "name": "Jasmin Patterson",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/jasmin-patterson/",
+      "fit_reason": "Minister, Bible teacher, podcaster, worship leader; personal support-raising profile"
+    },
+    {
+      "name": "Josaphat Chambers",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Worship Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/jdcpiano/",
+      "fit_reason": "Worship leader training singers and musicians; substitute teacher in schools"
+    },
+    {
+      "name": "James Wells",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Musician",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/james-wells/",
+      "fit_reason": "Musician and teacher in houses of prayer nearly two decades; personal profile"
+    },
+    {
+      "name": "Kimmo Pollari",
+      "org": "Victory Christian Center",
+      "tier": "A",
+      "role": "Worship Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/pollari/",
+      "fit_reason": "Full-time worship leader since 2002 at Victory Christian Center; personal profile"
+    },
+    {
+      "name": "Marlon Rhaburn",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Worship Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/m4rlonjr/",
+      "fit_reason": "Equipped in raising worship leaders and musicians; preaching gospel through music"
+    },
+    {
+      "name": "Emily Frey",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Regional Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/efrey/",
+      "fit_reason": "Regional Director overseeing classes and leaders; movement strategist"
+    },
+    {
+      "name": "Kirk Fraiser",
+      "org": "Global Ethnê Prayer Team",
+      "tier": "A",
+      "role": "Prayer Facilitator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/fraiser-four/",
+      "fit_reason": "Couple split; facilitates gatherings for global leadership team prayer mobilization"
+    },
+    {
+      "name": "Honour Fraiser",
+      "org": "Global Ethnê Prayer Team",
+      "tier": "A",
+      "role": "Prayer Facilitator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/fraiser-four/",
+      "fit_reason": "Couple split; facilitates gatherings for global leadership team prayer mobilization"
+    },
+    {
+      "name": "Skyler Farley",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/skylerfarley/",
+      "fit_reason": "Passionate about disciple-making movements on college campuses; personal profile"
+    },
+    {
+      "name": "Niko Peele",
+      "org": "Ignite Movement",
+      "tier": "A",
+      "role": "Movement Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/niko-peele/",
+      "fit_reason": "Leads Ignite Movement for college and young adult Christian communities"
+    },
+    {
+      "name": "Joshua Aldy",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Disciple Maker",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/joshuaemilyaldy/",
+      "fit_reason": "Couple split; worship leader and disciple maker based in Kansas City"
+    },
+    {
+      "name": "Emily Aldy",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Disciple Maker",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/joshuaemilyaldy/",
+      "fit_reason": "Couple split; involved in disciple-making ministry in Kansas City"
+    },
+    {
+      "name": "Henry Hastings",
+      "org": "Shoot Move Communicate (SMC)",
+      "tier": "A",
+      "role": "Founder",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/henryandamanda/",
+      "fit_reason": "Couple split; co-founder of SMC movement for modern-day Christian mobilization"
+    },
+    {
+      "name": "Amanda Hastings",
+      "org": "Shoot Move Communicate (SMC)",
+      "tier": "A",
+      "role": "Founder",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/henryandamanda/",
+      "fit_reason": "Couple split; co-founder of SMC movement for modern-day Christian mobilization"
+    },
+    {
+      "name": "Paul McKinney",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/paulmckinney/",
+      "fit_reason": "Personal profile on Modern Day platform; limited detail from search results"
+    },
+    {
+      "name": "Kevin Kovach",
+      "org": "Modern Day (agency unknown)",
+      "tier": "B",
+      "role": "Ministry",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/kevin-kovach/",
+      "fit_reason": "Personal profile on Modern Day platform; limited detail from search results"
+    },
+    {
+      "name": "Tabitha Glasscock",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Evangelist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/tdglasscock/",
+      "fit_reason": "Crusades and youth outreach in Nigeria and Brazil; teaches and coaches evangelists"
+    },
+    {
+      "name": "Jaclyn Danielle Pender",
+      "org": "Youth With A Mission (YWAM)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/jaclyndanielle/",
+      "fit_reason": "Called to missions at youth camp; attended YWAM training school; personal profile"
+    },
+    {
+      "name": "Benjamin Atkinson",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Ministry Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/benjamin-nadia-atkinson/",
+      "fit_reason": "Couple split; built and led children's ministry camps; builds prayer and evangelism on campuses"
+    },
+    {
+      "name": "Nadia Atkinson",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Ministry Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/benjamin-nadia-atkinson/",
+      "fit_reason": "Couple split; children's ministry camps; discipleship on universities"
+    },
+    {
+      "name": "Chloe Babineaux",
+      "org": "Commission Youth",
+      "tier": "A",
+      "role": "Youth Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/chloemickle/",
+      "fit_reason": "Couple split; works with Commission Youth summer camp and discipleship training"
+    },
+    {
+      "name": "Titus Babineaux",
+      "org": "Commission Youth",
+      "tier": "A",
+      "role": "Youth Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/chloemickle/",
+      "fit_reason": "Couple split; works with Commission Youth summer camp and discipleship training"
+    },
+    {
+      "name": "Val Sviontek",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Ministry Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/jewishpartnerinitiative/",
+      "fit_reason": "Couple split; youth and children's ministry, evangelism, leadership retreats"
+    },
+    {
+      "name": "Tatyana Sviontek",
+      "org": "Modern Day (agency unknown)",
+      "tier": "A",
+      "role": "Ministry Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/jewishpartnerinitiative/",
+      "fit_reason": "Couple split; youth and children's ministry, evangelism, leadership retreats"
+    },
+    {
+      "name": "Sarah Granquist",
+      "org": "The Journey Kids",
+      "tier": "A",
+      "role": "Founder",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.modernday.org/profile/heyitsarahmae/",
+      "fit_reason": "Founder of The Journey Kids; personal mission to help children belong, believe, and become"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile missionary Africa",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile \"church planting\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile Philippines missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile \"Latin America\" OR Mexico missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile Asia missionary \"church\" OR \"support\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile Kenya \"support\" OR \"raise\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile India missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile \"Middle East\" OR \"Muslim world\" OR \"Arab\" missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile translator OR \"Bible\" OR \"Scripture\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile evangelist OR \"worship leader\" OR \"music\" OR \"teacher\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile leader OR \"mobilization\" OR \"movement\" OR \"disciple\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile Europe OR \"unreached\" OR \"least reached\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile Brazil OR Nigeria OR Indonesia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:modernday.org/profile \"youth\" OR \"family\" OR \"children\" OR \"camp\" OR \"discipleship\"",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Exclusion list compliance",
+      "finding": "Found Sarah Barousse (exclusion token 'barousse') and Jeff Eklund (exclusion token 'eklund') during search but excluded them from output per assignment instructions",
+      "evidence": "Search results included profiles for these individuals but they were in the provided exclusion token list",
+      "recommendation": "Confirm these individuals were already in the existing 6-person holding and properly excluded"
+    },
+    {
+      "issue": "Org information incomplete",
+      "finding": "67 records have org set to 'Modern Day (agency unknown)' because the sending organization was not discoverable in search snippets",
+      "evidence": "Search result titles and snippets did not include specific sending organization names for majority of records",
+      "recommendation": "Consider targeted follow-up searches for specific individuals to determine their sending organizations, or accept this limitation given search constraints"
+    },
+    {
+      "issue": "Family profiles with limited individual clarity",
+      "finding": "Several profiles appear to be family or group profiles (e.g., Terrazas-Douglas Family, The Hall Family/Jubilee City Church) where individual roles and org clarity is difficult",
+      "evidence": "Profile titles indicate family units rather than individual missionaries",
+      "recommendation": "Verify whether these family profiles warrant individual records or should be excluded; three such family-group profiles were excluded from output but worth noting"
+    }
+  ]
+}

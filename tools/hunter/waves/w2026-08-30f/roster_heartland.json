@@ -1,0 +1,146 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:heartland",
+  "target_org": "Food Bank for the Heartland",
+  "organization_url": "https://foodbankheartland.org",
+  "headquarters": "Omaha, NE",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Joanne Kamppinen",
+      "summary": "Food Bank for the Heartland — Director of Development",
+      "fit_score": 9,
+      "fit_reason": "Direct development leadership role; manages fundraising strategy and individual giving programs",
+      "source_query": "hunter:w2026-08-30f:heartland",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development",
+        "target_org": "Food Bank for the Heartland",
+        "evidence_url": "https://www.zoominfo.com/pic/food-bank-for-the-heartland/352116836",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sarah Kalhorn-Wisecup",
+      "summary": "Food Bank for the Heartland — Major Gifts Officer",
+      "fit_score": 8,
+      "fit_reason": "Major gifts officer handling major donor relationships and cultivation; core development role",
+      "source_query": "hunter:w2026-08-30f:heartland",
+      "meta": {
+        "tier": "B",
+        "role": "Major Gifts Officer",
+        "target_org": "Food Bank for the Heartland",
+        "evidence_url": "https://foodbankheartland.org/who-we-are/leadership-board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Edwin Lyons",
+      "summary": "Food Bank for the Heartland — Major Gifts Officer",
+      "fit_score": 8,
+      "fit_reason": "Major gifts officer managing major donor relationships; responsible for advancing key gifts strategy",
+      "source_query": "hunter:w2026-08-30f:heartland",
+      "meta": {
+        "tier": "B",
+        "role": "Major Gifts Officer",
+        "target_org": "Food Bank for the Heartland",
+        "evidence_url": "https://foodbankheartland.org/who-we-are/leadership-board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brian Barks",
+      "summary": "Food Bank for the Heartland — President & CEO",
+      "fit_score": 7,
+      "fit_reason": "Executive leadership; formerly Director of Philanthropy & Communications; strategic philanthropy oversight",
+      "source_query": "hunter:w2026-08-30f:heartland",
+      "meta": {
+        "tier": "C",
+        "role": "President & CEO",
+        "target_org": "Food Bank for the Heartland",
+        "evidence_url": "https://foodbankheartland.org/brian-barks/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "negatives": [
+    {
+      "name": "Associate Director of Advancement Services and Capital Campaign Operations",
+      "reason": "platform_not_person",
+      "note": "Role mentioned but no individual name provided in search results"
+    },
+    {
+      "name": "Corporate Relations Officer",
+      "reason": "platform_not_person",
+      "note": "Position title only; no individual identified"
+    },
+    {
+      "name": "Gift Processing Specialist",
+      "reason": "platform_not_person",
+      "note": "Position title only; no individual identified"
+    },
+    {
+      "name": "Foundation Relations Officer",
+      "reason": "platform_not_person",
+      "note": "Position title only; no individual identified"
+    },
+    {
+      "name": "Susan Ogborn",
+      "reason": "no_longer_current",
+      "note": "Former President & CEO; no longer with organization"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Food Bank for the Heartland staff development director fundraising",
+      "source": "WebSearch",
+      "outcome": "success",
+      "people_found": 1,
+      "notes": "Found ZoomInfo directory reference and leadership/board page URL"
+    },
+    {
+      "query": "\"Food Bank for the Heartland\" advancement philanthropy Omaha",
+      "source": "WebSearch",
+      "outcome": "success",
+      "people_found": 1,
+      "notes": "Identified Brian Barks as CEO with philanthropy background; found new facility info"
+    },
+    {
+      "query": "\"Food Bank for the Heartland\" donor relations major gifts",
+      "source": "WebSearch",
+      "outcome": "success",
+      "people_found": 2,
+      "notes": "Named Sarah Kalhorn-Wisecup and Edwin Lyons as Major Gifts Officers"
+    },
+    {
+      "query": "Food Bank Heartland Omaha annual fund individual giving staff",
+      "source": "WebSearch",
+      "outcome": "success",
+      "people_found": 1,
+      "notes": "Confirmed development team structure; individual giving at 37.7% of revenue"
+    },
+    {
+      "query": "\"Food Bank for the Heartland\" executive team leadership board",
+      "source": "WebSearch",
+      "outcome": "success",
+      "people_found": 1,
+      "notes": "Confirmed Brian Barks; noted women comprise 3/4 of leadership team"
+    },
+    {
+      "query": "site:foodbankheartland.org staff team leadership",
+      "source": "WebSearch",
+      "outcome": "success",
+      "people_found": 0,
+      "notes": "Found leadership page references; Jason mentioned as Director of Food Procurement (operations, not development)"
+    }
+  ],
+  "summary": {
+    "total_people_identified": 4,
+    "tier_b_count": 3,
+    "tier_c_count": 1,
+    "search_queries_used": 6,
+    "crm_incumbent": "Not publicly named",
+    "research_date": "2026-08-30",
+    "status": "Complete roster with 3 Tier B development staff and 1 Tier C executive identified"
+  }
+}

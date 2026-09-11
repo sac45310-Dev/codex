@@ -1,0 +1,218 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "prospector:sports_ministry",
+  "people": [],
+  "orgs_discovered": [
+    {
+      "org_name": "Soccer Chaplains United",
+      "website": "https://soccerchaplainsunited.org",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "headcount_est": 15,
+      "faith_orientation": "christian",
+      "evidence": "501(c)3 nonprofit offering chaplaincy services to soccer community. Accepts donations to support chaplaincy work and development. Evidence of structured development model with chaplaincy programs."
+    },
+    {
+      "org_name": "USA Sport Chaplains (USCSC)",
+      "website": "https://uscsc03.com",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "headcount_est": 20,
+      "faith_orientation": "christian",
+      "evidence": "Christian-based 501(c)3 nonprofit founded by Dr. Madeline Manning Mims (four-time Olympian). Establishes presence of certified Sport Chaplains serving sports community through pastoral care and Christian outreach. Mission-driven staff supporting athlete ministry."
+    },
+    {
+      "org_name": "Champions for Christ",
+      "website": "https://championsforchristi.org",
+      "org_type": "ministry",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "headcount_est": 40,
+      "faith_orientation": "christian",
+      "evidence": "Established 1985, outreach to college and professional athletes with branches on 40 college campuses. Organizes annual conference for college athletes. Ministry staff serving at multiple campuses indicates personal support-raising structure."
+    },
+    {
+      "org_name": "Motor Racing Outreach (MRO)",
+      "website": "https://www.motorracingoutreach.org",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "headcount_est": 12,
+      "faith_orientation": "christian",
+      "evidence": "Christian sports ministry focused on motorsports community. Operates chaplaincy and outreach programs with staff serving professional racing environments."
+    },
+    {
+      "org_name": "Pro Athletes Outreach",
+      "website": "https://www.proathletesoutreach.org",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "headcount_est": 18,
+      "faith_orientation": "christian",
+      "evidence": "Christian outreach organization serving professional and amateur athletes. Ministry-focused structure suggests personal support fundraising model common in missionary organizations."
+    },
+    {
+      "org_name": "Action Sports Outreach",
+      "website": "https://www.actionsportsoutreach.org",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "A",
+      "headcount_est": 8,
+      "faith_orientation": "christian",
+      "evidence": "Faith-based 501(c)3 nonprofit committed to sharing message of Jesus Christ through extreme sports demonstrations and athlete ministry."
+    },
+    {
+      "org_name": "Christians Working in Sports (CWS)",
+      "website": "https://www.cws.uncommonsg.org",
+      "org_type": "network",
+      "size_estimate": "small",
+      "tier_profile": "C",
+      "headcount_est": 25,
+      "faith_orientation": "christian",
+      "evidence": "Community of believers in college and professional sports. Serves professionals and staff in sports industry with Christian discipleship and fellowship."
+    },
+    {
+      "org_name": "Upward Sports",
+      "website": "https://www.upwardsports.org",
+      "org_type": "ministry",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "headcount_est": 80,
+      "faith_orientation": "christian",
+      "evidence": "Major Christian youth sports organization. Operates through local church partnerships and has development/advancement staff structure for fundraising."
+    },
+    {
+      "org_name": "Christian Basketball Association Inc",
+      "website": "https://www.christianbasketballassociation.org",
+      "org_type": "ministry",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "headcount_est": 6,
+      "faith_orientation": "christian",
+      "evidence": "Bridge ministry to unchurched through amateur basketball competition. Operates as 501(c)3 with programming staff."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "sports ministry nonprofit organizations USA fundraising personal support",
+      "outcome": "offtopic",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "athletic chaplain fellowship Christianity nonprofit USA",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "FCA Fellowship Christian Athletes alternative organizations",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "professional sports ministry chaplaincy organizations nonprofit USA",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "college athlete ministry nonprofit fundraising staff",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Christian athlete outreach ministry organizations personal support fundraising",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "sports ministry nonprofit development director or advancement officer staff",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "faith-based athletic programs nonprofit organizations chaplaincy USA",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Christian coaches fellowship ministry organizations nonprofit USA",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "amateur sports ministry organizations Christianity USA staff support",
+      "outcome": "found_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Fellowship of Christian Athletes (FCA)",
+      "website": "https://www.fca.org",
+      "reason_code": "already_in_crm",
+      "detail": "In skip list - already covered in previous wave"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Athletes in Action",
+      "website": "https://athletesinaction.org",
+      "reason_code": "already_in_crm",
+      "detail": "In skip list - ministry of Cru, already covered"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Cru (Campus Crusade for Christ)",
+      "website": "https://www.cru.org",
+      "reason_code": "already_in_crm",
+      "detail": "In skip list - parent organization, already covered"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Professional Soccer Chaplains Association (PSCA)",
+      "website": "https://www.prosoccerchaplains.org",
+      "reason_code": "too_institutional",
+      "detail": "Appears to be confederation/association of chaplains rather than primary ministry organization with personal fundraising staff"
+    },
+    {
+      "entity_kind": "org",
+      "name": "InterVarsity Christian Fellowship",
+      "website": "https://intervarsity.org",
+      "reason_code": "conference_training",
+      "detail": "Campus ministry focused on general Christian discipleship; not sports-specific ministry"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Chaplain Fellowship Ministries International Inc",
+      "website": "https://projects.propublica.org/nonprofits/organizations/810547522",
+      "reason_code": "too_institutional",
+      "detail": "Appears to be umbrella/training organization rather than direct sports ministry with field staff"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Christian Leadership Institute",
+      "website": "https://www.christianleadersinstitute.org",
+      "reason_code": "conference_training",
+      "detail": "Training provider for sports chaplains; not direct ministry organization with support-raising staff"
+    },
+    {
+      "entity_kind": "org",
+      "name": "The Fellowship (Fellowship Foundation)",
+      "website": "https://en.wikipedia.org/wiki/The_Fellowship_(Christian_organization)",
+      "reason_code": "too_institutional",
+      "detail": "Political/religious organization focused on decision-maker fellowship; not sports ministry"
+    }
+  ],
+  "needs_review": []
+}

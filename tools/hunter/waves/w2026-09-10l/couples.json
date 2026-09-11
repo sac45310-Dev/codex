@@ -1,0 +1,1007 @@
+{
+  "wave_id": "w2026-09-10l",
+  "agent": "focus-couples",
+  "target_org": "FOCUS",
+  "slice": "couple and family pages across the whole site",
+  "searches_used": 20,
+  "people": [
+    {
+      "name": "John Michael Lucido",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Sr. Director of Collegiate Outreach, South/West Areas",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/john-michael-and-emily-lucido/",
+      "fit_reason": "Tier A; FOCUS missionaries raise 100% of salary. Shape 1 couple slug names both spouses plus shared surname; title 'John Michael and Emily Lucido'. Children Eden, Judah, Lawrence excluded per children rule."
+    },
+    {
+      "name": "Emily Lucido",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/john-michael-and-emily-lucido/",
+      "fit_reason": "Tier A; spouse, named in slug and title. Shared couple giving page with John Michael Lucido."
+    },
+    {
+      "name": "David Hickson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (FOCUS Europe, Dusseldorf, Germany)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/david-hickson/",
+      "fit_reason": "Tier A; slug carries first name and surname. Title 'David and Linda Hickson Family'."
+    },
+    {
+      "name": "Linda Hickson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (FOCUS Europe, Dusseldorf, Germany)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/david-hickson/",
+      "fit_reason": "Tier A; SHAPE 2 — slug omits her (david-hickson) but the page TITLE 'David and Linda Hickson Family' names her on the shared family giving page. Children Therese, John Paul, Josef, Michael excluded."
+    },
+    {
+      "name": "David Wentworth",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (former Team Director)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/david-and-catherine-wentworth/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname."
+    },
+    {
+      "name": "Catherine Wentworth",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (Georgia Southern University)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/david-and-catherine-wentworth/",
+      "fit_reason": "Tier A; spouse named in slug and title. Children Lucy, Judah, Maria, Annie excluded per children rule."
+    },
+    {
+      "name": "Eric Macsay",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (University of Northern Iowa)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/macsay/",
+      "fit_reason": "Tier A; SHAPE 2 — slug is the surname only ('macsay'), the TITLE 'Eric and Teressa Macsay' names him. Surname ties URL to the family page."
+    },
+    {
+      "name": "Teressa Macsay",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (University of Northern Iowa)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/macsay/",
+      "fit_reason": "Tier A; SHAPE 2 — slug omits her first name; TITLE 'Eric and Teressa Macsay' names her on the shared family giving page."
+    },
+    {
+      "name": "Brennan Connelly",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/brennan-lizzy-connelly/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname."
+    },
+    {
+      "name": "Lizzy Connelly",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/brennan-lizzy-connelly/",
+      "fit_reason": "Tier A; spouse named in slug and title 'Brennan & Lizzy Connelly'. Daughter Miriam excluded per children rule."
+    },
+    {
+      "name": "Isaac Nieto",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (UW-Stevens Point)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/isaac-nieto/",
+      "fit_reason": "Tier A; slug carries first name and surname."
+    },
+    {
+      "name": "Anna Nieto",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (UW-Stevens Point)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/isaac-nieto/",
+      "fit_reason": "Tier A; SHAPE 2 — slug omits her but the TITLE 'Isaac and Anna Nieto' names her on the shared family page. Children Joseph Dominic and Magdala Clare excluded per children rule."
+    },
+    {
+      "name": "Andy Foy",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Parish Missionary (Christ the King University Parish, Missoula, MT)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/andy-katie-foy/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname."
+    },
+    {
+      "name": "Katie Foy",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Parish Missionary (Christ the King University Parish, Missoula, MT)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/andy-katie-foy/",
+      "fit_reason": "Tier A; spouse named in slug and title 'Andy & Katie Foy'."
+    },
+    {
+      "name": "Nik Ruby",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director (University of Kentucky)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/nik-and-alex-ruby/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname."
+    },
+    {
+      "name": "Alex Ruby",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (University of Kentucky)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/nik-and-alex-ruby/",
+      "fit_reason": "Tier A; spouse named in slug and title 'Nik and Alex Ruby'."
+    },
+    {
+      "name": "Collin Likover",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/collin-and-alexandra-likover/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname."
+    },
+    {
+      "name": "Alexandra Likover",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/collin-and-alexandra-likover/",
+      "fit_reason": "Tier A; spouse named in slug and title 'Collin and Alexandra Likover'. Daughter Josephine excluded per children rule."
+    },
+    {
+      "name": "Jake Barajas",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (inaugural Team Director, San Jose State University)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/jake-adrienne-barajas/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname."
+    },
+    {
+      "name": "Adrienne Barajas",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/jake-adrienne-barajas/",
+      "fit_reason": "Tier A; spouse named in slug and title 'Jake and Adrienne Barajas'."
+    },
+    {
+      "name": "Michael Gearing",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/mike-and-julia-gearing",
+      "fit_reason": "Tier A; slug 'mike-and-julia-gearing' carries his familiar first name and the shared surname; title 'Michael Gearing'."
+    },
+    {
+      "name": "Julia Gearing",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/mike-and-julia-gearing",
+      "fit_reason": "Tier A; spouse named in the couple slug with the shared surname, though the page title shows only 'Michael Gearing'."
+    },
+    {
+      "name": "Austin Miller",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Senior Specialist, Formation team",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/austin-and-adriana-miller/",
+      "fit_reason": "Tier A; FOCUS home-office/formation staff raise personal support like campus missionaries. Shape 1 couple slug names both plus shared surname."
+    },
+    {
+      "name": "Adriana Miller",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/austin-and-adriana-miller/",
+      "fit_reason": "Tier A; spouse named in slug and title 'Austin and Adriana Miller'."
+    },
+    {
+      "name": "Mike Huelsing",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Sr. Manager, Parish Diocesan Relations (Denver national office)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/mike-andrea-huelsing/",
+      "fit_reason": "Tier A; a support-function/home-office role is not a tier signal at FOCUS. Shape 1 couple slug names both plus shared surname; title 'Mike Huelsing'."
+    },
+    {
+      "name": "Andrea Huelsing",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary, Alumni Team",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/mike-andrea-huelsing/",
+      "fit_reason": "Tier A; spouse named in the couple slug with the shared surname (title shows only 'Mike Huelsing'). Children Ben, Max, Louis, Zelie, Colette excluded per children rule."
+    },
+    {
+      "name": "Conner Wurth",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Data Analyst, FOCUS headquarters (Denver)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/conner-and-jennifer-wurth/",
+      "fit_reason": "Tier A; home-office analyst role still sits on a per-person FOCUS giving page. Shape 1 couple slug names both plus shared surname."
+    },
+    {
+      "name": "Jennifer Wurth",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/conner-and-jennifer-wurth/",
+      "fit_reason": "Tier A; spouse named in the couple slug with the shared surname. Children Isabel, Joseph, Augustine, Stella excluded per children rule."
+    },
+    {
+      "name": "Neil Blanchard",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (Denver)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/neil-mary-blanchard/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname; title 'Neil and Mary Blanchard'."
+    },
+    {
+      "name": "Mary Blanchard",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (Denver)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/neil-mary-blanchard/",
+      "fit_reason": "Tier A; spouse named in slug and title 'Neil and Mary Blanchard'."
+    },
+    {
+      "name": "John Collins",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director (University of Wisconsin - La Crosse)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/john-collins/",
+      "fit_reason": "Tier A; slug carries first name and surname."
+    },
+    {
+      "name": "Caitlin Collins",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (University of Wisconsin - La Crosse)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/john-collins/",
+      "fit_reason": "Tier A; SHAPE 2 — slug omits her (john-collins) but the TITLE 'John and Caitlin Collins' names her on the shared family giving page."
+    },
+    {
+      "name": "Amber Manfre",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/amber-peter-manfre/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname; title 'Amber & Peter Manfre'."
+    },
+    {
+      "name": "Peter Manfre",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/amber-peter-manfre/",
+      "fit_reason": "Tier A; spouse named in slug and title. Daughters Catherine Rose and Mary Josephine excluded per children rule."
+    },
+    {
+      "name": "Curtis Martin",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Founder",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/curtis-michaelann-martin/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname; title 'Curtis & Michaelann Martin'."
+    },
+    {
+      "name": "Michaelann Martin",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/curtis-michaelann-martin/",
+      "fit_reason": "Tier A; spouse named in slug and title 'Curtis & Michaelann Martin'."
+    },
+    {
+      "name": "Jimmy Chang",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/chang/",
+      "fit_reason": "Tier A; SHAPE 2 — slug is the surname only ('chang'); the TITLE 'Jimmy and Melissa Chang' names him on the shared family giving page."
+    },
+    {
+      "name": "Melissa Chang",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/chang/",
+      "fit_reason": "Tier A; SHAPE 2 — slug is the surname only; the TITLE 'Jimmy and Melissa Chang' names her on the shared family giving page."
+    },
+    {
+      "name": "Marcus Schoch",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (15th year)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/marcus-schoch/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Marcus and Kelsie Schoch'."
+    },
+    {
+      "name": "Kelsie Schoch",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/marcus-schoch/",
+      "fit_reason": "Tier A; SHAPE 2 — slug omits her (marcus-schoch) but the TITLE 'Marcus and Kelsie Schoch' names her on the shared family giving page."
+    },
+    {
+      "name": "Shea McMahon",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (Univ. of Southampton, then Queen's University Belfast)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/shea-mickel-mcmahon/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname; title 'Shea and Mickel McMahon'."
+    },
+    {
+      "name": "Mickel McMahon",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (Southampton, England)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/shea-mickel-mcmahon/",
+      "fit_reason": "Tier A; spouse named in slug and title 'Shea and Mickel McMahon'."
+    },
+    {
+      "name": "Christian Corrao",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/christian-corrao/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Christian & Taylor Corrao'."
+    },
+    {
+      "name": "Taylor Corrao",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/christian-corrao/",
+      "fit_reason": "Tier A; SHAPE 2 — slug omits her (christian-corrao) but the TITLE 'Christian & Taylor Corrao' names her on the shared family giving page."
+    },
+    {
+      "name": "Dominic Paolucci",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Vice President of Collegiate Outreach (Denver national office)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/dominic-and-kelly-paolucci/",
+      "fit_reason": "Tier A; national-office leadership still sits on a per-person FOCUS giving page. Shape 1 couple slug names both plus shared surname; title 'Dominic Paolucci'."
+    },
+    {
+      "name": "Kelly Paolucci",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (Denver national office)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/dominic-and-kelly-paolucci/",
+      "fit_reason": "Tier A; spouse named in the couple slug with the shared surname (title shows only 'Dominic Paolucci'); serving with FOCUS since 2010."
+    },
+    {
+      "name": "Brandon Holy",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (Colorado State University)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/brandon-and-cate-holy/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname; title 'Brandon and Cate Holy'."
+    },
+    {
+      "name": "Cate Holy",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (Colorado State University)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/brandon-and-cate-holy/",
+      "fit_reason": "Tier A; spouse named in slug and title 'Brandon and Cate Holy'."
+    },
+    {
+      "name": "Jonathan O'Brien",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director (Texas A&M University)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/jonathan-obrien/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Jonathan & Lauren O'Brien'."
+    },
+    {
+      "name": "Lauren O'Brien",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (Texas A&M University)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/jonathan-obrien/",
+      "fit_reason": "Tier A; SHAPE 2 — slug omits her (jonathan-obrien) but the TITLE 'Jonathan & Lauren O'Brien' names her on the shared family giving page."
+    },
+    {
+      "name": "Quinn Cowan",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/quinn-emily-cowan/",
+      "fit_reason": "Tier A; shape 1 couple slug names both plus shared surname; title 'Quinn & Emily Cowan'."
+    },
+    {
+      "name": "Emily Cowan",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/quinn-emily-cowan/",
+      "fit_reason": "Tier A; spouse named in slug and title 'Quinn & Emily Cowan'."
+    },
+    {
+      "name": "Adam Bremerkamp",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Parish Missionary (Immaculate Conception Parish, Dardenne Prairie, MO)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/bremerkamps/",
+      "fit_reason": "Tier A; family page whose slug is the pluralised surname ('bremerkamps') and whose title 'Adam Bremerkamp' names him. Spouse named only in body text, not slug or title, so she is in needs_review rather than emitted."
+    },
+    {
+      "name": "Mark Joseph",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/mark-joseph-family/",
+      "fit_reason": "Tier A; family page slug 'mark-joseph-family' carries his first name and surname; title 'Mark Joseph'. Spouse named only in body text, so she is in needs_review rather than emitted."
+    },
+    {
+      "name": "Josh Funderburk",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Parish Missionary (Christ the King, Tulsa, OK)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/joshua-funderburk/",
+      "fit_reason": "Tier A; slug 'joshua-funderburk' carries his name; title 'Josh Funderburk'. Spouse named only in body text, so she is in needs_review rather than emitted."
+    },
+    {
+      "name": "Ryan Brisnehan",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ryan-brisnehan/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Ryan Brisnehan'. Spouse named only in body text, so she is in needs_review. Daughter Pia Lumen excluded per children rule."
+    },
+    {
+      "name": "Timothy Broderick",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Team Director (University of Pennsylvania)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/timothy-broderick/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Timothy Broderick'. Spouse named only in body text, so she is in needs_review. Daughter Catherine excluded per children rule."
+    },
+    {
+      "name": "Mary Grace Matson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (The Ohio State University)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/mary-grace-matson/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Mary Grace Matson'. Husband named only in body text, so he is in needs_review rather than emitted."
+    },
+    {
+      "name": "Kallin Hill",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/kallin-hill/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Kallin Hill'. Husband is described as FOCUS staff but is named only in body text, so he is in needs_review rather than emitted."
+    },
+    {
+      "name": "Hanna Richter",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/hanna-richter/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Hanna Richter'. Page describes a family on mission but no spouse is named in slug or title. Children PJ and Reese excluded per children rule."
+    },
+    {
+      "name": "Alice Ayers",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Program Director, FOCUS Europe (Ireland, U.K., Germany, Austria)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/alice-ayers/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Alice Ayers'. Husband named only in body text with no confirmed surname, so he is in needs_review rather than emitted."
+    },
+    {
+      "name": "Jared Spooner",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary (University of Mary)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/jared-spooner/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Jared Spooner'. Described as on mission as husband and wife but the wife is not named in slug or title, so she is not emitted."
+    },
+    {
+      "name": "Jeremy Cassidy",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/jeremy-cassidy/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Jeremy Cassidy'. Single-name page surfaced inside the couple slice."
+    },
+    {
+      "name": "Erin Falbo",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/erin-scanlan-falbo/",
+      "fit_reason": "Tier A; slug 'erin-scanlan-falbo' carries her first name and married surname; title 'Erin Falbo'."
+    },
+    {
+      "name": "Christina Augustine",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Parish Missionary and Regional Director (Philadelphia)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/christina-augustine-sanchez/",
+      "fit_reason": "Tier A; title 'Christina Augustine'; slug 'christina-augustine-sanchez' carries her name plus an additional surname element (likely maiden/married pairing)."
+    },
+    {
+      "name": "Matthew Russell",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/matthew-russell/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Matthew Russell'."
+    },
+    {
+      "name": "Andrew DeCelle",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/andrew-decelle/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Andrew DeCelle'."
+    },
+    {
+      "name": "Emma Wilkinson",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/emma-wilkinson/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Emma Wilkinson'. Her page names other relatives (Joshua, Nicole and their children) who are NOT the page subject and are not emitted."
+    },
+    {
+      "name": "Christian Cappello",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Digital Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/christian-cappello/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Christian Cappello'."
+    },
+    {
+      "name": "Candace Coleman",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/candace-coleman/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Candace Coleman'."
+    },
+    {
+      "name": "Simon Bickford",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/simon-bickford/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Simon Bickford'."
+    },
+    {
+      "name": "Patrick Harkins",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/patrick-harkins/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Patrick Harkins'."
+    },
+    {
+      "name": "Kyle Bergman",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/kyle-bergman/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Kyle Bergman'."
+    },
+    {
+      "name": "Francesca Fructuoso",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/francesca-fructuoso/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Francesca Fructuoso'."
+    },
+    {
+      "name": "Brendan Burke",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/brendan-burke/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Brendan Burke'."
+    },
+    {
+      "name": "Taylor Garcia",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/taylor-garcia/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Taylor Garcia'."
+    },
+    {
+      "name": "Benjamin Angel",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/benjamin-angel/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Benjamin Angel'."
+    },
+    {
+      "name": "Ashley Miller",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ashley-miller/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Ashley Miller'."
+    },
+    {
+      "name": "Aleksandra Gaska",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/aleksandra-gaska/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Aleksandra Gaska'."
+    },
+    {
+      "name": "Ashwin Mannur",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/ashwin-mannur/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Ashwin Mannur'."
+    },
+    {
+      "name": "Matthew Livingston",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/matthew-livingston/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Matthew Livingston'."
+    },
+    {
+      "name": "Jaden Henley",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/jaden-henley/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Jaden Henley'."
+    },
+    {
+      "name": "Alice Major",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/alice-major/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Alice Major'."
+    },
+    {
+      "name": "Jacob Daulton",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/jacob-daulton/",
+      "fit_reason": "Tier A; slug carries first name and surname; title 'Jacob Daulton'."
+    },
+    {
+      "name": "Kate Burgess",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/katherine-burgess/",
+      "fit_reason": "Tier A; slug 'katherine-burgess' carries her formal first name and surname; title 'Kate Burgess'."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "focus.org/missionaries \"and\" family page married couple",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"serve together\" husband wife FOCUS missionary support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org/missionaries \"Family\" FOCUS missionary page children Denver",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"focus.org/missionaries\" \"and\" couple \"Team Director\" wife married campus",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"his wife\" \"their children\" FOCUS missionary profile",
+      "outcome": "no_people",
+      "note": "Returned a single page (emma-wilkinson) whose 'his wife / their children' text is about relatives who are not FOCUS staff. This phrasing is a trap for the children rule, not a couple finder."
+    },
+    {
+      "kind": "query",
+      "value": "\"focus.org/missionaries\" \"-and-\" FOCUS missionary couple support page",
+      "outcome": "no_people",
+      "note": "Hyphen-in-slug syntax is not honoured; returned mostly hub pages (find-a-missionary, give/all-missionaries) plus already-held single pages."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"we were married\" \"our children\" FOCUS missionary couple campus",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries couple page -Wentworth -Lucido -Connelly -Hickson -Nieto -Foy -Macsay -Manfre -Ruby -Barajas",
+      "outcome": "no_people",
+      "note": "Negative surname exclusions were IGNORED by the engine — every excluded surname came back. Exclusion-based depth does not work on this domain; rotate qualifiers instead."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Parish Missionary\" couple \"and\" wife parish",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Area Director\" OR \"Regional Director\" \"and his wife\" FOCUS",
+      "outcome": "offtopic",
+      "note": "Returned speaker bios, press-room and Altum newsletter pages, not /missionaries/ pages. Named leaders (Bartek, Draftz, Schmidt) had no citable personal giving page, so none were emitted."
+    },
+    {
+      "kind": "query",
+      "value": "\"focus.org/missionaries\" \"&\" ampersand missionary couple names page",
+      "outcome": "no_people",
+      "note": "Only one couple page (manfre) already held; rest were single-name pages."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"welcomed their son\" OR \"welcomed their daughter\" FOCUS missionary family page",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Family - FOCUS.org\" missionaries",
+      "outcome": "found_people",
+      "note": "BEST QUERY OF THE SLICE for shape 2. Searching the literal title suffix surfaced surname-only slugs (macsay, chang, bremerkamps) and single-name slugs with two-name titles (marcus-schoch, david-hickson, mark-joseph-family)."
+    },
+    {
+      "kind": "query",
+      "value": "\"Family - FOCUS.org\" missionaries -Hickson -Nieto -Chang -Macsay -Bremerkamp -Schoch -Joseph -Wentworth -Lucido -Manfre",
+      "outcome": "no_people",
+      "note": "Second confirmation that negative exclusions are ignored on this domain — identical result set to the unexcluded query."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"on mission together\" OR \"married missionaries\" FOCUS couple University",
+      "outcome": "found_people",
+      "note": "Only three results returned but all three were couple pages, two of them new."
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"&\" FOCUS.org couple title alumni Denver national office staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries Europe England Ireland Austria couple married serving FOCUS missionary page",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"Digital Campus\" OR \"Coach\" couple husband wife FOCUS missionary give",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "focus.org missionaries \"and\" title couple slug two names Ohio Texas Arizona serving students FOCUS give page",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"- FOCUS.org\" missionaries \"and\" wife title Colorado Virginia Pennsylvania missionary couple serve students",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Spouse named only in body text — not in slug and not in page title",
+      "finding": "A recurring FOCUS shape sits between the BRIEF's shape 1 and shape 2: the page is plainly a married-couple/family page and the snippet names the spouse, but the slug names only the missionary and the TITLE names only the missionary. Per the BRIEF grading table ('neither the slug nor the title names them → do not emit') these spouses were withheld. Affected pages and the body-only spouse first names: /missionaries/joshua-funderburk/ (Lindsay), /missionaries/bremerkamps/ (Maria), /missionaries/mark-joseph-family/ (Amy), /missionaries/ryan-brisnehan/ (Abby), /missionaries/timothy-broderick/ (Emily), /missionaries/mary-grace-matson/ (Blake), /missionaries/kallin-hill/ (Stephen, himself described as a FOCUS senior financial analyst), /missionaries/alice-ayers/ (Matthew, surname not stated).",
+      "evidence": "Search snippets, e.g. 'Josh Funderburk and his wife Lindsay are serving as FOCUS Parish Missionaries at Christ The King in Tulsa'; 'Adam and Maria Bremerkamp serve as FOCUS Parish Missionaries'; 'Mark and Amy Joseph, along with Nathan, Elizabeth, Clara and Miriam'. In each case the indexed <title> shows only the one name.",
+      "recommendation": "Eight likely Tier A adults are being left on the table by the slug/title-only rule. Since page fetching was blocked here, a reviewer with fetch access should open these eight URLs and confirm the spouse is an adult FOCUS missionary rather than a relative, then admit them against the same source_url. If this shape is common site-wide, consider a third grading row in the next brief: 'spouse named in body as wife/husband on a shared family giving page'."
+    },
+    {
+      "issue": "Cannot distinguish spouse from child",
+      "finding": "One snippet rendered as 'Eric, Teressa, and Anastasia Macsay are FOCUS missionaries who serve students at the University of Northern Iowa'. Anastasia is listed in the same series as the two adults, which reads like a third missionary, but the page TITLE is 'Eric and Teressa Macsay' — implying Anastasia is a child.",
+      "evidence": "https://focus.org/missionaries/macsay/ — title 'Eric and Teressa Macsay'; body snippet naming a third Macsay.",
+      "recommendation": "Withheld per the children rule (title names only two adults). Do not admit Anastasia Macsay without a fetch confirming she is an adult staff member."
+    },
+    {
+      "issue": "First name published as initials only",
+      "finding": "/missionaries/jj-nazzaro/ is titled 'JJ Nazzaro'. The surname is published in full and the slug carries it, so this is not an agency anonymization (unlike the SEND/Converge initial-slug pattern the standing rules cover) — it appears to be a personal nickname. Withheld from people[] anyway because no given name is available.",
+      "evidence": "https://focus.org/missionaries/jj-nazzaro/ — title 'JJ Nazzaro'.",
+      "recommendation": "Admit as 'JJ Nazzaro' if the CRM tolerates a nickname first name; otherwise leave withheld. This is a real, publicly named FOCUS missionary, not a protected worker."
+    },
+    {
+      "issue": "Named FOCUS leaders with spouses but no citable /missionaries/ page",
+      "finding": "The Area/Regional Director query surfaced Mark Bartek (East Area Director, wife Angie), Hilary Draftz (West Area Director, husband Tim) and Greg Schmidt (former regional director, wife Elli) — all on focus.org speaker/press pages, not on per-person giving pages.",
+      "evidence": "https://focus.org/about/speakers/ and https://focus.org/about/news-press-room/focus-in-the-news/",
+      "recommendation": "Not emitted: citing a speakers page as personal_page would be a false citation, and Greg Schmidt is described as a FORMER staffer. A reviewer could check whether /missionaries/ slugs exist for Bartek and Draftz; if so they are shape-2 couple pages worth two records each."
+    },
+    {
+      "issue": "Search engine ignores negative exclusions on this domain",
+      "finding": "Two separate exclusion queries (searches 7 and 12) returned result sets identical to their unexcluded counterparts — every '-surname' term came back in the results.",
+      "evidence": "Query 'focus.org missionaries couple page -Wentworth -Lucido ...' returned Wentworth, Lucido, Connelly and Foy; query '\"Family - FOCUS.org\" missionaries -Hickson -Nieto ...' returned all ten excluded surnames.",
+      "recommendation": "For the next FOCUS wave, drop the '-surname' depth technique from the standing method for this target and budget those searches on qualifier rotation instead. The productive axis was the literal indexed-title suffix ('Family - FOCUS.org'), which is what exposed the surname-only and single-name-slug family pages."
+    },
+    {
+      "issue": "Search budget overrun — self-reported",
+      "finding": "Assigned budget was 18 WebSearch searches; 20 were actually issued. I lost the running count around search 13 and only caught the discrepancy when reconciling coverage[] against searches_used at write time.",
+      "evidence": "coverage[] contains 20 distinct query entries, each corresponding to one issued WebSearch call.",
+      "recommendation": "Treat searches_used=20 as the true figure for this slice when costing the wave. The last two searches (the Ohio/Texas/Arizona and Colorado/Virginia/Pennsylvania title sweeps) each returned new couple pages, so the overrun was productive, but the count is still over budget."
+    }
+  ]
+}

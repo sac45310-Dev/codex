@@ -1,0 +1,262 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "prospector:secular2",
+  "people": [],
+  "orgs_discovered": [
+    {
+      "org_name": "FOUR PAWS International",
+      "website": "https://www.four-paws.org",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "International animal welfare organization with active major gifts officer recruitment for USA operations; established nonprofit with professional fundraising infrastructure"
+    },
+    {
+      "org_name": "Wild Animal Initiative",
+      "website": "https://www.wildanimalinitiative.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Animal welfare research and advocacy nonprofit recruiting for major gifts officer position; demonstrates individual donor focus"
+    },
+    {
+      "org_name": "Philadelphia Animal Welfare Society (PAWS)",
+      "website": "https://phillypaws.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Mid-size animal welfare nonprofit in Philadelphia employing 60+ staff with active major gifts officer recruitment; strong individual donor base"
+    },
+    {
+      "org_name": "Animal Protection New Mexico",
+      "website": "https://www.apnm.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Regional animal welfare nonprofit with major gifts officer position; demonstrates individual donor fundraising model"
+    },
+    {
+      "org_name": "Sage Compassion for Animals",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Small animal welfare nonprofit offering remote development director role; indicates individual donor fundraising program"
+    },
+    {
+      "org_name": "Mohonk Preserve",
+      "website": "https://www.mohonkpreserve.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "headcount_est": 30,
+      "faith_orientation": "secular",
+      "evidence": "New York conservation nonprofit with established development team; manages 8000+ acres; demonstrates individual donor and membership revenue model"
+    },
+    {
+      "org_name": "BELONG Partners",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Seattle-based nonprofit with director of advancement position ($85K-$115K salary range); active fundraising and donor relationship management"
+    },
+    {
+      "org_name": "LA Promise Fund",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Los Angeles nonprofit with Sr. Associate Director of Advancement position; manages individual giving, corporate sponsorship, and special events"
+    },
+    {
+      "org_name": "BRAC USA",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "New York-based human services nonprofit actively recruiting director of individual philanthropy to lead comprehensive individual giving strategy"
+    },
+    {
+      "org_name": "Princeton Area Community Foundation",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Community foundation with senior philanthropy director managing major gift cultivation and individual donor relationships"
+    },
+    {
+      "org_name": "Community Foundation Tampa Bay",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Community foundation with senior director of philanthropy focused on cultivating individual donors and fundholders"
+    },
+    {
+      "org_name": "Community Foundation for Greater Richmond",
+      "website": "https://www.cfrichmond.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Virginia community foundation with development team managing donor relationships and strategic fundraising"
+    },
+    {
+      "org_name": "South Dakota Community Foundation",
+      "website": "https://www.sdcommunityfoundation.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Regional community foundation with development director collaborating with donors and nonprofits to facilitate philanthropy"
+    },
+    {
+      "org_name": "LGBTQ Victory Fund and Institute",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Issue-advocacy nonprofit with active director of major gifts recruitment; focuses on securing large individual donations"
+    },
+    {
+      "org_name": "Give Kids the World",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Mid-size nonprofit with director of individual giving/major gifts position managing donor portfolios and cultivation"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "nonprofit animal welfare development director major gifts officer",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "small nonprofit arts advancement officer donor relations fundraiser",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "nonprofit human services development staff community foundation",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "conservation nonprofit director of development major donor fundraising",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "secular nonprofit fundraising director regional organization individual donors",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "PAWS Philadelphia Animal Welfare Society development team staff",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Mohonk Preserve conservation nonprofit development fundraising staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"development director\" OR \"major gifts\" nonprofit 501c3 individual donors -church",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "small mid-size nonprofit advancement director secular organization job posting 2025 2026",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "community foundation \"director of development\" OR \"senior philanthropy\" staff",
+      "outcome": "found_people",
+      "people_found": 3
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Development Director - Sage Compassion for Animals",
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Director of Advancement - BELONG Partners",
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Sr. Associate Director of Advancement - LA Promise Fund",
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Director of Individual Philanthropy - BRAC USA",
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Senior Director of Philanthropy - Princeton Area Community Foundation",
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Director of Philanthropy - Community Foundation Tampa Bay",
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Director of Development - Community Foundation for Greater Richmond",
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Director of Major Gifts - LGBTQ Victory Fund and Institute",
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Director of Individual Giving and Major Gifts - Give Kids the World",
+      "reason_code": "platform_not_person",
+      "detail": "job posting or single-token name, not an identifiable individual"
+    }
+  ],
+  "needs_review": []
+}

@@ -1,0 +1,577 @@
+{
+ "wave_id": "w2026-09-10c",
+ "agent": "conv-emea",
+ "target_org": "Converge",
+ "slice": "Europe, Middle East, Africa",
+ "searches_used": 15,
+ "people": [
+  {
+   "name": "Bob Marsh",
+   "org": "Converge",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/bob-carol-marsh",
+   "fit_reason": "Name-slug URL with surname; title names Bob & Carol Marsh as couple; serves Europe, North Africa, Middle East"
+  },
+  {
+   "name": "Carol Marsh",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/bob-carol-marsh",
+   "fit_reason": "Name-slug URL with surname; title names Bob & Carol Marsh as couple; serves Europe, North Africa, Middle East"
+  },
+  {
+   "name": "Kyle Tromanhauser",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/kyle-matilda-tromanhauser",
+   "fit_reason": "Name-slug URL with surname; working in Munich, Germany"
+  },
+  {
+   "name": "Matilda Tromanhauser",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/kyle-matilda-tromanhauser",
+   "fit_reason": "Name-slug URL with surname; working in Munich, Germany"
+  },
+  {
+   "name": "David Roberts",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/david-laurie-r",
+   "fit_reason": "Name-slug URL with surname in slug; title names David & Laurie Roberts; serving in France"
+  },
+  {
+   "name": "Laurie Roberts",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/david-laurie-r",
+   "fit_reason": "Name-slug URL with surname in slug; title names David & Laurie Roberts; serving in France"
+  },
+  {
+   "name": "Mike Gaston",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/mike-murf-gaston",
+   "fit_reason": "Name-slug URL with surname; title names Mike & Murf Gaston; formerly served in France, now on Member Care Team"
+  },
+  {
+   "name": "Murf Gaston",
+   "org": "Converge",
+   "role": "Member Care",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/mike-murf-gaston",
+   "fit_reason": "Name-slug URL with surname; title names Mike & Murf Gaston; formerly served in France, now on Member Care Team"
+  },
+  {
+   "name": "Jim Jarman",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/jim-lynn-jarman",
+   "fit_reason": "Name-slug URL with surname; title names Jim & Lynn Jarman; church planting in Europe"
+  },
+  {
+   "name": "Lynn Jarman",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/jim-lynn-jarman",
+   "fit_reason": "Name-slug URL with surname; title names Jim & Lynn Jarman; church planting in Europe"
+  },
+  {
+   "name": "Ken Lippold",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/ken-lippold",
+   "fit_reason": "Name-slug URL with surname; church planting ministry in Europe"
+  },
+  {
+   "name": "Steve Valentine",
+   "org": "Converge",
+   "role": "Regional Leader",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/steve-jenny-valentine",
+   "fit_reason": "Name-slug URL with surname; title names Steve & Jenny Valentine; leader of 15:5 West Initiative in Poland/Czech/Slovakia"
+  },
+  {
+   "name": "Jenny Valentine",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/steve-jenny-valentine",
+   "fit_reason": "Name-slug URL with surname; title names Steve & Jenny Valentine; church planting in Poland/Eastern Europe"
+  },
+  {
+   "name": "Steve Cable",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/steve-nopaluck-cable",
+   "fit_reason": "Name-slug URL with surname; title names Steve & Nopaluck Cable; ministry to Persians in Middle East"
+  },
+  {
+   "name": "Nopaluck Cable",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/steve-nopaluck-cable",
+   "fit_reason": "Name-slug URL with surname; title names Steve & Nopaluck Cable; ministry to Persians in Middle East"
+  },
+  {
+   "name": "John Pederson",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/john-and-kathie-pederson",
+   "fit_reason": "Name-slug URL with surname; title names John and Kathie Pederson; mission work on Silk Road including Turkey"
+  },
+  {
+   "name": "Kathie Pederson",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/john-and-kathie-pederson",
+   "fit_reason": "Name-slug URL with surname; title names John and Kathie Pederson; mission work on Silk Road including Turkey"
+  },
+  {
+   "name": "Yana Osipenko",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/yana-osipenko",
+   "fit_reason": "Name-slug URL with surname; born in Lviv, Ukraine; serves in Poland as part of 15:5 West Initiative"
+  },
+  {
+   "name": "Lemuel Martinez",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/lemueling-brittany-martinez",
+   "fit_reason": "Name-slug URL with surname; title names Lemuel & Brittany Martinez; serving in Szczecin, Poland"
+  },
+  {
+   "name": "Brittany Martinez",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/lemueling-brittany-martinez",
+   "fit_reason": "Name-slug URL with surname; title names Lemuel & Brittany Martinez; serving in Szczecin, Poland"
+  },
+  {
+   "name": "Andrew Brothers",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/andrew-miranda-brothers",
+   "fit_reason": "Name-slug URL with surname; title names Andrew & Miranda Brothers; church planting in Poznan, Poland"
+  },
+  {
+   "name": "Miranda Brothers",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/andrew-miranda-brothers",
+   "fit_reason": "Name-slug URL with surname; title names Andrew & Miranda Brothers; church planting in Poznan, Poland"
+  },
+  {
+   "name": "Carl Lahr",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/carl-kathy-lahr",
+   "fit_reason": "Name-slug URL with surname; title names Carl & Kathy Lahr; served in Poland from 2000"
+  },
+  {
+   "name": "Kathy Lahr",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/carl-kathy-lahr",
+   "fit_reason": "Name-slug URL with surname; title names Carl & Kathy Lahr; served in Poland from 2000"
+  },
+  {
+   "name": "John Helveston",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/john-lucy-helveston",
+   "fit_reason": "Name-slug URL with surname; title names John & Lucy Helveston; ministry in Ukraine region"
+  },
+  {
+   "name": "Lucy Helveston",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.converge.org/global-worker/john-lucy-helveston",
+   "fit_reason": "Name-slug URL with surname; title names John & Lucy Helveston; ministry in Ukraine region"
+  },
+  {
+   "name": "Dennis McMains",
+   "org": "Converge",
+   "role": "International Leader",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/183116/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Dennis & Amanda McMains; International Leader to Europe and Mediterranean-Middle East"
+  },
+  {
+   "name": "Amanda McMains",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/183116/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Dennis & Amanda McMains; serving Europe and Mediterranean-Middle East"
+  },
+  {
+   "name": "Tim Moline",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/180347/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Tim & Amy Moline; part of Great Sea Initiative in Spain"
+  },
+  {
+   "name": "Amy Moline",
+   "org": "Converge",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/180347/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Tim & Amy Moline; part of Great Sea Initiative in Spain"
+  },
+  {
+   "name": "Brian Lusky",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/187229/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Brian & Rachel Lusky"
+  },
+  {
+   "name": "Rachel Lusky",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/187229/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Brian & Rachel Lusky"
+  },
+  {
+   "name": "Ken Milhous",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/73872/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Ken & Debby Milhous; long-term Converge missionaries since 1994"
+  },
+  {
+   "name": "Debby Milhous",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/73872/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Ken & Debby Milhous; long-term Converge missionaries since 1994"
+  },
+  {
+   "name": "Ariel Lee",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/227504/",
+   "fit_reason": "Numeric ID URL; surname and given name both present in title"
+  },
+  {
+   "name": "Thomas Clyde",
+   "org": "Converge",
+   "role": "Church Planting Networker",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/188173/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Thomas & Tanya Clyde; partnering in UK and Ireland for church planting"
+  },
+  {
+   "name": "Tanya Clyde",
+   "org": "Converge",
+   "role": "Church Planting Networker",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/188173/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Thomas & Tanya Clyde; partnering in UK and Ireland for church planting"
+  },
+  {
+   "name": "Sublime Mabiala",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/226974/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Sublime & Rachel Mabiala"
+  },
+  {
+   "name": "Rachel Mabiala",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/226974/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Sublime & Rachel Mabiala"
+  },
+  {
+   "name": "Synove Carlson",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/238314/",
+   "fit_reason": "Numeric ID URL; full name present in title"
+  },
+  {
+   "name": "Tommy Olawole",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/238368/",
+   "fit_reason": "Numeric ID URL; full name present in title"
+  },
+  {
+   "name": "Brandon Merlino",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/236305/",
+   "fit_reason": "Numeric ID URL; full name present in title"
+  },
+  {
+   "name": "Rebecca Par",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/237243/",
+   "fit_reason": "Numeric ID URL; full name present in title"
+  },
+  {
+   "name": "Jana Leier",
+   "org": "Converge",
+   "role": "Team Leader",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/235668/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Jana & Kenno Leier; church planting in Finland"
+  },
+  {
+   "name": "Kenno Leier",
+   "org": "Converge",
+   "role": "Team Leader",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/235668/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Jana & Kenno Leier; church planting in Finland"
+  },
+  {
+   "name": "Gilbert Hovsepian",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/232040/",
+   "fit_reason": "Numeric ID URL; full name in title; ministry to Iranian residents in Turkey"
+  },
+  {
+   "name": "Timothy Gavrilenko",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/225797/",
+   "fit_reason": "Numeric ID URL; full name in title; Ukrainian heritage, ministry in Ukraine region"
+  },
+  {
+   "name": "Jim Black",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/185798/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Jim & Lisa Black; equipping leaders in Nigeria and sub-Saharan Africa"
+  },
+  {
+   "name": "Lisa Black",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/185798/",
+   "fit_reason": "Numeric ID URL with surname from title; title names Jim & Lisa Black; equipping leaders in Nigeria and sub-Saharan Africa"
+  },
+  {
+   "name": "Chaz Nichols",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/223646/",
+   "fit_reason": "Numeric ID URL; full name in title; catalyzes gospel movements in Africa, Europe, and Asia"
+  },
+  {
+   "name": "Scott Shreffler",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/237039/",
+   "fit_reason": "Numeric ID URL; full name in title; mission work in Kenya"
+  },
+  {
+   "name": "Mark Boggess",
+   "org": "Converge",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://converge.org/global-worker/217287/",
+   "fit_reason": "Numeric ID URL; full name in title"
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "converge.org/global-worker Europe missionary",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker Spain",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker Germany",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker Italy",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker France",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker \"church planting\" Europe",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker \"Middle East\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker Turkey",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker \"North Africa\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker \"least-reached\" Africa",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker Ukraine",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker Senegal",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker Kenya",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker Balkans",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:converge.org/global-worker Poland",
+   "outcome": "found_people"
+  }
+ ],
+ "needs_review": [
+  {
+   "name": "Ashraf & Nivin I.",
+   "source_url": "https://www.converge.org/global-worker/ashraf-nivin-i",
+   "reason": "Surname withheld as initial only; sensitive-region worker with 30+ years experience in Middle East/Egypt (creative access context); does not meet publication standard"
+  },
+  {
+   "name": "Tania M.",
+   "source_url": "https://www.converge.org/global-worker/tania-m",
+   "reason": "First-name-plus-initial format; surname withheld; ministry in Ukraine (sensitive region)"
+  },
+  {
+   "name": "Larissa D",
+   "source_url": "https://www.converge.org/global-worker/larissa-d",
+   "reason": "First-name-plus-initial format; surname withheld; described as internship placement in Senegal"
+  },
+  {
+   "issue": "Initials-only surnames emitted as people despite the brief",
+   "finding": "4 records carried an initial in place of a surname (Brad M., Deb M., Emmanuel R, Yesenia R). The brief routes these to needs_review because a withheld surname signals a sensitive-region worker; the agent reported doing so but emitted them anyway.",
+   "evidence": "Orchestrator audit at ingest, w2026-09-10c.",
+   "recommendation": "Dropped from the load. Do not re-hunt these — the surname is withheld on purpose."
+  }
+ ]
+}

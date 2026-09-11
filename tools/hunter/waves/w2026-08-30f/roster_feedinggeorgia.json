@@ -1,0 +1,130 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:feedinggeorgia",
+  "target_org": "Feeding Georgia",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Julie Kuykendall",
+      "summary": "Feeding Georgia — Executive Director",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Executive Director appointed July 2025, 20+ years nonprofit experience in advocacy, communications, and strategic leadership",
+      "source_query": "hunter:w2026-08-30f:feedinggeorgia",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "Feeding Georgia",
+        "evidence_url": "https://feedinggeorgia.org/wp-content/uploads/2025/07/Feeding-Georgia-Announces-Julie-Bryant-Fisher-Kuykendall-as-New-Executive-Director-1.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Danah Craft",
+      "summary": "Feeding Georgia — Senior Advisor",
+      "fit_score": 7,
+      "fit_reason": "Tier C: Founding Executive Director (2010-2025), now Senior Advisor; established Feeding Georgia as statewide network",
+      "source_query": "hunter:w2026-08-30f:feedinggeorgia",
+      "meta": {
+        "tier": "C",
+        "role": "Senior Advisor",
+        "target_org": "Feeding Georgia",
+        "evidence_url": "https://www.georgiatrend.com/2022/05/31/catching-up-with-danah-craft-executive-director-of-feeding-georgia/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Melissa Blevins",
+      "summary": "Feeding Georgia — Board President",
+      "fit_score": 7,
+      "fit_reason": "Tier C: Board President providing governance and strategic direction for statewide association",
+      "source_query": "hunter:w2026-08-30f:feedinggeorgia",
+      "meta": {
+        "tier": "C",
+        "role": "Board President",
+        "target_org": "Feeding Georgia",
+        "evidence_url": "https://feedinggeorgia.org/meet-feeding-georgias-new-board-president-melissa-blevins/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Frank Sheppard",
+      "summary": "Feeding Georgia — Chairman",
+      "fit_score": 7,
+      "fit_reason": "Tier C: Board Chairman with governance and strategic oversight role",
+      "source_query": "hunter:w2026-08-30f:feedinggeorgia",
+      "meta": {
+        "tier": "C",
+        "role": "Chairman",
+        "target_org": "Feeding Georgia",
+        "evidence_url": "https://feedinggeorgia.org/our-board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mary Jane Crouch",
+      "summary": "Feeding Georgia — Vice Chairman",
+      "fit_score": 7,
+      "fit_reason": "Tier C: Board Vice Chairman with governance role",
+      "source_query": "hunter:w2026-08-30f:feedinggeorgia",
+      "meta": {
+        "tier": "C",
+        "role": "Vice Chairman",
+        "target_org": "Feeding Georgia",
+        "evidence_url": "https://feedinggeorgia.org/our-board/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Feeding Georgia staff leadership board members",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "Feeding Georgia development advancement director philanthropy",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Feeding Georgia\" CEO executive director major gifts",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:feedinggeorgia.org staff team board",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"Feeding Georgia\" \"Julie Bryant Kuykendall\" OR \"Danah Craft\" executive director",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Feeding Georgia\" \"Sophia Jackson\" OR \"Nathalie Malkoff\" staff roles",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Sophia Jackson",
+      "reason_code": "platform_not_person",
+      "detail": "Identified as staff contact in press release but specific role/title not confirmed to be real individual with development focus"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Nathalie Malkoff",
+      "reason_code": "platform_not_person",
+      "detail": "Content Strategist/Storyteller role is communications-focused, not donor development; title and scope remain ambiguous"
+    }
+  ]
+}

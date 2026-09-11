@@ -1,0 +1,126 @@
+{
+  "wave_id": "w2026-09-10b",
+  "agent": "disc-campus",
+  "searches_used": 15,
+  "orgs": [
+    {
+      "org": "Young Life",
+      "domain": "younglife.org",
+      "pattern": null,
+      "pattern_kind": "regional",
+      "examples": [
+        "https://manateecounty.younglife.org/donate/",
+        "https://lowercolumbia.younglife.org/staff/",
+        "https://abilene.younglife.org/",
+        "https://fortworth.younglife.org/",
+        "https://giving.younglife.org/s/"
+      ],
+      "estimated_depth": "Unknown - no enumerable per-person pattern found",
+      "notes": "Young Life operates through regional subdomains with centralized /donate/ and /staff/ pages at regional level (e.g., manateecounty.younglife.org/donate/). Also uses giving.younglife.org/s/ for national giving. While FAQs mention ability to designate gifts to 'the Young Life mission unit or person' by name, no evidence found of enumerable per-person URLs with consistent naming (like /donate/<name> or /staff/<name>). Giving appears centralized at regional subdomain level, not per individual staff member. Each regional chapter manages its own giving portal."
+    },
+    {
+      "org": "Youth for Christ USA",
+      "domain": "yfci.org",
+      "pattern": "https://give.yfci.org/donate-now?staffId=<ID> or https://epray.yfci.org/appeals/<name>/",
+      "pattern_kind": "path",
+      "examples": [
+        "https://give.yfci.org/donate-now?staffId=73400",
+        "https://give.yfci.org/donate-now?staffId=52900",
+        "https://epray.yfci.org/appeals/scott-rosene/",
+        "https://give.yfci.org/donate-now?staffId=73400",
+        "https://yfcdenver.org/give/"
+      ],
+      "estimated_depth": "Several hundred+ - staffId parameter suggests large numeric range (IDs in 50000s-70000s range observed)",
+      "notes": "YFCI operates a dual pattern for individual staff support. Primary pattern: give.yfci.org/donate-now?staffId=<numeric_id> allows donors to give to specific staff by ID. Secondary pattern: epray.yfci.org/appeals/<person_name>/ provides prayer/donation appeals. Local chapter domains (yfcdenver.org, socalyfc.org) also have their own /give/ paths. The staffId parameter indicates clean enumeration potential; observed IDs include 52900, 73400 suggesting substantial depth."
+    },
+    {
+      "org": "Cru",
+      "domain": "cru.org",
+      "pattern": "https://give.cru.org/<numeric_id>",
+      "pattern_kind": "path",
+      "examples": [
+        "https://give.cru.org/0119905",
+        "https://give.cru.org/0113279",
+        "https://give.cru.org/1158081",
+        "https://give.cru.org/0124650",
+        "https://give.cru.org/1099003"
+      ],
+      "estimated_depth": "Likely 500+ - numeric IDs observed up to 7 digits (1158081) suggest substantial enumerable population",
+      "notes": "Cru publishes individual staff member giving pages at give.cru.org/<numeric_id>. Each staff member has a dedicated numeric ID within the give.cru.org domain. Examples include: Leah Darwin (0119905), John and Kim Nicholson (0113279), Mike and Sus Schmitt (0124650), San Diego Circle Gabriella Quitevis (1158081), San Diego Circle Natalie Ceja (1099003). Cru's staff model requires each team member to 'raise their own support' - a key indicator that per-person pages are primary fundraising mechanism. The numeric ID pattern appears consistent and enumerable."
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:younglife.org give donate support staff missionary",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org/donate OR site:younglife.org/support OR site:younglife.org/staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Young Life\" staff giving page donation support individual",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:younglife.org \"/donate/\" person OR staff OR name individual",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:abilene.younglife.org OR site:fortworth.younglife.org donate OR give",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:yfci.org donate give support missionary staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:yfcdenver.org OR site:socalyfc.org donate give support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Youth for Christ\" individual staff member giving page donation",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org appeals OR donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cru.org give donate support missionary staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.cru.org donate OR support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Cru\" staff member giving page individual support raise personal",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.cru.org staff member name individual person",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Cru \"give.cru.org\" individual missionary donation support raise",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}

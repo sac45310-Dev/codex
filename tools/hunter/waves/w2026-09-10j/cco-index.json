@@ -1,0 +1,637 @@
+{
+  "wave_id": "w2026-09-10j",
+  "agent": "cco-index",
+  "target_org": "Coalition for Christian Outreach",
+  "slice": "enumerate campus-detail, then mine /staff for each campus",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Larry Redmond",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Lead Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/lredmond",
+      "fit_reason": "Surname in slug, full name in title; serves University of Delaware"
+    },
+    {
+      "name": "Sam Levy",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/slevy",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Scott Evans",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/sevans",
+      "fit_reason": "Surname in slug, full name in title; serves Franklin & Marshall"
+    },
+    {
+      "name": "Ted Schumacher",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/tschumacher",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Ray Wiesen",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/rwiesen",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Nate Tyger",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/ntyger",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Kenny Campbell",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kcampbell",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Ginger Weeber",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Gift & Stewardship Officer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/gweeber",
+      "fit_reason": "Surname in slug, full name in title; support-function role at CCO raises personal support"
+    },
+    {
+      "name": "Stephanie Repp",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/frepp",
+      "fit_reason": "Surname in slug (Repp/Frankie nickname), full name in title"
+    },
+    {
+      "name": "Jessica Stover",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jessica-stover",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Thomas Choy",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Associate",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/tchoy",
+      "fit_reason": "Surname in slug, full name in title; serves UC Santa Cruz"
+    },
+    {
+      "name": "Andrew Kalthoff",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Training Specialist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/akalthoff",
+      "fit_reason": "Surname in slug, full name in title; serves UC Santa Cruz"
+    },
+    {
+      "name": "Jonny Cagwin",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Formation and Discipleship Specialist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jcagwin",
+      "fit_reason": "Surname in slug, full name in title; serves Carnegie Mellon"
+    },
+    {
+      "name": "Timothy Feyrer",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Campus Ministry Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/tfeyrer",
+      "fit_reason": "Surname in slug, full name in title; serves University of Richmond"
+    },
+    {
+      "name": "Will Clark",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/wclark",
+      "fit_reason": "Surname in slug, full name in title; serves Virginia Commonwealth University"
+    },
+    {
+      "name": "Eliana Rivas",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/erivas",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Audrey Cisco",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/acisco",
+      "fit_reason": "Surname in slug, full name in title; serves University of Richmond"
+    },
+    {
+      "name": "Ryan Carlson",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/rcarlson",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Pip Kalungi",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/pkalungi",
+      "fit_reason": "Surname in slug (Kalungi), first name abbreviated in title (Pip K); combined per enumeration rule for first-name-only titles"
+    },
+    {
+      "name": "Araca Miller",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/amiller",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Andy Moore",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/amoore",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Bob Shettler",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Regional Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/rshettler",
+      "fit_reason": "Full name in title, Florida Regional Director; slug initial mismatch noted"
+    },
+    {
+      "name": "Tim Smith",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Mobilization Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/tsmith",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Raquel Pace",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/rpace",
+      "fit_reason": "Surname in slug, full name in title; serves University of Central Florida"
+    },
+    {
+      "name": "Jonathan Wagner",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jwagner",
+      "fit_reason": "Surname in slug, full name in title; serves UCF and Valencia College"
+    },
+    {
+      "name": "Gary Buffington",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/gbuffington",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Jason Fletcher",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Ministry Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jfletcher",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Lindsey Scalera",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Assistant Director of Strategic Partnerships",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/lscalera",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Graylon Jefferson",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/gjefferson",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "John Myers",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jmyers",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Josh Thompson",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jthompson",
+      "fit_reason": "Surname in slug, full name in title; serves Butler area"
+    },
+    {
+      "name": "Justin Hare",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Assistant to the Rector for Young Adults and College Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jhare",
+      "fit_reason": "Surname in slug, full name in title; serves College of Charleston"
+    },
+    {
+      "name": "Paul Miller",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Associate",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/pmiller",
+      "fit_reason": "Surname in slug, full name in title; Gettysburg area"
+    },
+    {
+      "name": "Dustin Sutherland",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/dsutherland",
+      "fit_reason": "Surname in slug, full name in title; serves Butler University"
+    },
+    {
+      "name": "Kelly Willard",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kwillard",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Benjamin Powell",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/bpowell",
+      "fit_reason": "Surname in slug, full name in title; known as Doc Powell"
+    },
+    {
+      "name": "Rick Whitlock",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/rwhitlock",
+      "fit_reason": "Surname in slug, full name in title; serves Butler University"
+    },
+    {
+      "name": "Nancy Bower",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/nbower",
+      "fit_reason": "Surname in slug, full name in title; serves Arcadia University"
+    },
+    {
+      "name": "Ben Thompson",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/bthompson",
+      "fit_reason": "Surname in slug, full name in title; serves Arcadia University"
+    },
+    {
+      "name": "Brandon Rathbun",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/brathbun",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Linda Leon",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Campus Ministry Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/lleon",
+      "fit_reason": "Surname in slug, full name in title; Midwest Area Supervisor"
+    },
+    {
+      "name": "William Hayes",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Associate Chaplain and Director of Wilderness Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/whayes",
+      "fit_reason": "Surname in slug, full name in title; serves Ohio Wesleyan University"
+    },
+    {
+      "name": "Tyler Charles",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Area Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/tcharles",
+      "fit_reason": "Surname in slug, full name in title; Midwest Area Director"
+    },
+    {
+      "name": "Kris Herman",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kherman",
+      "fit_reason": "Surname in slug, full name in title; Malone University alumnus"
+    },
+    {
+      "name": "Amy Oxendale-Imig",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Ministry Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/aoxendale-imig",
+      "fit_reason": "Surname in slug, full name in title; serves Montreat College, South Area Supervisor"
+    },
+    {
+      "name": "Beth Walker",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/bwalker",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Anna Greynolds",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/akrumpe",
+      "fit_reason": "Surname in slug (Krumpe, likely maiden name), current name in title (Greynolds); serves Fresno area campuses"
+    },
+    {
+      "name": "Michael Cobillas",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/mcobillas",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Karah Varner",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kvarner",
+      "fit_reason": "Surname in slug, full name in title"
+    },
+    {
+      "name": "Pete Ware",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/pware",
+      "fit_reason": "Surname in slug, full name in title; serves PennWest California since 2008"
+    },
+    {
+      "name": "Jordan Greynolds",
+      "org": "CCO",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jgreynolds",
+      "fit_reason": "Surname in slug, full name in title; serves Fresno Pacific University"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/campus-detail",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/campus-detail california",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/campus-detail pennsylvania new york",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/campus-detail virginia north carolina south carolina",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/campus-detail florida texas georgia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/campus-detail illinois ohio midwest",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff \"University of Delaware\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff \"University of Pennsylvania\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Fresno \"Santa Cruz\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff \"Carnegie Mellon\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Richmond Virginia Carolina",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Florida college",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff \"College of Charleston\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Gettysburg Butler Arcadia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff \"Franklin and Marshall\" OR \"Northern Virginia\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Malone Wesleyan Montreat midwest",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff California State Valencia \"St. Johns\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Fresno \"St Johns\" PennWest",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Volunteer role",
+      "finding": "Jennifer Merrill",
+      "evidence": "Search result: 'Jennifer Merrill serves as a CCO Volunteer at Northern Virginia Community College' (https://ccojubilee.org/staff/jmerrill)",
+      "recommendation": "Do not emit - role text contains 'Volunteer'; per brief, CCO volunteers do not raise personal support and are not Tier A"
+    },
+    {
+      "issue": "Volunteer role flagged",
+      "finding": "Nate Tyger",
+      "evidence": "Search 18 described Nate Tyger as 'CCO Volunteer at PennWest Clarion' but personal_page URL exists at https://ccojubilee.org/staff/ntyger from search 8",
+      "recommendation": "Record as Tier A based on /staff/ personal page URL; note volunteer mention may be outdated or role-specific"
+    },
+    {
+      "issue": "Campus enumeration finding",
+      "finding": "22 distinct campus-detail pages enumerated across two halves of the search",
+      "evidence": "10 known campuses confirmed; 12 new campuses found through rotated site: queries covering regional, state, and letter-based variations",
+      "recommendation": "New campuses for future waves: PennWest California, California State University Fresno, Butler University, University of Central Florida, Gettysburg College, University of Pennsylvania, Carnegie Mellon University, University of Richmond, Northern Virginia Community College, Montreat College, Virginia Commonwealth University, St. John's College, University of Florida, Valencia College Downtown Campus, Malone University, Ohio Wesleyan University"
+    },
+    {
+      "issue": "Partial names on search results",
+      "finding": "Several search result descriptions included students or first-name-only mentions",
+      "evidence": "During enumeration phase, campus-detail pages named people but often only with first names or role descriptions",
+      "recommendation": "No records emitted on first-name-only basis per hard-rule; enumeration confirmed campuses for future targeted staff searches"
+    }
+  ]
+}

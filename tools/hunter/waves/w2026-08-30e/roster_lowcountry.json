@@ -1,0 +1,227 @@
+{
+  "wave_id": "w2026-08-30e",
+  "agent": "roster:lowcountry",
+  "target_org": "Lowcountry Food Bank",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Brenda Shaw",
+      "org_type": "individual",
+      "summary": "Lowcountry Food Bank — Chief Development Officer",
+      "city": "Charleston",
+      "state": "SC",
+      "fit_score": 7,
+      "fit_reason": "Tier B - Chief Development Officer with direct responsibility for fundraising strategy and donor relations, verified email and phone contact",
+      "source_query": "hunter:w2026-08-30e:lowcountry",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Development Officer",
+        "target_org": "Lowcountry Food Bank",
+        "evidence_url": "https://www.lowcountryfoodbank.org/departments/",
+        "email": "bshaw@lcfbank.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Beth Atkinson",
+      "org_type": "individual",
+      "summary": "Lowcountry Food Bank — Director of Fundraising / Major Gifts Officer",
+      "city": "Charleston",
+      "state": "SC",
+      "fit_score": 7,
+      "fit_reason": "Tier B - Director of Fundraising and Major Gifts Officer, manages donor relationships and major gift strategy, verified email and phone contact",
+      "source_query": "hunter:w2026-08-30e:lowcountry",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Fundraising / Major Gifts Officer",
+        "target_org": "Lowcountry Food Bank",
+        "evidence_url": "https://www.lowcountryfoodbank.org/departments/",
+        "email": "eatkinson@lcfbank.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Barbara Walters",
+      "org_type": "individual",
+      "summary": "Lowcountry Food Bank — Donor Services Manager",
+      "city": "Charleston",
+      "state": "SC",
+      "fit_score": 7,
+      "fit_reason": "Tier B - Donor Services Manager supporting fundraising and donor relations functions",
+      "source_query": "hunter:w2026-08-30e:lowcountry",
+      "meta": {
+        "tier": "B",
+        "role": "Donor Services Manager",
+        "target_org": "Lowcountry Food Bank",
+        "evidence_url": "https://lowcountryfoodbank.org/about-us/our-team/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Abby Miller",
+      "org_type": "individual",
+      "summary": "Lowcountry Food Bank — Donor Services Coordinator",
+      "city": "Charleston",
+      "state": "SC",
+      "fit_score": 6,
+      "fit_reason": "Tier B - Donor Services Coordinator supporting development team functions",
+      "source_query": "hunter:w2026-08-30e:lowcountry",
+      "meta": {
+        "tier": "B",
+        "role": "Donor Services Coordinator",
+        "target_org": "Lowcountry Food Bank",
+        "evidence_url": "https://lowcountryfoodbank.org/about-us/our-team/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Nick Osborne",
+      "org_type": "individual",
+      "summary": "Lowcountry Food Bank — President and CEO",
+      "city": "Charleston",
+      "state": "SC",
+      "fit_score": 6,
+      "fit_reason": "Tier C - President and CEO, executive leadership with 30+ years international development and nonprofit experience, retiring January 2027",
+      "source_query": "hunter:w2026-08-30e:lowcountry",
+      "meta": {
+        "tier": "C",
+        "role": "President and CEO",
+        "target_org": "Lowcountry Food Bank",
+        "evidence_url": "https://www.linkedin.com/in/nick-osborne-a861a95/",
+        "linkedin_url": "https://www.linkedin.com/in/nick-osborne-a861a95/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Shelley Yuhas",
+      "org_type": "individual",
+      "summary": "Lowcountry Food Bank — Board Chair/President",
+      "city": "Charleston",
+      "state": "SC",
+      "fit_score": 6,
+      "fit_reason": "Tier C - Chair of Board of Directors, primary governance and donor influence position",
+      "source_query": "hunter:w2026-08-30e:lowcountry",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair/President",
+        "target_org": "Lowcountry Food Bank",
+        "evidence_url": "https://lowcountryfoodbank.org/about-us/board-of-directors/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Tiffany Crumpton",
+      "org_type": "individual",
+      "summary": "Lowcountry Food Bank — Vice-Chair, Board of Directors",
+      "city": "Charleston",
+      "state": "SC",
+      "fit_score": 6,
+      "fit_reason": "Tier C - Vice-Chair of Board of Directors, senior governance and donor influence position",
+      "source_query": "hunter:w2026-08-30e:lowcountry",
+      "meta": {
+        "tier": "C",
+        "role": "Vice-Chair",
+        "target_org": "Lowcountry Food Bank",
+        "evidence_url": "https://lowcountryfoodbank.org/about-us/board-of-directors/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Erik Glaser",
+      "org_type": "individual",
+      "summary": "Lowcountry Food Bank — Treasurer, Board of Directors",
+      "city": "Charleston",
+      "state": "SC",
+      "fit_score": 6,
+      "fit_reason": "Tier C - Treasurer of Board of Directors, financial oversight and donor influence position",
+      "source_query": "hunter:w2026-08-30e:lowcountry",
+      "meta": {
+        "tier": "C",
+        "role": "Treasurer",
+        "target_org": "Lowcountry Food Bank",
+        "evidence_url": "https://lowcountryfoodbank.org/about-us/board-of-directors/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Mike Smith",
+      "org_type": "individual",
+      "summary": "Lowcountry Food Bank — Board Member, Development Committee Chair",
+      "city": "Charleston",
+      "state": "SC",
+      "fit_score": 6,
+      "fit_reason": "Tier C - Board member chairing Development Committee with 30+ years senior leadership experience, significant donor influence",
+      "source_query": "hunter:w2026-08-30e:lowcountry",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member, Development Committee Chair",
+        "target_org": "Lowcountry Food Bank",
+        "evidence_url": "https://lowcountryfoodbank.org/about-us/board-of-directors/",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Lowcountry Food Bank",
+      "website": "https://www.lowcountryfoodbank.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "headcount_est": 40,
+      "faith_orientation": "secular",
+      "crm_incumbent": "Blackbaud Raiser's Edge NXT",
+      "evidence": "Hunger-relief nonprofit serving 10 coastal counties of South Carolina; verified CDO mentions using Blackbaud Raiser's Edge NXT for donor management"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Lowcountry Food Bank director of development",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Lowcountry Food Bank grants advancement philanthropy staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Lowcountry Food Bank major gifts donor relations",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Lowcountry Food Bank development fundraising team",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Lowcountry Food Bank board of directors members",
+      "outcome": "found_people",
+      "people_found": 14
+    },
+    {
+      "kind": "query",
+      "value": "Lowcountry Food Bank board chair executives leadership",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "Lowcountry Food Bank foundation board members executives",
+      "outcome": "found_people",
+      "people_found": 10
+    },
+    {
+      "kind": "query",
+      "value": "Lowcountry Food Bank CEO executive director president",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ]
+}

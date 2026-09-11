@@ -1,0 +1,421 @@
+{
+  "wave_id": "w2026-09-10j",
+  "agent": "ruf-ministry-n",
+  "target_org": "Reformed University Fellowship",
+  "slice": "ruf.org/ministry/ campuses N-Z, plus RUF-International ministry pages",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "J.R. Biggs",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/oklahoma-state-university/",
+      "fit_reason": "Campus slug (oklahoma-state-university) used as evidence base; person appears in staff bios"
+    },
+    {
+      "name": "Hailey Tarbell",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-texas-at-dallas-ruf-international/",
+      "fit_reason": "Campus slug identifies RUF-I at UT Dallas; person appears in staff directory"
+    },
+    {
+      "name": "Bobby Kazanski",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-texas-at-arlington/",
+      "fit_reason": "Campus slug (university-of-texas-at-arlington) used as evidence base"
+    },
+    {
+      "name": "Sarah Wright",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-texas-san-antonio/",
+      "fit_reason": "Campus slug identifies UTSA; person shares page with spouse Lee Wright"
+    },
+    {
+      "name": "Caroline Terry Capper",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-south-carolina/",
+      "fit_reason": "Campus slug (university-of-south-carolina) used as evidence base"
+    },
+    {
+      "name": "Sara Jane Horne",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/wake-forest-university/",
+      "fit_reason": "Campus slug identifies Wake Forest; person appears in staff directory"
+    },
+    {
+      "name": "Slaton Schneider",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/wake-forest-university/",
+      "fit_reason": "Campus slug identifies Wake Forest; person appears in staff directory"
+    },
+    {
+      "name": "Nick Molicki",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/wake-forest-university/",
+      "fit_reason": "Campus slug identifies Wake Forest; person appears in staff directory"
+    },
+    {
+      "name": "Cam Brown",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-wisconsin-madison/",
+      "fit_reason": "Campus slug identifies UW-Madison; person appears in staff directory"
+    },
+    {
+      "name": "Ellie Hubach",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-wisconsin-madison/",
+      "fit_reason": "Campus slug identifies UW-Madison; person appears in staff directory"
+    },
+    {
+      "name": "Peter Shaner",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-wisconsin-milwaukee/",
+      "fit_reason": "Campus slug identifies UW-Milwaukee; person appears in staff directory"
+    },
+    {
+      "name": "McKenna Smith",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-wisconsin-milwaukee/",
+      "fit_reason": "Campus slug identifies UW-Milwaukee; person appears in staff directory"
+    },
+    {
+      "name": "Kaitlyn Kuntz",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/rice-university/",
+      "fit_reason": "Campus slug identifies Rice; person appears in staff directory"
+    },
+    {
+      "name": "Addie Olsen",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/rice-university/",
+      "fit_reason": "Campus slug identifies Rice; person appears in staff directory"
+    },
+    {
+      "name": "Morgan Kendrick",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/vanderbilt-university/",
+      "fit_reason": "Campus slug identifies Vanderbilt; person appears in staff directory"
+    },
+    {
+      "name": "Sam Jones",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/vanderbilt-university/",
+      "fit_reason": "Campus slug identifies Vanderbilt; person appears in staff directory"
+    },
+    {
+      "name": "Emily Crutcher",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-tennessee-knoxville/",
+      "fit_reason": "Campus slug identifies UT Knoxville; person appears in staff directory"
+    },
+    {
+      "name": "Mac Holt",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-tennessee-knoxville/",
+      "fit_reason": "Campus slug identifies UT Knoxville; person appears in staff directory"
+    },
+    {
+      "name": "Anne Michal",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/texas-am-university/",
+      "fit_reason": "Campus slug identifies Texas A&M; person appears in ministry staff context"
+    },
+    {
+      "name": "Melanie Word",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/tulane-university/",
+      "fit_reason": "Campus slug identifies Tulane; person appears in staff directory"
+    },
+    {
+      "name": "Katie Schlenker",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/virginia-tech/",
+      "fit_reason": "Campus slug identifies Virginia Tech; person appears in staff directory"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/oklahoma-state-university staff bios",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/university-of-north-carolina staff campus minister",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/penn-state-university staff director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/purdue-university campus minister intern",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/university-of-texas campus staff minister",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/university-of-south-carolina staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/stanford-university staff minister",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/virginia-tech campus staff director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/wake-forest-university staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/university-of-wisconsin staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/rice-university staff minister",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/princeton-university staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/vanderbilt-university staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/university-of-tennessee staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/university-of-california-berkeley-ruf-international staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/texas-am-university staff minister",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/tulane-university staff intern",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/rutgers-university staff",
+      "outcome": "no_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Reuben (Intern at Oklahoma State)",
+      "evidence": "Bio: 'Reuben hearkens from the great municipality of Terrell, TX' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Jim (Campus Associate at UNC Chapel Hill)",
+      "evidence": "Bio mentions 'Jim graduated from the University of Georgia' but surname not provided in result",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Nate (Staff at Purdue)",
+      "evidence": "Bio: 'Nate, who grew up in Muncie, Indiana' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Emma (Campus Staff at UT Austin)",
+      "evidence": "Bio: 'Emma is Campus Staff at UT Austin' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Ian (Campus Minister at UT Dallas RUF-I)",
+      "evidence": "Bio: 'Ian serves as the Campus Minister for RUF-I at UT' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Abby (Campus Staff at UT Tyler)",
+      "evidence": "Bio: 'Abby began working as an RUF intern at UT Tyler' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Lee Wright (at UTSA)",
+      "evidence": "Result mentions 'Lee & Sarah Wright' but only first name provided for Lee",
+      "recommendation": "Full name required; Sarah Wright emitted separately"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Kathleen (Campus Staff at Stanford)",
+      "evidence": "Bio: 'Kathleen, who was first involved with RUF as a student' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Heath (Campus Minister at Virginia Tech)",
+      "evidence": "Bio: 'Heath is the campus minister at Virginia Tech' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Curtis (Campus Minister at Rice)",
+      "evidence": "Bio: 'Curtis is from Alabama and is married to Marisa' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Marisa (Spouse at Rice)",
+      "evidence": "Bio: 'married to Marisa' but only first name provided",
+      "recommendation": "Full name required; spouse reference only"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Walker (Intern at UTK)",
+      "evidence": "Bio: 'Walker was born and raised in Hot Springs Arkansas' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "McKenna (Staff at UTK)",
+      "evidence": "Bio: 'McKenna grew up in Fort Worth, TX' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Matt (Intern at UTK)",
+      "evidence": "Bio: 'Matt grew up in Chattanooga, TN and graduated from UNC-Chapel Hill' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Laura (Spouse at UTK)",
+      "evidence": "Bio: 'married to his wife Laura since June 2018' but only first name provided",
+      "recommendation": "Full name required; spouse reference only"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Alyson (Campus Staff at UC Berkeley RUF-I)",
+      "evidence": "Bio: 'Alyson graduated from Florida Atlantic University in 2012' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Grant (Staff at Texas A&M)",
+      "evidence": "Search result mentions 'Grant and Anne Michal' but only first name provided for Grant",
+      "recommendation": "Full surname required; violates hard rule"
+    },
+    {
+      "issue": "Partial name: first name only",
+      "finding": "Bailey (Campus Staff at USC)",
+      "evidence": "Bio: 'Bailey, though the search results show her bio was cut off. She graduated from Anderson University' but surname not provided",
+      "recommendation": "Full surname required; violates hard rule"
+    }
+  ]
+}

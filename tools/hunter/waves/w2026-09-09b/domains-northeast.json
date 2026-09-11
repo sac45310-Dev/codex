@@ -1,0 +1,330 @@
+{
+  "wave_id": "w2026-09-09b",
+  "agent": "domain:northeast-pnw",
+  "searches_used": 18,
+  "results": [
+    {
+      "org": "Friends Of Boston Homeless Inc",
+      "city": "Boston, MA",
+      "website": "fobh.org",
+      "evidence_url": "https://fobh.org/",
+      "note": ""
+    },
+    {
+      "org": "Making Opportunity Count",
+      "city": "Worcester, MA",
+      "website": "makingopportunitycount.org",
+      "evidence_url": "https://www.makingopportunitycount.org/",
+      "note": ""
+    },
+    {
+      "org": "Worcester Youth Center Inc",
+      "city": "Worcester, MA",
+      "website": "worcesteryouthcenter.org",
+      "evidence_url": "https://worcesteryouthcenter.org/",
+      "note": ""
+    },
+    {
+      "org": "Worcester Youth Cooperatives Inc",
+      "city": "Worcester, MA",
+      "website": "worcesteryouthcoops.org",
+      "evidence_url": "https://worcesteryouthcoops.org/",
+      "note": ""
+    },
+    {
+      "org": "Beautiful Day Rhode Island",
+      "city": "Providence, RI",
+      "website": "beautifuldayri.org",
+      "evidence_url": "https://beautifuldayri.org/",
+      "note": ""
+    },
+    {
+      "org": "Black and Pink Providence",
+      "city": "Providence, RI",
+      "website": "blackandpink.org",
+      "evidence_url": "https://blackandpink.org/chapters/providence/",
+      "note": "Providence is a chapter of main organization"
+    },
+    {
+      "org": "GLBTQ Legal Advocates & Defenders",
+      "city": "Providence, RI",
+      "website": "gladlaw.org",
+      "evidence_url": "https://www.gladlaw.org/",
+      "note": "Boston-headquartered, serves Providence"
+    },
+    {
+      "org": "Higher Ground International",
+      "city": "Providence, RI",
+      "website": "highergroundintl.org",
+      "evidence_url": "https://www.highergroundintl.org/",
+      "note": ""
+    },
+    {
+      "org": "Pride in Aging RI",
+      "city": "Providence, RI",
+      "website": "prideinagingri.org",
+      "evidence_url": "https://prideinagingri.org/",
+      "note": ""
+    },
+    {
+      "org": "Project Weber/RENEW",
+      "city": "Providence, RI",
+      "website": "weberrenew.org",
+      "evidence_url": "https://weberrenew.org/",
+      "note": ""
+    },
+    {
+      "org": "The Providence Center Inc",
+      "city": "Providence, RI",
+      "website": "providencecenter.org",
+      "evidence_url": "https://www.providencecenter.org/",
+      "note": ""
+    },
+    {
+      "org": "Youth Pride Inc",
+      "city": "Providence, RI",
+      "website": "youthprideri.org",
+      "evidence_url": "https://www.youthprideri.org/",
+      "note": ""
+    },
+    {
+      "org": "Woonsocket Pride",
+      "city": "Woonsocket, RI",
+      "website": "woonsocketpride.org",
+      "evidence_url": "https://www.woonsocketpride.org/",
+      "note": ""
+    },
+    {
+      "org": "Greater Hartford Refugee Resettlement Coalition",
+      "city": "Hartford, CT",
+      "website": null,
+      "evidence_url": "https://sites.google.com/view/ghrefugeeresettlement",
+      "note": "Google Sites page only; directory aggregator, not primary domain"
+    },
+    {
+      "org": "Addictions Care Center Of Albany Inc",
+      "city": "Albany, NY",
+      "website": null,
+      "evidence_url": "https://oasas.ny.gov/location/addictions-care-center",
+      "note": "Listed in state directory but no standalone website domain"
+    },
+    {
+      "org": "Birthright of Rochester",
+      "city": "Rochester, NY",
+      "website": null,
+      "evidence_url": "",
+      "note": "No search results found"
+    },
+    {
+      "org": "Embracing Options",
+      "city": "Rochester, NY",
+      "website": null,
+      "evidence_url": "",
+      "note": "No search results found"
+    },
+    {
+      "org": "Rochester Main Street",
+      "city": "Rochester, NY",
+      "website": null,
+      "evidence_url": "",
+      "note": "Appears to be city program, not independent nonprofit"
+    },
+    {
+      "org": "Downtown Emergency Service Center",
+      "city": "Seattle, WA",
+      "website": "desc.org",
+      "evidence_url": "https://www.desc.org/",
+      "note": ""
+    },
+    {
+      "org": "Real Change Homeless Empowerment Project",
+      "city": "Seattle, WA",
+      "website": "realchangenews.org",
+      "evidence_url": "https://www.realchangenews.org/",
+      "note": ""
+    },
+    {
+      "org": "Seattle King County Coalition On Homelessness",
+      "city": "Seattle, WA",
+      "website": "homelessinfo.org",
+      "evidence_url": "https://homelessinfo.org/",
+      "note": ""
+    },
+    {
+      "org": "Community Health Association of Spokane",
+      "city": "Spokane, WA",
+      "website": "chas.org",
+      "evidence_url": "https://chas.org/",
+      "note": ""
+    },
+    {
+      "org": "Spokane Treatment And Recovery Services",
+      "city": "Spokane, WA",
+      "website": "spokanerecovery.org",
+      "evidence_url": "https://spokanerecovery.org/",
+      "note": ""
+    },
+    {
+      "org": "JFT Recovery And Veterans Support Services",
+      "city": "Tacoma, WA",
+      "website": "jft-rvss.org",
+      "evidence_url": "https://www.jft-rvss.org/",
+      "note": "Corporate office actually in Lemoyne, PA; may not have Tacoma operations"
+    },
+    {
+      "org": "Tacoma Healing Awareness Community",
+      "city": "Tacoma, WA",
+      "website": null,
+      "evidence_url": "",
+      "note": "No search results found"
+    },
+    {
+      "org": "NAYA (Native American Youth and Family Center)",
+      "city": "Portland, OR",
+      "website": "nayapdx.org",
+      "evidence_url": "https://nayapdx.org/",
+      "note": ""
+    },
+    {
+      "org": "Portland Youthbuilders",
+      "city": "Portland, OR",
+      "website": "pybpdx.org",
+      "evidence_url": "https://pybpdx.org/",
+      "note": ""
+    },
+    {
+      "org": "Building Community Thru Healing Homelessness",
+      "city": "Eugene, OR",
+      "website": null,
+      "evidence_url": "https://projects.propublica.org/nonprofits/organizations/994146662",
+      "note": "Found in ProPublica directory but no dedicated website domain"
+    },
+    {
+      "org": "Eugene Mission",
+      "city": "Eugene, OR",
+      "website": "eugenemission.org",
+      "evidence_url": "https://www.eugenemission.org/",
+      "note": ""
+    },
+    {
+      "org": "Oregon Community Programs",
+      "city": "Eugene, OR",
+      "website": null,
+      "evidence_url": "",
+      "note": "No search results found"
+    },
+    {
+      "org": "Springfield Neighborhood Housing",
+      "city": "Springfield, OR",
+      "website": null,
+      "evidence_url": "",
+      "note": "Search found Springfield NHS in Massachusetts only; Oregon location not found"
+    },
+    {
+      "org": "Central Oregon Youth Development Inc",
+      "city": "Central Oregon, OR",
+      "website": null,
+      "evidence_url": "https://projects.propublica.org/nonprofits/organizations/453729085",
+      "note": "Found in ProPublica directory but no dedicated website domain"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Friends Of Boston Homeless Boston donate website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Making Opportunity Count Worcester MA OR Worcester Youth Center OR Worcester Youth Cooperatives nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Beautiful Day Rhode Island OR Black and Pink Providence OR Youth Pride Inc Providence RI website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "GLBTQ Legal Advocates Providence OR Higher Ground International Providence OR Pride in Aging RI OR Project Weber RENEW Providence",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "The Providence Center Providence RI OR GLBTQ Legal Advocates Defenders website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Higher Ground International Providence OR Pride in Aging RI OR Project Weber RENEW website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Woonsocket Pride RI OR Greater Hartford Refugee Resettlement Coalition Hartford CT website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Addictions Care Center Albany NY OR Birthright of Rochester OR Embracing Options Rochester NY nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Rochester Main Street Rochester NY OR Downtown Emergency Service Center Seattle OR Real Change Seattle homelessness",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Real Change Seattle Washington OR Seattle King County Coalition on Homelessness OR Community Health Association of Spokane website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Spokane Treatment And Recovery Services OR JFT Recovery Tacoma OR Tacoma Healing Awareness Community website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "NAYA Native American Youth Portland OR OR Portland Youthbuilders OR Eugene Mission website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Portland Youthbuilders OR Building Community Thru Healing Homelessness Eugene OR Oregon Community Programs Eugene OR Springfield Neighborhood Housing",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Eugene Mission Eugene Oregon OR Central Oregon Youth Development OR Downtown Emergency Service Center Seattle website domain",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Woonsocket Pride Rhode Island OR Birthright of Rochester NY OR Embracing Options Rochester website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Rochester Main Street Rochester New York OR Real Change Seattle nonprofit OR Addictions Care Center Albany website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Greater Hartford Refugee Resettlement Coalition Connecticut website OR JFT Recovery Veterans Tacoma OR Community Health Association Spokane Washington",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Making Opportunity Count Worcester Massachusetts website OR Building Community Thru Healing Eugene Oregon OR Springfield Neighborhood Housing Springfield Oregon",
+      "outcome": "found_people"
+    }
+  ],
+  "summary": {
+    "total_organizations": 33,
+    "websites_found": 22,
+    "websites_null": 11,
+    "searches_used": 18,
+    "resolution_rate": "66.7%"
+  }
+}

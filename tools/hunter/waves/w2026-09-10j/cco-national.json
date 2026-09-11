@@ -1,0 +1,209 @@
+{
+  "wave_id": "w2026-09-10j",
+  "agent": "cco-national",
+  "target_org": "Coalition for Christian Outreach",
+  "slice": "CCO staff at out-of-region campuses",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Justin Hare",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jhare",
+      "fit_reason": "Surname in slug; title names person; ministers to College of Charleston"
+    },
+    {
+      "name": "Larry Redmond",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/lredmond",
+      "fit_reason": "Surname in slug; title names person; ministers to University of Delaware"
+    },
+    {
+      "name": "Anna Greynolds",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/akrumpe",
+      "fit_reason": "URL slug akrumpe does not match current surname Greynolds; likely maiden name or previous surname; reaches out to Fresno City College students"
+    },
+    {
+      "name": "Geraud Brumfield",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/gbrumfield",
+      "fit_reason": "Surname in slug; title names person; reaches out to Fresno City College students; Ministry Supervisor role"
+    },
+    {
+      "name": "Karah Varner",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kvarner",
+      "fit_reason": "Surname in slug; title names person; reaches out to Fresno City College students"
+    },
+    {
+      "name": "Nancy Bower",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Associate",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/nbower",
+      "fit_reason": "Surname in slug; title names person; reaches out to Arcadia University students"
+    },
+    {
+      "name": "Ben Thompson",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/bthompson",
+      "fit_reason": "Surname in slug; title names person; reaches out to Arcadia University students"
+    },
+    {
+      "name": "Thomas Choy",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Associate",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/tchoy",
+      "fit_reason": "Surname in slug; title names person; ministers to UC Santa Cruz students"
+    },
+    {
+      "name": "Andrew Kalthoff",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Training Specialist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/akalthoff",
+      "fit_reason": "Surname in slug; title names person; came on staff to minister to UC Santa Cruz students"
+    },
+    {
+      "name": "Scott Evans",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/sevans",
+      "fit_reason": "Surname in slug; title names person; serves student-athletes at Franklin & Marshall College"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff College of Charleston",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff University of Delaware",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Fresno City College",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Arcadia University",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff UC Santa Cruz",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Franklin Marshall",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Fresno State",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff San Jose State",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff University of Washington Seattle",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Portland State",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff University of Denver",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff University of Minnesota",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Vanderbilt Nashville",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Emory Atlanta",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff University of Chicago",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Muhlenberg College",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Dickinson College",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Widener University",
+      "outcome": "no_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Anna Greynolds URL slug name mismatch",
+      "finding": "Staff page shows title 'Anna Greynolds' but URL slug is 'akrumpe'",
+      "evidence": "URL https://ccojubilee.org/staff/akrumpe with title 'Anna Greynolds - CCO | Campus Ministry'; slug pattern suggests 'a' (first initial) + 'krumpe' (surname), indicating Krumpe is current or former surname",
+      "recommendation": "Verify if recent name change; emit as medium confidence with surname mismatch noted"
+    }
+  ]
+}

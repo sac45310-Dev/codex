@@ -1,0 +1,148 @@
+{
+  "wave_id": "w2026-08-30d",
+  "agent": "roster:harrychapin",
+  "target_org": "Harry Chapin Food Bank",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Marissa Stress-Peterson",
+      "summary": "Harry Chapin Food Bank — Chief Operating Officer",
+      "fit_score": 5,
+      "fit_reason": "Tier C executive; COO since Nov 2021, previously Director of Community Impact and Partnerships.",
+      "source_query": "hunter:w2026-08-30d:harrychapin",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Operating Officer",
+        "target_org": "Harry Chapin Food Bank of Southwest Florida",
+        "evidence_url": "https://www.zoominfo.com/p/Marissa-Stress-peterson/3773991927",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Steven Soucy",
+      "summary": "Harry Chapin Food Bank — Chief Financial Officer",
+      "fit_score": 4,
+      "fit_reason": "Tier C executive; CFO with financial leadership responsibility.",
+      "source_query": "hunter:w2026-08-30d:harrychapin",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Financial Officer",
+        "target_org": "Harry Chapin Food Bank of Southwest Florida",
+        "evidence_url": "https://harrychapinfoodbank.org/about-us/lead-staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Michele Hylton-Terry",
+      "summary": "Harry Chapin Food Bank — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C board member; MPA-credentialed strategic professional involved with organization governance.",
+      "source_query": "hunter:w2026-08-30d:harrychapin",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Harry Chapin Food Bank of Southwest Florida",
+        "evidence_url": "https://harrychapinfoodbank.org/about-us/board-of-directors/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Stuart I. Haniff",
+      "summary": "Harry Chapin Food Bank — Chief Development Officer",
+      "fit_score": 6,
+      "fit_reason": "Tier B development staff; MHA-credentialed development leadership with primary responsibility for fundraising strategy.",
+      "source_query": "hunter:w2026-08-30d:harrychapin",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Development Officer",
+        "target_org": "Harry Chapin Food Bank of Southwest Florida",
+        "evidence_url": "https://harrychapinfoodbank.org/about-us/lead-staff/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Ann Prifrel",
+      "summary": "Harry Chapin Food Bank — Chief Development Officer",
+      "fit_score": 6,
+      "fit_reason": "Tier B development staff; CDO with primary responsibility for fundraising strategy and donor engagement.",
+      "source_query": "hunter:w2026-08-30d:harrychapin",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Development Officer",
+        "target_org": "Harry Chapin Food Bank of Southwest Florida",
+        "evidence_url": "https://www.leadiq.com/c/harry-chapin-food-bank/644832ac7aa4183156dac6dc/employee-directory",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Harry Chapin Food Bank Southwest Florida leadership team staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Harry Chapin Food Bank Fort Myers executive director board members",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Harry Chapin Food Bank\" development officer advancement director",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "harrychapinfoodbank.org staff directory about us",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Harry Chapin Food Bank\" board members directors 2026",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Harry Chapin Food Bank\" \"Chief Operating Officer\" OR \"CFO\" OR \"Chief Financial\"",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Harry Chapin Food Bank Marissa Chief Operating Officer",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:harrychapinfoodbank.org board directors leadership",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Jo Anna Bradshaw",
+      "org": "Harry Chapin Food Bank of Southwest Florida",
+      "question": "Is Jo Anna Bradshaw staff or board member? Mentioned as capital campaign co-chair but role/status unclear.",
+      "evidence_url": "https://harrychapinfoodbank.org/wp-content/uploads/2019/06/hcfbwinter.pdf",
+      "notes": "May be development/advancement staff based on capital campaign involvement, but needs verification of official role."
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Harry Chapin Food Bank of Southwest Florida",
+      "website": "https://harrychapinfoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "headcount_est": 66,
+      "faith_orientation": "secular",
+      "evidence": "Member of Feeding America; largest hunger-relief organization serving Charlotte, Collier, Glades, Hendry and Lee counties in Southwest Florida."
+    }
+  ]
+}

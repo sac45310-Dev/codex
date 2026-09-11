@@ -1,0 +1,1860 @@
+{
+ "wave_id": "w2026-09-10d",
+ "agent": "eth-americas-africa",
+ "target_org": "Ethnos360",
+ "slice": "the Americas, Africa, Europe, and US-based roles",
+ "searches_used": 15,
+ "people": [
+  {
+   "name": "Nathan Claasen",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/nathan-and-elizabeth-claasen",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Elizabeth Claasen",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/nathan-and-elizabeth-claasen",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Rob Ellis",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/rob-and-amy-ellis",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Amy Ellis",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/rob-and-amy-ellis",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Thomas Bittner",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/thomas-and-theresa-bittner",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Theresa Bittner",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/thomas-and-theresa-bittner",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Joe Goodman",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/joe-and-sharon-goodman",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Sharon Goodman",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/joe-and-sharon-goodman",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Luke Myers",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/luke-and-vickie-myers",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Vickie Myers",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/luke-and-vickie-myers",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Steve Sanford",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/steve-and-sharon-sanford",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Sharon Sanford",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/steve-and-sharon-sanford",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Neil Burleson",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/neil-and-becky-burleson",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Becky Burleson",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/neil-and-becky-burleson",
+   "fit_reason": "Couple page; both names in slug, both named in title"
+  },
+  {
+   "name": "Solange Ishy",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/solange-ishy",
+   "fit_reason": "Single-person page; surname in slug, named in title; Brazil"
+  },
+  {
+   "name": "Maria Amaro",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/maria-amaro",
+   "fit_reason": "Single-person page; surname in slug, named in title; Brazil"
+  },
+  {
+   "name": "Elizabeth Silva",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/elizabeth-silva",
+   "fit_reason": "Single-person page; surname in slug, named in title; Brazil"
+  },
+  {
+   "name": "Edward Luz",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/edward-and-nancy-luz",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Nancy Luz",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/edward-and-nancy-luz",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "David Kern",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/david-and-angie-kern",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Angie Kern",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/david-and-angie-kern",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Reuben Schuring",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/reuben-and-lydia-schuring",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Lydia Schuring",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/reuben-and-lydia-schuring",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Glauber Oliveira",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/glauber-and-joyce-oliveira",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Joyce Oliveira",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/glauber-and-joyce-oliveira",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Santo Celegatti",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/santo-and-celia-celegatti",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Celia Celegatti",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/santo-and-celia-celegatti",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Bruno Siqueira",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/bruno-and-suellen-siqueira",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Suellen Siqueira",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/bruno-and-suellen-siqueira",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Joao Rodrigues",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/joao-and-hope-rodrigues",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Hope Rodrigues",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/joao-and-hope-rodrigues",
+   "fit_reason": "Couple page; both names in slug, both named in title; Brazil"
+  },
+  {
+   "name": "Steve Gutzmer",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/steve-and-monica-gutzmer",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Monica Gutzmer",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/steve-and-monica-gutzmer",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Ethan Hunt",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/ethan-and-grace-hunt",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Grace Hunt",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/ethan-and-grace-hunt",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Mark Case",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/mark-and-janet-case",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Janet Case",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/mark-and-janet-case",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Bruce Higham",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/bruce-and-alice-higham",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Alice Higham",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/bruce-and-alice-higham",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Mark Goddard",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/mark-and-odie-goddard",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Odie Goddard",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/mark-and-odie-goddard",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Elijah Hall",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/elijah-and-moira-hall",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Moira Hall",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/elijah-and-moira-hall",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Jeff Hunt",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jeff-and-stacy-hunt",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Stacy Hunt",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jeff-and-stacy-hunt",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Jamie Hunt",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jamie-and-charlene-hunt",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Charlene Hunt",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jamie-and-charlene-hunt",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Christina Rupp",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/christina-rupp",
+   "fit_reason": "Single-person page; surname in slug, named in title; Paraguay"
+  },
+  {
+   "name": "John Keefe",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/john-and-rebecca-keefe",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Rebecca Keefe",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/john-and-rebecca-keefe",
+   "fit_reason": "Couple page; both names in slug, both named in title; Paraguay"
+  },
+  {
+   "name": "Maria Antelo",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/maria-antelo",
+   "fit_reason": "Single-person page; surname in slug, named in title; Bolivia"
+  },
+  {
+   "name": "Jennifer Fuentes",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jennifer-fuentes",
+   "fit_reason": "Single-person page; surname in slug, named in title; Bolivia"
+  },
+  {
+   "name": "Jack Russell",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jack-and-suzie-russell",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Suzie Russell",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jack-and-suzie-russell",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Bruce Johnson",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/bruce-and-janice-johnson",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Janice Johnson",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/bruce-and-janice-johnson",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Dan Burke",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/dan-and-judy-burke",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Judy Burke",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/dan-and-judy-burke",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Nathan Copa",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/nathan-and-mariana-copa",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Mariana Copa",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/nathan-and-mariana-copa",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Tim Wyma",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/tim-and-betty-wyma",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Betty Wyma",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/tim-and-betty-wyma",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Larry Depue",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/larry-and-linda-depue",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Linda Depue",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/larry-and-linda-depue",
+   "fit_reason": "Couple page; both names in slug, both named in title; Bolivia"
+  },
+  {
+   "name": "Gricelda Villalba",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/gricelda-villalba",
+   "fit_reason": "Single-person page; surname in slug, named in title; Mexico"
+  },
+  {
+   "name": "Yubiana Morales",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/yubiana-morales",
+   "fit_reason": "Single-person page; surname in slug, named in title; Mexico"
+  },
+  {
+   "name": "Tito Perez",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/tito-perez",
+   "fit_reason": "Single-person page; surname in slug, named in title; Mexico"
+  },
+  {
+   "name": "Gamaiel Zavala",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/gamaiel-and-rebecca-zavala",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Rebecca Zavala",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/gamaiel-and-rebecca-zavala",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Gabriel Saenz",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/gabriel-and-adriana-saenz",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Adriana Saenz",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/gabriel-and-adriana-saenz",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Hector Flores",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/hector-and-amy-flores",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Amy Flores",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/hector-and-amy-flores",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Eduardo Melendez",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/eduardo-and-veronica-melendez",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Veronica Melendez",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/eduardo-and-veronica-melendez",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Natalie Millikan-Carmona",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/natalie-millikan-carmona",
+   "fit_reason": "Single-person page; hyphenated surname in slug, named in title; Mexico"
+  },
+  {
+   "name": "Misael Ramirez",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/misael-and-jessica-ramirez",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Jessica Ramirez",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/misael-and-jessica-ramirez",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Chava Nunez",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/chava-and-andrea-andi-nunez",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Andrea Nunez",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/chava-and-andrea-andi-nunez",
+   "fit_reason": "Couple page; both names in slug, both named in title; Mexico"
+  },
+  {
+   "name": "Nelly Garcia",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/nelly-garcia",
+   "fit_reason": "Single-person page; surname in slug, named in title; Colombia"
+  },
+  {
+   "name": "Joshua Jaspe",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/joshua-and-denisse-jaspe",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Denisse Jaspe",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/joshua-and-denisse-jaspe",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Paul Keefe",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/paul-and-chabela-keefe",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Chabela Keefe",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/paul-and-chabela-keefe",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Jordan Keefe",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jordan-and-rachel-keefe",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Rachel Keefe",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jordan-and-rachel-keefe",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Davey Jank",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/davey-and-marie-jank",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Marie Jank",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/davey-and-marie-jank",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Daryelis Moreno de Leon",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/daryelis-moreno-de-leon",
+   "fit_reason": "Single-person page; hyphenated surname in slug, named in title; Colombia"
+  },
+  {
+   "name": "Abdias Velasquez",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/abdias-and-maria-velasquez",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Maria Velasquez",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/abdias-and-maria-velasquez",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Wayne Smith",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/wayne-and-rebecca-smith",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Rebecca Smith",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/wayne-and-rebecca-smith",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Juan Horta",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/juan-and-stella-horta",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Stella Horta",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/juan-and-stella-horta",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Casemiro Morales",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/casemiro-and-yuri-yokima-morales",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Yuri Yokima Morales",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/casemiro-and-yuri-yokima-morales",
+   "fit_reason": "Couple page; both names in slug, both named in title; Colombia"
+  },
+  {
+   "name": "Charles Badiane",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/charles-and-heather-badiane",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Heather Badiane",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/charles-and-heather-badiane",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Clara Pohl",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/clara-pohl",
+   "fit_reason": "Single-person page; surname in slug, named in title; Senegal"
+  },
+  {
+   "name": "Penny Warner",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/penny-warner",
+   "fit_reason": "Single-person page; surname in slug, named in title; Senegal"
+  },
+  {
+   "name": "Rebecca Stottlemyer",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/rebecca-stottlemyer",
+   "fit_reason": "Single-person page; surname in slug, named in title; Senegal"
+  },
+  {
+   "name": "Bryan Conard",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/bryan-and-martha-conard",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal [orchestrator: slug did not resolve in an independent site: search while two sampled siblings verified exactly]"
+  },
+  {
+   "name": "Martha Conard",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/bryan-and-martha-conard",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal [orchestrator: slug did not resolve in an independent site: search while two sampled siblings verified exactly]"
+  },
+  {
+   "name": "Alessandro Parrillo",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/alessandro-and-chantal-parrillo",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Chantal Parrillo",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/alessandro-and-chantal-parrillo",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Eric Stottlemyer",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/eric-and-wendy-stottlemyer",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Wendy Stottlemyer",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/eric-and-wendy-stottlemyer",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Jeremy Wardlaw",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jeremy-and-kimberly-wardlaw",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Kimberly Wardlaw",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jeremy-and-kimberly-wardlaw",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Dan Bryant",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/dan-and-ginny-bryant",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Ginny Bryant",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/dan-and-ginny-bryant",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Joel McMartin",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/joel--and-andi-mcmartin",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Andi McMartin",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/joel--and-andi-mcmartin",
+   "fit_reason": "Couple page; both names in slug, both named in title; Senegal"
+  },
+  {
+   "name": "Jeremy Hambrice",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jeremy-and-mandy-hambrice",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Mandy Hambrice",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jeremy-and-mandy-hambrice",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Aaron Weatherl",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/aaron-and-erika-weatherl",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Erika Weatherl",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/aaron-and-erika-weatherl",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Peter Van Der Decker",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/peter-and-pam-van-der-decker",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Pam Van Der Decker",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/peter-and-pam-van-der-decker",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Wayne Baker",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/wayne-and-diane-baker",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Diane Baker",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/wayne-and-diane-baker",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Levi Lilley",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/levi-and-julia-lilley",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Julia Lilley",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/levi-and-julia-lilley",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Ryan Farran",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/ryan-and-chelsea-farran",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Chelsea Farran",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/ryan-and-chelsea-farran",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Travis Lesicka",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/travis-and-rebecca-lesicka",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Rebecca Lesicka",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/travis-and-rebecca-lesicka",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Jack Crabtree",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jack-and-lael-crabtree",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Lael Crabtree",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jack-and-lael-crabtree",
+   "fit_reason": "Couple page; both names in slug, both named in title; note: appears to be Papua New Guinea (sibling slice)"
+  },
+  {
+   "name": "Arlen Johnson",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/arlen-and-rhoda-johnson",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Rhoda Johnson",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/arlen-and-rhoda-johnson",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Aaron Knapp",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/aaron-and-kim-knapp",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Kim Knapp",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/aaron-and-kim-knapp",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Aprian Hayoka",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/aprian-hayoka",
+   "fit_reason": "Single-person page; surname in slug, named in title; aviation"
+  },
+  {
+   "name": "Brian Pruett",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/brian-and-bailey-pruett",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Bailey Pruett",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/brian-and-bailey-pruett",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Ron James",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/ron-and-tami-james",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Tami James",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/ron-and-tami-james",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Brian Hicks",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/brian-and-judy-hicks",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Judy Hicks",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/brian-and-judy-hicks",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Liam McIvor",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/liam-and-katie-mcivor",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Katie McIvor",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/liam-and-katie-mcivor",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Stuart Sims",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/stuart-and-brynn-sims",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Brynn Sims",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/stuart-and-brynn-sims",
+   "fit_reason": "Couple page; both names in slug, both named in title; aviation"
+  },
+  {
+   "name": "Megan Lewis",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/megan-lewis",
+   "fit_reason": "Single-person page; surname in slug, named in title; home office"
+  },
+  {
+   "name": "Larry Brown",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/larry-and-debbie-brown",
+   "fit_reason": "Couple page; both names in slug, both named in title; home office"
+  },
+  {
+   "name": "Debbie Brown",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/larry-and-debbie-brown",
+   "fit_reason": "Couple page; both names in slug, both named in title; home office"
+  },
+  {
+   "name": "Rachel Whitmire",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/rachel-whitmire",
+   "fit_reason": "Single-person page; surname in slug, named in title; home office"
+  },
+  {
+   "name": "Tami See",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/tami-see",
+   "fit_reason": "Single-person page; surname in slug, named in title; home office"
+  },
+  {
+   "name": "Tim Simmonds",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/tim-and-sharon-simmonds",
+   "fit_reason": "Couple page; both names in slug, both named in title; home office"
+  },
+  {
+   "name": "Sharon Simmonds",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/tim-and-sharon-simmonds",
+   "fit_reason": "Couple page; both names in slug, both named in title; home office"
+  },
+  {
+   "name": "Kristi Jansma",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/kristi-jansma",
+   "fit_reason": "Single-person page; surname in slug, named in title; home office"
+  },
+  {
+   "name": "Zachary Prieb",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/zachary-and-sara-prieb",
+   "fit_reason": "Couple page; both names in slug, both named in title; home office"
+  },
+  {
+   "name": "Sara Prieb",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/zachary-and-sara-prieb",
+   "fit_reason": "Couple page; both names in slug, both named in title; home office"
+  },
+  {
+   "name": "George Kestler",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/george-and-linda-kestler",
+   "fit_reason": "Couple page; both names in slug, both named in title; home office"
+  },
+  {
+   "name": "Linda Kestler",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/george-and-linda-kestler",
+   "fit_reason": "Couple page; both names in slug, both named in title; home office"
+  },
+  {
+   "name": "Laila Moreira",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/laila-moreira",
+   "fit_reason": "Single-person page; surname in slug, named in title; Roatan"
+  },
+  {
+   "name": "Don Austin",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/don-and-dalvani-austin",
+   "fit_reason": "Couple page; both names in slug, both named in title; Roatan"
+  },
+  {
+   "name": "Dalvani Austin",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/don-and-dalvani-austin",
+   "fit_reason": "Couple page; both names in slug, both named in title; Roatan"
+  },
+  {
+   "name": "Jeff Howe",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jeff-and-adriana-howe",
+   "fit_reason": "Couple page; both names in slug, both named in title; Roatan"
+  },
+  {
+   "name": "Adriana Howe",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jeff-and-adriana-howe",
+   "fit_reason": "Couple page; both names in slug, both named in title; Roatan"
+  },
+  {
+   "name": "Ken Tibberts",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/ken-and-betty-tibberts",
+   "fit_reason": "Couple page; both names in slug, both named in title; Roatan"
+  },
+  {
+   "name": "Betty Tibberts",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/ken-and-betty-tibberts",
+   "fit_reason": "Couple page; both names in slug, both named in title; Roatan"
+  },
+  {
+   "name": "Greg Sanford",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/greg-and-dawn-sanford",
+   "fit_reason": "Couple page; both names in slug, both named in title; Sanford Florida"
+  },
+  {
+   "name": "Dawn Sanford",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/greg-and-dawn-sanford",
+   "fit_reason": "Couple page; both names in slug, both named in title; Sanford Florida"
+  },
+  {
+   "name": "Dave Field",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/dave-and-kim-field",
+   "fit_reason": "Couple page; both names in slug, both named in title; Sanford Florida"
+  },
+  {
+   "name": "Kim Field",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/dave-and-kim-field",
+   "fit_reason": "Couple page; both names in slug, both named in title; Sanford Florida"
+  },
+  {
+   "name": "Pam McCurdy",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/pam-mccurdy",
+   "fit_reason": "Single-person page; surname in slug, named in title; Sanford Florida"
+  },
+  {
+   "name": "Isai Castillo",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/isai-castillo-1",
+   "fit_reason": "Single-person page; surname in slug, named in title; Sanford Florida"
+  },
+  {
+   "name": "Ruth Bechtel",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/ruth-bechtel",
+   "fit_reason": "Single-person page; surname in slug, named in title; Sanford Florida"
+  },
+  {
+   "name": "Trevor Clarke",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/trevor-and-judy-clarke",
+   "fit_reason": "Couple page; both names in slug, both named in title; Sanford Florida"
+  },
+  {
+   "name": "Judy Clarke",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/trevor-and-judy-clarke",
+   "fit_reason": "Couple page; both names in slug, both named in title; Sanford Florida"
+  },
+  {
+   "name": "Pete Humphreys",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/pete-and-leah-humphreys",
+   "fit_reason": "Couple page; both names in slug, both named in title; Sanford Florida"
+  },
+  {
+   "name": "Leah Humphreys",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/pete-and-leah-humphreys",
+   "fit_reason": "Couple page; both names in slug, both named in title; Sanford Florida"
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries Brazil",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries Paraguay",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries Bolivia",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries Mexico",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries Panama",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries Colombia",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries Senegal",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries \"Ivory Coast\"",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries Guinea",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries aviation",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries \"missionary training\"",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries \"home office\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries Roatan",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries Sanford Florida",
+   "outcome": "found_people"
+  }
+ ],
+ "needs_review": [
+  {
+   "issue": "Asia/Pacific slice contamination",
+   "finding": "Search 10 (Guinea) returned Papua New Guinea missionaries (Hambrice, Weatherl, Van Der Decker, Baker, Lilley, Lesicka, Crabtree) which are in sibling agent's Asia/Pacific slice, not Americas/Africa/Europe/US",
+   "evidence": "These names appear in personal_page URLs but search was intended for West African Guinea and returned PNG results instead",
+   "recommendation": "Filter these 14 individuals (7 couples) out of the final dataset or mark as out-of-slice for sibling coordination"
+  },
+  {
+   "issue": "Unresolved slug in spot check",
+   "finding": "bryan-and-martha-conard did not appear in an independent site:ethnos360.org search for the surname, while pete-and-leah-humphreys and jeremy-and-mandy-hambrice from the same sample verified character-for-character. Affects: Bryan Conard, Martha Conard.",
+   "evidence": "Orchestrator spot check, w2026-09-10d.",
+   "recommendation": "Lowered to medium. Could be an indexing gap rather than an error — recheck before treating as a confirmed contact."
+  }
+ ]
+}

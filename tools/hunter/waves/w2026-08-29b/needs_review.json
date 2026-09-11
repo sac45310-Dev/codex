@@ -1,0 +1,83 @@
+[
+  {
+    "org_name": "Rebecca",
+    "note": "Virginia Tech campus director, 2013 grad, stepped into role 2018; last name not recovered from search results",
+    "_agent": "roster:cru",
+    "_wave_id": "w2026-08-29b"
+  },
+  {
+    "org_name": "Natalie Ceja",
+    "note": "Low confidence on role/tenure; appears in San Diego Circle but limited bio detail available",
+    "_agent": "roster:cru",
+    "_wave_id": "w2026-08-29b"
+  },
+  {
+    "name": "Dave",
+    "context": "Campus director at Georgia Tech",
+    "reason": "Partial name only; insufficient for reporting",
+    "_agent": "roster:navigators",
+    "_wave_id": "w2026-08-29b"
+  },
+  {
+    "name": "Isaac",
+    "context": "Campus director at Belmont University",
+    "reason": "Partial name only; insufficient for reporting",
+    "_agent": "roster:navigators",
+    "_wave_id": "w2026-08-29b"
+  },
+  {
+    "name": "Jess",
+    "context": "Associate Campus Director at UCSD",
+    "reason": "Partial name only; insufficient for reporting",
+    "_agent": "roster:navigators",
+    "_wave_id": "w2026-08-29b"
+  },
+  {
+    "name": "Brad",
+    "context": "Penn State campus director (staff since 2007, 6 years at University of Alabama, 2013+ at Penn State)",
+    "reason": "Partial name only; insufficient for reporting",
+    "_agent": "roster:navigators",
+    "_wave_id": "w2026-08-29b"
+  },
+  {
+    "name": "Maggie",
+    "context": "Penn State staff",
+    "reason": "Partial name only; insufficient for reporting",
+    "_agent": "roster:navigators",
+    "_wave_id": "w2026-08-29b"
+  },
+  {
+    "name": "Nash",
+    "context": "Penn State staff",
+    "reason": "Partial name only; insufficient for reporting",
+    "_agent": "roster:navigators",
+    "_wave_id": "w2026-08-29b"
+  },
+  {
+    "name": "Andrew",
+    "context": "UVA staff (University of South Florida graduate)",
+    "reason": "Partial name only; insufficient for reporting",
+    "_agent": "roster:navigators",
+    "_wave_id": "w2026-08-29b"
+  },
+  {
+    "name": "Devynn",
+    "context": "UVA staff (Florida State University graduate, married to Andrew since May 2017)",
+    "reason": "Partial name only; insufficient for reporting",
+    "_agent": "roster:navigators",
+    "_wave_id": "w2026-08-29b"
+  },
+  {
+    "name": "Katie",
+    "context": "UVA staff",
+    "reason": "Partial name only; insufficient for reporting",
+    "_agent": "roster:navigators",
+    "_wave_id": "w2026-08-29b"
+  },
+  {
+    "name": "Marc Davis",
+    "reason": "Found on give.serge.org/donate/marc-davis but search budget exhausted before detailed research. Location, role, field assignment unknown. Appears to be Tier A field missionary based on donation page presence but needs verification.",
+    "_agent": "roster:serge",
+    "_wave_id": "w2026-08-29b"
+  }
+]

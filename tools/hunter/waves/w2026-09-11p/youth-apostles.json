@@ -1,0 +1,171 @@
+{
+  "wave_id": "w2026-09-11p",
+  "agent": "p-youth-apostles",
+  "target_org": "Youth Apostles",
+  "slice": "Youth Apostles remainder",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Kieran Koch",
+      "org": "Youth Apostles",
+      "tier": "B",
+      "role": "Program Coordinator, Youth Apostles Missionary Program",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.youthapostles.org/missionaryfaqs",
+      "fit_reason": "Named with org email (kieran.koch@youthapostles.org) as Missionary Program Coordinator on the program FAQ page. Name is NOT in the URL - this is a program page, not a person page; no root-level /kierankoch slug surfaced. Tier B provisional: Youth Apostles documents fundraising training for Missionaries specifically, and no personal support ask was found for program/office staff. See needs_review - could be Tier A."
+    },
+    {
+      "name": "Liz Garcia",
+      "org": "Youth Apostles",
+      "tier": "B",
+      "role": "Director of Communications",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.youthapostles.org/officestaff",
+      "fit_reason": "Listed on the Office Staff hub page with org email liz.garcia@youthapostles.org. Name not in URL - /officestaff is a shared directory page, and a targeted query for a personal page returned nothing. Tier B provisional pending office-staff support-raising question in needs_review."
+    },
+    {
+      "name": "Tom Yehl",
+      "org": "Youth Apostles",
+      "tier": "B",
+      "role": "Chaplain, Campus Ministry (Fr. Tom Yehl, YA)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.youthapostles.org/campusministry",
+      "fit_reason": "Named as YA Chaplain on the Campus Ministry page alongside the campus ministry director. Name not in URL - shared program page. Tier B: consecrated Youth Apostles priest; consecrated members make promises of poverty and live in community houses, which points to central community support rather than personal support-raising."
+    },
+    {
+      "name": "Chris Hitzelberger",
+      "org": "Youth Apostles",
+      "tier": "B",
+      "role": "Director of Campus Ministry (also Director of Catholic Campus Ministry, Virginia Tech)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.youthapostles.org/campusministry",
+      "fit_reason": "Named as Director on the Youth Apostles Campus Ministry page with Fr. Tom Yehl as chaplain. Name not in URL - shared program page, no root-level person slug surfaced. Tier B provisional: campus ministry directors at Youth Apostles may be salaried by the campus ministry/diocese; no personal support ask found."
+    },
+    {
+      "name": "Eric McDade",
+      "org": "Youth Apostles",
+      "tier": "B",
+      "role": "Consecrated member; ordained priest June 6 2026 (Diocese of Arlington)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.youthapostles.org/blog/vocations",
+      "fit_reason": "Named on the Youth Apostles vocations post 'Three New Priests for Youth Apostles' as Rev. Mr. Eric McDade, YA, ordained 2026-06-06 at the Cathedral of St. Thomas More. Name not in URL - org blog post, no person page found. Tier B: consecrated member under promises of poverty, so almost certainly centrally supported rather than personally support-raised. This is one of the seminarians flagged in wave n - see needs_review."
+    },
+    {
+      "name": "Sean Mazary",
+      "org": "Youth Apostles",
+      "tier": "B",
+      "role": "Consecrated member; ordained priest June 6 2026; former Youth Missionary at Holy Trinity Catholic Church",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.youthapostles.org/blog/vocations",
+      "fit_reason": "Named on the Youth Apostles vocations post as Rev. Mr. Sean Mazary, YA; the Diocese of Arlington separately describes him as a consecrated member of the Youth Apostles community and former Youth Missionary at Holy Trinity. Name not in URL - org blog post. Tier B: consecrated member under promises of poverty. Second of the two seminarians flagged in wave n - see needs_review."
+    },
+    {
+      "name": "Jim Harbour",
+      "org": "Youth Apostles",
+      "tier": "B",
+      "role": "Consecrated member; ordained priest June 6 2026 (Diocese of Arlington)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.youthapostles.org/blog/vocations",
+      "fit_reason": "Already held from wave n; re-emitted for dedupe because the citation carries NEW tiering evidence. Named as Rev. Mr. Jim Harbour, YA in the 'Three New Priests for Youth Apostles' post. Name not in URL. If he is held as Tier A, that grade should be re-examined: as a consecrated Youth Apostles priest under promises of poverty he is likely centrally supported."
+    },
+    {
+      "name": "John Lilly",
+      "org": "Youth Apostles",
+      "tier": "B",
+      "role": "Unverified - blog author on youthapostles.org",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.youthapostles.org/author/jlilly/page/2",
+      "fit_reason": "Surname is in the URL slug (jlilly) and the page title reads 'John Lilly - Page 2 - Youth Apostles', so identity is solid. Graded medium rather than high because an author archive establishes only that he writes for the site - it does not establish a staff role, a placement, or any support ask. Role and tier both unverified."
+    },
+    {
+      "name": "Austin Mee",
+      "org": "Youth Apostles",
+      "tier": "A",
+      "role": "Missionary and Missionary Program Director, Bishop O'Connell Catholic High School",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.youthapostles.org/austinmee",
+      "fit_reason": "Already held from wave n; re-emitted for dedupe because the role detail is new. Root-level concatenated slug carries first+last name and the title reads 'Austin Mee, YA | Youth Apostles'. Tier A: Youth Apostles Missionaries are trained to fundraise their own support."
+    },
+    {
+      "name": "Tyler Fabian",
+      "org": "Youth Apostles",
+      "tier": "A",
+      "role": "Development Officer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.youthapostles.org/tylerfabian",
+      "fit_reason": "Already held from wave n; re-emitted for dedupe with new role evidence. Root-level slug carries first+last name, title 'Tyler Fabian | Youth Apostles'; the Office Staff page gives his role as Development Officer (tyler.fabian@youthapostles.org)."
+    },
+    {
+      "name": "Joseph Frommelt",
+      "org": "Youth Apostles",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.youthapostles.org/josephfrommelt",
+      "fit_reason": "Already held from wave n; re-emitted for dedupe. Root-level concatenated slug carries first+last name, title 'Joseph Frommelt | Youth Apostles', surfaced by a missionary/support query."
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "\"| Youth Apostles\" youthapostles.org", "outcome": "no_people"},
+    {"kind": "query", "value": "youthapostles.org missionaries brother apprentice support", "outcome": "found_people"},
+    {"kind": "query", "value": "\"Youth Apostles\" missionary \"raise support\" Arlington campus minister 2026", "outcome": "no_people"},
+    {"kind": "query", "value": "youthapostles.org \"Youth Apostles\" youth minister \"St. Paul VI\" OR \"Bishop O'Connell\" OR \"Virginia Tech\"", "outcome": "found_people"},
+    {"kind": "query", "value": "\", YA | Youth Apostles\" youthapostles.org", "outcome": "no_people"},
+    {"kind": "query", "value": "youthapostles.org officestaff office staff director", "outcome": "found_people"},
+    {"kind": "query", "value": "\"Youth Apostles\" missionary 2025-2026 class new missionaries names Arlington Catholic Herald", "outcome": "found_people"},
+    {"kind": "query", "value": "\"Youth Apostles\" \"Fr.\" priest chaplain seminarian brother formation house", "outcome": "found_people"},
+    {"kind": "query", "value": "youthapostles.org/campusministry Chris Hitzelberger campus missionary team", "outcome": "found_people"},
+    {"kind": "query", "value": "\"Three New Priests for Youth Apostles\" ordained 2026 names", "outcome": "found_people"},
+    {"kind": "query", "value": "youthapostles.org \"Our Council\" Youth Apostles general council members names", "outcome": "no_people"},
+    {"kind": "query", "value": "youthapostles.org missionary \"Holy Trinity\" OR \"St. Mary\" OR \"Nativity\" OR \"St. Timothy\" parish youth minister missionary profile", "outcome": "offtopic"},
+    {"kind": "query", "value": "\"Missionaries | Youth Apostles\" youthapostles.org/missionaries meet our missionaries serving at", "outcome": "no_people"},
+    {"kind": "query", "value": "\"Youth Apostles\" missionary support donate \"give to\" individual missionary page 2026", "outcome": "offtopic"},
+    {"kind": "query", "value": "youthapostles.org \"Kieran Koch\" OR \"Liz Garcia\" OR \"Tom Yehl\" OR \"Eric McDade\" OR \"Sean Mazary\"", "outcome": "found_people"},
+    {"kind": "query", "value": "\"Youth Apostles\" missionary Bishop O'Connell \"Missionary Program Director\" name 2026 support page", "outcome": "found_people"},
+    {"kind": "query", "value": "youthapostles.org/author Youth Apostles author archive page", "outcome": "no_people"},
+    {"kind": "query", "value": "youthapostles.org \"Youth Apostles\" bio \"he serves\" OR \"he joined\" missionary consecrated member page", "outcome": "no_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "Wave n flagged two Youth Apostles seminarians as possibly centrally funded rather than personally support-raised - partially resolved",
+      "finding": "Three Youth Apostles were ordained priests by Bishop Burbidge on 2026-06-06: Eric McDade YA, Jim Harbour YA and Sean Mazary YA. All three are CONSECRATED members of Youth Apostles, not missionaries in the two-year fundraising program. Youth Apostles' own vocations page states that consecrated priests and consecrated laymen make promises of poverty, chastity and obedience and live consecrated life together in community houses.",
+      "evidence": "https://www.youthapostles.org/blog/vocations ; https://www.youthapostles.org/vocations ; Diocese of Arlington post describing Sean Mazary as 'a consecrated member of the Youth Apostles community and former Youth Missionary at Holy Trinity Catholic Church'",
+      "recommendation": "Treat consecrated members (priests and lay brothers) as Tier B / not ICP: a promise of poverty plus community living is inconsistent with managing a personal donor base. This most likely identifies the two flagged people as McDade and Mazary. NOT fully confirmed - no page states outright that consecrated members do or do not support-raise. Jim Harbour is already held and should have his tier re-checked on the same grounds. A fetch-enabled pass on /vocations and /support would settle it."
+    },
+    {
+      "issue": "Office and program staff tiering is unresolved and I have deliberately NOT graded them on job function alone",
+      "finding": "Youth Apostles documents fundraising training only for Missionaries ('Missionaries are trained in how to fundraise to support their missionary service'). The Office Staff page lists a General Director, a Director of Mission and Development, a Development Officer and a Director of Communications, with no support ask visible in any snippet. Separately, Tyler Fabian (Development Officer) DOES have a root-level person page of the same shape the Missionaries use, which cuts the other way and suggests office staff may have support pages too.",
+      "evidence": "https://www.youthapostles.org/officestaff ; https://www.youthapostles.org/missionaryfaqs ; https://www.youthapostles.org/tylerfabian",
+      "recommendation": "Kieran Koch, Liz Garcia, Chris Hitzelberger and Tom Yehl are emitted Tier B provisionally on absence of evidence, not on job title. If a fetch of /officestaff shows per-person support asks, promote all four to Tier A. Do not bulk-grade either way without fetching one office-staff person page."
+    },
+    {
+      "issue": "Named person whose surname is withheld on the public page",
+      "finding": "The Office Staff page lists a 'Director of Mission and Development' identified only as fr.jack@youthapostles.org - first name and title, no surname anywhere in the snippet.",
+      "evidence": "https://www.youthapostles.org/officestaff",
+      "recommendation": "Not emitted. First-name-only, per the hard rule. Resolvable with a single page fetch of /officestaff; do not infer the surname from diocesan sources."
+    },
+    {
+      "issue": "The /missionaries hub names placements but withholds the individual names from search snippets - this is where the remaining volume is",
+      "finding": "The Missionaries page is structured as: an Advisor to the Missionary Program, then missionaries grouped by placement at Bishop O'Connell Catholic High School, St. Paul VI Catholic High School and Holy Trinity Catholic Church, then Summer Missionaries. Every snippet returned the group headings and never the person names. Only Austin Mee (Bishop O'Connell) could be tied to a placement, and only via a separate query. The Advisor is named on the page but the name never appeared in any snippet.",
+      "evidence": "https://www.youthapostles.org/missionaries (surfaced in 8 of 18 queries, always with placement headings and never with person names)",
+      "recommendation": "HIGHEST-VALUE FOLLOW-UP: one page fetch of /missionaries almost certainly yields the full current missionary roster with root-level slugs, and these are the genuine Tier A records. Search alone cannot get at it. Do not buy another search-only slice on this domain for the missionary roster."
+    },
+    {
+      "issue": "Root-slug enumeration is confirmed defeated on this domain, and the one alternative prefix is a dead end",
+      "finding": "As briefed, root-level slugs give the engine no prefix to walk. The literal title-suffix strings '| Youth Apostles' and ', YA | Youth Apostles' both returned only program and hub pages - zero person pages - because the suffix appears in the title of EVERY page on the site, person or not, so it has no discriminating power. The role-word, school-name and diocesan-context axes worked better and produced every new name in this file. I also found a second URL shape not previously recorded, the WordPress-style author archive /author/<slug> (e.g. /author/jlilly/page/2), but two queries against that prefix surfaced exactly one author.",
+      "evidence": "Coverage rows 1, 5, 17 and 18 (title-suffix and /author/ sweeps, all no_people); rows 4, 8, 9, 10, 16 (role/school/diocese axes, all found_people)",
+      "recommendation": "Retire the title-suffix tactic for Youth Apostles - it is structurally useless here, not just unlucky. The last three queries returned nothing new, so I stopped on budget and on the exhaustion signal simultaneously. Any further Youth Apostles work should be fetch-based against /missionaries, /officestaff and /ourcouncil rather than search-based. Also note /ourcouncil exists as a third named hub (General Director John More, council elected 2025-2028) whose member names never surfaced in snippets."
+    }
+  ]
+}

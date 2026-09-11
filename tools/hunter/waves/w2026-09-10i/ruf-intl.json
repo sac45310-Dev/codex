@@ -1,0 +1,232 @@
+{
+  "wave_id": "w2026-09-10i",
+  "agent": "ruf-intl",
+  "target_org": "Reformed University Fellowship",
+  "slice": "RUF-International (RUF-I) ministries and international-student staff",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Kirk Norris",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/stlouisrufi",
+      "fit_reason": "Founded RUF-I at Washington University in 2022 after returning from Ukraine; per-person giving page with ministry context"
+    },
+    {
+      "name": "Jeff Thompson",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/ugarufi",
+      "fit_reason": "Campus code page for RUF-I at University of Georgia; page belongs to ministry, names minister"
+    },
+    {
+      "name": "Micah Bragg",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/columbiarufi",
+      "fit_reason": "Campus code page for RUF-I at Columbia University; page belongs to ministry, names minister"
+    },
+    {
+      "name": "Jon Bonker",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/UFinternational",
+      "fit_reason": "RUF-I campus minister at University of Florida; international slug indicates RUF-I ministry"
+    },
+    {
+      "name": "Justin Smith",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/utdallasrufi",
+      "fit_reason": "Campus code page for RUF-I at UT Dallas; page belongs to ministry, names minister"
+    },
+    {
+      "name": "Titus Bagby",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/texasamrufi",
+      "fit_reason": "Campus code page for RUF-I at Texas A&M University; page belongs to ministry, names minister"
+    },
+    {
+      "name": "David Billingslea",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/UCSanDiegoRUFI",
+      "fit_reason": "Campus code page for RUF-I at UC San Diego; started RUF-I ministry there in 2023"
+    },
+    {
+      "name": "Ian Hammond",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/utaustinrufi",
+      "fit_reason": "Campus code page for RUF-I at UT Austin; page belongs to ministry, names minister"
+    },
+    {
+      "name": "Michael Alsup",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/auburnrufi",
+      "fit_reason": "Campus code page for RUF-I at Auburn University; page belongs to ministry, names minister"
+    },
+    {
+      "name": "Richard Smith",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/pennrufi",
+      "fit_reason": "Campus code page for RUF-I at Penn State University; page belongs to ministry, names minister"
+    },
+    {
+      "name": "Brian Howard",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/clemsonrufi",
+      "fit_reason": "Campus code page for RUF-I at Clemson University; moved there summer 2020 to work with RUF-I"
+    },
+    {
+      "name": "Paul Schuler",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/berkeleyrufi",
+      "fit_reason": "Campus code page for RUF-I at UC Berkeley; part of RUF-I team"
+    },
+    {
+      "name": "Matthew Delong",
+      "org": "Reformed University Fellowship - RUF-I",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/mason_ruf-i",
+      "fit_reason": "Campus code page for RUF-I at George Mason University; started RUF-I at Auburn in 2014, later transferred to Mason"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate rufi",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"RUF International\" site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate ugarufi clemsonrufi bamarufi",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate lsurufi pittrufi msurufi",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate purduerufi iowarufi uwrufi ucbrufi",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate utint tamuint osuint",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate uwint gtint",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate international",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate \"international students\" RUF",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate ESL ministry",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate clemsonrufi bamarufi",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate lsurufi michiganrufi",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate purduerufi",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate indy.rufi tulsa international",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate \"RUF-I\" intern",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate rufi -vandyrufi -utkrufi -ncsurufi -ucfrufi -northwestern",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate ruf-i campus minister international",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate rufi -ugarufi -clemsonrufi -illino -texasam -auburnrufi",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}

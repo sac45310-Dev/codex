@@ -1,0 +1,151 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:arlboston",
+  "roster_verdict": "rostered",
+  "target_org": "Animal Rescue League of Boston",
+  "people": [
+    {
+      "org_name": "Jacquelyn Smith",
+      "org_type": "individual",
+      "city": "Dedham",
+      "state": "MA",
+      "summary": "Animal Rescue League of Boston — Chief Advancement Officer",
+      "fit_score": 9,
+      "fit_reason": "Tier B: Chief Advancement Officer directly responsible for all development, fundraising, and donor relations strategy",
+      "source_query": "hunter:w2026-08-30f:arlboston",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Advancement Officer",
+        "target_org": "Animal Rescue League of Boston",
+        "evidence_url": "https://www.arlboston.org/fundraise-for-animals/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Edward Schettino",
+      "org_type": "individual",
+      "city": "Dedham",
+      "state": "MA",
+      "summary": "Animal Rescue League of Boston — President & CEO",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Chief executive with overall organizational responsibility; prior experience as VP of Animal Welfare and Veterinary Services",
+      "source_query": "hunter:w2026-08-30f:arlboston",
+      "meta": {
+        "tier": "C",
+        "role": "President & Chief Executive Officer",
+        "target_org": "Animal Rescue League of Boston",
+        "evidence_url": "https://www.arlboston.org/35303-2/",
+        "email": "e***@arlboston.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "William Whelan",
+      "org_type": "individual",
+      "summary": "Animal Rescue League of Boston — Board Member and Secretary",
+      "fit_score": 7,
+      "fit_reason": "Tier C: Board member and officer with governance responsibility; positioned as secretary on board",
+      "source_query": "hunter:w2026-08-30f:arlboston",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member and Secretary",
+        "target_org": "Animal Rescue League of Boston",
+        "evidence_url": "https://www.capecod.com/newscenter/animal-rescue-league-of-boston-announces-new-president/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Dr. Erin Doyle",
+      "org_type": "individual",
+      "city": "Dedham",
+      "state": "MA",
+      "summary": "Animal Rescue League of Boston — Chief Animal Welfare & Medical Officer",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Senior executive with animal welfare and medical operations leadership, but not development-focused",
+      "source_query": "hunter:w2026-08-30f:arlboston",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Animal Welfare & Medical Officer",
+        "target_org": "Animal Rescue League of Boston",
+        "evidence_url": "https://www.linkedin.com/company/arlboston",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Leyre Gillis",
+      "org_type": "individual",
+      "city": "Dedham",
+      "state": "MA",
+      "summary": "Animal Rescue League of Boston — Chief People & Culture Officer",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Senior executive in human resources and culture, not development-focused",
+      "source_query": "hunter:w2026-08-30f:arlboston",
+      "meta": {
+        "tier": "C",
+        "role": "Chief People & Culture Officer",
+        "target_org": "Animal Rescue League of Boston",
+        "evidence_url": "https://www.datanyze.com/companies/animal-rescue-league-of-boston/5277489",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Animal Rescue League of Boston",
+      "website": "https://www.arlboston.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "headcount_est": 134,
+      "faith_orientation": "secular",
+      "crm_incumbent": "Blackbaud (Raiser's Edge implied by secure.arlboston.org donation platform)",
+      "evidence": "Secular animal welfare nonprofit operating 120+ years with over 1,000 volunteers and 100+ staff in Dedham, MA. No government grants, entirely donor-supported."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Animal Rescue League of Boston staff directory team",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "\"Animal Rescue League of Boston\" development director fundraising",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Animal Rescue League of Boston\" advancement major gifts donor relations",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Animal Rescue League of Boston\" executive leadership team",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"Animal Rescue League Boston\" arlboston.org philanthropy fundraising staff",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "\"Animal Rescue League of Boston\" board trustees leadership",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Charles Membrino",
+      "reason_code": "platform_not_person",
+      "detail": "Mentioned as IT Executive in LinkedIn search results; appears in tech/operations role, not development/fundraising focus. Limited confirmation of role."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "wave_id": "w2026-08-30c",
+  "agent": "roster:ywammontana",
+  "target_org": "YWAM Montana",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "R. Keith Buzzard",
+      "summary": "YWAM Montana — President/Co-Director",
+      "fit_score": 7,
+      "fit_reason": "Tier A - YWAM staff raises own support per organizational model; serves as President and co-director of Lakeside base.",
+      "source_query": "hunter:w2026-08-30c:ywammontana",
+      "website": "https://www.linkedin.com/in/keith-buzzard-917647209/",
+      "city": "Kalispell",
+      "state": "MT",
+      "meta": {
+        "tier": "A",
+        "role": "President/Co-Director",
+        "target_org": "YWAM Montana",
+        "evidence_url": "https://flatheadbeacon.com/2015/08/08/ywam-celebrating-30-years-in-lakeside/",
+        "linkedin_url": "https://www.linkedin.com/in/keith-buzzard-917647209/",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    },
+    {
+      "org_name": "Mariska Buzzard",
+      "summary": "YWAM Montana — Co-Director",
+      "fit_score": 7,
+      "fit_reason": "Tier A - YWAM staff raises own support per organizational model; serves as co-director of Lakeside base with husband Keith.",
+      "source_query": "hunter:w2026-08-30c:ywammontana",
+      "city": "Lakeside",
+      "state": "MT",
+      "meta": {
+        "tier": "A",
+        "role": "Co-Director",
+        "target_org": "YWAM Montana",
+        "evidence_url": "https://flatheadbeacon.com/2015/08/08/ywam-celebrating-30-years-in-lakeside/",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    },
+    {
+      "org_name": "Nathan Russell",
+      "summary": "YWAM Montana — Business & Finance Director",
+      "fit_score": 7,
+      "fit_reason": "Tier A - YWAM staff raises own support per organizational model; holds MBA in Non-Profit Management; serves as Business & Finance Director.",
+      "source_query": "hunter:w2026-08-30c:ywammontana",
+      "website": "https://www.linkedin.com/in/nathan-russell-38b73624a/",
+      "city": "Lakeside",
+      "state": "MT",
+      "meta": {
+        "tier": "A",
+        "role": "Business & Finance Director",
+        "target_org": "YWAM Montana",
+        "evidence_url": "https://www.linkedin.com/in/nathan-russell-38b73624a/",
+        "linkedin_url": "https://www.linkedin.com/in/nathan-russell-38b73624a/",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "YWAM Montana Lakeside staff team directory",
+      "outcome": "found_people",
+      "people_found": 8
+    },
+    {
+      "kind": "query",
+      "value": "ywammontana.org team members staff",
+      "outcome": "found_people",
+      "people_found": 9
+    },
+    {
+      "kind": "query",
+      "value": "Youth with a Mission Montana leadership staff roster",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"YWAM Montana\" staff support raising prayer letter",
+      "outcome": "found_people",
+      "people_found": 0,
+      "notes": "Query confirmed organizational support-raising model but no specific individuals listed"
+    },
+    {
+      "kind": "query",
+      "value": "R. Keith Buzzard YWAM Montana director",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Mariska Buzzard YWAM Montana leadership",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"YWAM Montana\" \"Nathan Russell\" finance",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "YWAM Lakeside Montana board directors leadership team 2026",
+      "outcome": "found_people",
+      "people_found": 3
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Karen Armstrong",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as 'DTS Staff' - DTS (Discipleship Training School) indicates student/trainee status, not permanent staff member"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Mark Masucci",
+      "reason_code": "no_longer_with_org",
+      "detail": "Served in leadership at YWAM Lakeside Montana for nearly thirty years but has moved on to Mission Builders International"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Dawn Masucci",
+      "reason_code": "no_longer_with_org",
+      "detail": "Served in leadership at YWAM Lakeside Montana but has moved on to Mission Builders International"
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Sarah Green",
+      "org": "YWAM Montana",
+      "question": "Is this a real current staff member or trainee? Need to verify employment status and support-raising evidence.",
+      "evidence_url": "Multiple directory listings from searches"
+    },
+    {
+      "name": "Elizabeth Ensminger",
+      "org": "YWAM Montana",
+      "question": "Is this a real current staff member or trainee? Need to verify employment status and support-raising evidence.",
+      "evidence_url": "Multiple directory listings from searches"
+    },
+    {
+      "name": "Tyler Brazier",
+      "org": "YWAM Montana",
+      "question": "Is this a real current staff member or trainee? Need to verify employment status and support-raising evidence.",
+      "evidence_url": "Multiple directory listings from searches"
+    },
+    {
+      "name": "Sierra Lee",
+      "org": "YWAM Montana",
+      "question": "Is this a real current staff member or trainee? Need to verify employment status and support-raising evidence.",
+      "evidence_url": "Multiple directory listings from searches"
+    },
+    {
+      "name": "Sally Jo Vander Yacht",
+      "org": "YWAM Montana",
+      "question": "Is this a real current staff member or trainee? Need to verify employment status and support-raising evidence.",
+      "evidence_url": "Multiple directory listings from searches"
+    },
+    {
+      "name": "Kevin Robinson",
+      "org": "YWAM Montana",
+      "question": "Leadership staff mentioned in one search result - need to verify current role and support-raising evidence.",
+      "evidence_url": "Search result from 'Youth with a Mission Montana leadership staff roster'"
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "YWAM Montana",
+      "website": "https://www.ywammontana.org/",
+      "org_type": "parachurch",
+      "size_estimate": "small",
+      "headcount_est": 160,
+      "faith_orientation": "christian",
+      "tier_profile": "A",
+      "evidence": "All 160 staff members raise their own financial support. YWAM model requires every staff member to fundraise to meet their own financial needs from churches, friends, and family."
+    }
+  ]
+}

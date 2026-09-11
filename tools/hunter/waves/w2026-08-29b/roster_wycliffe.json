@@ -1,0 +1,541 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:wycliffe",
+  "target_org": "Wycliffe Bible Translators USA",
+  "roster_verdict": "exhausted",
+  "notes": "partial — large org. Web search limited access to staff directories; majority identified through blog posts, missionary profiles, and leadership bios. Many individual missionary pages require direct navigation.",
+  "people": [
+    {
+      "org_name": "John Kreutz",
+      "org_type": "individual",
+      "website": "https://www.wycliffe.org/partner/kreutz-john-donna",
+      "city": "Oregon",
+      "state": "OR",
+      "summary": "Wycliffe Bible Translators — Missionary, Guevea Zapotec New Testament translation and distribution",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Field missionary with personal Wycliffe partner page; active translator working directly on New Testament projects since 1983",
+      "meta": {
+        "tier": "A",
+        "role": "Bible translator/missionary",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/partner/kreutz-john-donna",
+        "donation_page": "https://www.wycliffe.org/partner/kreutz-john-donna",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Donna Kreutz",
+      "org_type": "individual",
+      "website": "https://www.wycliffe.org/partner/kreutz-john-donna",
+      "city": "Oregon",
+      "state": "OR",
+      "summary": "Wycliffe Bible Translators — Missionary, Guevea Zapotec translation and community outreach",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Field missionary with personal Wycliffe partner page; co-working with John on translation and distribution efforts",
+      "meta": {
+        "tier": "A",
+        "role": "Bible translator/missionary",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/partner/kreutz-john-donna",
+        "donation_page": "https://www.wycliffe.org/partner/kreutz-john-donna",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ben Pehrson",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Team leader, Aitape West Translation Program, Papua New Guinea; facilitates Bible translation for 10+ languages",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Field missionary and program team leader managing 14 missionaries and 65+ volunteers; teaching and mentoring in Greek, exegesis, linguistics",
+      "meta": {
+        "tier": "A",
+        "role": "Translation program team leader",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/blog/posts/the-pehrsons-in-papua-new-guinea",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mandy Pehrson",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Team leader, Aitape West Translation Program, Papua New Guinea; co-leads translation ministry and member care",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Field missionary and program co-leader managing multi-language translation program; teaches, mentors, conducts crisis debriefing",
+      "meta": {
+        "tier": "A",
+        "role": "Translation program co-leader",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/blog/posts/the-pehrsons-in-papua-new-guinea",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Seth Johnston",
+      "org_type": "individual",
+      "website": "https://www.wycliffe.org/partner/Seth-Johnston",
+      "city": "Florida",
+      "state": "FL",
+      "summary": "Wycliffe Bible Translators — Missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual Wycliffe missionary profile with partner page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/partner/Seth-Johnston",
+        "donation_page": "https://www.wycliffe.org/partner/Seth-Johnston",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "David Pickens",
+      "org_type": "individual",
+      "website": "https://www.wycliffe.org/partner/FEE5B1",
+      "city": "",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Field missionary with personal Wycliffe partner page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/partner/FEE5B1",
+        "donation_page": "https://www.wycliffe.org/partner/FEE5B1",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Penelope Pickens",
+      "org_type": "individual",
+      "website": "https://www.wycliffe.org/partner/FEE5B1",
+      "city": "",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Field missionary with personal Wycliffe partner page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/partner/FEE5B1",
+        "donation_page": "https://www.wycliffe.org/partner/FEE5B1",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "David Wakefield",
+      "org_type": "individual",
+      "website": "https://wycliffe.org/partner/CEFDA0",
+      "city": "",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Field missionary with personal Wycliffe partner page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://wycliffe.org/partner/CEFDA0",
+        "donation_page": "https://wycliffe.org/partner/CEFDA0",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Fran Wakefield",
+      "org_type": "individual",
+      "website": "https://wycliffe.org/partner/CEFDA0",
+      "city": "",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Field missionary with personal Wycliffe partner page",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://wycliffe.org/partner/CEFDA0",
+        "donation_page": "https://wycliffe.org/partner/CEFDA0",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rachel Ellison",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Field missionary, Nigeria translation work",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Field missionary joined August 2019; active in Nigeria since June 2021 on Bible translation projects",
+      "meta": {
+        "tier": "A",
+        "role": "Bible translator/missionary",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://wycliffe.org/missionary-test?page=5",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mark Legters",
+      "org_type": "individual",
+      "website": "",
+      "city": "Merida",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Fourth-generation missionary, Mexico; pastor, church planter, trainer",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Field missionary; fourth generation in Wycliffe family; full-time missionary since 1998; actively fundraising for ministry",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary/pastor/church planter",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/blog/posts/four-generations-of-missions",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Altia Legters",
+      "org_type": "individual",
+      "website": "",
+      "city": "Merida",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Missionary, Mexico; church planter, trainer, community educator",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Field missionary; full-time missionary since 1998; works alongside Mark in Mexican community ministry",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary/church planter",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/blog/posts/four-generations-of-missions",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mason",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Bible translation program manager, Brazil (arriving mid-2027)",
+      "fit_score": 7,
+      "fit_reason": "Tier A: New missionary recruit (joined 2025); Spanish speaker serving in field management role; early-stage support raising",
+      "meta": {
+        "tier": "A",
+        "role": "Bible translation program manager",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/blog/posts/how-to-join-wycliffe-as-a-new-missionary-9-steps-before-serving",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Dorothy",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Bible translation specialist, East Africa (Kenya/Ethiopia); New Testament translation",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Long-term field missionary since 1996; completed New Testament translation projects in Ethiopia",
+      "meta": {
+        "tier": "A",
+        "role": "Bible translation specialist",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/partner/missionaries?filter%5B0%5D%5B0%5D=6",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sam",
+      "org_type": "individual",
+      "website": "",
+      "city": "Tanzania",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Translation advisor, East Africa (Tanzania)",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Field missionary joined August 2021; serving as translation advisor in Tanzania",
+      "meta": {
+        "tier": "A",
+        "role": "Translation advisor",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/partner/missionaries?filter%5B0%5D%5B0%5D=6",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Cleofaye",
+      "org_type": "individual",
+      "website": "",
+      "city": "Tanzania",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Translation advisor, East Africa (Tanzania)",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Field missionary joined August 2021; serving as translation advisor in Tanzania",
+      "meta": {
+        "tier": "A",
+        "role": "Translation advisor",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/partner/missionaries?filter%5B0%5D%5B0%5D=6",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sarah Traverso",
+      "org_type": "individual",
+      "website": "",
+      "city": "Orlando",
+      "state": "FL",
+      "summary": "Wycliffe Bible Translators — Vice President, Global Workforce Strategies; Executive Leadership Team",
+      "fit_score": 5,
+      "fit_reason": "Tier B: HQ staff leadership; VP-level executive; focuses on workforce planning and strategy since 2011",
+      "meta": {
+        "tier": "B",
+        "role": "VP Global Workforce Strategies",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/about/our-leaders?BiographyId=41",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tori Masyczek",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Wycliffe Bible Translators — Vice President, Staff Care and Development; leadership in member care",
+      "fit_score": 5,
+      "fit_reason": "Tier B: HQ staff leadership; VP-level executive; director of member care and staff vitality since 2005",
+      "meta": {
+        "tier": "B",
+        "role": "VP Staff Care and Development",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/about/our-leaders",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Meg",
+      "org_type": "individual",
+      "website": "",
+      "city": "Orlando",
+      "state": "FL",
+      "summary": "Wycliffe Bible Translators — Vice President, Global Partnerships Engagement; HR and fundraising leadership",
+      "fit_score": 5,
+      "fit_reason": "Tier B: HQ staff leadership; VP-level executive; 13+ year tenure in HR, executive support, fundraising since 2014",
+      "meta": {
+        "tier": "B",
+        "role": "VP Global Partnerships Engagement",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/partner/missionaries?query=&filter%5B0%5D%5B0%5D=1",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Jaime Ayala",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Wycliffe Bible Translators/SIL Global — Director, SIL Americas South; HR leadership; field experience Peru",
+      "fit_score": 5,
+      "fit_reason": "Tier B: Senior leadership role; 30+ years Bible translation and HR leadership; directed Wanca Quechua literacy projects",
+      "meta": {
+        "tier": "B",
+        "role": "Director SIL Americas South",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/about/our-leaders?biographyid=39",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jessica",
+      "org_type": "individual",
+      "website": "",
+      "city": "Orlando",
+      "state": "FL",
+      "summary": "Wycliffe Bible Translators — Executive Leadership Team member; administrative and project management oversight",
+      "fit_score": 4,
+      "fit_reason": "Tier B: HQ executive staff; facilitates leadership team meetings; supervises executive administration and communications",
+      "meta": {
+        "tier": "B",
+        "role": "Executive Leadership Team member",
+        "target_org": "Wycliffe Bible Translators USA",
+        "evidence_url": "https://www.wycliffe.org/about",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner missionary translator",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe bible translators field missionary profiles 2025 2026",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe missionary prayer letter 2026",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe bible translators translation team leader Africa",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe missionary serving with wycliffe site:org",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe missionary Papua New Guinea translation team",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe missionaries Colombia Ecuador language translation",
+      "outcome": "offtopic",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe missionary Indonesia Borneo translator",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe bible translators Mexico missionaries 2025 2026",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe missionaries Asia language program director",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe John Kreutz OR Donna Kreutz missionary",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe missionaries Nigeria Cameroon language",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe Latin America missionaries Guatemala Peru",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe missionary staff development advancement officer",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe headquarters staff administrators leadership Orlando",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe Seth Johnston OR David Pickens OR David Wakefield",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe missionaries Middle East Central Asia translation",
+      "outcome": "offtopic",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe Bible translators fundraising coordinator regional support",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe Ben Pehrson OR Mandy Pehrson Papua New Guinea",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe missionaries East Africa Ethiopia Kenya translator",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe Mason Brazil translation program manager 2025",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe Rachel Ellison Nigeria translator",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe Mark Legters Mexico missionary",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe Sarah Traverso Tori Masyczek leadership",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "wycliffe Jaime Maria Peru Quechua HR team leaders",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": []
+}

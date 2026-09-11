@@ -1,0 +1,164 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:wwp",
+  "roster_verdict": "rostered",
+  "target_org": "Wounded Warrior Project",
+  "people": [
+    {
+      "org_name": "Ken Hunzeker",
+      "summary": "Wounded Warrior Project — Board Chair",
+      "fit_score": 8,
+      "fit_reason": "Tier C board leadership. Lt. Gen. (Ret.) serving as Chair of WWP board, high-influence position with strategic giving/donor cultivation responsibilities.",
+      "source_query": "hunter:w2026-08-30f:wwp",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Wounded Warrior Project",
+        "evidence_url": "https://www.woundedwarriorproject.org/mission/board-of-directors",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bill Selman",
+      "summary": "Wounded Warrior Project — Board Vice Chair",
+      "fit_score": 8,
+      "fit_reason": "Tier C board leadership. Lt. Col. (Ret.) serving as Vice Chair of WWP board, high-influence position with strategic donor relations and organizational oversight.",
+      "source_query": "hunter:w2026-08-30f:wwp",
+      "meta": {
+        "tier": "C",
+        "role": "Board Vice Chair",
+        "target_org": "Wounded Warrior Project",
+        "evidence_url": "https://www.woundedwarriorproject.org/mission/board-of-directors",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tiffany Daugherty",
+      "summary": "Wounded Warrior Project — Board Member",
+      "fit_score": 8,
+      "fit_reason": "Tier C board member. Head of Military & Veterans Affairs and Specialty Strategies at Johnson & Johnson; brings major corporate giving and stakeholder engagement experience.",
+      "source_query": "hunter:w2026-08-30f:wwp",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Wounded Warrior Project",
+        "evidence_url": "https://www.woundedwarriorproject.org/mission/board-of-directors",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joseph Caravalho Jr.",
+      "summary": "Wounded Warrior Project — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C board member. Maj. Gen. (Ret.), M.D., president and CEO of Henry M. Jackson Foundation for Advancement of Military Medicine; strategic board role with nonprofit/foundation leadership background.",
+      "source_query": "hunter:w2026-08-30f:wwp",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Wounded Warrior Project",
+        "evidence_url": "https://www.woundedwarriorproject.org/mission/board-of-directors",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kristen Robinson",
+      "summary": "Wounded Warrior Project — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C board member. Head of Asset Management Board Program at Fidelity Investments; financial services expertise with donor relations and wealth management background.",
+      "source_query": "hunter:w2026-08-30f:wwp",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Wounded Warrior Project",
+        "evidence_url": "https://www.woundedwarriorproject.org/mission/board-of-directors",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Wounded Warrior Project",
+      "website": "https://www.woundedwarriorproject.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "AB",
+      "headcount_est": 680,
+      "faith_orientation": "secular",
+      "crm_incumbent": "Unknown (likely enterprise CRM given ~680 staff)",
+      "evidence": "Nonprofit 501(c)(3) dedicated to total well-being of post-9/11 wounded, ill, or injured veterans and families. Headquartered Jacksonville, FL with annual grantmaking to veteran service organizations."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Wounded Warrior Project development staff advancement philanthropy",
+      "outcome": "found_people",
+      "people_found": 0,
+      "notes": "Found department references and job posting categories (Major Gifts Officers, Peer to Peer Specialists) but no named individuals in Tier B development roles."
+    },
+    {
+      "kind": "query",
+      "value": "Wounded Warrior Project major gifts donor relations director",
+      "outcome": "no_people",
+      "people_found": 0,
+      "notes": "Found major gifts department contact info (majorgifts@woundedwarriorproject.org) but no specific named individual director."
+    },
+    {
+      "kind": "query",
+      "value": "Wounded Warrior Project fundraising team leadership",
+      "outcome": "found_people",
+      "people_found": 5,
+      "notes": "Found CEO Walter E. Piatt and board leadership (Ken Hunzeker, Bill Selman, Kathy Hildreth, Tiffany Daugherty, Joseph Caravalho Jr., Kristen Robinson). Piatt already in CRM."
+    },
+    {
+      "kind": "query",
+      "value": "Wounded Warrior Project board of directors trustees",
+      "outcome": "found_people",
+      "people_found": 13,
+      "notes": "Identified 13 board members including recent appointees. Selected 5 per tier-C cap rule. Additional board members: Kathy Hildreth, Keita Franklin, John F. Campbell, Scott A. Howell, Florent Groberg, Scott H. Stalker, Lindsey Streeter."
+    },
+    {
+      "kind": "query",
+      "value": "\"Wounded Warrior Project\" staff directory leadership Jacksonville",
+      "outcome": "found_people",
+      "people_found": 3,
+      "notes": "Identified CEO and board leadership via Glassdoor, LeadIQ, and ContactOut references but limited detail on development staff. Confirmed Jacksonville HQ at 4899 Belfort Road, Suite 300."
+    },
+    {
+      "kind": "query",
+      "value": "Wounded Warrior Project planned giving annual fund individual giving",
+      "outcome": "no_people",
+      "people_found": 0,
+      "notes": "Found giving programs and department emails (plannedgiving@woundedwarriorproject.org, legacy.woundedwarriorproject.org) but no named individuals managing these programs publicly."
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Walter E. Piatt",
+      "reason_code": "already_in_crm",
+      "detail": "CEO of Wounded Warrior Project, confirmed already in CRM per task rules."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Major Gifts Officers",
+      "reason_code": "platform_not_person",
+      "detail": "Job posting category for development roles; not a specific named individual."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Peer to Peer Specialists",
+      "reason_code": "platform_not_person",
+      "detail": "Job posting category for fundraising support roles; not a specific named individual."
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "WWP Development/Advancement Department Leadership",
+      "org": "Wounded Warrior Project",
+      "question": "Who heads the development, major gifts, donor relations, annual fund, or individual giving departments? Named individuals not publicly visible.",
+      "evidence_url": "https://www.woundedwarriorproject.org/mission/leadership",
+      "notes": "Department contacts (majorgifts@woundedwarriorproject.org, plannedgiving@woundedwarriorproject.org) exist but leadership names not published on public-facing pages. May require direct outreach or LinkedIn research."
+    }
+  ]
+}

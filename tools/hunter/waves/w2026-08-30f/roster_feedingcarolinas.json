@@ -1,0 +1,47 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:feedingcarolinas",
+  "target_org": "Feeding the Carolinas",
+  "roster_verdict": "rejected:too_institutional",
+  "people": [],
+  "orgs_discovered": [
+    {
+      "org_name": "Feeding the Carolinas",
+      "website": "https://feedingthecarolinas.org/",
+      "org_type": "network",
+      "size_estimate": "large",
+      "tier_profile": "A",
+      "faith_orientation": "secular",
+      "evidence": "NC/SC unified network; 10 Feeding America food banks. As a pure network/association organization, does not maintain own donor-funded development staff; member food banks are separate organizations with their own leadership."
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Feeding the Carolinas",
+      "website": "https://feedingthecarolinas.org/",
+      "reason_code": "too_institutional",
+      "detail": "Network/association of member food banks without own salaried development staff. Member organizations (individual Feeding America food banks) are separate entities and out of scope."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Feeding the Carolinas staff leadership development director",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Feeding the Carolinas executive team advancement philanthropy",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Feeding the Carolinas board of directors trustees",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ]
+}

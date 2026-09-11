@@ -1,0 +1,268 @@
+{
+  "wave_id": "w2026-09-07a",
+  "agent": "roster:operation-mobilization",
+  "target_org": "Operation Mobilization (OM)",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "name": "J. Nicole Ayers",
+      "org": "Operation Mobilization (OM)",
+      "role": "Sr. Regional Development Director",
+      "tier": "B",
+      "fit_score": 7,
+      "confidence": "high",
+      "source_url": "https://theorg.com/org/operation-mobilization-usa/teams/development-and-donor-relations",
+      "fit_reason": "Senior development director with explicit responsibility for regional fundraising and donor cultivation",
+      "meta": {
+        "evidence_basis": "theorg_org_chart",
+        "team": "Development and Donor Relations"
+      }
+    },
+    {
+      "name": "Greg Krumbach",
+      "org": "Operation Mobilization (OM)",
+      "role": "Senior Regional Development Director",
+      "tier": "B",
+      "fit_score": 7,
+      "confidence": "high",
+      "source_url": "https://www.linkedin.com/in/greg-krumbach-3a7a5329/",
+      "fit_reason": "Senior development director managing regional fundraising operations in Midwest",
+      "meta": {
+        "evidence_basis": "linkedin_profile",
+        "location": "Omaha",
+        "team": "Global Development"
+      }
+    },
+    {
+      "name": "Cheri Blazek",
+      "org": "Operation Mobilization (OM)",
+      "role": "Regional Director - Midwest Global Generosity",
+      "tier": "B",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://theorg.com/org/operation-mobilization-usa/teams/global-development",
+      "fit_reason": "Regional director overseeing philanthropic resource mobilization and donor development in Midwest",
+      "meta": {
+        "evidence_basis": "theorg_org_chart",
+        "team": "Global Development",
+        "region": "Midwest"
+      }
+    },
+    {
+      "name": "Jan Berry",
+      "org": "Operation Mobilization (OM)",
+      "role": "Sr. Regional Development Director",
+      "tier": "B",
+      "fit_score": 7,
+      "confidence": "high",
+      "source_url": "https://rocketreach.co/operation-mobilization-usa-management_b54a7425f69a9523",
+      "fit_reason": "Senior regional development director with responsibility for fundraising and donor relations",
+      "meta": {
+        "evidence_basis": "theorg_org_chart",
+        "team": "Global Development"
+      }
+    },
+    {
+      "name": "Lawrence Tong",
+      "org": "Operation Mobilization (OM)",
+      "role": "International Director",
+      "tier": "C",
+      "fit_score": 5,
+      "confidence": "high",
+      "source_url": "https://theorg.com/org/operation-mobilization-usa/teams/global-development",
+      "fit_reason": "Senior international leadership - executive influencer, not primary fundraiser",
+      "meta": {
+        "evidence_basis": "theorg_org_chart",
+        "historical_role": true
+      }
+    },
+    {
+      "name": "Andrew Ginsberg",
+      "org": "Operation Mobilization (OM)",
+      "role": "President and CEO",
+      "tier": "C",
+      "fit_score": 4,
+      "confidence": "high",
+      "source_url": "https://www.omusa.org/about/leadership/",
+      "fit_reason": "CEO of Operation Mobilization USA - senior leadership and strategic influencer",
+      "meta": {
+        "evidence_basis": "official_website",
+        "background": "nonprofit development, marketing and strategy"
+      }
+    },
+    {
+      "name": "Julio Moromisato",
+      "org": "Operation Mobilization (OM)",
+      "role": "Latino Diaspora Mobilization Officer",
+      "tier": "B",
+      "fit_score": 6,
+      "confidence": "medium",
+      "source_url": "https://www.linkedin.com/in/julio-moromisato-3a831a33/",
+      "fit_reason": "Mobilization officer in development/resource mobilization capacity for diaspora communities",
+      "meta": {
+        "evidence_basis": "linkedin_profile",
+        "role_clarity": "mobilization_implies_development"
+      }
+    },
+    {
+      "name": "Jeff King",
+      "org": "Operation Mobilization (OM)",
+      "role": "Vice President of Mobilization",
+      "tier": "C",
+      "fit_score": 4,
+      "confidence": "medium",
+      "source_url": "https://www.christianpost.com/news/operation-mobilization-usa-welcomes-new-president-46725/",
+      "fit_reason": "VP leading mobilization efforts - senior leadership role, may include fundraising strategy",
+      "meta": {
+        "evidence_basis": "news_article",
+        "note": "mobilization role may include development"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "theorg.com Operation Mobilization development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Operation Mobilization\" \"director of development\" theorg.com",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com \"Operation Mobilization\" teams",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"Operation Mobilization\" \"major gifts\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"Operation Mobilization\" \"development director\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"Operation Mobilization\" \"director of development\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Operation Mobilization\" \"development\" \"donor relations\" staff leadership",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:om.org staff leadership team",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Operation Mobilization\" \"Nicole Ayers\" development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com \"Operation Mobilization USA\" \"development\" people names",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Operation Mobilization\" \"annual fund\" OR \"major gifts\" OR \"donor relations\" director staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:om.org \"development\" OR \"advancement\" OR \"major gifts\" team members",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Operation Mobilization\" board members OR trustees 2025 2026",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:om.org US board OR governance OR president OR executive director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Operation Mobilization\" USA president executive director CEO 2025",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com \"Operation Mobilization USA\" executive leadership OR \"leadership team\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com \"Operation Mobilization USA\" \"development and donor relations\" -jobs -position",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Operation Mobilization\" regional development director midwest OR central OR southeast names",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Irene Roor",
+      "reason_code": "insufficient_role_evidence",
+      "detail": "LinkedIn profile shows \"Operation Mobilization\" affiliation but specific role and tier unclear from search snippets; excluded to maintain confidence threshold"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Chris Fedelem",
+      "reason_code": "incomplete_information",
+      "detail": "Listed as Senior Vice President but specific department and development affiliation not confirmed in search results"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Elizabeth Flowers",
+      "reason_code": "not_development_tier",
+      "detail": "Executive Assistant to CEO - administrative role, not Tier A/B/C fundraising profile"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Chris Williams",
+      "reason_code": "not_development_tier",
+      "detail": "Vice President of People and Culture - HR/internal operations, not development-focused"
+    },
+    {
+      "entity_kind": "role",
+      "name": "UK Trustees (Kathryn Myers, Isaac George, Yee Kong Loo, Nigel Tween, Michael Wildsmith, Amos Fatokun)",
+      "reason_code": "international_board_not_us_focus",
+      "detail": "UK Charity Commission trustees; for Operation Mobilization UK entity, not US donor-prospect target; US organization has separate governance"
+    },
+    {
+      "entity_kind": "role",
+      "name": "Director of Major Gifts",
+      "reason_code": "platform_not_person",
+      "detail": "Job posting found for Director of Major Gifts position; proves role exists at OM, but no named individual identified as current holder"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Iain Pickett",
+      "reason_code": "international_not_us_donor_focus",
+      "detail": "UK-based International Director (2025 appointment); international leadership, not US development staff"
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Julio Moromisato",
+      "reason": "Role title 'Latino Diaspora Mobilization Officer' could indicate Tier A (personal fundraising mobilization) or Tier B (organizational mobilization role). Confidence medium pending role clarification."
+    },
+    {
+      "name": "Jeff King",
+      "reason": "VP of Mobilization title is ambiguous. Could include development/fundraising strategy (Tier C leadership) or could be primarily event/communications focused. Included as Tier C leadership given VP title but may warrant recategorization."
+    }
+  ]
+}

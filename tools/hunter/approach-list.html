@@ -1,0 +1,341 @@
+<title>DonorSend Approach List</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#F4F6F8; --surface:#FFFFFF; --raised:#FAFBFC;
+  --ink:#16202B; --ink-2:#3D4D59; --muted:#69787F; --faint:#94A3AA;
+  --rule:#DCE3E8; --rule-2:#EDF1F4;
+  --accent:#0F6B5C; --accent-soft:#E2F0ED; --on-accent:#FFFFFF;
+  --tier-a:#B4531A; --tier-a-soft:#F6E7DC;
+  --tier-b:#0F6B5C; --tier-c:#93A2AB;
+  --warn:#9C3A2F; --warn-soft:#F7E5E2;
+  --shadow:0 1px 2px rgba(22,32,43,.06),0 4px 14px rgba(22,32,43,.05);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#0E141A; --surface:#161E26; --raised:#1B242D;
+    --ink:#E7EEF3; --ink-2:#BCCAD3; --muted:#8B9BA5; --faint:#6B7B86;
+    --rule:#2A3742; --rule-2:#222E38;
+    --accent:#3FB49C; --accent-soft:#12332E; --on-accent:#08201C;
+    --tier-a:#E0904F; --tier-a-soft:#33251A;
+    --tier-b:#3FB49C; --tier-c:#6C7C88;
+    --warn:#E2705F; --warn-soft:#33201C;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0E141A; --surface:#161E26; --raised:#1B242D;
+  --ink:#E7EEF3; --ink-2:#BCCAD3; --muted:#8B9BA5; --faint:#6B7B86;
+  --rule:#2A3742; --rule-2:#222E38;
+  --accent:#3FB49C; --accent-soft:#12332E; --on-accent:#08201C;
+  --tier-a:#E0904F; --tier-a-soft:#33251A;
+  --tier-b:#3FB49C; --tier-c:#6C7C88;
+  --warn:#E2705F; --warn-soft:#33201C;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3);
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);
+  font-family:"Public Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1080px;margin:0 auto;padding:40px 24px 96px}
+h1{font-family:Fraunces,Georgia,serif;font-weight:600;font-size:clamp(28px,4vw,40px);
+  line-height:1.1;margin:0;letter-spacing:-.015em;text-wrap:balance}
+.lede{color:var(--ink-2);max-width:62ch;margin:14px 0 0;font-size:16px}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--muted);margin:0 0 14px}
+
+/* summary: an inline stat row, not a grid of big tiles */
+.stats{display:flex;flex-wrap:wrap;gap:0;margin:30px 0 0;border:1px solid var(--rule);
+  border-radius:8px;background:var(--surface);overflow:hidden;box-shadow:var(--shadow)}
+.stat{flex:1 1 150px;padding:16px 18px;border-right:1px solid var(--rule-2);min-width:0}
+.stat:last-child{border-right:0}
+.stat .v{font-family:"IBM Plex Mono",monospace;font-size:24px;font-weight:500;
+  font-variant-numeric:tabular-nums;line-height:1.1;display:block}
+.stat .k{font-size:12.5px;color:var(--muted);margin-top:5px;display:block;line-height:1.35}
+.stat.is-accent .v{color:var(--accent)}
+.stat.is-warn .v{color:var(--warn)}
+
+.note{margin:20px 0 0;padding:14px 16px;border-left:3px solid var(--warn);
+  background:var(--warn-soft);border-radius:0 6px 6px 0;font-size:13.5px;color:var(--ink-2)}
+.note b{color:var(--ink);font-weight:600}
+
+/* controls */
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:28px 0 12px;
+  position:sticky;top:0;z-index:5;background:var(--ground);padding:10px 0;
+  border-bottom:1px solid var(--rule)}
+.chip{font:500 13px/1 "Public Sans",sans-serif;padding:7px 12px;border-radius:99px;
+  border:1px solid var(--rule);background:var(--surface);color:var(--ink-2);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.chip:focus-visible,.dbtn:focus-visible,.row-head:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.spacer{flex:1}
+.count{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--muted);
+  font-variant-numeric:tabular-nums}
+
+/* rows, not cards */
+.list{border:1px solid var(--rule);border-radius:8px;background:var(--surface);
+  overflow:hidden;box-shadow:var(--shadow)}
+.row{border-bottom:1px solid var(--rule-2)}
+.row:last-child{border-bottom:0}
+.row-head{display:grid;grid-template-columns:1fr 132px 116px;gap:16px;align-items:center;
+  width:100%;text-align:left;padding:14px 18px;background:none;border:0;cursor:pointer;
+  color:inherit;font:inherit}
+.row-head:hover{background:var(--raised)}
+.nm{font-weight:600;font-size:15px;letter-spacing:-.005em}
+.sub{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--faint);margin-top:3px;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.flag{display:inline-block;font-family:"IBM Plex Mono",monospace;font-size:10px;
+  letter-spacing:.08em;text-transform:uppercase;padding:2px 6px;border-radius:3px;
+  background:var(--warn-soft);color:var(--warn);margin-left:8px;vertical-align:1px}
+
+/* tier composition bar: A = would use it, B = would buy it, C = could champion it */
+.tiers{display:flex;height:8px;border-radius:2px;overflow:hidden;background:var(--rule-2)}
+.tiers i{display:block;height:100%}
+.ta{background:var(--tier-a)} .tb{background:var(--tier-b)} .tc{background:var(--tier-c)}
+.tlab{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);
+  margin-top:5px;font-variant-numeric:tabular-nums;white-space:nowrap}
+
+.dec{display:flex;gap:4px;justify-content:flex-end}
+.dbtn{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.05em;
+  text-transform:uppercase;padding:5px 8px;border-radius:4px;border:1px solid var(--rule);
+  background:var(--surface);color:var(--muted);cursor:pointer}
+.dbtn[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.dbtn.pass[aria-pressed="true"]{background:var(--muted);border-color:var(--muted);color:var(--surface)}
+
+.detail{padding:2px 18px 20px;background:var(--raised);border-top:1px solid var(--rule-2)}
+.ct{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:12px}
+.ct th{text-align:left;font-family:"IBM Plex Mono",monospace;font-size:10px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--faint);font-weight:400;
+  padding:6px 10px 6px 0;border-bottom:1px solid var(--rule)}
+.ct td{padding:8px 10px 8px 0;border-bottom:1px solid var(--rule-2);vertical-align:top}
+.ct tr:last-child td{border-bottom:0}
+.ct .who{font-weight:600;white-space:nowrap}
+.ct .role{color:var(--ink-2)}
+.src a{color:var(--accent);text-decoration:none;font-family:"IBM Plex Mono",monospace;font-size:11.5px}
+.src a:hover{text-decoration:underline}
+.eqb{display:inline-block;font-family:"IBM Plex Mono",monospace;font-size:9.5px;
+  letter-spacing:.06em;text-transform:uppercase;padding:1px 5px;border-radius:3px;
+  margin-left:7px;vertical-align:1px;border:1px solid transparent}
+.eqb.primary{background:var(--accent-soft);color:var(--accent);border-color:var(--accent)}
+.eqb.secondary{background:transparent;color:var(--muted);border-color:var(--rule)}
+.eqb.broker{background:var(--warn-soft);color:var(--warn);border-color:var(--warn)}
+.eqb.unrated{background:transparent;color:var(--faint);border-color:var(--rule);font-style:italic}
+.nosrc{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--warn);
+  letter-spacing:.05em;text-transform:uppercase}
+.cf{font-family:"IBM Plex Mono",monospace;font-size:10.5px;text-transform:uppercase;
+  letter-spacing:.06em;color:var(--muted)}
+.cf.low{color:var(--warn)}
+.secondary{margin-top:16px;padding-top:14px;border-top:1px dashed var(--rule)}
+.secondary h4{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--faint);font-weight:400;margin:0 0 8px}
+.secondary p{margin:0;font-size:13px;color:var(--muted)}
+.scroll{overflow-x:auto}
+footer{margin-top:34px;font-size:12.5px;color:var(--muted);line-height:1.7}
+footer code{font-family:"IBM Plex Mono",monospace;font-size:11.5px;background:var(--rule-2);
+  padding:1px 5px;border-radius:3px}
+.saving{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--faint)}
+@media (max-width:720px){
+  .row-head{grid-template-columns:1fr;gap:10px}
+  .dec{justify-content:flex-start}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+
+<div class="wrap">
+  <p class="eyebrow">DonorSend &middot; prospect triage &middot; 7 Sep 2026</p>
+  <h1>Organizations worth a conversation</h1>
+  <p class="lede">Every organization the hunter agents found that has a <strong>named person who
+  works with individual donors</strong>. Sorted by how many of those contacts have a source you can open and check. Open a row for
+  the names, roles and evidence; mark a decision and it is saved for everyone with this link.</p>
+
+  <div class="stats" id="stats"></div>
+  <div class="note" id="note"></div>
+
+  <div class="bar">
+    <button class="chip" data-seg="all" aria-pressed="true">All</button>
+    <button class="chip" data-seg="sending" aria-pressed="false">Sending agencies</button>
+    <button class="chip" data-seg="foodbank" aria-pressed="false">Food banks</button>
+    <button class="chip" data-seg="ministry" aria-pressed="false">Ministries</button>
+    <button class="chip" data-seg="nonprofit" aria-pressed="false">Other nonprofits</button>
+    <span class="spacer"></span>
+    <button class="chip" id="srcOnly" aria-pressed="false">Has a source link</button>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="list" id="list"></div>
+
+  <footer>
+    <p><strong>Tier key.</strong>
+    <span style="color:var(--tier-a)">&#9632;</span> <strong>A</strong> &mdash; raises their own
+    support, evidenced by a personal giving page. They would use DonorSend themselves.
+    <span style="color:var(--tier-b)">&#9632;</span> <strong>B</strong> &mdash; development or
+    donor-relations staff. They would buy it.
+    <span style="color:var(--tier-c)">&#9632;</span> <strong>C</strong> &mdash; board and senior
+    leadership. They could champion it.</p>
+    <p>Built from <code>sales.scout_candidates</code> and <code>sales.hunt_targets</code>.
+    Contacts are drawn from public web pages only; no individual has been contacted.
+    Decisions recorded here are for internal triage and do not change CRM records.</p>
+    <p class="saving" id="saving"></p>
+  </footer>
+</div>
+
+<script id="payload" type="application/json">{"orgs":[{"org":"Jesus Film Project","site":"jesusfilm.org","type":"ministry","size":null,"n":7,"a":0,"b":5,"c":2,"contacts":[{"p":"Bruce Boyd","r":"Development Representative","cf":"high","u":"https://theorg.com/org/jesus-film-project/org-chart/bruce-boyd","eq":"unrated","df":true},{"p":"David Bradley","r":"Associate Director of Development","cf":"high","u":"https://www.linkedin.com/in/david-bradley-b5196518/","eq":"unrated","df":true},{"p":"Jason Summers","r":"Associate Director of Development","cf":"high","u":"https://rocketreach.co/jason-summers-email_118573460","eq":"unrated","df":true},{"p":"Larry Buck","r":"Associate Director of Development","cf":"high","u":"https://theorg.com/org/jesus-film-project/org-chart/larry-buck","eq":"unrated","df":true},{"p":"Matt Thiessen","r":"Director of Development","cf":"high","u":"https://www.linkedin.com/in/matt-thiessen-baa52246/","eq":"unrated","df":true}],"seg":"ministry","df":5,"ver":5,"prim":0},{"org":"Mercy Ships","site":"mercyships.org","type":"nonprofit","size":"mid","n":13,"a":0,"b":4,"c":9,"contacts":[{"p":"Amy Nyquist","r":"Director of Development Philanthropy","cf":"medium","u":"https://db.ministrywatch.com/ministry.php?ein=953793975","eq":"unrated","df":true},{"p":"Jeff Kramer","r":"Vice President of Resource Development","cf":"medium","u":"https://db.ministrywatch.com/ministry.php?ein=953793975","eq":"unrated","df":true},{"p":"Kerry Peterson","r":"Vice President of Advancement","cf":"medium","u":"https://db.ministrywatch.com/ministry.php?ein=953793975","eq":"unrated","df":true},{"p":"Roy Jones","r":"Vice President of Development","cf":"high","u":"https://db.ministrywatch.com/ministry.php?ein=953793975","eq":"unrated","df":true}],"seg":"nonprofit","df":4,"ver":4,"prim":0},{"org":"Good Shepherd Food Bank","site":"gsfb.org","type":"nonprofit","size":"mid","n":12,"a":0,"b":7,"c":5,"contacts":[{"p":"Erin Peck Yarema","r":"Director of Major and Planned Giving","cf":"medium","u":"https://www.gsfb.org/get-involved/explore-giving-options/","eq":"unrated","df":true},{"p":"Hannah Young","r":"Director of Advancement Services","cf":"high","u":"https://www.gsfb.org/about-us/our-team/","eq":"primary","df":true},{"p":"Robin McCarthy","r":"Director of Development, Communications, and Government Affairs","cf":"medium","u":"https://www.gsfb.org/get-involved/explore-giving-options/","eq":"unrated","df":true},{"p":"Anna Mercier","r":"Advancement Coordinator","cf":"low","u":null,"eq":null,"df":true},{"p":"Ethan Minton","r":"Philanthropy Advisor","cf":"low","u":null,"eq":null,"df":true},{"p":"Kate Rice","r":"Donor Engagement Specialist","cf":"low","u":null,"eq":null,"df":true},{"p":"Michelle Cross","r":"Donor Advisor","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":7,"ver":3,"prim":1},{"org":"Homes for Our Troops","site":"hfotusa.org","type":"nonprofit","size":"mid","n":11,"a":0,"b":4,"c":7,"contacts":[{"p":"Chris Mitchell","r":"Director of Development","cf":"high","u":"https://www.linkedin.com/in/chris-mitchell-2054b152/","eq":"secondary","df":true},{"p":"Robert Ware","r":"Individual Giving Manager","cf":"high","u":"https://www.hfotusa.org/misc/internal-grid/staff/","eq":"unrated","df":true},{"p":"Suzanne Shaheen","r":"Gifts Officer, Planned Giving","cf":"high","u":"https://www.linkedin.com/in/suzanne-shaheen-70bb59100/","eq":"secondary","df":true},{"p":"Marie Valentim","r":"Senior Corporate Partnership Manager","cf":"high","u":"https://www.hfotusa.org/misc/internal-grid/staff/","eq":"unrated","df":false}],"seg":"nonprofit","df":3,"ver":3,"prim":0},{"org":"Operation Mobilization (OM)","site":"om.org","type":"ministry","size":null,"n":8,"a":0,"b":4,"c":4,"contacts":[{"p":"Greg Krumbach","r":"Senior Regional Development Director","cf":"high","u":"https://www.linkedin.com/in/greg-krumbach-3a7a5329/","eq":"unrated","df":true},{"p":"J. Nicole Ayers","r":"Sr. Regional Development Director","cf":"high","u":"https://theorg.com/org/operation-mobilization-usa/teams/development-and-donor-relations","eq":"unrated","df":true},{"p":"Jan Berry","r":"Sr. Regional Development Director","cf":"high","u":"https://rocketreach.co/operation-mobilization-usa-management_b54a7425f69a9523","eq":"unrated","df":true},{"p":"Cheri Blazek","r":"Regional Director - Midwest Global Generosity","cf":"high","u":"https://theorg.com/org/operation-mobilization-usa/teams/global-development","eq":"unrated","df":false}],"seg":"ministry","df":3,"ver":3,"prim":0},{"org":"Food Bank for the Heartland","site":"foodbankheartland.org","type":"nonprofit","size":"mid","n":4,"a":0,"b":3,"c":1,"contacts":[{"p":"Edwin Lyons","r":"Major Gifts Officer","cf":"high","u":"https://www.linkedin.com/in/edwin-v-lyons-36975561/","eq":"secondary","df":true},{"p":"Joanne Kamppinen","r":"Director of Development","cf":"medium","u":"https://foodbankheartland.org/ways-to-give/donate-funds/","eq":"unrated","df":true},{"p":"Sarah Kalhorn-Wisecup","r":"Major Gifts Officer","cf":"medium","u":"https://foodbankheartland.org/ways-to-give/donate-funds/","eq":"unrated","df":true}],"seg":"foodbank","df":3,"ver":3,"prim":0},{"org":"Akron-Canton Regional Foodbank","site":"akroncantonfoodbank.org","type":"nonprofit","size":"mid","n":11,"a":0,"b":4,"c":7,"contacts":[{"p":"Bridget Jones","r":"Director, Development Operations","cf":"high","u":"https://www.akroncantonfoodbank.org/staff/bridget-jones","eq":"primary","df":true},{"p":"Terri Lessnau","r":"Senior Director, Development","cf":"high","u":"https://www.akroncantonfoodbank.org/staff/terri-lessnau","eq":"primary","df":true},{"p":"Debbie Hagarty","r":"Gift and Estate Planning Officer","cf":"low","u":null,"eq":null,"df":true},{"p":"Leslie Genovese","r":"Corporate Partnership Executive","cf":"high","u":null,"eq":null,"df":false}],"seg":"foodbank","df":3,"ver":2,"prim":2},{"org":"Capital Area Food Bank","site":"capitalareafoodbank.org","type":"nonprofit","size":"mid","n":8,"a":0,"b":3,"c":5,"contacts":[{"p":"Abby Paige Fenton","r":"Chief Advancement Officer","cf":"medium","u":"https://www.zoominfo.com/p/Abby-Fenton/10376223210","eq":"broker","df":true},{"p":"Christel Hair","r":"Chief Development Officer","cf":"medium","u":"https://www.zoominfo.com/p/Christel-Hair/8997055662","eq":"broker","df":true},{"p":"Melanie Minzes","r":"Deputy Chief Development Officer","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":3,"ver":2,"prim":0},{"org":"Mission Aviation Fellowship","site":"maf.org","type":"agency","size":"mid","n":20,"a":13,"b":7,"c":0,"contacts":[{"p":"Barbara Bowman","r":"VP Ministry Advancement","cf":"high","u":"https://maf.org/about/leadership/","eq":"unrated","df":true},{"p":"John Boyd","r":"VP Ministry Advancement","cf":"high","u":"https://maf.org/press/mafs-john-boyd-awarded-honorary-doctorate-from-nnu/","eq":"unrated","df":true},{"p":"Brad Hoaglun","r":"Press Contact","cf":"medium","u":"https://maf.org/storyhub/maf-announces-staff-changes-at-nampa-headquarters/","eq":"unrated","df":false},{"p":"Brock Larson","r":"Executive","cf":"high","u":"https://maf.org/about/leadership/","eq":"unrated","df":false},{"p":"Doug Harrison","r":"Director of Technology","cf":"high","u":"https://maf.org/storyhub/maf-announces-staff-changes-at-nampa-headquarters/","eq":"unrated","df":false},{"p":"Joe Barraclough","r":"CFO","cf":"high","u":"https://maf.org/about/leadership/","eq":"unrated","df":false},{"p":"Stan Lincoln","r":"Director of Maintenance/Ops","cf":"high","u":"https://maf.org/about/leadership/","eq":"unrated","df":false}],"seg":"sending","df":2,"ver":2,"prim":0},{"org":"Mesa Global","site":"mesaglobal.co","type":"agency","size":null,"n":13,"a":8,"b":3,"c":2,"contacts":[{"p":"John Bonnell","r":"Director of Advancement","cf":"high","u":"https://rocketreach.co/john-bonnell-email_40396425","eq":"unrated","df":true},{"p":"Kristin MacUrda","r":"Chief Advancement Officer","cf":"high","u":"https://rocketreach.co/kristin-macurda-email_485278765","eq":"unrated","df":true},{"p":"Daniel Gossels","r":"Managing Director, Head of Digital Media","cf":"high","u":"https://rocketreach.co/daniel-gossels-email_36670785","eq":"unrated","df":false}],"seg":"sending","df":2,"ver":2,"prim":0},{"org":"One Mission Society","site":"onemissionsociety.org","type":"agency","size":"mid","n":10,"a":0,"b":7,"c":3,"contacts":[{"p":"Jay Dunnuck","r":"Donor Contact","cf":"medium","u":"https://www.zoominfo.com/c/one-mission-society/28819915","eq":"unrated","df":true},{"p":"Kelli Bryant","r":"Donor Records Manager, Development Department","cf":"high","u":"https://onemissionsociety.org/missionaries/detail/Bryant","eq":"unrated","df":true},{"p":"Austin Sullivan","r":"Associate Regional Director","cf":"high","u":"https://www.zoominfo.com/p/Austin-Sullivan/520069291","eq":"unrated","df":false},{"p":"Kris Kappler","r":"Regional Director, International","cf":"high","u":"https://www.zoominfo.com/p/Kris-Kappler/-1799056332","eq":"unrated","df":false},{"p":"Mike Dragon","r":"Regional Coordinator","cf":"high","u":"https://www.linkedin.com/in/mike-dragon-7b4b32b/","eq":"unrated","df":false},{"p":"Tonya Overton","r":"Associate Director, HOPE61","cf":"high","u":"https://onemissionsociety.org/about-us","eq":"unrated","df":false},{"p":"William Wilder","r":"Southeast Region Director","cf":"high","u":"https://www.zoominfo.com/p/William-Wilder/8476795500","eq":"unrated","df":false}],"seg":"sending","df":2,"ver":2,"prim":0},{"org":"Freestore Foodbank","site":"freestorefoodbank.org","type":"nonprofit","size":"mid","n":8,"a":0,"b":3,"c":5,"contacts":[{"p":"Lindsay Starry","r":"Grants and Major Gifts Manager","cf":"high","u":"https://freestorefoodbank.org/grants-bring-fresh-produce-to-food-deserts/","eq":"primary","df":true},{"p":"Trish Rayner","r":"VP Chief Development Officer","cf":"high","u":"https://theorg.com/org/freestore-foodbank/org-chart/trisha-rayner","eq":"secondary","df":true},{"p":"Nicki Roe","r":"Marketing and Communications Manager","cf":"medium","u":null,"eq":null,"df":false}],"seg":"foodbank","df":2,"ver":2,"prim":1},{"org":"Operation Homefront","site":"operationhomefront.org","type":"nonprofit","size":"large","n":8,"a":0,"b":4,"c":4,"contacts":[{"p":"Breanna Baer","r":"Vice President of Field Development","cf":"high","u":"https://www.streetinsider.com/PRNewswire/Operation+Homefront%C2%AE+Welcomes+New+Vice+President+of+Field+Development/26869164.html","eq":"unrated","df":true},{"p":"Stephanie Vargas","r":"Vice President of Individual Giving","cf":"high","u":"https://operationhomefront.org/oh-welcomes-stephanie-vargas/","eq":"primary","df":true},{"p":"Jill Eskin-Smith","r":"Senior Vice President of Corporate and Foundation Partnerships","cf":"medium","u":null,"eq":null,"df":false},{"p":"Regan Huneycutt","r":"Chief Revenue Officer","cf":"medium","u":null,"eq":null,"df":false}],"seg":"nonprofit","df":2,"ver":2,"prim":1},{"org":"Food Bank For New York City","site":"foodbanknyc.org","type":"nonprofit","size":"mid","n":7,"a":0,"b":2,"c":5,"contacts":[{"p":"David S. Jones","r":"Vice President for Fundraising Operations","cf":"high","u":"https://www.foodbanknyc.org/who-we-are/people/leadership/david-jones/","eq":"primary","df":true},{"p":"Lamont Wray Jr.","r":"Director of Philanthropy and Leadership Giving","cf":"high","u":"https://www.linkedin.com/in/lamontwray/","eq":"secondary","df":true}],"seg":"foodbank","df":2,"ver":2,"prim":1},{"org":"Gospel Rescue Mission Tucson","site":"grmtucson.com","type":"ministry","size":"small","n":2,"a":0,"b":2,"c":0,"contacts":[{"p":"Jim Brown","r":"Director of Development and Community Outreach","cf":"high","u":"https://www.grmtucson.com/","eq":"unrated","df":true},{"p":"Nycky Miller","r":"Director of Development","cf":"high","u":"https://www.grmtucson.com/donate/","eq":"unrated","df":true}],"seg":"ministry","df":2,"ver":2,"prim":0},{"org":"Hope For The Warriors","site":"hopeforthewarriors.org","type":"nonprofit","size":"small","n":11,"a":0,"b":5,"c":6,"contacts":[{"p":"Kelly Sokalski","r":"Head of Development","cf":"high","u":"https://www.hopeforthewarriors.org/about/staff-leadership/","eq":"primary","df":true},{"p":"Jeanne Long","r":"Vice President of Development","cf":"low","u":null,"eq":null,"df":true},{"p":"Raquel Painter","r":"Community Development Director","cf":"low","u":null,"eq":null,"df":true},{"p":"Rob Clapper","r":"Chief Advancement Officer","cf":"low","u":null,"eq":null,"df":true},{"p":"Ruth Jones","r":"Senior Director of Donor Engagement","cf":"low","u":null,"eq":null,"df":true}],"seg":"nonprofit","df":5,"ver":1,"prim":1},{"org":"Lowcountry Food Bank","site":"lowcountryfoodbank.org","type":"nonprofit","size":"mid","n":8,"a":0,"b":4,"c":4,"contacts":[{"p":"Brenda Shaw","r":"Chief Development Officer","cf":"high","u":"https://lowcountryfoodbank.org/about-us/our-team/","eq":"primary","df":true},{"p":"Abby Miller","r":"Donor Services Coordinator","cf":"low","u":null,"eq":null,"df":true},{"p":"Barbara Walters","r":"Donor Services Manager","cf":"low","u":null,"eq":null,"df":true},{"p":"Beth Atkinson","r":"Director of Fundraising / Major Gifts Officer","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":4,"ver":1,"prim":1},{"org":"Greater Cleveland Food Bank","site":"greaterclevelandfoodbank.org","type":"nonprofit","size":"mid","n":8,"a":0,"b":3,"c":5,"contacts":[{"p":"Laura Biddle-Clarke","r":"Chief Development Officer","cf":"high","u":"https://www.greaterclevelandfoodbank.org/about/leadership","eq":"primary","df":true},{"p":"Chamene Howard","r":"Associate Director of Individual Giving and Major Gifts","cf":"low","u":null,"eq":null,"df":true},{"p":"Tiffany Gray","r":"Development Officer for Corporate Relations","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":3,"ver":1,"prim":1},{"org":"Food Bank of North Alabama","site":"foodbanknorthal.org","type":"nonprofit","size":"mid","n":5,"a":0,"b":2,"c":3,"contacts":[{"p":"Bobby Bozeman","r":"Development Director","cf":"high","u":"https://www.linkedin.com/in/rpbozeman/","eq":"secondary","df":true},{"p":"Callum Campbell","r":"Development Coordinator","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":2,"ver":1,"prim":0},{"org":"Young Life","site":"younglife.org","type":"parachurch","size":"large","n":36,"a":25,"b":5,"c":6,"contacts":[{"p":"Nikki Busch","r":"Divisional Field Development Director","cf":"high","u":"https://www.linkedin.com/in/nikki-busch-376b04a0/","eq":"unrated","df":true},{"p":"Bill Paige","r":"Field Vice President","cf":"high","u":"https://www.linkedin.com/in/bill-paige-6853943b","eq":"unrated","df":false},{"p":"Chad Sievert","r":"Vice President, Camping","cf":"high","u":"https://www.linkedin.com/in/chad-sievert-000886184/","eq":"unrated","df":false},{"p":"Pamela Paige","r":"Divisional HR Director","cf":"high","u":"https://www.linkedin.com/in/pamela-kee-paige/","eq":"unrated","df":false},{"p":"Paul Sherrill","r":"Vice President, Administrative Services","cf":"high","u":"https://www.linkedin.com/in/paul-sherrill-070376336/","eq":"unrated","df":false}],"seg":"ministry","df":1,"ver":1,"prim":0},{"org":"Youth for Christ USA","site":null,"type":null,"size":null,"n":24,"a":20,"b":3,"c":1,"contacts":[{"p":"Scott Rosene","r":"Donor Communication Specialist","cf":"medium","u":"https://yfci.org/about/team/","eq":"unrated","df":true},{"p":"Emma Grewell","r":"Campus Life Director","cf":"high","u":"https://www.linkedin.com/in/emma-grewell-01297b256/","eq":"unrated","df":false},{"p":"Katie Burmeister","r":"Club Director","cf":"high","u":"https://www.linkedin.com/in/katie-burmeister-66b02b43/","eq":"unrated","df":false}],"seg":"nonprofit","df":1,"ver":1,"prim":0},{"org":"Encompass World Partners","site":"encompassworldpartners.org","type":"agency","size":null,"n":17,"a":10,"b":7,"c":0,"contacts":[{"p":"Mickey Kaufman","r":"Director of Ministry Advancement","cf":"medium","u":"https://www.zoominfo.com/c/encompass-world-partners/347747993","eq":"unrated","df":true},{"p":"Barbara Wooler","r":"Leadership/Decision Maker","cf":"high","u":"https://www.zoominfo.com/pic/encompass-world-partners/347747993","eq":"unrated","df":false},{"p":"Bill Palmateer","r":"Communications Director","cf":"high","u":"https://www.zoominfo.com/pic/encompass-world-partners/347747993","eq":"unrated","df":false},{"p":"JB Brown","r":"Director of Training and Member Care","cf":"medium","u":"https://give.encompassworldpartners.org/person/jb-brown-33","eq":"unrated","df":false},{"p":"Louise Klawitter","r":"Mission Craft Leader & Church Planting Network Strategist","cf":"high","u":"https://encompassworldpartners.org/person/paulandlouise","eq":"unrated","df":false},{"p":"Michael Yoder","r":"Executive Director","cf":"high","u":"https://charisfellowship.com/mike-yoder-named-new-executive-director-of-encompass-world-partners/","eq":"unrated","df":false},{"p":"Paul Klawitter","r":"Senior Director of Church Planting Network","cf":"high","u":"https://give.encompassworldpartners.org/person/paulandlouise","eq":"unrated","df":false}],"seg":"sending","df":1,"ver":1,"prim":0},{"org":"Wycliffe Bible Translators USA","site":null,"type":"agency","size":null,"n":12,"a":9,"b":3,"c":0,"contacts":[{"p":"Tori Masyczek","r":"VP Staff Care and Development","cf":"high","u":"https://www.wycliffe.org/about/our-leaders","eq":"unrated","df":true},{"p":"Jaime Ayala","r":"Director SIL Americas South","cf":"high","u":"https://www.wycliffe.org/about/our-leaders?biographyid=39","eq":"unrated","df":false},{"p":"Sarah Traverso","r":"VP Global Workforce Strategies","cf":"high","u":"https://www.wycliffe.org/about/our-leaders?BiographyId=41","eq":"unrated","df":false}],"seg":"sending","df":1,"ver":1,"prim":0},{"org":"Global Gates Network","site":"globalgates.info","type":"agency","size":null,"n":8,"a":4,"b":2,"c":2,"contacts":[{"p":"Megan Ferguson","r":"Donor Contact","cf":"high","u":"https://globalgates.info/leadership/","eq":"unrated","df":true},{"p":"Dr. Chuck Register","r":"Executive Director","cf":"high","u":"https://globalgates.info/leadership/","eq":"unrated","df":false}],"seg":"sending","df":1,"ver":1,"prim":0},{"org":"TEAM - The Evangelical Alliance Mission","site":"team.org","type":"agency","size":null,"n":5,"a":3,"b":1,"c":1,"contacts":[{"p":"Douglas K Batchelder","r":"Donor Relations Manager","cf":"high","u":"https://theorg.com/org/the-evangelical-alliance-mission-team/org-chart/douglas-k-batchelder","eq":"secondary","df":true}],"seg":"sending","df":1,"ver":1,"prim":0},{"org":"East-West Ministries International","site":"eastwest.org","type":"agency","size":null,"n":9,"a":1,"b":5,"c":3,"contacts":[{"p":"Beverly Pop","r":"Ministry Advancement","cf":"high","u":"https://www.linkedin.com/in/beverly-pop-8a783554/","eq":"unrated","df":true},{"p":"Jessica Garrett","r":"Staff","cf":"medium","u":"https://www.linkedin.com/in/jessica-garrett-29515523/","eq":"unrated","df":false},{"p":"Jimmy Bryan","r":"Staff","cf":"medium","u":"https://www.linkedin.com/in/jimmy-bryan-251231171/","eq":"unrated","df":false},{"p":"Louise Robinson","r":"Staff","cf":"medium","u":"https://www.linkedin.com/in/lomrobinson/","eq":"unrated","df":false},{"p":"Monnie Brewer","r":"Training and Partnership Facilitator","cf":"high","u":"https://www.linkedin.com/in/monnie-brewer-1059153/","eq":"unrated","df":false}],"seg":"sending","df":1,"ver":1,"prim":0},{"org":"Atlanta Community Food Bank","site":"acfb.org","type":"nonprofit","size":"large","n":22,"a":0,"b":2,"c":20,"contacts":[{"p":"Elizabeth Spears","r":"Director of Individual Giving","cf":"medium","u":"https://www.zoominfo.com/p/Elizabeth-Spears/4000326866","eq":"broker","df":true},{"p":"Matt Coleman","r":"Director of Institutional Giving","cf":"high","u":null,"eq":null,"df":false}],"seg":"foodbank","df":1,"ver":1,"prim":0},{"org":"Medical Teams International","site":"medicalteams.org","type":"nonprofit","size":"mid","n":20,"a":0,"b":1,"c":19,"contacts":[{"p":"Tricia Caldwell","r":"Chief Development Officer","cf":"high","u":"https://www.medicalteams.org/news/medical-teams-international-names-tricia-caldwell-as-chief-development-officer/","eq":"unrated","df":true}],"seg":"nonprofit","df":1,"ver":1,"prim":0},{"org":"Medical Missionaries","site":"medicalmissionaries.org","type":"nonprofit","size":"small","n":16,"a":0,"b":1,"c":15,"contacts":[{"p":"Tami ONeal","r":"Director of Donor Engagement","cf":"medium","u":"https://secure.qgiv.com/for/medicalmissionaries","eq":"unrated","df":true}],"seg":"nonprofit","df":1,"ver":1,"prim":0},{"org":"Community Food Bank of Central Alabama","site":"feedingal.org","type":"nonprofit","size":"mid","n":9,"a":0,"b":2,"c":7,"contacts":[{"p":"Ginger Pegues","r":"Director of Development","cf":"high","u":"https://feedingal.org/leadership-and-board/","eq":"primary","df":true},{"p":"Sharon Haynes","r":"Director of Partner Engagement","cf":"medium","u":null,"eq":null,"df":false}],"seg":"foodbank","df":1,"ver":1,"prim":1},{"org":"Heart of Alabama Food Bank","site":"hafb.org","type":"nonprofit","size":"large","n":7,"a":0,"b":2,"c":5,"contacts":[{"p":"Varina Mead","r":"Chief Development Officer","cf":"medium","u":"https://www.zoominfo.com/p/Varina-Mead/891990894","eq":"broker","df":true},{"p":"Jessica Horsley","r":"Director of Strategic Initiatives","cf":"medium","u":null,"eq":null,"df":false}],"seg":"foodbank","df":1,"ver":1,"prim":0},{"org":"Mississippi Food Network","site":"msfoodnet.org","type":"nonprofit","size":"large","n":7,"a":0,"b":1,"c":6,"contacts":[{"p":"Stacey Jordan","r":"Director, Development and External Affairs","cf":"high","u":"https://www.linkedin.com/in/stacey-jordan-6698459","eq":"secondary","df":true}],"seg":"foodbank","df":1,"ver":1,"prim":0},{"org":"Food Bank of the Albemarle","site":"foodbankofthealbemarle.org","type":"nonprofit","size":"small","n":6,"a":0,"b":1,"c":5,"contacts":[{"p":"Diana Flippo","r":"Chief Development and Marketing Officer","cf":"high","u":"https://afoodbank.org/about-us/board-management-staff/","eq":"primary","df":true}],"seg":"foodbank","df":1,"ver":1,"prim":1},{"org":"Second Harvest Food Bank of Middle Tennessee","site":"secondharvestmidtn.org","type":"nonprofit","size":"large","n":6,"a":0,"b":3,"c":3,"contacts":[{"p":"Gay Burden","r":"Director of Development Operations","cf":"high","u":"https://www.linkedin.com/in/gay-burden-7762aa55/","eq":"secondary","df":true},{"p":"Jack Stell","r":"Sponsorship Contact","cf":"medium","u":"https://www.secondharvestmidtn.org/","eq":"unrated","df":false},{"p":"Dick Brown","r":"Sr. Director, Corporate Engagements and Grants","cf":"high","u":null,"eq":null,"df":false}],"seg":"foodbank","df":1,"ver":1,"prim":0},{"org":"Cross International","site":"crossinternational.org","type":"ministry","size":null,"n":6,"a":0,"b":1,"c":5,"contacts":[{"p":"Emily Blair Dow","r":"Director of Development","cf":"high","u":"https://www.linkedin.com/in/emily-blair-dow-221359a4/","eq":"unrated","df":true}],"seg":"ministry","df":1,"ver":1,"prim":0},{"org":"Harry Chapin Food Bank","site":"harrychapinfoodbank.org","type":"nonprofit","size":"mid","n":5,"a":0,"b":1,"c":4,"contacts":[{"p":"Ann Prifrel","r":"Chief Development Officer","cf":"high","u":"https://harrychapinfoodbank.org/about-us/lead-staff/","eq":"primary","df":true}],"seg":"foodbank","df":1,"ver":1,"prim":1},{"org":"Animal Rescue League of Boston","site":"arlebanimalrescue.org","type":"nonprofit","size":"mid","n":5,"a":0,"b":1,"c":4,"contacts":[{"p":"Jacquelyn Smith","r":"Chief Advancement Officer","cf":"medium","u":"https://www.zoominfo.com/p/Jacquelyn-Smith/1953120607","eq":"broker","df":true}],"seg":"nonprofit","df":1,"ver":1,"prim":0},{"org":"Central Illinois Foodbank","site":"centralilfoodbank.org","type":"nonprofit","size":"small","n":4,"a":0,"b":1,"c":3,"contacts":[{"p":"Chloe Lucca","r":"Development Director","cf":"high","u":"https://centralilfoodbank.org/about-us/meet-the-team/","eq":"primary","df":true}],"seg":"foodbank","df":1,"ver":1,"prim":1},{"org":"Capital City Rescue Mission","site":"capitalcityrescuemission.org","type":"ministry","size":"small","n":2,"a":0,"b":1,"c":1,"contacts":[{"p":"Mandy Schettini","r":"Director of Development","cf":"high","u":"https://capitalcityrescuemission.org/about/leadership/","eq":"unrated","df":true}],"seg":"ministry","df":1,"ver":1,"prim":0},{"org":"Texas Homeless Network","site":"thn.org","type":"nonprofit","size":"small","n":1,"a":0,"b":1,"c":0,"contacts":[{"p":"Alexandra Beckendorf","r":"Chief Development Officer","cf":"high","u":"https://www.thn.org/staff/","eq":"unrated","df":true}],"seg":"nonprofit","df":1,"ver":1,"prim":0},{"org":"The Gospel Mission","site":"gmission.org","type":"ministry","size":null,"n":1,"a":0,"b":1,"c":0,"contacts":[{"p":"David Delzell","r":"Director of Development","cf":"high","u":"https://thegospelmission.org/about/staff","eq":"unrated","df":true}],"seg":"ministry","df":1,"ver":1,"prim":0},{"org":"Our Military Kids","site":"ourmilitarykids.org","type":"nonprofit","size":"small","n":1,"a":0,"b":1,"c":0,"contacts":[{"p":"Terri Mateo","r":"Senior Director of Development","cf":"high","u":"https://www.ourmilitarykids.org/board-staff/","eq":"unrated","df":true}],"seg":"nonprofit","df":1,"ver":1,"prim":0},{"org":"Whosoever Gospel Mission","site":"whosoevergospel.org","type":"ministry","size":"small","n":1,"a":0,"b":1,"c":0,"contacts":[{"p":"Rev. Dr. Bob Emberger","r":"Director of Advancement","cf":"high","u":"https://www.whosoevergospel.org/about/","eq":"unrated","df":true}],"seg":"ministry","df":1,"ver":1,"prim":0},{"org":"Operation Dignity","site":"operationdignity.org","type":"nonprofit","size":"small","n":1,"a":0,"b":1,"c":0,"contacts":[{"p":"Laura Ross","r":"Director of Development","cf":"high","u":"https://operationdignity.org/senior-staff-and-board-of-directors/","eq":"unrated","df":true}],"seg":"nonprofit","df":1,"ver":1,"prim":0},{"org":"Modesto Gospel Mission","site":"mymission.org","type":"ministry","size":"small","n":1,"a":0,"b":1,"c":0,"contacts":[{"p":"Scott Pernice","r":"Director of Development","cf":"high","u":"https://www.mymission.org/staff-and-board","eq":"unrated","df":true}],"seg":"ministry","df":1,"ver":1,"prim":0},{"org":"Food Bank of Western Massachusetts","site":"foodbankwma.org","type":"nonprofit","size":"small","n":7,"a":0,"b":2,"c":5,"contacts":[{"p":"Kathy Tobin","r":"Director of Development and Marketing","cf":"low","u":null,"eq":null,"df":true},{"p":"Natasha Schott","r":"Donor Relations Specialist","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":2,"ver":0,"prim":0},{"org":"Greater Pittsburgh Community Food Bank","site":"pittsburghfoodbank.org","type":"nonprofit","size":"mid","n":6,"a":0,"b":3,"c":3,"contacts":[{"p":"Jennifer Zgurich","r":"Fundraising Professional","cf":"low","u":null,"eq":null,"df":true},{"p":"Megan Cramer","r":"Director of Development and Donor Relations","cf":"low","u":null,"eq":null,"df":true},{"p":"Charla Irwin-Buncher","r":"Chief External Affairs Officer","cf":"high","u":null,"eq":null,"df":false}],"seg":"foodbank","df":2,"ver":0,"prim":0},{"org":"Community Foundation for Greater Richmond","site":"cfrichmond.org","type":"nonprofit","size":"mid","n":3,"a":0,"b":2,"c":1,"contacts":[{"p":"Jonathan Putt","r":"Philanthropic Advisor","cf":"low","u":null,"eq":null,"df":true},{"p":"Sarah Arenstein","r":"Philanthropic Advisor","cf":"low","u":null,"eq":null,"df":true}],"seg":"nonprofit","df":2,"ver":0,"prim":0},{"org":"Second Harvest Food Bank of Central Florida","site":"feedhopenow.org","type":"nonprofit","size":"mid","n":19,"a":0,"b":1,"c":18,"contacts":[{"p":"Arika Richardson","r":"Philanthropy Manager","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":1,"ver":0,"prim":0},{"org":"Feeding Northeast Florida","site":"feedingnefl.org","type":"nonprofit","size":"mid","n":12,"a":0,"b":1,"c":11,"contacts":[{"p":"Jacqueline Culver","r":"Vice President of Philanthropy","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":1,"ver":0,"prim":0},{"org":"Feeding America Kentuckys Heartland","site":null,"type":null,"size":null,"n":8,"a":0,"b":1,"c":7,"contacts":[{"p":"Tami Delaney","r":"Development Director","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":1,"ver":0,"prim":0},{"org":"Feeding South Florida","site":"feedingsouthflorida.org","type":"nonprofit","size":"large","n":8,"a":0,"b":1,"c":7,"contacts":[{"p":"Allyson Vaulx","r":"Assistant Vice President of Philanthropy","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":1,"ver":0,"prim":0},{"org":"Central Pennsylvania Food Bank","site":"centralpafoodbank.org","type":"nonprofit","size":"mid","n":7,"a":0,"b":2,"c":5,"contacts":[{"p":"Joe Arthur","r":"Executive Director","cf":"high","u":"https://www.linkedin.com/in/joe-arthur-cpfb","eq":"secondary","df":false},{"p":"Matt Lane","r":"Chief Development Officer","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":1,"ver":0,"prim":0},{"org":"Channel One Regional Food Bank","site":"helpingfeedpeople.org","type":"nonprofit","size":"small","n":7,"a":0,"b":2,"c":5,"contacts":[{"p":"Jessica Sund","r":"Director of Development and Communications","cf":"low","u":null,"eq":null,"df":true},{"p":"Jennifer Belisle","r":"Programs and Agency Services Director","cf":"high","u":null,"eq":null,"df":false}],"seg":"foodbank","df":1,"ver":0,"prim":0},{"org":"Animal Protection New Mexico","site":"apnm.org","type":"nonprofit","size":"small","n":5,"a":0,"b":2,"c":3,"contacts":[{"p":"Elizabeth Wolf","r":"Chief Development Officer","cf":"low","u":null,"eq":null,"df":true},{"p":"Krista Maddox","r":"Financial Director","cf":"high","u":null,"eq":null,"df":false}],"seg":"nonprofit","df":1,"ver":0,"prim":0},{"org":"Second Harvest Food Bank of Northeast Tennessee","site":"secondharvesttn.org","type":"nonprofit","size":"small","n":3,"a":0,"b":1,"c":2,"contacts":[{"p":"Kristen Reedy","r":"Director, Development","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":1,"ver":0,"prim":0},{"org":"Eastern Illinois Foodbank","site":"eifoodbank.org","type":"nonprofit","size":"small","n":2,"a":0,"b":1,"c":1,"contacts":[{"p":"Amanda Borden","r":"VP of Development","cf":"low","u":null,"eq":null,"df":true}],"seg":"foodbank","df":1,"ver":0,"prim":0},{"org":"International Medical Relief","site":"internationalmedicalrelief.org","type":"nonprofit","size":"small","n":2,"a":0,"b":1,"c":1,"contacts":[{"p":"Karla Prentiss","r":"Vice President of Development and Sustainable Education","cf":"low","u":null,"eq":null,"df":true}],"seg":"nonprofit","df":1,"ver":0,"prim":0},{"org":"Ethnos360","site":"ethnos360.org","type":"agency","size":"large","n":40,"a":33,"b":7,"c":0,"contacts":[{"p":"Barbara Russ","r":"Teacher/support staff","cf":"medium","u":"https://www.familychurchweb.com/missions-russ","eq":"unrated","df":false},{"p":"Brian Coombs","r":"Director of Ethnos360 Training Center","cf":"high","u":"https://ethnos360.org/meet-our-leadership","eq":"unrated","df":false},{"p":"Dallon and Teresa Anderson","r":"Chief Operations Officer","cf":"high","u":"https://ethnos360.org/missionaries/dallon-and-teresa-anderson","eq":"unrated","df":false},{"p":"Dan Falls","r":"Global Training Consultant","cf":"high","u":"https://ethnos360.org/meet-our-leadership","eq":"unrated","df":false},{"p":"Keith Copley","r":"International Ministry Office Director","cf":"high","u":"https://ethnos360.org/meet-our-leadership","eq":"unrated","df":false},{"p":"Phil Koop","r":"Executive Director, Ethnos360 Aviation","cf":"high","u":"https://ethnos360aviation.org/about/leadership","eq":"unrated","df":false},{"p":"Steve and Sharon Sanford","r":"CEO","cf":"high","u":"https://ethnos360.org/missionaries/steve-and-sharon-sanford","eq":"unrated","df":false}],"seg":"sending","df":0,"ver":0,"prim":0},{"org":"World Gospel Mission","site":"wgm.org","type":"agency","size":"mid","n":30,"a":25,"b":5,"c":0,"contacts":[{"p":"Benji Jenkins","r":"Regional Director - Asia Pacific","cf":"high","u":"https://wgm.org/missionary/benjijenkins","eq":"unrated","df":false},{"p":"David Kerney","r":"Mid-term Missionary - Texas","cf":"high","u":"https://wgm.org/missionary/kerney","eq":"unrated","df":false},{"p":"Lisa Fish","r":"Education Specialist","cf":"high","u":"https://wgm.org/missionary/fish","eq":"unrated","df":false},{"p":"Steve Hughes","r":"Regional Ministry Leader - Southwest Ministries","cf":"high","u":"https://wgm.org/missionary/hughes","eq":"unrated","df":false},{"p":"Tim Rickel","r":"Vice President of International Ministries","cf":"high","u":"https://wgm.org/story/presidential-announcement","eq":"unrated","df":false}],"seg":"sending","df":0,"ver":0,"prim":0},{"org":"Cru","site":"cru.org","type":"parachurch","size":"large","n":14,"a":12,"b":2,"c":0,"contacts":[{"p":"Brad Harry and Marc Henkel","r":"Co-Team Directors","cf":"medium","u":"https://www.cru.org/us/en/communities/innercity/chicago/get-involved/staff-opportunities.html","eq":"unrated","df":false},{"p":"Milton Massie","r":"Executive Director/Steward","cf":"medium","u":"https://www.cru.org/us/en/communities/innercity/about-us/contact-us.html","eq":"unrated","df":false}],"seg":"ministry","df":0,"ver":0,"prim":0},{"org":"Serge","site":"serge.org","type":"agency","size":"mid","n":8,"a":7,"b":1,"c":0,"contacts":[{"p":"Jim Lovelady","r":"Discipleship mentor, podcast host","cf":"high","u":"https://give.serge.org/donate/jim-lovelady","eq":"unrated","df":false}],"seg":"sending","df":0,"ver":0,"prim":0},{"org":"Christian Health Service Corps","site":"healthservicecorps.org","type":"agency","size":null,"n":13,"a":6,"b":1,"c":6,"contacts":[{"p":"Gregory D. Seager","r":"President & CEO, Founder","cf":"high","u":"https://www.healthservicecorps.org/staff/greg-and-candi-seager/","eq":"unrated","df":false}],"seg":"sending","df":0,"ver":0,"prim":0},{"org":"Fellowship International Mission","site":"fim.org","type":"agency","size":null,"n":9,"a":2,"b":5,"c":2,"contacts":[{"p":"Amy Jibilian","r":"Chief Financial Officer","cf":"high","u":"https://www.zoominfo.com/p/Amy-Jibilian/2660700616","eq":"unrated","df":false},{"p":"David Willson","r":"HR & Administrative Associate","cf":"high","u":"https://www.zoominfo.com/p/David-Willson/12174405323","eq":"unrated","df":false},{"p":"Francisco de Souza","r":"Staff","cf":"medium","u":"https://www.linkedin.com/in/francisco-de-souza-02166215/","eq":"unrated","df":false},{"p":"Gary Butler","r":"Director of Mobilization","cf":"high","u":"https://www.linkedin.com/in/gary-butler-2a178628","eq":"unrated","df":false},{"p":"Paul Barreca","r":"General Director/CEO","cf":"high","u":"https://www.fim.org/","eq":"unrated","df":false}],"seg":"sending","df":0,"ver":0,"prim":0},{"org":"Liebenzell Mission USA","site":"lmusa.org","type":"agency","size":null,"n":5,"a":2,"b":2,"c":1,"contacts":[{"p":"Christopher Matthews","r":"CEO/General Director","cf":"high","u":"https://lmusa.org/2025/gm-news/rjohnson-new-director/","eq":"unrated","df":false},{"p":"Rob Johnson","r":"Director of Global Ministries","cf":"high","u":"https://lmusa.org/2025/gm-news/rjohnson-new-director/","eq":"unrated","df":false}],"seg":"sending","df":0,"ver":0,"prim":0},{"org":"The Navigators","site":"navigators.org","type":"parachurch","size":"large","n":5,"a":2,"b":3,"c":0,"contacts":[{"p":"Brian Incontrera","r":"Campus Ministry Director","cf":"medium","u":"https://www.navigators.org/blog/a-citywide-vision-simple-and-intentional-discipleship-in-jacksonville/","eq":"unrated","df":false},{"p":"Caitlin Borunda","r":"Campus Ministry Staff","cf":"medium","u":"https://trinitybible.com/missionaries/the-navigators/","eq":"unrated","df":false},{"p":"Josh Borunda","r":"Campus Ministry Staff","cf":"medium","u":"https://trinitybible.com/missionaries/the-navigators/","eq":"unrated","df":false}],"seg":"ministry","df":0,"ver":0,"prim":0},{"org":"SIM USA","site":"simusa.org","type":"agency","size":"mid","n":3,"a":1,"b":1,"c":1,"contacts":[{"p":"Randy Fairman","r":"CEO/President","cf":"high","u":"https://www.linkedin.com/in/randy-fairman-78a5621a8/","eq":"unrated","df":false}],"seg":"sending","df":0,"ver":0,"prim":0},{"org":"Christar","site":"christar.org","type":"agency","size":"mid","n":18,"a":0,"b":8,"c":10,"contacts":[{"p":"Andrew Broeckelman","r":"Director","cf":"high","u":"https://www.christar.org/project/christar-mobilization-center-u-s","eq":"unrated","df":false},{"p":"Beverly Guy","r":"Director of Communications","cf":"high","u":"https://www.christar.org/project/christar-mobilization-center-u-s","eq":"unrated","df":false},{"p":"Daniel Bethel","r":"International Director","cf":"high","u":"https://christar.org/files/Transformation%20Update/Christar%202025%20Annual%20Report.pdf","eq":"unrated","df":false},{"p":"James Capaldo","r":"U.S. Director","cf":"high","u":"https://christar.org/leadership","eq":"unrated","df":false},{"p":"Jared Gray","r":"Director of Finance","cf":"high","u":"https://www.christar.org/project/christar-mobilization-center-u-s","eq":"unrated","df":false},{"p":"Mark Burkholder","r":"Director of Personnel","cf":"high","u":"https://www.christar.org/project/christar-mobilization-center-u-s","eq":"unrated","df":false},{"p":"Mark Ciliberti","r":"Director","cf":"high","u":"https://www.christar.org/project/christar-mobilization-center-u-s","eq":"unrated","df":false},{"p":"Peter Bowers","r":"Church-Planting Division Director","cf":"high","u":"https://christar.org/files/Transformation%20Update/Christar%202025%20Annual%20Report.pdf","eq":"unrated","df":false}],"seg":"sending","df":0,"ver":0,"prim":0},{"org":"Seed Company","site":"seedcompany.com","type":"agency","size":"mid","n":12,"a":0,"b":2,"c":10,"contacts":[{"p":"Davis Powell","r":"Chief Executive Officer","cf":"high","u":"https://seedcompany.com/leadership/","eq":"unrated","df":false},{"p":"Jeremy Moser","r":"Chief Financial Officer","cf":"high","u":"https://seedcompany.com/leadership/","eq":"unrated","df":false}],"seg":"sending","df":0,"ver":0,"prim":0},{"org":"Pioneers","site":"pioneers.org","type":"agency","size":"mid","n":4,"a":0,"b":1,"c":3,"contacts":[{"p":"Nathan Burns","r":"Chief Administrative Officer","cf":"high","u":"https://pioneers.org/leadership","eq":"unrated","df":false}],"seg":"sending","df":0,"ver":0,"prim":0},{"org":"Global Health Outreach (CMDA)","site":"cmda.org/global-health-outreach","type":"ministry","size":"mid","n":2,"a":0,"b":1,"c":1,"contacts":[{"p":"Patricia Burgess","r":"Director, Global Health Outreach","cf":"medium","u":"https://cmda.org/global-health-outreach/","eq":"unrated","df":false}],"seg":"ministry","df":0,"ver":0,"prim":0},{"org":"Gospel Center Rescue Mission","site":"gcrms.org","type":"ministry","size":"small","n":1,"a":0,"b":1,"c":0,"contacts":[{"p":"William R. Brown","r":"Director of Government & Foundation Relations","cf":"high","u":"https://gcrms.org/","eq":"unrated","df":false}],"seg":"ministry","df":0,"ver":0,"prim":0}],"stats":{"orgs":72,"ready":45,"unsourced_only":13,"review":14,"contacts":101,"verified":69,"primary":13,"tierA":183}}</script>
+<script>
+(function(){
+  var D = JSON.parse(document.getElementById('payload').textContent);
+  var orgs = D.orgs, S = D.stats;
+  var esc = function(s){ return String(s==null?'':s).replace(/[&<>"']/g, function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); };
+  var slug = function(s){ return s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,80); };
+
+  document.getElementById('stats').innerHTML = [
+    ['is-accent', S.ready, 'organizations with a sourced donor-facing contact'],
+    ['', S.verified+' / '+S.contacts, 'donor-facing contacts with a source link'],
+    ['', S.tierA, 'support-raised individuals (Tier A)'],
+    ['is-warn', S.unsourced_only, 'orgs whose contacts are all unsourced'],
+    ['is-warn', S.review, 'orgs with no donor-facing contact']
+  ].map(function(r){
+    return '<div class="stat '+r[0]+'"><span class="v">'+r[1]+'</span><span class="k">'+r[2]+'</span></div>';
+  }).join('');
+
+  document.getElementById('note').innerHTML =
+    '<b>Evidence is graded, and not all of it is equal.</b> A <span class="eqb primary">primary</span> '+
+    'badge means the organization\'s own staff page. <span class="eqb secondary">secondary</span> is '+
+    'LinkedIn or The Org. <span class="eqb broker">broker</span> is a data aggregator such as ZoomInfo '+
+    '&mdash; often stale, so treat it as a lead. <span class="eqb unrated">unrated</span> means a URL '+
+    'carried over from an earlier wave that has not been re-checked. Only 28 contacts were verified in '+
+    'the 7 Sep pass; the rest of the links are unrated. A contact with no badge at all has no source and '+
+    'should be confirmed before anyone calls.';
+
+  var state = { seg:'all', srcOnly:false, decisions:{} };
+  var dbNS = null;
+
+  function contactRow(c){
+    var ev = c.u
+      ? '<a href="'+esc(c.u)+'" target="_blank" rel="noopener noreferrer">source</a>'+
+        '<span class="eqb '+esc(c.eq||'unrated')+'">'+esc(c.eq||'unrated')+'</span>'
+      : '<span class="nosrc">no source</span>';
+    return '<tr><td class="who">'+esc(c.p)+'</td>'+
+      '<td class="role">'+esc(c.r)+'</td>'+
+      '<td><span class="cf'+(c.cf==='low'?' low':'')+'">'+esc(c.cf||'—')+'</span></td>'+
+      '<td class="src">'+ev+'</td></tr>';
+  }
+
+  function render(){
+    var list = document.getElementById('list');
+    var shown = orgs.filter(function(o){
+      if(state.seg!=='all' && o.seg!==state.seg) return false;
+      if(state.srcOnly && o.ver===0) return false;
+      return true;
+    });
+    document.getElementById('count').textContent = shown.length+' of '+orgs.length+' shown';
+    list.innerHTML = shown.map(function(o){
+      var id = slug(o.org), tot = o.n||1;
+      var pa = Math.round((o.a/tot)*100), pb = Math.round((o.b/tot)*100), pc = 100-pa-pb;
+      var dfc = (o.contacts||[]).filter(function(c){return c.df;});
+      var other = (o.contacts||[]).filter(function(c){return !c.df;});
+      var dec = state.decisions[id];
+      return '<div class="row" data-id="'+id+'">'+
+        '<button class="row-head" aria-expanded="false">'+
+          '<span><span class="nm">'+esc(o.org)+
+            (dfc.length===0?'<span class="flag">review</span>':'')+'</span>'+
+            '<span class="sub">'+esc(o.site||'no website recorded')+
+            (o.size?' &middot; '+esc(o.size):'')+'</span></span>'+
+          '<span><span class="tiers">'+
+            '<i class="ta" style="width:'+pa+'%"></i>'+
+            '<i class="tb" style="width:'+pb+'%"></i>'+
+            '<i class="tc" style="width:'+pc+'%"></i></span>'+
+            '<span class="tlab">'+o.n+' found &middot; '+o.a+'A '+o.b+'B '+o.c+'C &middot; '+o.ver+'/'+o.df+' sourced</span></span>'+
+          '<span class="dec">'+
+            ['approach','later','pass'].map(function(k){
+              return '<span class="dbtn'+(k==='pass'?' pass':'')+'" role="button" tabindex="0" '+
+                'data-dec="'+k+'" aria-pressed="'+(dec===k)+'">'+k+'</span>';
+            }).join('')+
+          '</span>'+
+        '</button>'+
+        '<div class="detail" hidden>'+
+          (dfc.length
+            ? '<div class="scroll"><table class="ct"><thead><tr><th>Name</th><th>Role</th>'+
+              '<th>Confidence</th><th>Evidence</th></tr></thead><tbody>'+
+              dfc.map(contactRow).join('')+'</tbody></table></div>'
+            : '<p class="secondary" style="border:0;padding:0;margin-top:12px">No contact at this '+
+              'organization has a donor-facing job title. Re-check before spending outreach on it.</p>')+
+          (other.length
+            ? '<div class="secondary"><h4>Also found, not donor-facing</h4><p>'+
+              other.map(function(c){return esc(c.p)+' &mdash; '+esc(c.r);}).join(' &middot; ')+
+              '</p></div>'
+            : '')+
+        '</div></div>';
+    }).join('');
+  }
+
+  document.addEventListener('click', function(e){
+    var chip = e.target.closest('.chip');
+    if(chip){
+      if(chip.id==='srcOnly'){
+        state.srcOnly = !state.srcOnly;
+        chip.setAttribute('aria-pressed', String(state.srcOnly));
+      } else {
+        state.seg = chip.dataset.seg;
+        document.querySelectorAll('.chip[data-seg]').forEach(function(c){
+          c.setAttribute('aria-pressed', String(c===chip)); });
+      }
+      render(); return;
+    }
+    var d = e.target.closest('.dbtn');
+    if(d){
+      e.stopPropagation(); e.preventDefault();
+      var row = d.closest('.row'), id = row.dataset.id, k = d.dataset.dec;
+      state.decisions[id] = (state.decisions[id]===k) ? null : k;
+      row.querySelectorAll('.dbtn').forEach(function(b){
+        b.setAttribute('aria-pressed', String(b.dataset.dec===state.decisions[id])); });
+      save(id, state.decisions[id]);
+      return;
+    }
+    var head = e.target.closest('.row-head');
+    if(head){
+      var det = head.nextElementSibling;
+      var open = head.getAttribute('aria-expanded')==='true';
+      head.setAttribute('aria-expanded', String(!open));
+      det.hidden = open;
+    }
+  });
+  document.addEventListener('keydown', function(e){
+    if((e.key===' '||e.key==='Enter') && e.target.classList && e.target.classList.contains('dbtn')){
+      e.preventDefault(); e.target.click();
+    }
+  });
+
+  function save(id, val){
+    if(!dbNS) return;
+    var s = document.getElementById('saving');
+    var doc = dbNS.doc('decisions/'+id);
+    var p = (val===null||val===undefined) ? doc.delete() : doc.set({state:val, at:Date.now()});
+    p.then(function(){ s.textContent='Saved.'; })
+     .catch(function(){ s.textContent='Could not save that decision — it stays on screen only.'; });
+  }
+
+  render();
+
+  // Outside the artifact runtime (a local file, say) `claude` does not exist.
+  // Guard it: the page is fully readable without persistence, decisions just
+  // stay on screen.
+  if(typeof claude === 'undefined' || !claude || typeof claude.use !== 'function'){
+    document.getElementById('saving').textContent =
+      'Viewing a local copy \u2014 decisions are not saved.';
+    return;
+  }
+  claude.use('db').then(function(ns){
+    if(!ns) return;
+    dbNS = ns;
+    document.getElementById('saving').textContent='Decisions are shared with everyone who has this link.';
+    ns.collection('decisions').onSnapshot(function(snap){
+      var next = {};
+      snap.forEach(function(doc){ if(doc.data && doc.data.state) next[doc.id]=doc.data.state; });
+      state.decisions = next;
+      render();
+    });
+  }).catch(function(){});
+})();
+</script>

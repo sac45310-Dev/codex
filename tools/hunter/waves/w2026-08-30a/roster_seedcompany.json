@@ -1,0 +1,254 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:seedcompany",
+  "target_org": "Seed Company",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Davis Powell",
+      "summary": "Seed Company — Chief Executive Officer",
+      "fit_score": 9,
+      "fit_reason": "Tier B. Executive leadership at Seed Company since 2015; became CEO/President in March 2024. Oversees all organizational advancement and operations.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Executive Officer",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/leadership/",
+        "linkedin_url": "https://www.linkedin.com/in/davis-powell-69804280",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jeremy Moser",
+      "summary": "Seed Company — Chief Financial Officer",
+      "fit_score": 8,
+      "fit_reason": "Tier B. Chief Financial Officer joined August 2024; CPA/CTP with expertise in organizational finance and treasury.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Financial Officer",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/leadership/",
+        "linkedin_url": "https://www.linkedin.com/in/jeremy-moser-cpa-ctp-5a52b94/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Logan Brown",
+      "summary": "Seed Company — Board Chair",
+      "fit_score": 9,
+      "fit_reason": "Tier C. Board Chair and governance leader. Co-founder and Managing Partner of Davenforth Investments; demonstrates significant business and investment experience.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Amanda George",
+      "summary": "Seed Company — Board Vice Chair",
+      "fit_score": 8,
+      "fit_reason": "Tier C. Vice Chair of Board; governance and leadership role in organizational direction and strategy.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "C",
+        "role": "Board Vice Chair",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Maria Pisa",
+      "summary": "Seed Company — Board Secretary",
+      "fit_score": 8,
+      "fit_reason": "Tier C. Board Secretary; governance and fiduciary leadership role.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "C",
+        "role": "Board Secretary",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "John Chesnut",
+      "summary": "Seed Company — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C. Member of Board of Directors; governance leadership role.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/seed-team-member-types/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nate Foreman",
+      "summary": "Seed Company — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C. Member of Board of Directors; governance leadership role.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/seed-team-member-types/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Melissa Roberts",
+      "summary": "Seed Company — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C. Member of Board of Directors; governance leadership role.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/seed-team-member-types/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Steven Ganss",
+      "summary": "Seed Company — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C. Member of Board of Directors; governance leadership role.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/seed-team-member-types/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tom De Vries",
+      "summary": "Seed Company — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C. Member of Board of Directors; governance leadership role.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/seed-team-member-types/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Chris Ordway",
+      "summary": "Seed Company — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C. Member of Board of Directors; governance leadership role.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/seed-team-member-types/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Johnstone Ndunde",
+      "summary": "Seed Company — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C. Member of Board of Directors; governance leadership role.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/seed-team-member-types/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Walter Floyd",
+      "summary": "Seed Company — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C. Member of Board of Directors; governance leadership role.",
+      "source_query": "hunter:w2026-08-30a:seedcompany",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Seed Company",
+        "evidence_url": "https://seedcompany.com/seed-team-member-types/board-of-directors/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Seed Company",
+      "website": "https://www.seedcompany.com",
+      "org_type": "parachurch",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "headcount_est": 50,
+      "faith_orientation": "christian",
+      "evidence": "Bible translation nonprofit affiliated with Wycliffe Bible Translators, headquartered in Arlington, TX. Focuses on accelerating Scripture translation through partnerships with national-led translation projects."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Seed Company Arlington Texas leadership team board members",
+      "outcome": "found_people",
+      "people_found": 11
+    },
+    {
+      "kind": "query",
+      "value": "\"Seed Company\" Wycliffe staff missionaries fundraising development",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:seedcompany.com team staff leadership",
+      "outcome": "found_people",
+      "people_found": 11
+    },
+    {
+      "kind": "query",
+      "value": "\"Davis Powell\" \"Seed Company\" CEO",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Logan Brown\" \"Seed Company\" board chair",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Seed Company missionaries field workers support raised",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Seed Company\" \"Chief Development Officer\" Young Life 2024",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Seed Company\" \"Chief Financial Officer\" CPA 2024",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ]
+}

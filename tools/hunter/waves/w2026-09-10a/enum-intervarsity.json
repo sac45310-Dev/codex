@@ -1,0 +1,330 @@
+{
+ "wave_id": "w2026-09-10a",
+ "agent": "enum-intervarsity",
+ "target_domain": "donate.intervarsity.org",
+ "searches_used": 15,
+ "url_pattern_confirmed": "https://donate.intervarsity.org/support/<first_last> (named form with underscore) and /support/<numeric_id> (numeric form)",
+ "people": [
+  {
+   "name": "Jonny Gose",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "medium",
+   "evidence_basis": "org_policy",
+   "source_url": "https://donate.intervarsity.org/support/15548",
+   "fit_reason": "Personal giving page for InterVarsity staff member; couple sharing page with Becky Gose [orchestrator: giving URL is an opaque numeric ID; page confirms a supported staff member at that ID, not this named person]"
+  },
+  {
+   "name": "Becky Gose",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "medium",
+   "evidence_basis": "org_policy",
+   "source_url": "https://donate.intervarsity.org/support/15548",
+   "fit_reason": "Personal giving page for InterVarsity staff member; couple sharing page with Jonny Gose [orchestrator: giving URL is an opaque numeric ID; page confirms a supported staff member at that ID, not this named person]"
+  },
+  {
+   "name": "Scott Harris",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "LINK Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/harris",
+   "fit_reason": "Personal giving page for LINK program staff; couple sharing page with Michelle Harris"
+  },
+  {
+   "name": "Michelle Harris",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "LINK Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/harris",
+   "fit_reason": "Personal giving page for LINK program staff; couple sharing page with Scott Harris"
+  },
+  {
+   "name": "Troy Tisthammer",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/Tisthammer",
+   "fit_reason": "Personal giving page for InterVarsity staff member; couple sharing page with Jackie Tisthammer"
+  },
+  {
+   "name": "Jackie Tisthammer",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/Tisthammer",
+   "fit_reason": "Personal giving page for InterVarsity staff member; couple sharing page with Troy Tisthammer"
+  },
+  {
+   "name": "Jason Thomas",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/jason_and_andrea_thomas",
+   "fit_reason": "Personal giving page for InterVarsity staff member; couple sharing page with Andrea Thomas"
+  },
+  {
+   "name": "Andrea Thomas",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/jason_and_andrea_thomas",
+   "fit_reason": "Personal giving page for InterVarsity staff member; couple sharing page with Jason Thomas"
+  },
+  {
+   "name": "Anna Pennock",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "medium",
+   "evidence_basis": "org_policy",
+   "source_url": "https://donate.intervarsity.org/support/18436",
+   "fit_reason": "Personal giving page named in search result title; InterVarsity staff support raising [orchestrator: giving URL is an opaque numeric ID; page confirms a supported staff member at that ID, not this named person]"
+  },
+  {
+   "name": "Eliana Land",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/Eliana_Land",
+   "fit_reason": "Personal giving page for InterVarsity staff member with named URL form"
+  },
+  {
+   "name": "Chandra Crane",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/chandracrane",
+   "fit_reason": "Personal giving page for InterVarsity staff member with named URL form"
+  },
+  {
+   "name": "Luke Francis",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/Luke_Francis",
+   "fit_reason": "Personal giving page for InterVarsity staff member with named URL form"
+  },
+  {
+   "name": "Ginny Prince",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/ginny_prince",
+   "fit_reason": "Personal giving page for InterVarsity staff member with named URL form"
+  },
+  {
+   "name": "James Chambers",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/jamesandkatiechambers",
+   "fit_reason": "Personal giving page for InterVarsity staff member; couple sharing page with Katie Chambers"
+  },
+  {
+   "name": "Katie Chambers",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/jamesandkatiechambers",
+   "fit_reason": "Personal giving page for InterVarsity staff member; couple sharing page with James Chambers"
+  },
+  {
+   "name": "David Suryk",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/David_Suryk",
+   "fit_reason": "Personal giving page for InterVarsity staff member with named URL form"
+  },
+  {
+   "name": "Greg Steward",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/Greg_Steward",
+   "fit_reason": "Personal giving page for InterVarsity staff member with named URL form"
+  },
+  {
+   "name": "Danny Chen",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/Danny_Chen",
+   "fit_reason": "Personal giving page for InterVarsity staff member with named URL form"
+  },
+  {
+   "name": "Steve Tengan",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "LINK Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/LINK-Steve_and_Sherilyn_Tengan",
+   "fit_reason": "Personal giving page for LINK program staff member; couple sharing page with Sherilyn Tengan"
+  },
+  {
+   "name": "Sherilyn Tengan",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "LINK Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/LINK-Steve_and_Sherilyn_Tengan",
+   "fit_reason": "Personal giving page for LINK program staff member; couple sharing page with Steve Tengan"
+  },
+  {
+   "name": "Jessica Cheng",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Campus Staff",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://donate.intervarsity.org/support/Jessica_Cheng",
+   "fit_reason": "Personal giving page for InterVarsity staff member with named URL form"
+  },
+  {
+   "name": "Valerie Ives",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Volunteer",
+   "confidence": "medium",
+   "evidence_basis": "org_policy",
+   "source_url": "https://donate.intervarsity.org/support/17623",
+   "fit_reason": "Personal giving page from search result title; numeric ID form, name not in URL [orchestrator: giving URL is an opaque numeric ID; page confirms a supported staff member at that ID, not this named person]"
+  },
+  {
+   "name": "Emily Montgomery",
+   "org": "InterVarsity Christian Fellowship",
+   "tier": "A",
+   "role": "Former Staff",
+   "confidence": "medium",
+   "evidence_basis": "org_policy",
+   "source_url": "https://donate.intervarsity.org/support/17488",
+   "fit_reason": "Personal giving page from search result title; numeric ID form, name not in URL [orchestrator: giving URL is an opaque numeric ID; page confirms a supported staff member at that ID, not this named person]"
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support/",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support california intervarsity staff",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support ohio state university",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support \"campus director\" OR \"area director\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support missionary intervarsity",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support northwest west coast seattle portland",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support michigan illinois state",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support graduate faculty GFM",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support david sarah michael jennifer",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support staff worker chaplain",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support cornell yale penn brandeis",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support northeast south southwest texas florida",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support athletes coaches sports ministry",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support chapter outreach discipleship",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:donate.intervarsity.org/support christopher ryan jessica andrew paul",
+   "outcome": "found_people"
+  }
+ ],
+ "needs_review": [
+  {
+   "issue": "Excluded records not in output",
+   "finding": "Three individuals were found during enumeration but excluded per assignment requirements: Jen Hartman (hartman), Tim Lee (lee), Anne Miller (miller), Matthew Quan (quan), and David/Ariana Stringfellow (stringfellow)",
+   "evidence": "Search results included URLs: https://donate.intervarsity.org/support/16563 (Jen Hartman), https://donate.intervarsity.org/support/tim_lee (Tim Lee), https://donate.intervarsity.org/support/Anne_Miller (Anne Miller), https://donate.intervarsity.org/support/MatthewQuan (Matthew Quan), https://donate.intervarsity.org/support/dstringfellowgolf (Stringfellows)",
+   "recommendation": "Records already held by organization; excluded as specified in assignment"
+  },
+  {
+   "issue": "Numeric-ID giving URLs were labelled personal_page/high",
+   "finding": "5 records cite /support/<numeric id>, which does not tie the page to the named person. 3 were marked high confidence despite the assignment capping numeric IDs at medium.",
+   "evidence": "Orchestrator name-in-slug audit at ingest, wave w2026-09-10a.",
+   "recommendation": "Downgraded to org_policy/medium: Jonny Gose, Becky Gose, Anna Pennock, Valerie Ives, Emily Montgomery"
+  }
+ ]
+}

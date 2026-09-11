@@ -1,0 +1,182 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:globalgates",
+  "target_org": "Global Gates Network",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Dr. Chuck Register",
+      "summary": "Global Gates Network — Executive Director",
+      "fit_score": 8,
+      "fit_reason": "Tier B - Organizational leadership with 14 years missions mobilization experience in denominational leadership and 20 years pastoral church planting background",
+      "source_query": "hunter:w2026-08-30a:globalgates",
+      "meta": {
+        "tier": "B",
+        "role": "Executive Director",
+        "target_org": "Global Gates Network",
+        "evidence_url": "https://globalgates.info/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brad Wall",
+      "summary": "Global Gates Network — Co-founder, Associate Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A - Co-founder and Associate Director; led missionary teams in Southeast Asia with International Mission Board",
+      "source_query": "hunter:w2026-08-30a:globalgates",
+      "meta": {
+        "tier": "A",
+        "role": "Associate Director, Co-founder",
+        "target_org": "Global Gates Network",
+        "evidence_url": "https://globalgates.info/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sara Wall",
+      "summary": "Global Gates Network — Co-founder",
+      "fit_score": 8,
+      "fit_reason": "Tier A - Co-founder of Global Gates Network (founded 2012) alongside Brad Wall",
+      "source_query": "hunter:w2026-08-30a:globalgates",
+      "meta": {
+        "tier": "A",
+        "role": "Co-founder",
+        "target_org": "Global Gates Network",
+        "evidence_url": "https://globalgates.info/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Chris Clayman",
+      "summary": "Global Gates Network — Co-founder",
+      "fit_score": 9,
+      "fit_reason": "Tier A - Co-founder and pioneer missionary with experience in unreached people groups (West Africa, New York City)",
+      "source_query": "hunter:w2026-08-30a:globalgates",
+      "meta": {
+        "tier": "A",
+        "role": "Co-founder, Pioneer Missionary",
+        "target_org": "Global Gates Network",
+        "evidence_url": "https://globalgates.info/global-gates-network/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nichole Clayman",
+      "summary": "Global Gates Network — Co-founder",
+      "fit_score": 8,
+      "fit_reason": "Tier A - Co-founder of Global Gates Network (founded 2012) alongside Chris Clayman",
+      "source_query": "hunter:w2026-08-30a:globalgates",
+      "meta": {
+        "tier": "A",
+        "role": "Co-founder",
+        "target_org": "Global Gates Network",
+        "evidence_url": "https://globalgates.info/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Matt Sprink",
+      "summary": "Global Gates Network — Board Chairman",
+      "fit_score": 7,
+      "fit_reason": "Tier C - Board member and Chairman with governance responsibility",
+      "source_query": "hunter:w2026-08-30a:globalgates",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chairman",
+        "target_org": "Global Gates Network",
+        "evidence_url": "https://globalgates.info/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Cindy Wiles",
+      "summary": "Global Gates Network — Board member",
+      "fit_score": 7,
+      "fit_reason": "Tier C - Long-time missions leader serving on Global Gates board; founder and executive director of Restore Hope",
+      "source_query": "hunter:w2026-08-30a:globalgates",
+      "meta": {
+        "tier": "C",
+        "role": "Board member",
+        "target_org": "Global Gates Network",
+        "evidence_url": "https://db.ministrywatch.com/ministry.php?ein=822452416",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Megan Ferguson",
+      "summary": "Global Gates Network — Donor Contact",
+      "fit_score": 6,
+      "fit_reason": "Tier B - Development and donor relations staff",
+      "source_query": "hunter:w2026-08-30a:globalgates",
+      "meta": {
+        "tier": "B",
+        "role": "Donor Contact",
+        "target_org": "Global Gates Network",
+        "evidence_url": "https://globalgates.info/leadership/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Global Gates Network",
+      "website": "https://globalgates.info/",
+      "org_type": "parachurch",
+      "size_estimate": "small",
+      "tier_profile": "AB",
+      "headcount_est": 8,
+      "faith_orientation": "christian",
+      "evidence": "Evangelical missions organization mobilizing prayer and missionaries for unreached people groups in North American gateway cities; founded 2012"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Global Gates Network staff leadership team",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Global Gates Network board members directors",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Global Gates Network missionaries church planters",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Global Gates Network founder executive director",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "globalgates.info leadership team names",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"Global Gates\" Chris Clayman Brad Wall Sara missionaries",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Global Gates Network development staff fundraiser",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Global Gates\" missionaries \"support raised\" staff team",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ]
+}

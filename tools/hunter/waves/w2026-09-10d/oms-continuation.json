@@ -1,0 +1,392 @@
+{
+  "wave_id": "w2026-09-10d",
+  "agent": "oms-continuation",
+  "target_org": "One Mission Society",
+  "slice": "Collision suffixes, roles (field/regional director, teacher, medical, church planting, administration, finance, IT, member care), tenure language (retired, emeritus), and programme names (Men for Missions, Every Community for Christ)",
+  "searches_used": 15,
+  "people": [
+    {
+      "name": "Avery Fredickson",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Field Director / Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/fredickson-avery",
+      "fit_reason": "Surname 'fredickson-avery' in slug (inverted form); title names 'Avery'; per-person giving page"
+    },
+    {
+      "name": "Doug Tankersley and Cindy Tankersley",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Regional Director / Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/tankersley",
+      "fit_reason": "Title shows 'Doug and Cindy'; slug 'tankersley' carries surname; serves as regional director for Latin America since 2018"
+    },
+    {
+      "name": "David Dick and Celia Dick",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Retired Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Dick",
+      "fit_reason": "Title shows 'David and Celia'; slug 'Dick' carries surname; retired, served since December 1980"
+    },
+    {
+      "name": "Mary Sutherland",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Extended Service Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Sutherland",
+      "fit_reason": "Title shows 'Mary'; slug 'Sutherland' carries surname; serving in extended service after 40+ years"
+    },
+    {
+      "name": "Todd Charles and Barbara Charles",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Charles",
+      "fit_reason": "Title shows 'Todd and Barbara'; slug 'Charles' carries surname; former public school teachers, 25+ years service"
+    },
+    {
+      "name": "Becky Swathwood",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/swathwood",
+      "fit_reason": "Title shows 'Becky'; slug 'swathwood' carries surname; per-person giving page"
+    },
+    {
+      "name": "Dale Hunter and Ruth Hunter",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/hunter2",
+      "fit_reason": "Title shows 'Dale and Ruth'; slug 'hunter2' (collision variant); identifies additional Hunter household"
+    },
+    {
+      "name": "Ron Collins and Patty Collins",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Collins",
+      "fit_reason": "Title shows 'Ron and Patty'; slug 'Collins' carries surname; per-person giving page"
+    },
+    {
+      "name": "Tom Kiser and Faith Kiser",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Kiser",
+      "fit_reason": "Title shows 'Tom and Faith'; slug 'Kiser' carries surname; blessed parents of 6 sons and 2 daughters, 12 grandchildren"
+    },
+    {
+      "name": "Thane Ury and Laura Ury",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/ury",
+      "fit_reason": "Title shows 'Thane and Laura'; slug 'ury' carries surname; primarily worked in SE Asia for 20 years"
+    },
+    {
+      "name": "Hilda Duewel",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Support/Administration - Literature Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/duewel",
+      "fit_reason": "Title shows 'Hilda'; slug 'duewel' carries surname; administrative/secretarial role with Duewel Literature Trust"
+    },
+    {
+      "name": "Ryan Hicks",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Every Community for Christ Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/hicks",
+      "fit_reason": "Title shows 'Ryan'; slug 'hicks' carries surname; joined OMS 2013, works in dual roles with ECC"
+    },
+    {
+      "name": "Bruce Hess",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/hess1",
+      "fit_reason": "Title shows 'Bruce'; slug 'hess1' (collision variant); identifies additional Hess missionary"
+    },
+    {
+      "name": "Paul Keller and Kathryn Keller",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Keller",
+      "fit_reason": "Title shows 'Paul and Kathryn'; slug 'Keller' carries surname; per-person giving page"
+    },
+    {
+      "name": "Tom Overton and Tonya Overton",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/overton",
+      "fit_reason": "Title shows 'Tom and Tonya'; slug 'overton' carries surname; per-person giving page"
+    },
+    {
+      "name": "Don Saum and Peggy Saum",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Saum",
+      "fit_reason": "Title shows 'Don and Peggy'; slug 'Saum' carries surname; gives special attention to OMS work in India and South Asia"
+    },
+    {
+      "name": "Kristina Fey",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/fey-kristina",
+      "fit_reason": "Surname 'fey-kristina' in slug (inverted form); title names 'Kristina'; per-person giving page"
+    },
+    {
+      "name": "Gail Leroy",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Administrator / Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Leroy",
+      "fit_reason": "Title shows 'Gail'; slug 'Leroy' carries surname; served as administrator at OMS World Headquarters nearly 8 years, provided translation support"
+    },
+    {
+      "name": "Charlotte Kroes",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Administrator - Men for Missions Canada",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Kroes",
+      "fit_reason": "Title shows 'Charlotte'; slug 'Kroes' carries surname; served as MFM Canada administrator since 2001"
+    },
+    {
+      "name": "Sarah Bonner",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Bonner",
+      "fit_reason": "Title shows 'Sarah'; slug 'Bonner' carries surname; per-person giving page"
+    },
+    {
+      "name": "Jesse Schrowang",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/schrowang-jesse",
+      "fit_reason": "Surname 'schrowang-jesse' in slug (inverted form); title names 'Jesse'; per-person giving page"
+    },
+    {
+      "name": "David Long and Lori Long",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary / Men for Missions",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/long1",
+      "fit_reason": "Title shows 'David and Lori'; slug 'long1' (collision variant); Long already held, long1 identifies distinct household"
+    },
+    {
+      "name": "Corinne Long",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Global Finance Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Long3",
+      "fit_reason": "Title shows 'Corinne'; slug 'Long3' (collision variant); serves as global finance coordinator since 2024"
+    },
+    {
+      "name": "Larry Freed and Sharon Freed",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Church Multiplication Facilitator / Every Community for Christ",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Freed2",
+      "fit_reason": "Title shows 'Larry and Sharon'; slug 'Freed2' (collision variant); Freed already held, Freed2 identifies distinct household serving in Philippines since 2012"
+    },
+    {
+      "name": "Mark Nelson and Livia Nelson",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/nelson1",
+      "fit_reason": "Title shows 'Mark and Livia'; slug 'nelson1' (collision variant); Nelson already held, nelson1 identifies distinct household"
+    },
+    {
+      "name": "Michelle Taylor",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Taylor2",
+      "fit_reason": "Title shows 'Michelle'; slug 'Taylor2' (collision variant); Taylor already held, Taylor2 identifies distinct missionary in Russia"
+    },
+    {
+      "name": "Hannah Kappler",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Asia/Pacific Regional Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/Kappler2",
+      "fit_reason": "Title shows 'Hannah'; slug 'Kappler2' (collision variant); Kappler already held, Kappler2 identifies distinct person supporting Asia/Pacific missionaries"
+    },
+    {
+      "name": "BJ Williamson and Andi Williamson",
+      "org": "One Mission Society",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://onemissionsociety.org/missionaries/detail/williamson2",
+      "fit_reason": "Title shows 'BJ and Andi'; slug 'williamson2' (collision variant); Williamson already held, williamson2 identifies distinct household"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries/detail field director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries/detail regional director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries/detail retired emeritus",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries/detail teacher medical",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries/detail church planting seminary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries/detail \"since 19\" new missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries/detail \"1\" OR \"2\" OR \"3\" suffix collision",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org/missionaries/detail/ \"1\" OR \"2\" OR \"3\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries/detail \"Men for Missions\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries/detail \"Every Community for Christ\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries/detail administration finance IT",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries/detail \"member care\" pastoring counselor",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org/missionaries/detail/ Japan India Philippines Korea",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org/missionaries/detail Colombia Ecuador Brazil Mexico Russia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org/missionaries/detail/ aviation translator administrator literacy",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Search result pagination",
+      "finding": "Search results returned ~10 items per query but OMS appears to have ~300 total missionaries. Could not access pagination or deeper pages due to search-result-only constraints.",
+      "evidence": "OMS states ~300 missionaries total; 187 already held; my findings represent 27 new records (or 28 with collision variants) which suggests significant coverage remains",
+      "recommendation": "Future waves could rotate on additional qualifiers (specific regions, programme sub-categories, specific years of service, or additional collision suffix patterns beyond 1/2/3)"
+    },
+    {
+      "issue": "Collision suffix incompleteness",
+      "finding": "Located collision variants with suffixes 1, 2, 3 for Long, Freed, Nelson, Taylor, Kappler, Williamson; pattern indicates more suffixes may exist (e.g., Brabon1 was already known, Long has 1 and 3, suggesting possibility of 2)",
+      "evidence": "BRIEF notes: 'numeric suffix on collision (Brabon1, Smith1, Long1/Long3/Long4, Skinner2, Kappler2, McFall2, williamson2, freed2, nelson2, marshall1, duhrkoop1, biddulph2, Taylor2)' shows Long has 1/3/4, not 2 visible in current set",
+      "recommendation": "Next wave could explicitly search for Long2, Long4 and other suffix permutations (Smith2-4, Skinner1/3, etc.) as these gaps suggest data exists"
+    },
+    {
+      "issue": "Inverted-form surnames",
+      "finding": "Found two inverted-form URLs (fredickson-avery and fey-kristina, schrowang-jesse) matching BRIEF pattern (e.g., conner-allen, douti-claude, leadingham-dana, richardson-philip-and-fiona)",
+      "evidence": "BRIEF explicitly lists 'occasional inverted forms' but only found 3 in current search set; existing excluded list does not contain fredickson, fey, or schrowang, but does contain some inverted originals",
+      "recommendation": "Future searches could specifically target first-name-led inversions to find remaining records in this pattern (e.g., site: +inverted forms)"
+    },
+    {
+      "issue": "Page fetching blocked",
+      "finding": "Cannot verify tier, giving status, or full biographical detail without opening actual pages; classification as 'Tier A' and 'personal_page' is inferred from URL pattern matching BRIEF specifications, not from page content",
+      "evidence": "BRIEF states 'Page fetching is BLOCKED'; URLs follow confirmed pattern but evidence_basis relies on search title+URL combination, not page inspection",
+      "recommendation": "Ingest should verify tier and support status by reviewing actual pages; all 27 records carry 'high' confidence due to URL+title matching, not page content"
+    }
+  ]
+}

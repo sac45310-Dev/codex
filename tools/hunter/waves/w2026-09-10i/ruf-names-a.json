@@ -1,0 +1,282 @@
+{
+  "wave_id": "w2026-09-10i",
+  "agent": "ruf-names-a",
+  "target_org": "Reformed University Fellowship",
+  "slice": "personal giving slugs, first names A-J",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Aaron Sorrow",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/aaron.sorrow",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Abby Green",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/abby.green",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Abby Mackey",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/abby.mackey",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Caroline Woodall",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/caroline.woodall",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Carter Hickel",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/carter.hickel",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Catherine Upton",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/catherine.upton",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Cole Jones",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/cole.jones",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Cole Metzger",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/cole.metzger",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Connor Lawrence",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/connor.lawrence",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Daniel McSwain",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/daniel.mcswain",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Daniel Tortorici",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/danieltortorici",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Ellie Duke",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ellie.duke",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Elizabeth Beasley",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/elizabeth.beasley",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Emma Paul",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/emma.paul",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Hunter Brooks",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/hunter.brooks",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Jack Howard",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/jack.howard",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Jenna White",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/jenna.white",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    },
+    {
+      "name": "Julia Bryan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff/Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/julia.bryan",
+      "fit_reason": "Personal giving page, surname in slug, title names person"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "\"Aaron\" \"Abby\" \"Adam\" \"Alex\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Amelia\" \"Andrew\" \"Anne\" \"Austin\" RUF campus staff site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Bailey\" \"Bethany\" \"Blake\" \"Brandon\" RUF area coordinator site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Brooke\" OR \"Bryan\" OR \"Caroline\" OR \"Carter\" RUF site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Catherine\" OR \"Charlotte\" OR \"Chase\" OR \"Claire\" RUF site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Cole\" OR \"Colin\" OR \"Connor\" OR \"Daniel\" RUF site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"David\" OR \"Dylan\" OR \"Eli\" OR \"Elizabeth\" RUF site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Ella\" OR \"Ellie\" OR \"Emma\" OR \"Eric\" RUF site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Erin\" OR \"Ethan\" OR \"Faith\" OR \"Garrett\" RUF site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Grant\" OR \"Henry\" OR \"Hope\" OR \"Hunter\" RUF site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Ian\" OR \"Isaac\" OR \"Jack\" OR \"James\" RUF site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jane\" OR \"Jared\" OR \"Jenna\" OR \"Jennifer\" RUF site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jeremy\" OR \"Jesse\" OR \"Joel\" OR \"Jonathan\" RUF site:givetoruf.org/donate",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jordan\" OR \"Joseph\" OR \"Josiah\" OR \"Julia\" OR \"Justin\" RUF site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "RUF \"Erin\" OR \"Faith\" site:givetoruf.org/donate",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "Brandon site:givetoruf.org/donate -minnesota -texasam -stanford",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "Brooke site:givetoruf.org/donate",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "RUF site:givetoruf.org/donate \"Daniel\" OR \"David\" OR \"Dylan\" -uconn -stanford",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}

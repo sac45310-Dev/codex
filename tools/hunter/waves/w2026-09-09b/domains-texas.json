@@ -1,0 +1,365 @@
+{
+  "wave_id": "w2026-09-09b",
+  "agent": "domain:texas-southwest",
+  "searches_used": 18,
+  "results": [
+    {
+      "org": "The Other Ones Foundation",
+      "city": "Austin, TX",
+      "website": "toofound.org",
+      "evidence_url": "https://toofound.org/our-story/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Dallas Eviction Advocacy Center",
+      "city": "Dallas, TX",
+      "website": "dallaseac.org",
+      "evidence_url": "https://www.dallaseac.org/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Dallas Leadership Foundation",
+      "city": "Dallas, TX",
+      "website": "dlftx.org",
+      "evidence_url": "https://www.dlftx.org/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Homeless Veterans Services Of Dallas Inc",
+      "city": "Dallas, TX",
+      "website": "hvsd.org",
+      "evidence_url": "https://hvsd.org/home",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Mission East Dallas And Metroplex",
+      "city": "Dallas, TX",
+      "website": null,
+      "evidence_url": "",
+      "note": "Organization appears to be closed. References found in directory aggregators only, no active website confirmed."
+    },
+    {
+      "org": "OurCalling Inc",
+      "city": "Dallas, TX",
+      "website": "ourcalling.org",
+      "evidence_url": "https://www.ourcalling.org/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "The Bridge Dallas",
+      "city": "Dallas, TX",
+      "website": "bridgehrc.org",
+      "evidence_url": "https://www.bridgehrc.org/get-help/homeless-recovery-services/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "The Stewpot",
+      "city": "Dallas, TX",
+      "website": "thestewpot.org",
+      "evidence_url": "https://www.thestewpot.org/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Candlelighters Of The El Paso Area",
+      "city": "El Paso, TX",
+      "website": "candlelighterselp.org",
+      "evidence_url": "https://candlelighterselp.org/",
+      "note": "Found in search, serves West Texas and Southern New Mexico. Unclear if this is the specific El Paso organization or a regional aggregator."
+    },
+    {
+      "org": "Light Of Fort Worth",
+      "city": "Fort Worth, TX",
+      "website": null,
+      "evidence_url": "",
+      "note": "Found reference in ProPublica but no direct website URL in search results"
+    },
+    {
+      "org": "Read Fort Worth",
+      "city": "Fort Worth, TX",
+      "website": null,
+      "evidence_url": "",
+      "note": "No specific search results found for this organization"
+    },
+    {
+      "org": "Recovery Resource Council",
+      "city": "Fort Worth, TX",
+      "website": null,
+      "evidence_url": "",
+      "note": "Found in business directories and listings but no direct website URL in search results"
+    },
+    {
+      "org": "Community Partners Of Lubbock",
+      "city": "Lubbock, TX",
+      "website": "communitypartnerslubbock.org",
+      "evidence_url": "https://www.communitypartnerslubbock.org/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Family Service Association Of Lubbock",
+      "city": "Lubbock, TX",
+      "website": null,
+      "evidence_url": "",
+      "note": "Found in directory aggregators (ProPublica, GuideStar, Charity Navigator) but no direct website URL"
+    },
+    {
+      "org": "North & East Lubbock Community Development Corporation",
+      "city": "Lubbock, TX",
+      "website": null,
+      "evidence_url": "",
+      "note": "No search results found for this organization"
+    },
+    {
+      "org": "San Antonio AIDS Foundation",
+      "city": "San Antonio, TX",
+      "website": "sanantonioaids.org",
+      "evidence_url": "https://www.sanantonioaids.org/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Arizona Animal Rescue Mission Inc",
+      "city": "Phoenix, AZ",
+      "website": "azanimalrescue.org",
+      "evidence_url": "https://www.azanimalrescue.org/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Arizona Poodle Rescue Inc",
+      "city": "Phoenix, AZ",
+      "website": "arizonapoodlerescue.org",
+      "evidence_url": "https://arizonapoodlerescue.org/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Arizona Youth & Family Services Inc",
+      "city": "Phoenix, AZ",
+      "website": null,
+      "evidence_url": "",
+      "note": "No specific search results found for this organization"
+    },
+    {
+      "org": "Central Arizona Animal Rescue Inc",
+      "city": "Phoenix, AZ",
+      "website": null,
+      "evidence_url": "",
+      "note": "No specific search results found for this organization"
+    },
+    {
+      "org": "Phoenix Ministries 3 Inc",
+      "city": "Phoenix, AZ",
+      "website": null,
+      "evidence_url": "",
+      "note": "Could not distinguish from Phoenix Ministries Inc in search results. Returning null to avoid twin confusion."
+    },
+    {
+      "org": "Phoenix Ministries Inc",
+      "city": "Phoenix, AZ",
+      "website": null,
+      "evidence_url": "",
+      "note": "Could not distinguish from Phoenix Ministries 3 Inc in search results. Returning null to avoid twin confusion."
+    },
+    {
+      "org": "Ask Ministries",
+      "city": "Tucson, AZ",
+      "website": null,
+      "evidence_url": "",
+      "note": "Found ask-ministries.org but it appears to be based in Rowlett, TX. Unclear if this is the correct Tucson organization. Returning null to avoid incorrect assignment."
+    },
+    {
+      "org": "Gap Ministries",
+      "city": "Tucson, AZ",
+      "website": "gapmin.com",
+      "evidence_url": "https://gapmin.com/donate/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Living Word Ministries International Inc",
+      "city": "Tucson, AZ",
+      "website": null,
+      "evidence_url": "",
+      "note": "No specific search results found for this organization"
+    },
+    {
+      "org": "Tucson Refugee Ministry",
+      "city": "Tucson, AZ",
+      "website": "tucsonrefugeeministry.com",
+      "evidence_url": "https://www.tucsonrefugeeministry.com/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Alongside Ministries Albuquerque Inc",
+      "city": "Albuquerque, NM",
+      "website": "alongsideabq.com",
+      "evidence_url": "https://www.alongsideabq.com/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "South Albuquerque Cooperative Ministry",
+      "city": "Albuquerque, NM",
+      "website": null,
+      "evidence_url": "",
+      "note": "Found reference in directory aggregators but no direct website URL in search results"
+    },
+    {
+      "org": "Catholic Community Services of Utah",
+      "city": "Salt Lake City, UT",
+      "website": "ccsutah.org",
+      "evidence_url": "https://ccsutah.org/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Effective Altruism Salt Lake City",
+      "city": "Salt Lake City, UT",
+      "website": "effectivealtruismslc.org",
+      "evidence_url": "https://www.effectivealtruismslc.org/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Pass The Salt Ministries Inc",
+      "city": "Salt Lake City, UT",
+      "website": null,
+      "evidence_url": "",
+      "note": "Found coachdavelive.com in search but organization appears to be located in Hebron, OH, not Salt Lake City. Ambiguous match, returning null."
+    },
+    {
+      "org": "City Of Refuge Sacramento",
+      "city": "Sacramento, CA",
+      "website": "cityofrefugesac.com",
+      "evidence_url": "https://cityofrefugesac.com/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Fresh Start Refugee Assistance Center",
+      "city": "Sacramento, CA",
+      "website": "freshstartrefugee.org",
+      "evidence_url": "https://www.freshstartrefugee.org/programs",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Refugees Enrichment & Development Association Inc",
+      "city": "Sacramento, CA",
+      "website": "redacenter.org",
+      "evidence_url": "https://www.redacenter.org/pages/about-us",
+      "note": "Found in search result"
+    },
+    {
+      "org": "Sacramento Food Bank & Family Services",
+      "city": "Sacramento, CA",
+      "website": "sacramentofoodbank.org",
+      "evidence_url": "https://www.sacramentofoodbank.org/",
+      "note": "Found in search result"
+    },
+    {
+      "org": "The Refugee Education Center",
+      "city": "Sacramento, CA",
+      "website": null,
+      "evidence_url": "",
+      "note": "No specific search results found for this organization"
+    },
+    {
+      "org": "Fresno Wildlife Rescue & Rehabilitation Service",
+      "city": "Clovis, CA",
+      "website": "fresnowildlife.org",
+      "evidence_url": "https://www.fresnowildlife.org/",
+      "note": "Found in search result"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "\"OurCalling\" OR \"The Bridge Dallas\" OR \"Dallas Eviction Advocacy Center\" Dallas donate",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"OurCalling\" OR \"The Bridge Dallas\" OR \"Dallas Leadership Foundation\" Dallas nonprofit",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"The Bridge Dallas\" OR \"Dallas Leadership Foundation\" OR \"Homeless Veterans Services\" OR \"The Stewpot\" Dallas",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Dallas Leadership Foundation\" OR \"Mission East Dallas\" OR \"Homeless Veterans Services of Dallas\" OR \"The Other Ones Foundation\" Austin donate",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Dallas Leadership Foundation\" OR \"Mission East Dallas\" OR \"The Other Ones Foundation\" nonprofit Texas",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Mission East Dallas\" OR \"Other Ones Foundation\" website",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Light of Fort Worth\" OR \"Read Fort Worth\" OR \"Recovery Resource Council\" Fort Worth nonprofit",
+      "outcome": "no_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Community Partners of Lubbock\" OR \"Family Service Association of Lubbock\" OR \"North & East Lubbock\" OR \"Candlelighters\" El Paso nonprofit",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Arizona Animal Rescue Mission\" OR \"Arizona Poodle Rescue\" OR \"Arizona Youth & Family Services\" OR \"Central Arizona Animal Rescue\" Phoenix nonprofit",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Phoenix Ministries\" OR \"Arizona Youth & Family Services\" OR \"Central Arizona Animal Rescue\" Phoenix Arizona donate",
+      "outcome": "no_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Phoenix Ministries\" Inc Arizona OR \"San Antonio AIDS Foundation\" nonprofit website",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"San Antonio AIDS Foundation\" OR \"Ask Ministries\" Tucson OR \"Gap Ministries\" Tucson OR \"Living Word Ministries\" Tucson donate",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Tucson Refugee Ministry\" OR \"Alongside Ministries Albuquerque\" OR \"South Albuquerque Cooperative Ministry\" OR \"City of Refuge Sacramento\" nonprofit",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Fresh Start Refugee\" Sacramento OR \"Refugees Enrichment & Development\" OR \"Sacramento Food Bank\" OR \"Refugee Education Center\" OR \"City of Refuge Sacramento\" nonprofit",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Sacramento Food Bank & Family Services\" OR \"City of Refuge Sacramento\" OR \"Refugee Education Center\" Sacramento website",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Alongside Ministries Albuquerque\" OR \"South Albuquerque Cooperative Ministry\" OR \"Catholic Community Services of Utah\" OR \"Effective Altruism Salt Lake City\" OR \"Fresno Wildlife Rescue\" Clovis nonprofit",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Pass The Salt Ministries\" Salt Lake City OR \"Catholic Community Services\" Utah donate website",
+      "outcome": "found_domains"
+    },
+    {
+      "kind": "query",
+      "value": "\"Mission East Dallas\" OR \"Family Service Association of Lubbock\" OR \"Pass The Salt Ministries\" OR \"Ask Ministries\" Tucson website",
+      "outcome": "found_domains"
+    }
+  ],
+  "summary": {
+    "total_organizations": 37,
+    "domains_found": 20,
+    "null_responses": 17,
+    "search_queries_executed": 18,
+    "search_capacity_remaining": 0
+  }
+}

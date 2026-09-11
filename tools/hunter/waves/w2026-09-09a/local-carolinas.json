@@ -1,0 +1,705 @@
+{
+  "wave_id": "w2026-09-09a",
+  "agent": "local:carolinas",
+  "searches_used": 18,
+  "orgs_discovered": [
+    {
+      "org_name": "Carolina Pregnancy Center",
+      "website": "https://www.carolinapregnancycenter.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Greenville",
+      "state": "NC",
+      "notes": "Crisis pregnancy center with support model; staff-supported ministry"
+    },
+    {
+      "org_name": "Birthchoice",
+      "website": "https://www.birthchoicewake.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Raleigh",
+      "state": "NC",
+      "notes": "Crisis pregnancy center; support-based fundraising model"
+    },
+    {
+      "org_name": "The Pregnancy Network",
+      "website": "https://www.thepregnancynetwork.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Greensboro",
+      "state": "NC",
+      "notes": "Crisis pregnancy center; support-raised staff model"
+    },
+    {
+      "org_name": "Room at the Inn",
+      "website": "https://roominn.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Greensboro",
+      "state": "NC",
+      "notes": "Maternity home for homeless pregnant women with job training; individual-donor supported"
+    },
+    {
+      "org_name": "Hope House Foundation",
+      "website": "https://hopehousefoundation.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Charlotte",
+      "state": "NC",
+      "notes": "Women's homelessness and housing support; coaching and job training"
+    },
+    {
+      "org_name": "Gracious Hands Housing",
+      "website": "https://www.gracioushandshousing.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Charlotte",
+      "state": "NC",
+      "notes": "Women's shelter with mental health services"
+    },
+    {
+      "org_name": "Mira Via",
+      "website": "https://www.miraviacharlotte.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Charlotte",
+      "state": "NC",
+      "notes": "Comprehensive maternity support; college-based residence and outreach center"
+    },
+    {
+      "org_name": "Raleigh Rescue Mission",
+      "website": "https://www.raleighrescue.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Raleigh",
+      "state": "NC",
+      "notes": "Christian rescue mission with job training, housing, and financial coaching"
+    },
+    {
+      "org_name": "North Meck Animal Rescue",
+      "website": "https://northmeckanimalrescue.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charlotte",
+      "state": "NC",
+      "notes": "Dog rescue and adoption; nonprofit volunteer-driven"
+    },
+    {
+      "org_name": "Humane Society of Charlotte",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charlotte",
+      "state": "NC",
+      "notes": "No Kill animal shelter; operates low-cost spay/neuter clinic since 1982"
+    },
+    {
+      "org_name": "Friends of Feral Felines",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charlotte",
+      "state": "NC",
+      "notes": "All-volunteer cat rescue using TNVR (Trap, Neuter, Vaccinate, Return)"
+    },
+    {
+      "org_name": "Southeast Shih-Tzu Rescue and Hospice",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charlotte",
+      "state": "NC",
+      "notes": "Senior dog rescue with hospice program for dogs facing euthanasia"
+    },
+    {
+      "org_name": "Books on the House",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charlotte",
+      "state": "NC",
+      "notes": "Literacy nonprofit with book mobile for free community book access"
+    },
+    {
+      "org_name": "Raleigh Park After School Care",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Raleigh",
+      "state": "NC",
+      "notes": "After-school programs for youth"
+    },
+    {
+      "org_name": "Youth Mentoring Connection",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Raleigh",
+      "state": "NC",
+      "notes": "Youth mentoring organization"
+    },
+    {
+      "org_name": "The Women's Center of Wake County",
+      "website": "https://wcwc.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Raleigh",
+      "state": "NC",
+      "notes": "Women's homelessness and housing stability services"
+    },
+    {
+      "org_name": "Oak City Cares",
+      "website": "https://oakcitycares.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Raleigh",
+      "state": "NC",
+      "notes": "Coordination hub for homeless services and housing"
+    },
+    {
+      "org_name": "USCRI North Carolina",
+      "website": "https://refugees.org/nc",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Raleigh",
+      "state": "NC",
+      "notes": "U.S. Committee for Refugees & Immigrants; refugee resettlement and services"
+    },
+    {
+      "org_name": "Community Immigrant Services Inc.",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Raleigh",
+      "state": "NC",
+      "notes": "Refugee and immigrant integration through education and employment"
+    },
+    {
+      "org_name": "Reading Connections",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Greensboro",
+      "state": "NC",
+      "notes": "Largest adult literacy nonprofit in NC; family literacy programs with meal support"
+    },
+    {
+      "org_name": "Greensboro Urban Ministry",
+      "website": "https://www.greensborourbanministry.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Greensboro",
+      "state": "NC",
+      "notes": "Food pantry and community services"
+    },
+    {
+      "org_name": "NC African Services Coalition",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Greensboro",
+      "state": "NC",
+      "notes": "Refugee services for African immigrants"
+    },
+    {
+      "org_name": "Charleston Animal Society",
+      "website": "https://charlestonanimalsociety.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charleston",
+      "state": "SC",
+      "notes": "Founded 1874; animal protection, rescue, rehabilitation, and education"
+    },
+    {
+      "org_name": "Pet Helpers Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "North Charleston",
+      "state": "SC",
+      "notes": "Animal protection and welfare organization"
+    },
+    {
+      "org_name": "Southern Tails for Precious Paws",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charleston",
+      "state": "SC",
+      "notes": "501(c)(3) foster-based dog rescue; all-volunteer"
+    },
+    {
+      "org_name": "Carolina Youth Development Center",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Charleston",
+      "state": "SC",
+      "notes": "Healing services for abused and neglected children"
+    },
+    {
+      "org_name": "Low Country Orphan Relief",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Charleston",
+      "state": "SC",
+      "notes": "Services for abandoned, abused, and neglected children"
+    },
+    {
+      "org_name": "Charleston Hope",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charleston",
+      "state": "SC",
+      "notes": "Mental and behavioral health in Title 1 schools"
+    },
+    {
+      "org_name": "SC Coastal Conservation League",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charleston",
+      "state": "SC",
+      "notes": "Environmental conservation and water resource protection"
+    },
+    {
+      "org_name": "Ronald McDonald House Charities of Charleston",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charleston",
+      "state": "SC",
+      "notes": "Patient and family support services for healthcare"
+    },
+    {
+      "org_name": "Catholic Charities of South Carolina",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Charleston",
+      "state": "SC",
+      "notes": "Social services and charitable assistance"
+    },
+    {
+      "org_name": "Palmetto Goodwill",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charleston",
+      "state": "SC",
+      "notes": "Human services including job training and employment"
+    },
+    {
+      "org_name": "Greenville Rescue Mission",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Greenville",
+      "state": "SC",
+      "notes": "Operated by Miracle Hill Ministries; emergency shelter for homeless men"
+    },
+    {
+      "org_name": "Miracle Hill Ministries",
+      "website": "https://miraclehill.org",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Greenville",
+      "state": "SC",
+      "notes": "Homeless shelters (adult and youth), addiction recovery, thrift stores across Upstate SC"
+    },
+    {
+      "org_name": "Greenville Housing Futures",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Greenville",
+      "state": "SC",
+      "notes": "Affordable housing development in low-to-moderate income neighborhoods"
+    },
+    {
+      "org_name": "Homes of Hope",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Greenville",
+      "state": "SC",
+      "notes": "Affordable housing and transitional housing for families"
+    },
+    {
+      "org_name": "Triune Mercy Center",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Greenville",
+      "state": "SC",
+      "notes": "Mission church to the homeless; downtown outreach"
+    },
+    {
+      "org_name": "Warriors and Families Organization",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Greenville",
+      "state": "SC",
+      "notes": "Veteran services and family support across Upstate SC; multiple locations"
+    },
+    {
+      "org_name": "Tri County Family Ministries",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "North Charleston",
+      "state": "SC",
+      "notes": "Family services nonprofit"
+    },
+    {
+      "org_name": "Bounce Back Charleston",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Charleston",
+      "state": "SC",
+      "notes": "Community resilience services"
+    },
+    {
+      "org_name": "Union Mission",
+      "website": "https://www.unionmission.org",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Savannah",
+      "state": "GA",
+      "notes": "Founded 1937; emergency shelter, permanent supportive housing, behavioral health services"
+    },
+    {
+      "org_name": "Park Place Outreach Youth Emergency Shelter",
+      "website": "https://parkplaceyes.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Savannah",
+      "state": "GA",
+      "notes": "40+ years serving runaway, homeless, and at-risk youth"
+    },
+    {
+      "org_name": "Old Savannah City Mission",
+      "website": "https://oldsavannahcitymission.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Savannah",
+      "state": "GA",
+      "notes": "Addiction recovery and homelessness support; founded 1997"
+    },
+    {
+      "org_name": "Inner City Night Shelter",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Savannah",
+      "state": "GA",
+      "notes": "Shelter and support for homeless community"
+    },
+    {
+      "org_name": "Greenbriar Children's Center",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Savannah",
+      "state": "GA",
+      "notes": "Shelter for abused, abandoned, neglected, runaway, and homeless youth ages 11-18"
+    },
+    {
+      "org_name": "Lutheran Services of Georgia",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Savannah",
+      "state": "GA",
+      "notes": "Statewide social services; stability, wellness, and family support"
+    },
+    {
+      "org_name": "Homeless No More",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Columbia",
+      "state": "SC",
+      "notes": "Homeless and at-risk family services toward independent living"
+    },
+    {
+      "org_name": "Palmetto Place Children's Emergency Shelter",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Columbia",
+      "state": "SC",
+      "notes": "Emergency shelter and services for abused, neglected, and homeless youth; pregnant teen program"
+    },
+    {
+      "org_name": "Big Brothers Big Sisters of Greater Columbia",
+      "website": "https://www.bbbsgc.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Columbia",
+      "state": "SC",
+      "notes": "Youth mentoring; largest and oldest in US; serves ages 6-18"
+    },
+    {
+      "org_name": "Family Promise of the Midlands",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Columbia",
+      "state": "SC",
+      "notes": "Homeless assistance and family support services"
+    },
+    {
+      "org_name": "Boys & Girls Clubs of the Midlands",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Columbia",
+      "state": "SC",
+      "notes": "Youth services; coordinates homelessness services"
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Charlotte North Carolina nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Charleston South Carolina nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Raleigh North Carolina youth mentoring after-school",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"crisis pregnancy center\" OR \"rescue mission\" Charlotte OR Raleigh OR Greenville SC OR Charleston nonprofit website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"campus ministry\" OR \"campus outreach\" Charlotte OR Raleigh OR \"Greenville\" OR Columbia SC nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "homeless shelter OR \"rescue mission\" OR \"community development\" Greenville SC OR Charleston SC nonprofit organization",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Savannah Georgia nonprofit rescue mission homeless shelter youth mentoring organization",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Columbia South Carolina OR Greenville South Carolina addiction recovery veterans services nonprofit organization",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Charlotte North Carolina animal rescue OR literacy nonprofit OR \"free clinic\" OR hospice organization",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Raleigh North Carolina nonprofit homeless services OR refugee resettlement OR community center organization donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greenville gives\" OR \"Greenville community foundation\" nonprofit grantees participating organizations",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Charleston gives\" OR Charleston South Carolina nonprofit animal rescue children youth family services donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Greensboro North Carolina nonprofit literacy OR hospice OR \"community development\" OR \"food pantry\" organization donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"crisis pregnancy center\" OR \"church planting\" OR \"pregnancy help center\" Raleigh OR Greensboro OR Charlotte website donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Savannah Georgia nonprofit ministry OR mission organization \"support our ministry\" OR \"join our team\" donate volunteer",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "RUF campus ministry OR \"Cru city\" Raleigh OR Charlotte OR Greenville SC OR Columbia SC website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Columbia South Carolina nonprofit homeless youth mentoring family services organization donate website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "North Carolina nonprofit \"women's shelter\" OR \"maternity home\" OR \"job training\" OR \"mental health\" Charlotte OR Raleigh OR Greensboro website donate",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Campus Outreach (Charleston, Charlotte, Columbia, Atlanta)",
+      "reason_code": "already_in_system",
+      "detail": "Per instructions, already recorded"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Lowcountry Food Bank",
+      "reason_code": "already_in_system",
+      "detail": "Already in system per instructions"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Second Harvest Food Bank of Northeast Tennessee",
+      "reason_code": "already_in_system",
+      "detail": "Already in system per instructions"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Charlotte Foundation",
+      "reason_code": "too_institutional",
+      "detail": "Grantmaker foundation, not individual-donor nonprofit"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Coastal Community Foundation",
+      "reason_code": "too_institutional",
+      "detail": "Grantmaker foundation, not individual-donor nonprofit"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Community Foundation of Greenville",
+      "reason_code": "too_institutional",
+      "detail": "Grantmaker foundation, not individual-donor nonprofit"
+    }
+  ],
+  "needs_review": [
+    {
+      "org_name": "RUF Campus Ministries (UNC Charlotte, Chapel Hill, NC State/Meredith, USC Columbia)",
+      "reason": "Network structure - verify if individual campus chapters operate as separate nonprofits or are part of larger institutional structure; potential Tier A candidates if independently fundraising"
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "wave_id": "w2026-09-10j",
+  "agent": "ruf-ministry-a",
+  "target_org": "Reformed University Fellowship",
+  "slice": "ruf.org/ministry/ campuses A-M",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Laura Straka",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/emory-university/",
+      "fit_reason": "Campus staff identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Annabelle Whitehead",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/emory-university/",
+      "fit_reason": "RUF intern identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Ruth Wilmot",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-maryland-baltimore-county/",
+      "fit_reason": "Campus staff identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Kolten Ackerman",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-kentucky/",
+      "fit_reason": "RUF intern identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Erin Haan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-minnesota/",
+      "fit_reason": "Campus staff identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Gracie Clark",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/kennesaw-state-university/",
+      "fit_reason": "RUF intern identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Caroline Thompson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-georgia/",
+      "fit_reason": "Campus staff (RUF International) identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Elle Shuford",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-alabama/",
+      "fit_reason": "Campus staff identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Kelly Jackson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/florida-state-university/",
+      "fit_reason": "Campus minister identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Luke Wilkerson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/florida-state-university/",
+      "fit_reason": "RUF intern identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Andrew Whitaker",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/indiana-university/",
+      "fit_reason": "Campus minister identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Ethan Brown",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-illinois/",
+      "fit_reason": "Campus minister identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "John Kong",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/university-of-california-berkeley/",
+      "fit_reason": "Campus minister identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Jon Dunning",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/kansas-state-university/",
+      "fit_reason": "Campus minister identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Tyler Luehrs",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/kansas-state-university/",
+      "fit_reason": "Campus staff identified on campus ministry page; slug is campus, not person"
+    },
+    {
+      "name": "Ava Ligh",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ruf.org/ministry/columbia-university/",
+      "fit_reason": "Campus staff identified on campus ministry page; slug is campus, not person"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/emory-university staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/kentucky campus staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/maryland RUF staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/minnesota campus staff director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/clemson-university staff bios",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/kennesaw-state-university staff names",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/georgia-university RUF campus",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/alabama RUF campus staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/florida-state RUF staff minister",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry \"area coordinator\" OR \"director female\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/indiana-university RUF staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/iowa-university RUF campus staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/illinois RUF campus minister",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/california-berkeley RUF staff bios",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/kansas-state RUF staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org \"welcome new campus staff\" 2025 2026",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/ministry/columbia-university RUF staff bios",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "partial_name",
+      "finding": "George - mentioned as staff at Emory University RUF",
+      "evidence": "Search result from emory-university page mentioned 'George' but no surname provided",
+      "recommendation": "Full name required; cannot be emitted without surname"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Nick - Campus Minister at University of Kentucky",
+      "evidence": "Search result mentions 'Nick has been serving... his eighth year' as campus minister; surname not provided",
+      "recommendation": "Surname required; cannot emit without full name"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Ryan - Campus Minister at University of Maryland",
+      "evidence": "Search result states 'Ryan has been serving as the RUF Campus Minister at the University of Maryland since June 2023'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Adelyn - Campus Staff at University of Maryland, College Park",
+      "evidence": "Search result mentions 'Adelyn serves as Campus Staff at the University of Maryland, College Park, beginning in June 2026'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Trip - Campus Minister at UMBC",
+      "evidence": "Search result states 'Trip is the Campus Minister at UMBC'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Amanda - Campus Staff at University of Maryland",
+      "evidence": "Search result mentions 'Amanda working for RUF as Campus Staff at the University of Maryland'",
+      "recommendation": "Surname required; multiple Amandas found; cannot disambiguate without full name"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Brandon - associated with University of Minnesota RUF",
+      "evidence": "Search result mentions 'Brandon and Erin Haan are involved with the RUF Ministry at the University of Minnesota'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Daniel - staff at Clemson University",
+      "evidence": "Bio states 'Daniel - A native of Alabama who comes to Clemson having served at Jacksonville State University'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Zach - staff at Clemson University",
+      "evidence": "Bio states 'Zach - Born in Lagrange, GA, he is a graduate of Liberty University'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Emily - Campus Staff at Clemson University",
+      "evidence": "Bio states 'Emily - She spent her childhood in Iowa before moving to Peachtree City, Georgia'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Grace - Campus Staff at Kennesaw State University",
+      "evidence": "Search result mentions 'Grace, who began serving as Campus Staff at Kennesaw State in 2024'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Chris - staff at Kennesaw State University",
+      "evidence": "Search result states 'Chris, who is serving the students of KSU through RUF'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Bruce - associated with Kennesaw State University RUF",
+      "evidence": "Search result references 'Bruce' at Kennesaw State",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Ben - Campus Minister at University of Georgia",
+      "evidence": "Search result states 'Ben is the Campus Minister at UGA RUF'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Jeff - RUF International at University of Georgia",
+      "evidence": "Search result mentions 'Jeff, Caroline, George, and Caroline Thompson are the campus ministry family serving with RUF International (RUF-I) at the University of Georgia'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "George - RUF International at University of Georgia",
+      "evidence": "Same result as above; appears without surname",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Caroline - appears twice in Georgia RUF bios",
+      "evidence": "Mentioned both as spouse of Jeff and separately; one is Caroline Thompson (emitted)",
+      "recommendation": "Verify if second Caroline is separate person or same person referred to differently"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Kelley - Campus Staff at University of Alabama in Huntsville",
+      "evidence": "Search result states 'Kelley was born and raised in Huntsville, Alabama... transitioned into the role of Campus Staff at UAH'",
+      "recommendation": "Surname required; note: UAH may not be in slice (depends on slug)"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Marcus - campus minister at Alabama A&M",
+      "evidence": "Search result states 'Marcus and his wife have a passion for ministry and a love for the students they serve at Alabama A&M'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Victoria - Campus Staff at Florida State University",
+      "evidence": "Search result states 'Victoria works as Campus Staff at RUF at FSU in Tallahassee, Florida, having begun in Summer of 2021'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Caroline - spouse of Kelly Jackson at FSU",
+      "evidence": "Search result mentions 'Kelly Jackson... got married and co-interned with RUF... the Jacksons moved to Tallahassee'",
+      "recommendation": "Surname Jackson available; verify employment status before emitting"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Kea - spouse of Luke Wilkerson",
+      "evidence": "Search result states 'While Luke serves as FSU's RUF intern, his wife Kea is completing her Master's of Fine Arts at FSU'",
+      "recommendation": "Spouse mentioned; likely student, not Tier A staff"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Sarah - spouse at University of Iowa",
+      "evidence": "Search result states 'Nick, who grew up in Johnson City, TN where he met his wife Sarah'",
+      "recommendation": "Spouse mentioned; likely not employed staff; Nick himself is partial name"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Amanda - spouse of John Kong at UC Berkeley",
+      "evidence": "Search result states 'John Kong... is married to Amanda (a UC Berkeley alum)'",
+      "recommendation": "Spouse/alum mentioned; likely not employed staff"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Laurian - staff at UC Berkeley RUF",
+      "evidence": "Search result mentions 'Laurian and Riley' as campus staff",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Riley - staff at UC Berkeley RUF",
+      "evidence": "Search result mentions 'Laurian and Riley' as campus staff",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Paul - RUF International staff at UC Berkeley",
+      "evidence": "Search result states 'Paul and Cindi are part of the RUF-I team'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Cindi - RUF International staff at UC Berkeley",
+      "evidence": "Search result states 'Paul and Cindi are part of the RUF-I team. Paul has served congregations... for over thirty years'",
+      "recommendation": "Surname required; may be spouse"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Alyson - Campus Staff at UC Berkeley RUF International",
+      "evidence": "Search result: 'Alyson graduated from Florida Atlantic University in 2012... She moved to the West Coast in 2026 to serve as Campus Staff'",
+      "recommendation": "First name only; surname not provided in bio"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Alana - RUF Intern at Kansas State University",
+      "evidence": "Search result states 'Alana is thrilled to be serving as an Intern with RUF at Kansas State University'",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "Eric - staff at Columbia University",
+      "evidence": "Search result mentions 'Eric and William' as part of campus ministry team",
+      "recommendation": "Surname required"
+    },
+    {
+      "issue": "partial_name",
+      "finding": "William - staff at Columbia University",
+      "evidence": "Search result mentions 'Eric and William' as part of campus ministry team",
+      "recommendation": "Surname required; distinct from William Alderman at Alabama"
+    }
+  ]
+}

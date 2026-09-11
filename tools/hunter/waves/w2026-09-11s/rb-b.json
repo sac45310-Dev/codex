@@ -1,0 +1,705 @@
+{
+  "wave_id": "w2026-09-11s",
+  "agent": "s-rb-b",
+  "target_org": "Reach Beyond",
+  "slice": "Sub-Saharan Africa, Asia Pacific, North America / multi-regional",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Phil Holcomb",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/phil-and-rea-holcomb",
+      "fit_reason": "Couple page, title names both Phil and Rea Holcomb; Phil serves on pastoral team at Evangelical Church of Bangkok, Thailand; Rea has cross-cultural background from Africa/Asia"
+    },
+    {
+      "name": "Rea Holcomb",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/phil-and-rea-holcomb",
+      "fit_reason": "Couple page; co-spouse on shared pastoral page in Bangkok, Thailand; cross-cultural background from Mozambique, Kenya, Philippines"
+    },
+    {
+      "name": "Paul Salzman",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Broadcast Engineer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/paul-and-shari-salzman-1",
+      "fit_reason": "Couple page; Paul is engineer for western region of Inspiracom radio network covering El Paso TX, New Mexico, Arizona along US/Mexico border; broadcast engineering role raises support per assignment note"
+    },
+    {
+      "name": "Shari Salzman",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/paul-and-shari-salzman-1",
+      "fit_reason": "Co-spouse on Paul's broadcast engineering page; serves with Inspiracom Spanish radio stations along US/Mexico border"
+    },
+    {
+      "name": "Glenn Lafitte",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Broadcast Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/glenn-and-bonnie-lafitte-1",
+      "fit_reason": "Couple page; Glenn serves with Inspiracom's Spanish and English radio and Bible correspondence ministry along Mexico/US border"
+    },
+    {
+      "name": "Bonnie Lafitte",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Broadcast Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/glenn-and-bonnie-lafitte-1",
+      "fit_reason": "Co-spouse on Glenn's broadcast page; serves with Inspiracom ministries along Mexico/US border"
+    },
+    {
+      "name": "Marcos Romero",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Broadcast Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/marcos-and-mariana-romero-1",
+      "fit_reason": "Couple page; Marcos serves with Inspiracom broadcasting on U.S./Mexico border"
+    },
+    {
+      "name": "Mariana Romero",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Broadcast Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/marcos-and-mariana-romero-1",
+      "fit_reason": "Co-spouse on Marcos's broadcast page; serves with Inspiracom on U.S./Mexico border"
+    },
+    {
+      "name": "Dan Shedd",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/dan-and-sheryl-shedd-1",
+      "fit_reason": "Couple page (slug has -1 CMS suffix); couple pages in North America slice"
+    },
+    {
+      "name": "Sheryl Shedd",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/dan-and-sheryl-shedd-1",
+      "fit_reason": "Co-spouse on Dan's page in North America"
+    },
+    {
+      "name": "Rob Quiring",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/rob-and-barb-quiring-1",
+      "fit_reason": "Couple page (slug has -1 suffix); North America missionary couple"
+    },
+    {
+      "name": "Barb Quiring",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/rob-and-barb-quiring-1",
+      "fit_reason": "Co-spouse on Rob's page; North America"
+    },
+    {
+      "name": "Ed Giesbrecht",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/ed-and-sue-giesbrecht",
+      "fit_reason": "Couple page; long-time missionaries with over 40 years of service in North America"
+    },
+    {
+      "name": "Sue Giesbrecht",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/ed-and-sue-giesbrecht",
+      "fit_reason": "Co-spouse on Ed's page; 40+ years of service"
+    },
+    {
+      "name": "Charles Jacobson",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/charles-and-jeanie-jacobson-1",
+      "fit_reason": "Couple page (verified example with -1 suffix); served since 1986, now on loan to SonSet Solutions in Elkhart Indiana"
+    },
+    {
+      "name": "Jeanie Jacobson",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/charles-and-jeanie-jacobson-1",
+      "fit_reason": "Co-spouse on Charles's page; served since 1986"
+    },
+    {
+      "name": "Nicolas Johnson",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "IT Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/nicolas-and-rachel-johnson",
+      "fit_reason": "Couple page; works at Reach Beyond headquarters helping ensure partners and projects receive necessary support; IT/support-function role raises support per agency policy and assignment note"
+    },
+    {
+      "name": "Rachel Johnson",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/nicolas-and-rachel-johnson",
+      "fit_reason": "Co-spouse on Nicolas's page; works at headquarters in support role"
+    },
+    {
+      "name": "Duane Birkey",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Administrator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/duane-and-cheri-birkey-1",
+      "fit_reason": "Couple page (slug has -1 suffix); serves in Global Ministry Support at Ministry Service Center with administration and media training roles in Colorado"
+    },
+    {
+      "name": "Cheri Birkey",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Administrator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/duane-and-cheri-birkey-1",
+      "fit_reason": "Co-spouse on Duane's page; Global Ministry Support at US Office in Colorado"
+    },
+    {
+      "name": "Joshua Gee",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "IT Manager",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/joshua-and-kristen-gee",
+      "fit_reason": "Couple page; Josh serves as Interregional IT Manager providing technical support for Reach Beyond missionaries globally; IT support-function role raises support per assignment guidance"
+    },
+    {
+      "name": "Kristen Gee",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/joshua-and-kristen-gee",
+      "fit_reason": "Co-spouse on Joshua's IT manager page"
+    },
+    {
+      "name": "Zach King",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Media Producer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/zach-and-katie-king",
+      "fit_reason": "Couple page; previously served at US Office in Colorado in roles including Videographer, Board Secretary, Content Manager"
+    },
+    {
+      "name": "Katie King",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Mobilizer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/zach-and-katie-king",
+      "fit_reason": "Co-spouse on Zach's page; home office roles at US Office"
+    },
+    {
+      "name": "Scott Arnold",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/scott-and-jody-arnold-1",
+      "fit_reason": "Couple page (slug has -1 suffix); North America missionary"
+    },
+    {
+      "name": "Jody Arnold",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/scott-and-jody-arnold-1",
+      "fit_reason": "Co-spouse on Scott's page"
+    },
+    {
+      "name": "Daniel Enns",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Executive Officer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/daniel-and-evangeline-enns",
+      "fit_reason": "Couple page; Daniel joined Reach Beyond staff in 2018, serves as assistant to president and CFO/VP of Finance; multi-regional home office role"
+    },
+    {
+      "name": "Evangeline Enns",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/daniel-and-evangeline-enns",
+      "fit_reason": "Co-spouse on Daniel's page; CFO/Finance operations"
+    },
+    {
+      "name": "Patrick Pinho",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/patrick-and-jennifer-pinho",
+      "fit_reason": "Couple page; Asia Pacific/multi-regional missionary"
+    },
+    {
+      "name": "Jennifer Pinho",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/patrick-and-jennifer-pinho",
+      "fit_reason": "Co-spouse on Patrick's page"
+    },
+    {
+      "name": "Paul Simone",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Broadcast Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/paul-and-erica-simone-3",
+      "fit_reason": "Couple page (slug has -3 suffix indicating CMS collision); broadcast/media role in Asia Pacific"
+    },
+    {
+      "name": "Erica Simone",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Broadcast Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/paul-and-erica-simone-3",
+      "fit_reason": "Co-spouse on Paul's broadcast page"
+    },
+    {
+      "name": "Martin Harrison",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/martin-and-ruth-harrison-1",
+      "fit_reason": "Couple page (verified example with -1 suffix); Asia Pacific missionary"
+    },
+    {
+      "name": "Ruth Harrison",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/martin-and-ruth-harrison-1",
+      "fit_reason": "Co-spouse on Martin's page; verified example couple"
+    },
+    {
+      "name": "Chuck Howard",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/chuck-and-anita-howard-1",
+      "fit_reason": "Couple page (slug has -1 suffix); Asia Pacific missionary"
+    },
+    {
+      "name": "Anita Howard",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/chuck-and-anita-howard-1",
+      "fit_reason": "Co-spouse on Chuck's page"
+    },
+    {
+      "name": "Ken Cummings",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/ken-and-sharon-cummings",
+      "fit_reason": "Couple page; Asia Pacific or multi-regional missionary"
+    },
+    {
+      "name": "Sharon Cummings",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/ken-and-sharon-cummings",
+      "fit_reason": "Co-spouse on Ken's page"
+    },
+    {
+      "name": "Geoff Kooistra",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/geoff-and-tammy-kooistra",
+      "fit_reason": "Couple page; Asia Pacific or multi-regional missionary"
+    },
+    {
+      "name": "Tammy Kooistra",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/geoff-and-tammy-kooistra",
+      "fit_reason": "Co-spouse on Geoff's page"
+    },
+    {
+      "name": "Hermann Schirmacher",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/hermann-and-irene-schirmacher",
+      "fit_reason": "Couple page; Asia Pacific or multi-regional missionary"
+    },
+    {
+      "name": "Irene Schirmacher",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/hermann-and-irene-schirmacher",
+      "fit_reason": "Co-spouse on Hermann's page"
+    },
+    {
+      "name": "Andres Ralek",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/andres-and-elena-ralek-1",
+      "fit_reason": "Couple page (slug has -1 suffix); multi-regional missionary"
+    },
+    {
+      "name": "Elena Ralek",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/andres-and-elena-ralek-1",
+      "fit_reason": "Co-spouse on Andres's page"
+    },
+    {
+      "name": "Matt Parker",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Media Producer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/matt-and-anabella-parker-1",
+      "fit_reason": "Couple page (slug has -1 suffix); working in new media for broadcast"
+    },
+    {
+      "name": "Anabella Parker",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Media Producer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/matt-and-anabella-parker-1",
+      "fit_reason": "Co-spouse on Matt's page; new media production"
+    },
+    {
+      "name": "John Gowan",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Video Producer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/john-and-sharon-gowan-1",
+      "fit_reason": "Couple page (slug has -1 suffix); video production specialization"
+    },
+    {
+      "name": "Sharon Gowan",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Video Producer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/john-and-sharon-gowan-1",
+      "fit_reason": "Co-spouse on John's page"
+    },
+    {
+      "name": "Tim Broach",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/tim-and-onilda-broach-1",
+      "fit_reason": "Couple page (slug has -1 suffix); Tim is director of Apoyo ministry for pastoral training and leadership development"
+    },
+    {
+      "name": "Onilda Broach",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Ministry Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/tim-and-onilda-broach-1",
+      "fit_reason": "Co-spouse on Tim's page; pastoral training ministry"
+    },
+    {
+      "name": "Brent Weeks",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/brent-and-shelley-weeks",
+      "fit_reason": "Couple page; multi-regional missionary"
+    },
+    {
+      "name": "Shelley Weeks",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/brent-and-shelley-weeks",
+      "fit_reason": "Co-spouse on Brent's page"
+    },
+    {
+      "name": "Ron Cline",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/ron-and-barb-cline-1",
+      "fit_reason": "Couple page (slug has -1 suffix); helps regions and partners with ongoing ministries"
+    },
+    {
+      "name": "Barb Cline",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/ron-and-barb-cline-1",
+      "fit_reason": "Co-spouse on Ron's page"
+    },
+    {
+      "name": "Americo Saavedra",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/americo-and-kathy-saavedra-1",
+      "fit_reason": "Couple page (slug has -1 suffix); Executive Director of APOYO pastoral training ministry since 1992 serving Latin America; note son is Asia Director for partner org in Thailand, establishing regional connection"
+    },
+    {
+      "name": "Kathy Saavedra",
+      "org": "Reach Beyond",
+      "tier": "A",
+      "role": "Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://reachbeyond.org/missionaries/read/americo-and-kathy-saavedra-1",
+      "fit_reason": "Co-spouse on Americo's page; Logistics and Communications Coordinator for APOYO ministry"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org/missionaries/read",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org/missionaries/read Africa Kenya Uganda Tanzania",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"reachbeyond.org/missionaries/read\" Thailand Asia broadcast radio",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Reach Beyond missionaries engineer broadcast technician \"missionaries/read\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org/missionaries/read \"North America\" OR \"United States\" OR \"Canada\" broadcast",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org/missionaries/read Thailand Indonesia Philippines \"and\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org/missionaries/read \"and\" Kenya OR Uganda OR Nigeria OR Zambia OR South Africa",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"reachbeyond.org/missionaries/read\" -retired -\"missionaries/read/allen\" -\"missionaries/read/hannah\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Reach Beyond \"missionaries/read\" broadcast engineer technician media",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org/missionaries/read India \"and\" OR Sri Lanka OR Pakistan",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org/missionaries/read \"and\" home office OR support OR administration OR Colorado",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"reachbeyond.org/missionaries/read\" broadcast radio station East Africa OR sub-saharan",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org/missionaries/read operator coordinator developer translator media",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"reachbeyond.org/missionaries/read/\" Cambodia OR Vietnam OR Myanmar OR \"Asia Pacific\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org/missionaries/read/ \"and\" -Ecuador -\"Middle East\" -\"North Africa\" -Jim -James",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org/missionaries/read \"and\" speaker OR pastor OR teacher OR consultant OR director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"reachbeyond.org/missionaries/read/\" -retired \"and\" global OR international OR regions OR coordinator",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org/missionaries/read \"and\" -Ecuador -\"Middle East\" -retired -Fund -Margaret -Gary",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Withheld surname",
+      "finding": "Allen",
+      "evidence": "URL slug: /missionaries/read/allen (first-name only, no surname)",
+      "recommendation": "Do not emit per brief instruction; this is a sensitive-region worker whose surname is withheld on purpose. First-name-only slugs at Reach Beyond indicate protected anonymization for North Africa/Middle East workers."
+    },
+    {
+      "issue": "Withheld surname",
+      "finding": "Hannah",
+      "evidence": "URL slug: /missionaries/read/hannah (first-name only, no surname)",
+      "recommendation": "Do not emit per brief instruction; withheld surname indicates sensitive-region protection. Noted as active in Asia Pacific with community development and healthcare ministry, but anonymization must be preserved."
+    },
+    {
+      "issue": "Ambiguous gender and name format",
+      "finding": "Thelma Meneses",
+      "evidence": "URL: /missionaries/read/thelma-meneses-1; search results show 'He was director' (male pronoun) but name is traditionally female. Appears to be single person profile.",
+      "recommendation": "Requires manual verification to confirm current gender identity, current role status, and whether this person is in the assigned slice. Profile exists but pronoun mismatch suggests data quality issue."
+    },
+    {
+      "issue": "Single-name profile with unclear status",
+      "finding": "DeNise Love",
+      "evidence": "URL: /missionaries/read/denise-love-1 (single name profile); appears in search results mentioning Reach Beyond staff but context insufficient",
+      "recommendation": "Manually verify: is this a single missionary or is the spouse name missing? Is -1 suffix indicating this is second person named DeNise, or is Love the surname? Requires page review to determine if support-raised and if in assigned slice."
+    },
+    {
+      "issue": "Surname missing or unclear",
+      "finding": "Ray and Kitty",
+      "evidence": "URL: /missionaries/read/ray-and-kitty (slug carries only first names, no surnames); results note they work with refugees from Middle East and North Africa in Europe",
+      "recommendation": "Do not emit from assigned slice—results indicate this couple is based in Europe working with refugees, not in Sub-Saharan Africa or Asia Pacific. Additionally, surname-less slug pattern warrants verification that full names are public."
+    },
+    {
+      "issue": "Incomplete slug or alternative naming",
+      "finding": "Brad and Naomi",
+      "evidence": "URL: /missionaries/read/brad-and-naomi (only first names visible in slug results; no surname present)",
+      "recommendation": "Cannot verify full surname from search results. If surnames are withheld, treat as needs_review. If available, manual lookup required to confirm full name for emission."
+    },
+    {
+      "issue": "Possible withheld information",
+      "finding": "Nick and Rachel Johnson",
+      "evidence": "URL: /missionaries/read/nick-and-rachel-johnson appears separate from /missionaries/read/nicolas-and-rachel-johnson; both couples found but unclear if this is data duplication, different people, or abbreviated name variant",
+      "recommendation": "Manual verification required: are these two different couples or the same couple listed under variant name forms? If different, confirm they are not duplicates before emission. If same, determine which slug is canonical."
+    }
+  ]
+}

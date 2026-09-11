@@ -1,0 +1,736 @@
+{
+  "wave_id": "pilot-2026-08-29",
+  "agent": "prospector:secular-donors",
+  "people": [
+    {
+      "org_name": "Erin Peck Yarema",
+      "org_type": "individual",
+      "website": "",
+      "city": "Augusta",
+      "state": "ME",
+      "summary": "Good Shepherd Food Bank — Director of Major and Planned Giving",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Development staff at regional food bank fundraising from individual donors; established major gifts role indicates strong development infrastructure",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Major and Planned Giving",
+        "target_org": "Good Shepherd Food Bank",
+        "evidence_url": "https://www.gsfb.org/get-involved/explore-giving-options/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Robin McCarthy",
+      "org_type": "individual",
+      "website": "",
+      "city": "Augusta",
+      "state": "ME",
+      "summary": "Good Shepherd Food Bank — Director of Development, Communications, and Government Affairs",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Senior development/advancement staff at regional food bank; leads fundraising modernization and donor relations expansion since 2019",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development, Communications, and Government Affairs",
+        "target_org": "Good Shepherd Food Bank",
+        "evidence_url": "https://www.gsfb.org/get-involved/explore-giving-options/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Joanne Kamppinen",
+      "org_type": "individual",
+      "website": "",
+      "city": "Lincoln",
+      "state": "NE",
+      "summary": "Food Bank for the Heartland — Director of Development",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Development director at mid-size regional food bank; responsible for fundraising strategy and donor relations",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development",
+        "target_org": "Food Bank for the Heartland",
+        "evidence_url": "https://foodbankheartland.org/ways-to-give/donate-funds/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Sarah Kalhorn-Wisecup",
+      "org_type": "individual",
+      "website": "",
+      "city": "Lincoln",
+      "state": "NE",
+      "summary": "Food Bank for the Heartland — Major Gifts Officer",
+      "fit_score": 5,
+      "fit_reason": "Tier B: Major gifts specialist at regional food bank; direct individual donor cultivation and solicitation role",
+      "meta": {
+        "tier": "B",
+        "role": "Major Gifts Officer",
+        "target_org": "Food Bank for the Heartland",
+        "evidence_url": "https://foodbankheartland.org/ways-to-give/donate-funds/",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Good Shepherd Food Bank",
+      "website": "https://www.gsfb.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Feeding America member; Maine region; employs development staff including Director of Major and Planned Giving; growing individual donor base since 2019"
+    },
+    {
+      "org_name": "Food Bank for the Heartland",
+      "website": "https://foodbankheartland.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Feeding America member; Nebraska region; has Director of Development and Major Gifts Officer positions; individual donor fundraising focus"
+    },
+    {
+      "org_name": "Akron-Canton Regional Foodbank",
+      "website": "https://www.akroncantonfoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Ohio region; Feeding America member; raises $4M+ annually from individual donors; has Senior Director of Development and Senior Major Gifts Officer positions"
+    },
+    {
+      "org_name": "Food Bank of Western Massachusetts",
+      "website": "https://www.foodbankwma.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Massachusetts region; Feeding America member; actively recruiting Director of Development; focus on major gift solicitations and corporate sponsorships"
+    },
+    {
+      "org_name": "Westside Food Bank",
+      "website": "https://www.wsfb.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Raises $4M+ annually from individual donor grants and campaigns; Director of Development position covering donor stewardship, major gifts, planned giving, social media strategy"
+    },
+    {
+      "org_name": "Second Harvest Heartland",
+      "website": "https://www.2harvest.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Feeding America member; serves Minnesota and Wisconsin; substantial individual donor base; development infrastructure evident"
+    },
+    {
+      "org_name": "The Food Group",
+      "website": "https://www.thefoodgroupmn.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Minnesota; 30+ county food distribution network; nonprofit focused on food justice with individual donor base"
+    },
+    {
+      "org_name": "Second Harvest Northern Lakes Food Bank",
+      "website": "https://www.northernlakesfs.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Duluth, Minnesota; distributes 7M+ pounds annually; regional hunger-relief leader; individual donor fundraising base"
+    },
+    {
+      "org_name": "Channel One Regional Food Bank",
+      "website": "https://www.helpingfeedpeople.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Rochester, MN/WI border region; serves southeast Minnesota and western Wisconsin; individual donor reliance"
+    },
+    {
+      "org_name": "Greater Cleveland Food Bank",
+      "website": "https://www.greaterclevelandfoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Ohio; largest hunger relief in Northeast Ohio; mid-size regional food bank with development infrastructure"
+    },
+    {
+      "org_name": "Central Pennsylvania Food Bank",
+      "website": "https://www.centralpafoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Harrisburg, PA; Feeding America member; individual donor fundraising base; development staff"
+    },
+    {
+      "org_name": "Greater Pittsburgh Community Food Bank",
+      "website": "https://pittsburghfoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Pennsylvania; has Director of Development and Donor Relations role; manages individual giving, major gifts, community fundraising"
+    },
+    {
+      "org_name": "Philabundance",
+      "website": "https://www.philabundance.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Philadelphia and Delaware Valley region; Feeding America member; non-profit food bank with individual donor base"
+    },
+    {
+      "org_name": "Capital Area Food Bank",
+      "website": "https://www.capitalareafoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Washington DC region; hiring Senior Director of Annual Giving and Operations; Major Gifts Specialist position; significant planned gift pipeline"
+    },
+    {
+      "org_name": "Rainier Valley Food Bank",
+      "website": "https://www.rainiervalleyfoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Seattle, WA; Major Gifts Coordinator position managing $5,000+ donor portfolio; individual donor development strategy"
+    },
+    {
+      "org_name": "Food Bank For New York City",
+      "website": "https://www.foodbanknyc.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "NYC region; hiring Major Gifts Officer; significant individual donor base in metro area"
+    },
+    {
+      "org_name": "Second Harvest Food Bank of Northeast Tennessee",
+      "website": "https://www.secondharvesttn.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Tennessee region; Feeding America member; individual donor fundraising"
+    },
+    {
+      "org_name": "Second Harvest Food Bank of East Tennessee",
+      "website": "https://www.secondharvesttn.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Tennessee region; Feeding America member; individual donor fundraising"
+    },
+    {
+      "org_name": "Freestore Foodbank",
+      "website": "https://www.freestorefoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Cincinnati, Ohio area; Feeding America member; individual donor base"
+    },
+    {
+      "org_name": "Feeding America, Kentucky's Heartland",
+      "website": "https://feedingamericaky.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Kentucky; serves 42 counties; individual donor fundraising focus"
+    },
+    {
+      "org_name": "Northern Illinois Food Bank",
+      "website": "https://solvehungertoday.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Illinois; Feeding America member; passionate team committed to solving hunger; individual donor base"
+    },
+    {
+      "org_name": "Central Illinois Foodbank",
+      "website": "https://centralilfoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Illinois; distributes 10M+ pounds annually to 21 counties; individual donor fundraising"
+    },
+    {
+      "org_name": "Eastern Illinois Foodbank",
+      "website": "https://www.eifoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Illinois; Feeding America member; individual donor base"
+    },
+    {
+      "org_name": "Fort Worth Abandoned Animal Alliance",
+      "website": "https://www.northtexasgivingday.org/organization/FWAbandonedAnimalAlliance",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "North Texas; 100% volunteer-run 501(c)3; rescues abandoned/abused animals; individual donor fundraising"
+    },
+    {
+      "org_name": "Apollo Support & Rescue",
+      "website": "https://www.northtexasgivingday.org/organization/asrpets",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "North Texas; animal welfare nonprofit since 2012; individual donor base in region"
+    },
+    {
+      "org_name": "Animal Rescue Foundation of Texas",
+      "website": "https://www.northtexasgivingday.org/organization/Animal-Rescue-Foundation-Of-Texas",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Texas; animal rescue nonprofit; individual donor fundraising in Texas market"
+    },
+    {
+      "org_name": "Coastal Pet Rescue",
+      "website": "https://www.coastalpetrescue.com",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Georgia/South Carolina/Florida; 501(c)3 rescue founded 2003; multi-state individual donor base"
+    },
+    {
+      "org_name": "Southern Comfort Animal Rescue",
+      "website": "https://www.socorescue.com",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Rural Georgia; 501(c)3 dedicated to abused/abandoned companion animals; individual donor fundraising"
+    },
+    {
+      "org_name": "Humane Society of South Coastal Georgia",
+      "website": "https://hsscg.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "South Coastal Georgia; animal welfare nonprofit; individual donor base"
+    },
+    {
+      "org_name": "Animal Rescue League of Boston",
+      "website": "https://www.arlebanimalrescue.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Dedham, MA; New England leading animal welfare org; hiring Development Assistant; established individual donor pipeline"
+    },
+    {
+      "org_name": "Sage Compassion for Animals",
+      "website": "https://www.sagecompassion.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Mountain View, CA; actively hiring Development Director; focus on fundraising process improvement and individual donor strategy"
+    },
+    {
+      "org_name": "Humane Society of North Texas",
+      "website": "https://www.hsnt.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Fort Worth, TX; hiring Major Gifts Officer; mid-size animal welfare nonprofit"
+    },
+    {
+      "org_name": "Everglades Angels Dog Rescue",
+      "website": "https://www.everglades-angels.com",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Oakland Park, FL; actively hiring Development Director ($80-112k); individual donor cultivation strategy focus"
+    },
+    {
+      "org_name": "CHA Animal Shelter",
+      "website": "https://chaanimalshelter.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Ohio 501(c)3; fundraising programs and individual donor engagement"
+    },
+    {
+      "org_name": "Pacific Northwest Veterans Alliance",
+      "website": "https://pnwveteransalliance.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "Hermiston, OR; veteran support nonprofit; relies heavily on donor generosity; fundraising events including 'Grooving for a Cause'"
+    },
+    {
+      "org_name": "Veterans Exploring Treatment Solutions",
+      "website": "https://www.vetstreatment.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": "",
+      "do_not_pursue": false,
+      "evidence": "National veteran nonprofit; Major Gifts Officer position; individual donor development focus; ending veteran suicide epidemic"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Feeding America regional food banks member list 2026",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "mid-size regional food banks individual donors fundraising 2026",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "state animal shelter coalitions rescue networks US nonprofit 2026",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "veteran support organizations nonprofit directories regional network 2026",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"food bank\" nonprofit development director major gifts fundraising site:.org",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "regional animal rescue shelter major gifts fundraiser director site:.org",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Akron Canton Regional Foodbank fundraising staff development officer",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Colorado food banks individual donor fundraising \"development director\" OR \"major gifts\"",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Texas animal rescue nonprofit development major gifts fundraiser staff",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "veteran nonprofit organization development director major gifts officer regional",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"veteran\" nonprofit organization Pacific Northwest California individual donor fundraising",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "food bank Illinois Ohio Pennsylvania regional fundraising staff jobs",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "New England animal shelter rescue nonprofit development positions individual donors",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"food bank\" OR \"animal rescue\" nonprofit under 20 million revenue individual donor fundraising",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Michigan Wisconsin Minnesota food bank regional nonprofit organization names",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Southeast animal shelter coalition rescue network Georgia Florida South Carolina",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "regional veteran support nonprofit Arizona Colorado New Mexico individual donor fundraising",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Team Red White Blue\" OR \"Operation Homefront\" OR \"Hire Heroes\" veteran nonprofit development officer",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Raiser's Edge\" nonprofit food bank OR animal rescue OR veteran 2025 2026",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Feeding America member food bank Tennessee Kentucky West Virginia names list",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Best Friends Animal Society regional centers development fundraising staff",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "small nonprofit animal rescue food bank veteran org director development under $5 million revenue",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:idealist.org \"development director\" OR \"major gifts\" food bank OR animal rescue 2026",
+      "outcome": "found_people",
+      "people_found": 4
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "oregonfoodbank.org",
+      "reason_code": "already_in_crm",
+      "detail": "Already in DonorSend CRM per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "greatplainsfoodbank.org",
+      "reason_code": "already_in_crm",
+      "detail": "Already in DonorSend CRM per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "feedingsanantonio.org",
+      "reason_code": "already_in_crm",
+      "detail": "Already in DonorSend CRM per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "community-action.org",
+      "reason_code": "already_in_crm",
+      "detail": "Already in DonorSend CRM per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "familypromise.org",
+      "reason_code": "already_in_crm",
+      "detail": "Already in DonorSend CRM per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "mentoring.org",
+      "reason_code": "already_in_crm",
+      "detail": "Already in DonorSend CRM per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "imentor.org",
+      "reason_code": "already_in_crm",
+      "detail": "Already in DonorSend CRM per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "love146.org",
+      "reason_code": "already_in_crm",
+      "detail": "Already in DonorSend CRM per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "notforsale.org",
+      "reason_code": "already_in_crm",
+      "detail": "Already in DonorSend CRM per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "ywca.org",
+      "reason_code": "already_in_crm",
+      "detail": "Already in DonorSend CRM per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Feeding America (national)",
+      "reason_code": "too_institutional",
+      "detail": "National mega-charity with enterprise infrastructure; local affiliates are fair game"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Red Cross (national)",
+      "reason_code": "too_institutional",
+      "detail": "National mega-charity; local chapters may qualify but not national entity"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Wounded Warrior Project",
+      "reason_code": "too_institutional",
+      "detail": "National mega-charity with $385M+ revenue and enterprise infrastructure"
+    },
+    {
+      "entity_kind": "org",
+      "name": "ASPCA (national)",
+      "reason_code": "too_institutional",
+      "detail": "National mega-charity; local chapters/coalitions may qualify"
+    },
+    {
+      "entity_kind": "org",
+      "name": "North Shore Animal League America",
+      "reason_code": "too_institutional",
+      "detail": "Large national rescue with 2,000+ shelter partnerships; enterprise scale"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Best Friends Animal Society",
+      "reason_code": "too_institutional",
+      "detail": "National organization with multiple regional centers; likely $200M+ scale"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Southern Journey Animal Rescue",
+      "reason_code": "no_individual_donors",
+      "detail": "Animal transport/shelter model; serves overcrowded shelters; primarily grants-funded relocation service"
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "The Mission Continues",
+      "org": "Veteran nonprofit",
+      "question": "Is this a regional org with individual donor focus or national enterprise? Wikipedia shows 40 city service platoons but unclear on revenue/fundraising model.",
+      "evidence_url": "https://en.wikipedia.org/wiki/The_Mission_Continues"
+    },
+    {
+      "name": "Cohen Veterans Network",
+      "org": "Veteran nonprofit",
+      "question": "Regional mental health clinic network or national enterprise? $55.9M revenue suggests scale; need to verify if regional ops fundraise independently.",
+      "evidence_url": "https://en.wikipedia.org/wiki/Cohen_Veterans_Network"
+    },
+    {
+      "name": "Gleaners Community Food Bank",
+      "org": "Food bank (Michigan)",
+      "question": "Found in regional list but website not accessible; unclear if individual donor-focused or primarily institutional/grant funded.",
+      "evidence_url": "No direct access"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "wave_id": "w2026-08-30d",
+  "agent": "roster:ywammaui",
+  "target_org": "YWAM Maui",
+  "roster_verdict": "exhausted",
+  "people": [],
+  "orgs_discovered": [
+    {
+      "org_name": "Youth With A Mission (YWAM)",
+      "website": "https://ywam.org",
+      "org_type": "parachurch",
+      "size_estimate": "large",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "evidence": "Global missions organization with documented org-wide policy: 100% of staff (from founder to base cook) raise their own personal financial support. No salaried positions. Workers raise funds from friends, family, churches, personal savings, or other arrangements."
+    },
+    {
+      "org_name": "YWAM Maui",
+      "website": "https://www.ywammaui.org",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "headcount_est": 45,
+      "faith_orientation": "christian",
+      "evidence": "Missions training center in Haiku, Hawaii. Part of YWAM network; operates under parent org's support-raising policy. No public staff directory published."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "YWAM Maui staff directory members",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "YWAM Maui leadership team personnel",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "YWAM staff raise own support funding model",
+      "outcome": "found_people",
+      "people_found": 0,
+      "note": "Found org-level policy evidence: YWAM documents that 100% of staff raise personal support (Tier A evidence per schema: meta.evidence_basis='org_policy')"
+    },
+    {
+      "kind": "query",
+      "value": "site:ywammaui.org staff team members",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "YWAM Maui prayer letter donation partner support",
+      "outcome": "no_people",
+      "people_found": 0,
+      "note": "Found GoFundMe pages but unable to confirm staff status vs. DTS trainees"
+    },
+    {
+      "kind": "query",
+      "value": "YWAM Maui Facebook staff names teachers",
+      "outcome": "no_people",
+      "people_found": 0,
+      "note": "Facebook mentions of Sharon Wray and Haley as staff but insufficient detail for roster entry"
+    },
+    {
+      "kind": "query",
+      "value": "YWAM Maui DTS instructors staff missionary",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "YWAM Maui about us team contact leadership",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "YWAM Maui",
+      "website": "https://www.ywammaui.org",
+      "reason_code": "no_individual_donors",
+      "detail": "No public staff directory accessible via web search. Individual staff names mentioned (Sharon Wray, Haley) lack sufficient verification or role detail. YWAM Maui does not publish personnel information online, preventing roster compilation despite org-wide support-raising policy."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Kirrah Gibbs",
+      "reason_code": "platform_not_person",
+      "detail": "GoFundMe for 'YWAM Maui DTS' fundraising. Unable to confirm staff vs. DTS trainee status. DTS students are trainees, not staff."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Leah Carter",
+      "reason_code": "platform_not_person",
+      "detail": "GoFundMe for 'YWAM Maui and Outreach'. No role detail available; insufficient evidence of staff status."
+    }
+  ],
+  "needs_review": []
+}

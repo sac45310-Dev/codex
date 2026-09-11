@@ -1,0 +1,150 @@
+{
+  "wave_id": "w2026-08-30e",
+  "agent": "roster:foodbanknorthal",
+  "target_org": "Food Bank of North Alabama",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Bobby Bozeman",
+      "summary": "Food Bank of North Alabama — Development Director",
+      "fit_score": 7,
+      "fit_reason": "Tier B development position; directly responsible for fundraising, donor relations, and development initiatives",
+      "source_query": "hunter:w2026-08-30e:foodbanknorthal",
+      "meta": {
+        "tier": "B",
+        "role": "Development Director",
+        "target_org": "Food Bank of North Alabama",
+        "evidence_url": "https://www.linkedin.com/in/rpbozeman/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Callum Campbell",
+      "summary": "Food Bank of North Alabama — Development Coordinator",
+      "fit_score": 7,
+      "fit_reason": "Tier B development support role; coordinates fundraising programs and donor engagement initiatives",
+      "source_query": "hunter:w2026-08-30e:foodbanknorthal",
+      "meta": {
+        "tier": "B",
+        "role": "Development Coordinator",
+        "target_org": "Food Bank of North Alabama",
+        "evidence_url": "https://foodbanknorthal.org/staff-and-board/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Shirley Schofield",
+      "summary": "Food Bank of North Alabama — Chief Executive Officer",
+      "fit_score": 6,
+      "fit_reason": "Tier C executive leadership; responsible for organization strategy, oversees development operations, and donor relations strategy",
+      "source_query": "hunter:w2026-08-30e:foodbanknorthal",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Executive Officer",
+        "target_org": "Food Bank of North Alabama",
+        "evidence_url": "https://www.linkedin.com/in/shirley-schofield-1b3a88a5/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Helen Lien",
+      "summary": "Food Bank of North Alabama — Board Vice Chairman",
+      "fit_score": 6,
+      "fit_reason": "Tier C board leadership; vice chair position indicates significant governance and donor development influence",
+      "source_query": "hunter:w2026-08-30e:foodbanknorthal",
+      "meta": {
+        "tier": "C",
+        "role": "Board Vice Chairman",
+        "target_org": "Food Bank of North Alabama",
+        "evidence_url": "https://foodbanknorthal.org/staff-and-board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Krisshonna Brown",
+      "summary": "Food Bank of North Alabama — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Tier C board member; involved in organizational governance, fiduciary oversight, and donor relations",
+      "source_query": "hunter:w2026-08-30e:foodbanknorthal",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Food Bank of North Alabama",
+        "evidence_url": "https://foodbanknorthal.org/staff-and-board/",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "negatives": [
+    {
+      "name": "Amanda Carter",
+      "reason": "Agency Relations Director — operations/partnership focus, not development/advancement",
+      "reason_code": "role_not_tier_b"
+    },
+    {
+      "name": "Austin Kusiak",
+      "reason": "Operations Director — operations focus, not development/advancement",
+      "reason_code": "role_not_tier_b"
+    },
+    {
+      "name": "Tony Charbonnet",
+      "reason": "Store Donation Manager — operations/logistics focus, not development/advancement",
+      "reason_code": "role_not_tier_b"
+    },
+    {
+      "name": "Cathryn Hodge",
+      "reason": "Store Donation Coordinator — operations/logistics focus, not development/advancement",
+      "reason_code": "role_not_tier_b"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Food Bank of North Alabama development director advancement officer staff",
+      "outcome": "SUCCESS",
+      "people_found": 3
+    },
+    {
+      "query": "Food Bank of North Alabama major gifts donor relations staff leadership",
+      "outcome": "PARTIAL",
+      "people_found": 2,
+      "notes": "No specialized major gifts officer or donor relations coordinator role found beyond Development Director"
+    },
+    {
+      "query": "Food Bank of North Alabama executive director CEO leadership team",
+      "outcome": "SUCCESS",
+      "people_found": 3
+    },
+    {
+      "query": "Food Bank of North Alabama board of directors trustees Huntsville",
+      "outcome": "PARTIAL",
+      "people_found": 2,
+      "notes": "Incomplete board roster — board chair and treasurer not identified in search results"
+    },
+    {
+      "query": "Food Bank of North Alabama board members chair chairman 2026",
+      "outcome": "PARTIAL",
+      "people_found": 1,
+      "notes": "Board chair position not identified in search results"
+    },
+    {
+      "query": "Food Bank of North Alabama annual fund grants coordinator philanthropy",
+      "outcome": "PARTIAL",
+      "people_found": 2,
+      "notes": "No specialized annual fund or grants coordinator role found"
+    },
+    {
+      "query": "site:foodbanknorthal.org staff team leadership",
+      "outcome": "SUCCESS",
+      "people_found": 4,
+      "notes": "Full staff and board page identified but content not fully captured in search snippets"
+    },
+    {
+      "query": "Shirley Schofield OR Bobby Bozeman Food Bank of North Alabama board director staff",
+      "outcome": "SUCCESS",
+      "people_found": 2
+    }
+  ],
+  "crm_incumbent": null,
+  "research_notes": "Food Bank of North Alabama is a secular hunger-relief nonprofit serving 11 counties in North Alabama based in Huntsville, AL. Organization demonstrates professional development and fundraising infrastructure with dedicated Development Director and Coordinator roles. Executive leadership (CEO) has 10+ years tenure and professional fundraising background. Board includes doctorate-holding members indicating significant donor networks. Development team appears to handle both individual giving and grants. Search results consistently referenced staff/board page (foodbanknorthal.org/staff-and-board/) but complete board roster and additional development staff not captured in search snippets. Organization rated 4/4 stars on Charity Navigator indicating strong philanthropic performance.",
+  "status": "EXHAUSTED - Used all 8 WebSearch calls. Identified 2 Tier B staff (need 4-7) and 3 Tier C staff/board (need 4-6). Complete board listing and additional development staff positions not retrieved due to WebSearch limitations capturing full page content."
+}

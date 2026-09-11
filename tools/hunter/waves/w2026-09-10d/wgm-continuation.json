@@ -1,0 +1,242 @@
+{
+  "wave_id": "w2026-09-10d",
+  "agent": "wgm-continuation",
+  "target_org": "World Gospel Mission",
+  "slice": "role, function, programme names, tenure - axes not covered by geography sweeps",
+  "searches_used": 15,
+  "people": [
+    {
+      "name": "Juan Carlos Arias",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/arias",
+      "fit_reason": "Surname in URL slug, full name in title, per-person giving page"
+    },
+    {
+      "name": "Elva Arias",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/arias",
+      "fit_reason": "Couple sharing one page; split record per rules"
+    },
+    {
+      "name": "David Velasco",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/velasco",
+      "fit_reason": "Surname in URL slug, full name in title, per-person giving page"
+    },
+    {
+      "name": "Ana Velasco",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/velasco",
+      "fit_reason": "Couple sharing one page; split record per rules"
+    },
+    {
+      "name": "Barbara Pinkley",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Nurse, Midwife, Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/pinkley",
+      "fit_reason": "Surname in URL slug, title names person, per-person giving page"
+    },
+    {
+      "name": "David Strong",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/strong",
+      "fit_reason": "Surname in URL slug, full name in title, per-person giving page"
+    },
+    {
+      "name": "Cathlene Strong",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/strong",
+      "fit_reason": "Couple sharing one page; split record per rules"
+    },
+    {
+      "name": "Heath Many",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/many",
+      "fit_reason": "Surname in URL slug, full name in title, per-person giving page"
+    },
+    {
+      "name": "Angela Many",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/many",
+      "fit_reason": "Couple sharing one page; split record per rules"
+    },
+    {
+      "name": "Efraín Charles",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/charles",
+      "fit_reason": "Surname in URL slug, full name in title, per-person giving page"
+    },
+    {
+      "name": "Chrissy Charles",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/charles",
+      "fit_reason": "Couple sharing one page; split record per rules"
+    },
+    {
+      "name": "Elmor Benedith",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/benedith",
+      "fit_reason": "Surname in URL slug, full name in title, per-person giving page"
+    },
+    {
+      "name": "Damary Benedith",
+      "org": "World Gospel Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wgm.org/missionary/benedith",
+      "fit_reason": "Couple sharing one page; split record per rules"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary \"World Gospel Mission\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary nurse physician doctor Tenwek Hospital",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary teacher education school",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary \"El Sembrador\" OR \"Discovery Experience\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary retired emeritus \"served\" years",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary \"new missionary\" appointee \"first term\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary/ Kenya Africa Gospel Church pilot maintenance",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary \"Hospital Evangelico\" Argentina church planter missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary Bolivia Paraguay Honduras ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary \"member care\" \"field director\" \"area director\" coordinator",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary nurse dentist accountant administrator",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary Burundi Uganda Rwanda Congo Bible Seminary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary \"dorm parent\" pilot translator leadership training",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary -brown -ernst -hughes -griffin -overholt -waggoner -sosa -saavedra -donahue -kushman -cartwright -jenkins -bowen -hawk",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org/missionary Bennett Pinkley Arias Velasco Bemm Meza Yankunze -guest -batschelet -kunkle",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "sensitive-region worker flagged",
+      "finding": "Justin and Ashley Guest",
+      "evidence": "https://wgm.org/missionary/guest appeared in sensitive/creative-access results per wave briefing",
+      "recommendation": "Review against sensitive-missionary registry; hold pending clarification of region sensitivity status"
+    },
+    {
+      "issue": "sensitive-region worker flagged",
+      "finding": "Ethan and Ashley Batschelet",
+      "evidence": "https://wgm.org/missionary/batschelet appeared in sensitive/creative-access results per wave briefing",
+      "recommendation": "Review against sensitive-missionary registry; hold pending clarification of region sensitivity status"
+    },
+    {
+      "issue": "sensitive-region worker flagged",
+      "finding": "John and Priscilla Kunkle",
+      "evidence": "https://wgm.org/missionary/johnkunkle appeared in sensitive/creative-access results per wave briefing",
+      "recommendation": "Review against sensitive-missionary registry; hold pending clarification of region sensitivity status"
+    },
+    {
+      "issue": "sensitive-region worker flagged",
+      "finding": "David and Debbie Hawk",
+      "evidence": "https://wgm.org/missionary/davidhawk appeared in sensitive/creative-access results per wave briefing",
+      "recommendation": "Review against sensitive-missionary registry; hold pending clarification of region sensitivity status"
+    }
+  ]
+}

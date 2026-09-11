@@ -1,0 +1,138 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:pioneers",
+  "roster_verdict": "rostered",
+  "target_org": "Pioneers",
+  "people": [
+    {
+      "org_name": "Steve Richardson",
+      "org_type": "individual",
+      "summary": "Pioneers — President & U.S. Director",
+      "fit_score": 9,
+      "fit_reason": "Tier C: Board member and President of Pioneers-USA since 1999; key leadership figure with field experience in Indonesia before elevation to executive role.",
+      "source_query": "hunter:w2026-08-30a:roster:pioneers",
+      "meta": {
+        "tier": "C",
+        "role": "President & U.S. Director",
+        "target_org": "Pioneers",
+        "evidence_url": "https://pioneers.org/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Robert Oehrig",
+      "org_type": "individual",
+      "summary": "Pioneers — Board Chair",
+      "fit_score": 9,
+      "fit_reason": "Tier C: Board Chair at Pioneers; former Director of Development and Church Engagement at Arrive Ministries and former Pastor of Missions at Grace Church Roseville.",
+      "source_query": "hunter:w2026-08-30a:roster:pioneers",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Pioneers",
+        "evidence_url": "https://pioneers.org/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nathan Burns",
+      "org_type": "individual",
+      "summary": "Pioneers — Chief Administrative Officer",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Chief Administrative Officer overseeing administrative operations, member care coordination, and organizational infrastructure supporting global missionary teams.",
+      "source_query": "hunter:w2026-08-30a:roster:pioneers",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Administrative Officer",
+        "target_org": "Pioneers",
+        "evidence_url": "https://pioneers.org/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Eunice Park",
+      "org_type": "individual",
+      "summary": "Pioneers — Board Member",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Board member providing governance and strategic oversight of Pioneers organization and mission operations.",
+      "source_query": "hunter:w2026-08-30a:roster:pioneers",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Pioneers",
+        "evidence_url": "https://pioneers.org/leadership",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Pioneers",
+      "website": "https://pioneers.org",
+      "org_type": "mission_board",
+      "size_estimate": "large",
+      "tier_profile": "AB",
+      "headcount_est": 3077,
+      "faith_orientation": "christian",
+      "evidence": "Christian missions agency headquartered in Orlando, Florida, founded 1979. Operates in 97 countries with 3,077 international members serving on 345 teams among 207 people groups. Focuses on church planting among unreached people groups. Board-governed with dedicated staff for member care, finance, IT, marketing, fundraising, and recruitment."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Pioneers missionaries prayer letters support raising",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:pioneers.org missionaries profiles individual",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Pioneers\" Orlando missions board directors executives leadership team",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Steve Richardson Robert Oehrig Nathan Burns Pioneers Orlando missionaries staff",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Pioneers missions board members directors complete list 2025 2026",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Pioneers\" missionaries \"member care\" \"development officer\" staff Orlando",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Pioneers missionaries giving page GoFundMe prayer letter blog individual names",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Pioneers organization LinkedIn staff missionaries Orlando Florida team",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Individual Pioneers Missionaries",
+      "reason_code": "no_individual_donors",
+      "detail": "Pioneers explicitly does not list individual missionaries online for security reasons. Missionaries can be supported through the organization's centralized giving system only, preventing identification of individual support-raised personnel."
+    }
+  ]
+}

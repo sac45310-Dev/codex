@@ -1,0 +1,207 @@
+{
+  "wave_id": "w2026-08-30c",
+  "agent": "roster:ywamships",
+  "roster_verdict": "rostered",
+  "target_org": "YWAM Ships Kona",
+  "people": [
+    {
+      "org_name": "Chloe Kalinke",
+      "org_type": "individual",
+      "city": "Kailua-Kona",
+      "state": "HI",
+      "summary": "YWAM Ships Kona — volunteer/outreach staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Personal fundraising campaign documented on GoFundMe ($13,000 for 3-month DTS training + 3-month outreach), demonstrating individual support-raising for service.",
+      "source_query": "hunter:w2026-08-30c:ywamships",
+      "website": "https://www.gofundme.com/f/support-ywam-ships-kona-mission",
+      "meta": {
+        "tier": "A",
+        "role": "Volunteer/Outreach Staff",
+        "target_org": "YWAM Ships Kona",
+        "evidence_url": "https://www.gofundme.com/f/support-ywam-ships-kona-mission",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brett Curtis",
+      "org_type": "individual",
+      "city": "Kailua-Kona",
+      "state": "HI",
+      "summary": "YWAM Ships Kona — CEO/President & Founder",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Founder and CEO with documented organizational leadership role; no personal fundraising evidence found despite search of support pages.",
+      "source_query": "hunter:w2026-08-30c:ywamships",
+      "meta": {
+        "tier": "C",
+        "role": "CEO/President & Founder",
+        "target_org": "YWAM Ships Kona",
+        "evidence_url": "https://www.ywamshipskona.org/2020/02/10/brett-curtis-life-spent-on-ships/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Karen Curtis",
+      "org_type": "individual",
+      "city": "Kailua-Kona",
+      "state": "HI",
+      "summary": "YWAM Ships Kona — Co-Founder",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Co-Founder with documented organizational role alongside Brett Curtis; no personal fundraising evidence found.",
+      "source_query": "hunter:w2026-08-30c:ywamships",
+      "meta": {
+        "tier": "C",
+        "role": "Co-Founder",
+        "target_org": "YWAM Ships Kona",
+        "evidence_url": "https://www.foundrychurch.net/brett-karen-curtis",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jack P. Minton",
+      "org_type": "individual",
+      "city": "Kailua-Kona",
+      "state": "HI",
+      "summary": "YWAM Ships Kona — Board Chairman",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board chairman position confirmed across multiple organizational databases; board members typically do not raise personal support.",
+      "source_query": "hunter:w2026-08-30c:ywamships",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chairman",
+        "target_org": "YWAM Ships Kona",
+        "evidence_url": "https://www.guidestar.org/profile/45-3452689",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jim Walker",
+      "org_type": "individual",
+      "city": "Kailua-Kona",
+      "state": "HI",
+      "summary": "YWAM Ships Kona — Donor Contact",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Listed as official donor contact; role does not indicate personal support-raising requirement.",
+      "source_query": "hunter:w2026-08-30c:ywamships",
+      "meta": {
+        "tier": "C",
+        "role": "Donor Contact",
+        "target_org": "YWAM Ships Kona",
+        "evidence_url": "https://db.ministrywatch.com/ministry.php?ein=453452689",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "YWAM Ships Kona",
+      "website": "https://www.ywamshipskona.org/",
+      "org_type": "parachurch",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "evidence": "Maritime mission base operating in Pacific islands; staff personally raise their own financial support per organizational documentation; DTS-graduate staff model aligns with support-raised missionary structure."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "YWAM Ships Kona staff leadership team members",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "\"YWAM Ships Kona\" crew director captain",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:ywamshipskona.org team staff contact",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"YWAM Ships Kona\" prayer letter support raising",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Brett Curtis\" \"YWAM Ships Kona\"",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"YWAM Ships Kona\" personal support page donation",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "YWAM Ships Kona base leaders coordinators team",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"YWAM Ships Kona\" \"prayer letter\" OR \"share my story\" staff",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Lauryn Clark",
+      "reason_code": "platform_not_person",
+      "detail": "Found as 'head nurse aboard Liberty' but insufficient independent verification of name/role; only mentioned in general team narrative without dedicated staff profile."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Craig Kline",
+      "reason_code": "platform_not_person",
+      "detail": "Listed in leadership references but no independent confirmation or staff profile; mentioned only as organizational chart entry."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Conrad Kusel",
+      "reason_code": "platform_not_person",
+      "detail": "Listed in leadership references but no independent confirmation or staff profile; mentioned only as organizational chart entry."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Philippson Georges",
+      "reason_code": "platform_not_person",
+      "detail": "Base leader identified for Haiti location, not Ships Kona headquarters; operates under separate YWAM location structure."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Scott Suderno",
+      "reason_code": "platform_not_person",
+      "detail": "Leader identified for Marshall Islands location, not Ships Kona headquarters; operates under separate YWAM location structure."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Katie Suderno",
+      "reason_code": "platform_not_person",
+      "detail": "Leader identified for Marshall Islands location, not Ships Kona headquarters; operates under separate YWAM location structure."
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Lauryn Clark",
+      "org": "YWAM Ships Kona",
+      "question": "Is Lauryn Clark a named, independent staff member or a volunteer/crew reference only? Head nurse role mentioned in general narrative but requires independent confirmation.",
+      "evidence_url": "Search result reference from web query #8"
+    },
+    {
+      "name": "Katie (katiesywamadventure blog)",
+      "org": "YWAM Ships Kona",
+      "question": "Full name and current affiliation unclear from personal blog reference; blog mentions 'My Next Steps...YWAM Ships' but name not fully verified.",
+      "evidence_url": "https://katiesywamadventure.wordpress.com/2017/07/10/my-next-steps-ywam-ships/"
+    }
+  ]
+}

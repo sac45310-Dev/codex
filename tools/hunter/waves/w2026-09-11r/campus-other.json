@@ -1,0 +1,606 @@
+{
+  "wave_id": "w2026-09-11r",
+  "agent": "r-campus-other",
+  "target_org": "multiple (named campus and youth organisations; per-record org field)",
+  "slice": "named campus and youth organisations nobody has tested: Search Ministries, Officers' Christian Fellowship, Christian Union, Greek InterVarsity, Every Nation Campus, Delight Ministries, Cru Inner City (+ one Student Mobilization campus-subdomain probe)",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Matthew Raigosa",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/matthew-raigosa",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; campus missionary at Drexel and UPenn"
+    },
+    {
+      "name": "Mark Gonzaga",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-Cultural Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/mark-gonzaga",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; cross-cultural missionary to youth of Costa Rica"
+    },
+    {
+      "name": "Joice Villamor",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-Cultural Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/joice-villamor",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug; title renders as 'Villamor, Joice'; serving with Mosaic Fort Worth"
+    },
+    {
+      "name": "William Galloway",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/william-galloway",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Elizabeth Gerhardt",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/elizabeth-gerhardt",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Kristina Peterson",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kristina-peterson",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; campus missionary at Oregon State University with Grace City Corvallis"
+    },
+    {
+      "name": "Kaitlyn Corley",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kaitlyn-corley",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Lauren Jackson",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/lauren-jackson",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Nadeem Boggerty",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/nadeem-boggerty",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; campus missionary at James Madison University"
+    },
+    {
+      "name": "Destiny Alston",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/destiny-alston",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Joshua Mckoy",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/joshua-mckoy",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Megan Carroll",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/megan-carroll",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Ariana Morgan",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/ariana-morgan",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Nozomi Hunter",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/nozomi-hunter",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Brittney Martinez",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/christian-and-brittney-martinez",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; couple slug 'christian-and-brittney-martinez' but the page TITLE names only 'Brittney Martinez', so only she is emitted; spouse referred to needs_review per the title rule"
+    },
+    {
+      "name": "Alyssa VanderVeen",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Ministry Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/category/missionaries/alyssa-vanderveen",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; campus ministry intern at Columbia College and Northwestern, serving with Second City Church"
+    },
+    {
+      "name": "Addison Pate",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Ministry Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/addison-pate",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; campus ministry intern at Texas State University"
+    },
+    {
+      "name": "Taylynne Asai-Silva",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/taylynne-asai-silva",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Kyla Gibbs",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Ministry Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kyla-gibbs",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; campus ministry intern at Seminole State College"
+    },
+    {
+      "name": "Jessica Ruiz",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Ministry Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jessica-ruiz",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; campus ministry intern at MIT and Berklee College"
+    },
+    {
+      "name": "Thompson Parrish",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Ministry Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/thompson-parrish",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; campus ministry intern at the University of Oregon"
+    },
+    {
+      "name": "Vanessa Torrie",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Ministry Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/vanessa-torrie",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug; title renders as 'Torrie, Vanessa'; campus ministry intern at Auraria Campus"
+    },
+    {
+      "name": "Yujiro Takagi",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-Cultural Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/yujiko-takagi",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; shared couple page, title 'Yujiro and Natsuko Takagi' names both; slug carries the surname (misspelt first name 'yujiko'); Every Nation Campus team in Edinburgh"
+    },
+    {
+      "name": "Natsuko Takagi",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-Cultural Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/yujiko-takagi",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; spouse on the same shared couple page; title 'Yujiro and Natsuko Takagi' names her explicitly though the slug does not; Every Nation Campus team in Edinburgh"
+    },
+    {
+      "name": "Gigi Soliman",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jonathan-gigi-soliman",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; shared couple page, title 'Gigi and Jonathan Soliman' names both; slug carries both first names and the surname"
+    },
+    {
+      "name": "Jonathan Soliman",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jonathan-gigi-soliman",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; shared couple page, title 'Gigi and Jonathan Soliman' names both; slug carries both first names and the surname"
+    },
+    {
+      "name": "Rissa Llanto",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/rissa-llanto",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Gilbert Naron",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/gilbertnaron",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page; slug is the unhyphenated full name 'gilbertnaron' and the title names him"
+    },
+    {
+      "name": "Beatrice Austin",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/category/missionaries/austin-beatrice",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug; title renders as 'Austin, Beatrice'"
+    },
+    {
+      "name": "Lee Simon Brown",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/lee-simon-brown",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Andrew Ambrose",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/andrew-ambrose",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Jessica Betz",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jessica-betz",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Malcolm Laws",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/malcolm-laws",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; campus missionary at Middle Tennessee State University"
+    },
+    {
+      "name": "Brianna Williams",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/brianna-williams",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Danielle Cate",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/danielle-cate",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; campus missionary for Every Nation Campus at Texas State University"
+    },
+    {
+      "name": "Delvin Pikes",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/delvin-pikes",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Danny Crooke",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/danny-and-stephanie-crooke",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; shared couple page, title 'Danny and Stephanie Crooke' names both; slug carries both first names and the surname"
+    },
+    {
+      "name": "Stephanie Crooke",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/danny-and-stephanie-crooke",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; shared couple page, title 'Danny and Stephanie Crooke' names both; slug carries both first names and the surname"
+    },
+    {
+      "name": "DeNail Sparks",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/denail-sparks",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title"
+    },
+    {
+      "name": "Gabriel Kreider",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/gabriel-kreider",
+      "fit_reason": "Tier A; Every Nation employs campus/cross-cultural missionaries who complete Ministry Partnership Development (200-day initial support team) - support-raised; per-person giving page, full name in slug and title; James Madison University graduate now a campus missionary"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "org",
+      "value": "Every Nation / Every Nation Campus (everynation.org, everynation.us) - domain: give.everynation.org",
+      "outcome": "found_people",
+      "note": "HIT. Public giving portal with per-person pages at give.everynation.org/donate/<first>-<last> (some at /category/missionaries/<surname>-<first>). Titles name the person, couple pages name both spouses. Org states missionaries complete Ministry Partnership Development with a 200-day initial support team, so Tier A. Portal claims 324 cross-cultural missionaries available to give to plus a large campus-missionary set; search surfaces only a fraction - this domain deserves a dedicated fetch/crawl pass, it is far from exhausted."
+    },
+    {
+      "kind": "org",
+      "value": "Student Mobilization campus subdomains - stumo.org (national staff.stumo.org login-gated, already dead)",
+      "outcome": "no_people",
+      "note": "One search as instructed. No <campus>.stumo.org/staff.html surfaced in search at all. What does exist is REGIONAL sites on their own domains with flat roster pages: heartlandstumo.org/staff/, ozarkstumo.org/staff, pioneerstumo.org/staff. No per-person giving slug, no individual names readable from URLs or titles - the rosters are rendered inside the page. Not a hit from search; worth a fetch pass on those three roster URLs, not another search."
+    },
+    {
+      "kind": "org",
+      "value": "Search Ministries - searchministries.org",
+      "outcome": "no_people",
+      "note": "Org-level only. searchministries.org/support/ is a single org support page, not per-person. ~60 staff across 23 cities, ECFA-accredited, HQ Fort Worth TX. No staff directory and no per-person giving slug surfaced; individual staff (e.g. an 'Area Director' title) appear only on third-party data-broker profiles (ZoomInfo/Datanyze), which are not citable as the person's own page. Needs a fetch pass on searchministries.org/support/ and any city pages."
+    },
+    {
+      "kind": "org",
+      "value": "Officers' Christian Fellowship - ocfusa.org",
+      "outcome": "no_people",
+      "note": "Flat roster only: ocfusa.org/staff-directory/ exists as a single directory page; no per-person slug. FUNDING CHECK (as instructed, not assumed): OCF's own strategy document says field staff 'has taken an increasing responsibility for fundraising for their LOCAL MINISTRY needs' and directs donors to ocfusa.org/impact for 'key projects to fund' - that is ministry/project fundraising, NOT personal salary support. No OCF statement found that staff raise their own salaries. On that evidence OCF is Tier B, not Tier A. Do not grade Tier A without a direct statement; re-check on a fetch pass of the staff directory and any 'support a staff member' page."
+    },
+    {
+      "kind": "org",
+      "value": "Christian Union - christianunion.org",
+      "outcome": "no_people",
+      "note": "No per-person surface. Giving is org- and centre-level: christianunion.org/get-involved/give (a 'Development Team' page and per-Ministry-Centre funds, e.g. the Columbia Ministry Center raised $503K from 220 partners). FUNDING CHECK (as instructed): Christian Union Ministry Fellows appear to be SALARIED, not support-raised - employee reviews describe 'good compensation ... for those in a Ministry Fellow position' and the org fundraises centrally per ministry centre rather than per staff member. No CU statement found requiring fellows to raise personal support. On that evidence Tier B, not Tier A. Note this is inferred from the giving structure plus review text; a fetch of CU's careers/Ministry Fellow page would settle it."
+    },
+    {
+      "kind": "org",
+      "value": "Greek InterVarsity - greek.intervarsity.org / intervarsity.org/fm/greek",
+      "outcome": "no_people",
+      "note": "Greek IV is a ministry stream INSIDE InterVarsity, not a separate staff surface. Its own pages (greek.intervarsity.org, intervarsity.org/fm/greek/connect, /fm/greek/resources, intervarsity.org/taxonomy/term/866) are programme pages naming no staff. Giving runs through give.intervarsity.org, which offers 'staff' as a designation category but exposed no per-person staff slug in search. InterVarsity is already on WORKED.md (23 held). No separate Greek IV vein - do not re-buy."
+    },
+    {
+      "kind": "org",
+      "value": "Every Nation Philippines - give.everynation.org.ph",
+      "outcome": "no_people",
+      "note": "Separate national giving site. Entry point is give.everynation.org.ph/supportamissionary.aspx - a .aspx form/search, not per-person slugs. Not a hit; the mineable surface is the global give.everynation.org instead."
+    },
+    {
+      "kind": "org",
+      "value": "Delight Ministries - delightministries.com",
+      "outcome": "no_people",
+      "note": "NEGATIVE on tier, not just on surface. Nashville-based nonprofit with a small salaried/hourly staff (job postings on ZipRecruiter, delightministries.com/job-opportunities, ~9-12 employees); chapters are run by student leaders, not by support-raised staff. No staff directory, no per-person giving. Tier B at best - deprioritise."
+    },
+    {
+      "kind": "org",
+      "value": "Cru Inner City - innercity.cru.org / give.cru.org",
+      "outcome": "no_people",
+      "note": "Support-raised (Cru states full-time Inner City staff 'raise their own financial support'), so the TIER is right - but the SURFACE fails. Giving pages are opaque numeric IDs (give.cru.org/2812897, give.cru.org/2869364_2072) whose titles are generic fund names ('Stateside Missionary Staff Support', 'Help Missionary Staff'), not people. Per the numeric-ID rule these could never exceed medium and here they do not even name a person. City team pages (cru.org/us/en/communities/innercity/<city>/) are programme pages. Not mineable from search."
+    },
+    {
+      "kind": "query",
+      "value": "stumo.org staff campus \"staff.html\" Student Mobilization",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "searchministries.org staff team director support",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "ocfusa.org staff give support \"Officers' Christian Fellowship\" field staff funded",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "christianunion.org ministry fellow staff give \"raise support\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greek InterVarsity\" staff donate intervarsity.org/donate/staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Every Nation Campus\" campus missionary support page give staff",
+      "outcome": "no_people",
+      "note": "Discovery only - confirmed Every Nation staff do MPD with a 200-day support team, no URL shape yet"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.everynation.us\" missionary OR staff support",
+      "outcome": "no_people",
+      "note": "give.everynation.us does not exist; the real portal is give.everynation.org"
+    },
+    {
+      "kind": "query",
+      "value": "\"Cru Inner City\" staff give.cru.org support page missionary",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.everynation.org\" campus missionary fund name",
+      "outcome": "no_people",
+      "note": "Returned only fund pages (/donate/enc-campus-expansion, /donate/ministry-expansion) but revealed the /donate/<slug> shape and the /category/missionaries index - this is the search that opened the vein"
+    },
+    {
+      "kind": "query",
+      "value": "\"Delight Ministries\" staff team support raising employees",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "donate missionary campus support family [allowed_domains: give.everynation.org]",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.everynation.org/donate\" missionary support",
+      "outcome": "no_people",
+      "note": "Confirmed the pattern and portal mechanics; returned fund pages rather than new people"
+    },
+    {
+      "kind": "query",
+      "value": "campus missionary university students give monthly partner [allowed_domains: give.everynation.org]",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "missionary intern church planter give -Raigosa -Gonzaga -Villamor -Galloway -Gerhardt -Peterson -Corley -Jackson [allowed_domains: give.everynation.org]",
+      "outcome": "found_people",
+      "note": "Best single yield - exclusions pushed the result set entirely onto campus ministry interns"
+    },
+    {
+      "kind": "query",
+      "value": "cross-cultural missionary serving nations give partner team [allowed_domains: give.everynation.org]",
+      "outcome": "found_people",
+      "note": "Rotating to the cross-cultural qualifier opened a distinct set including couple pages"
+    },
+    {
+      "kind": "query",
+      "value": "campus missionary state university -Raigosa -Boggerty -Alston -Mckoy -Carroll -Morgan -Hunter -Pate -Gibbs -Ruiz -Parrish -Torrie [allowed_domains: give.everynation.org]",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "campus missionary Every Nation Campus college disciples give support -Laws -Peterson -Cate -Williams -Pikes -Ambrose -Betz -Crooke -Brown -Naron [allowed_domains: give.everynation.org]",
+      "outcome": "found_people",
+      "note": "Yield dropping - two new names, rest repeats and fund pages"
+    },
+    {
+      "kind": "query",
+      "value": "\"Search Ministries\" searchministries.org area director staff \"support\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "give donate missionary partner monthly -Sparks -Kreider -Martinez -VanderVeen -Takagi -Soliman -Llanto -Austin -Asai -Torrie -Peterson -Jackson [allowed_domains: give.everynation.org]",
+      "outcome": "no_people",
+      "note": "STOP SIGNAL: every result already held. Exclusion sweep degraded as predicted - search will not paginate further into this portal. Remaining depth needs a fetch pass on give.everynation.org/category/missionaries, not more searches."
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Spouse named in a snippet but on neither the slug nor the page title",
+      "finding": "Bianca Gonzaga, wife of Mark Gonzaga (Every Nation, Costa Rica)",
+      "evidence": "https://give.everynation.org/donate/mark-gonzaga - snippet reads 'Mark Gonzaga, who serves as a cross-cultural missionary to the youth of Costa Rica alongside his wife Bianca and son Luca'. The page title is 'Mark Gonzaga - Give' only.",
+      "recommendation": "Do not emit from the slug/title rule. Fetch the page: if it is a shared family page naming her as a missionary she is Tier A high; if she is only mentioned as a spouse, leave her out. Their son Luca is a child and is out of scope either way."
+    },
+    {
+      "issue": "Couple slug whose title names only one spouse",
+      "finding": "Christian Martinez, apparent spouse of Brittney Martinez (Every Nation)",
+      "evidence": "https://give.everynation.org/donate/christian-and-brittney-martinez - slug names two people, title returned as 'Brittney Martinez - Give - Every Nation'. Per the standing rule (split on the TITLE, never the slug - a two-name slug can outlive one of the two people) only Brittney was emitted.",
+      "recommendation": "Fetch the page before emitting Christian Martinez. Almost certainly a live couple page whose title is simply truncated, but the rule exists because the alternative failure mode is emitting a deceased person."
+    },
+    {
+      "issue": "Slug appears to contain a typo in the first name",
+      "finding": "Yujiro Takagi's giving page is served at /donate/yujiko-takagi ('yujiko', not 'yujiro')",
+      "evidence": "https://give.everynation.org/donate/yujiko-takagi titled 'Yujiro and Natsuko Takagi - Give - Every Nation'",
+      "recommendation": "Emitted as 'Yujiro Takagi' from the title, which is authoritative over the slug. Flagging so a reviewer does not treat the mismatch as a bad citation - the surname in the slug still ties the URL to the couple."
+    },
+    {
+      "issue": "Tier grade contradicts the wave's default assumption for two named orgs",
+      "finding": "Officers' Christian Fellowship and Christian Union both look like SALARIED-staff organisations, not support-raised ones",
+      "evidence": "OCF's own strategy PDF (ocfusa.org/static/uploads/article-pdf/ocf_strategy_07-11.pdf) frames field-staff fundraising as being for 'local ministry needs' and points donors at project funding (ocfusa.org/impact); no personal-salary-support statement found. Christian Union fundraises per Ministry Centre (christianunion.org/columbia/ministry-center/, 220 partners / $503K) and employee reviews describe Ministry Fellows as receiving 'good compensation'.",
+      "recommendation": "Grade both Tier B unless a direct org statement says staff raise their own salaries. Both verdicts rest on indirect evidence (a strategy document and a giving structure), so if either org is ever re-probed, fetch ocfusa.org/staff-directory/ and Christian Union's Ministry Fellow careers page first and settle it on the org's own words."
+    },
+    {
+      "issue": "Mineable surface confirmed but nowhere near exhausted by search",
+      "finding": "give.everynation.org states it carries 324 cross-cultural missionaries plus a separate campus-missionary population across 1,405 campuses; search returns only the same ~40 pages regardless of qualifier rotation and exclusion sweeps",
+      "evidence": "The portal exposes its own index at https://give.everynation.org/category/missionaries and a paginated search endpoint visible in results as https://give.everynation.org/search?categoryId=3&id=n72270&offset=120&searchText=us - note the offset parameter.",
+      "recommendation": "Highest-value follow-up in this slice by a wide margin. A fetch pass walking /category/missionaries and incrementing the offset parameter should enumerate the full roster. Do NOT cite the /search? URL for any person - it is a query-echoing search URL."
+    },
+    {
+      "issue": "Roster pages found but unreadable from search",
+      "finding": "Student Mobilization regional sites carry flat staff rosters on their own domains, not on <campus>.stumo.org",
+      "evidence": "http://heartlandstumo.org/staff/, https://www.ozarkstumo.org/staff, https://www.pioneerstumo.org/staff",
+      "recommendation": "Queue these three for a fetch pass. StuMo staff are support-raised, so if the rosters name people in full they are staff_directory/medium records at minimum. Do not spend more search budget here - the names are not in titles or URLs."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "wave_id": "w2026-09-10h",
+  "agent": "cco-campuses",
+  "target_org": "Coalition for Christian Outreach",
+  "slice": "CCO campuses not yet searched",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Becky Juliano",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/bjuliano",
+      "fit_reason": "Slug bjuliano = B + Juliano; appeared in Waynesburg search; on staff directory"
+    },
+    {
+      "name": "Jamie Jennings Martin",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Assistant Director",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/jjenningsmartin",
+      "fit_reason": "Slug jjenningsmartin differs from standard pattern; compound or multi-part surname; appeared in Westminster search"
+    },
+    {
+      "name": "Steve Montgomery",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/smontgomery",
+      "fit_reason": "Slug smontgomery = S + Montgomery; appeared in Westminster College search"
+    },
+    {
+      "name": "Josh Thompson",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/jthompson",
+      "fit_reason": "Slug jthompson = J + Thompson; appeared in Westminster College search"
+    },
+    {
+      "name": "Celeste Carl",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/ccarl",
+      "fit_reason": "Slug ccarl = C + Carl; appeared in Washington & Jefferson College search"
+    },
+    {
+      "name": "Kendra Logan",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/klogan",
+      "fit_reason": "Slug klogan = K + Logan; appeared in Washington & Jefferson College search"
+    },
+    {
+      "name": "Nicole Schumacher",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/nschumacher",
+      "fit_reason": "Slug nschumacher = N + Schumacher; appeared in Akron University search"
+    },
+    {
+      "name": "Tyler Charles",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/tcharles",
+      "fit_reason": "Slug tcharles = T + Charles; appeared in Akron University search"
+    },
+    {
+      "name": "Connor Hoffman",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/choffman",
+      "fit_reason": "Slug choffman = C + Hoffman; appeared in Rochester area search"
+    },
+    {
+      "name": "John Myers",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/jmyers",
+      "fit_reason": "Slug jmyers = J + Myers; appeared in Rochester area search"
+    },
+    {
+      "name": "Julianna Kish",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/jkish",
+      "fit_reason": "Slug jkish = J + Kish; appeared in Rochester area search"
+    },
+    {
+      "name": "Ben Thompson",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/bthompson",
+      "fit_reason": "Slug bthompson = B + Thompson; appeared in Buffalo area search"
+    },
+    {
+      "name": "Jessica Stover",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/jessica-stover",
+      "fit_reason": "Slug jessica-stover indicates first-name + surname format; appeared in Chatham University search"
+    },
+    {
+      "name": "Jennifer Pelling",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Ministry",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ccojubilee.org/staff/jpelling",
+      "fit_reason": "Slug jpelling = J + Pelling; appeared in Chatham University search"
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "site:ccojubilee.org/staff Waynesburg", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Westminster College Pennsylvania", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff \"Seton Hill\"", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff \"Washington & Jefferson\"", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff \"Saint Vincent\"", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Youngstown State", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Akron", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff \"Case Western\"", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Northeastern", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Rutgers", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Tufts", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Rochester", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Buffalo", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/campus-detail", "outcome": "offtopic"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Carlow Chatham", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Ithaca Syracuse", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff \"Bowling Green\" Toledo Dayton", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ccojubilee.org/staff Towson Maryland Salisbury", "outcome": "no_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "Held surnames excluded from output",
+      "finding": "Searches returned staff members whose surnames appear in the w2026-09-10g held list: Ray Wiesen, Ginger Weeber, Li Dong, Ryan Ruffing, Rick Whitlock, Lindsey Scalera, Ammiel Francis, Becky Vargo, Will Gigante, Bob Robinson, Heather Strong Moore, Brandie Daniels-Anderson, Justin Harbison, Ana Wakeman",
+      "evidence": "These appeared in campus searches (Rutgers, Rochester, Buffalo, Ithaca) but their surnames already exist in prior wave records; excluded from people[] to avoid duplication at ingest",
+      "recommendation": "Verify deduplication in ingest process; these individuals may represent new campus assignments not previously recorded"
+    },
+    {
+      "issue": "Campus-detail enumeration conducted",
+      "finding": "Query site:ccojubilee.org/campus-detail returned listing of CCO's active campuses: College of Charleston, University of Pittsburgh, University of Delaware, Fresno City College, Arcadia University, Slippery Rock University, UC Santa Cruz, Duquesne University, Robert Morris University, Franklin & Marshall College, and others",
+      "evidence": "URLs: https://ccojubilee.org/campus-detail/* pages",
+      "recommendation": "This enumeration identified additional campuses CCO serves; could guide future campus-axis searches by other agents"
+    },
+    {
+      "issue": "Search exhaustion indicators",
+      "finding": "Three search patterns returned no results from ccojubilee.org/staff: Seton Hill, Saint Vincent, Case Western, Tufts, Youngstown State, Bowling Green/Toledo/Dayton, Towson/Maryland/Salisbury regions. This may indicate CCO has limited or no presence at these institutions",
+      "evidence": "Eight searches returning only non-CCO Wikipedia and general pages",
+      "recommendation": "These campuses may lack CCO staff presence or URL patterns may differ; consider as negative-space findings"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:ophomefront",
+  "roster_verdict": "rostered",
+  "target_org": "Operation Homefront",
+  "people": [
+    {
+      "org_name": "Stephanie Vargas",
+      "summary": "Operation Homefront — Vice President of Individual Giving",
+      "fit_score": 9,
+      "fit_reason": "Tier B: Leads integrated major and planned giving program with target of $7M by 2029; directly responsible for individual donor strategy and cultivation.",
+      "source_query": "hunter:w2026-08-30f:ophomefront",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President of Individual Giving",
+        "target_org": "Operation Homefront",
+        "evidence_url": "https://operationhomefront.org/oh-welcomes-stephanie-vargas/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jill Eskin-Smith",
+      "summary": "Operation Homefront — Senior Vice President of Corporate & Foundation Partnerships",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Senior VP overseeing philanthropic partnerships and foundation relations, managing corporate giving strategy and major gift cultivation.",
+      "source_query": "hunter:w2026-08-30f:ophomefront",
+      "meta": {
+        "tier": "B",
+        "role": "Senior Vice President of Corporate & Foundation Partnerships",
+        "target_org": "Operation Homefront",
+        "evidence_url": "https://www.zoominfo.com/pic/operation-homefront-inc/214074768?pageNum=3",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Regan Huneycutt",
+      "summary": "Operation Homefront — Chief Revenue Officer",
+      "fit_score": 7,
+      "fit_reason": "Tier B: CRO with oversight of revenue streams including individual giving, major gifts, and philanthropic partnerships across the organization.",
+      "source_query": "hunter:w2026-08-30f:ophomefront",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Revenue Officer",
+        "target_org": "Operation Homefront",
+        "evidence_url": "https://www.zoominfo.com/pic/operation-homefront-inc/214074768?pageNum=3",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Uli Correa",
+      "summary": "Operation Homefront — Board Chair",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board chair providing governance and strategic direction for organization; potential influencer on major gift and partnership decisions.",
+      "source_query": "hunter:w2026-08-30f:ophomefront",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Operation Homefront",
+        "evidence_url": "https://operationhomefront.org/leadership-board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tim Cooper",
+      "summary": "Operation Homefront — National Board Member",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board member; SVP Supply Chain Operations at Walmart with veteran background; potential corporate partnership and major donor influencer.",
+      "source_query": "hunter:w2026-08-30f:ophomefront",
+      "meta": {
+        "tier": "C",
+        "role": "National Board Member",
+        "target_org": "Operation Homefront",
+        "evidence_url": "https://operationhomefront.org/tim-cooper-joins-national-board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Karen Genneken",
+      "summary": "Operation Homefront — National Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board member; CEO of C-Suite Flex Execs; potential executive engagement and corporate partnership influencer.",
+      "source_query": "hunter:w2026-08-30f:ophomefront",
+      "meta": {
+        "tier": "C",
+        "role": "National Board Member",
+        "target_org": "Operation Homefront",
+        "evidence_url": "https://operationhomefront.org/karen-genneken-joins-board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Erv Lessel",
+      "summary": "Operation Homefront — National Board Member",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board member; Major General retired (31-year Air Force career), executive coach and consultant; military connection and donor influencer potential.",
+      "source_query": "hunter:w2026-08-30f:ophomefront",
+      "meta": {
+        "tier": "C",
+        "role": "National Board Member",
+        "target_org": "Operation Homefront",
+        "evidence_url": "https://operationhomefront.org/erv-lessel-joins-national-board-of-directors/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Operation Homefront",
+      "website": "https://operationhomefront.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Secular 501(c)(3) nonprofit founded 2002, headquartered San Antonio TX, serving ill/injured veterans and military families"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Operation Homefront staff directory team San Antonio",
+      "outcome": "found_people",
+      "people_found": 8
+    },
+    {
+      "kind": "query",
+      "value": "Operation Homefront development advancement major gifts",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Operation Homefront donor relations individual giving",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Operation Homefront board members trustees leadership",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "\"Operation Homefront\" annual fund fundraising staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:operationhomefront.org staff team contact",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Breanna Baer",
+      "reason_code": "already_in_crm",
+      "detail": "VP Field Development - already in CRM, excluded per instructions"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:cfrichmond",
+  "target_org": "Community Foundation for Greater Richmond",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Sarah Arenstein",
+      "org_type": "individual",
+      "city": "Richmond",
+      "state": "VA",
+      "summary": "Community Foundation for Greater Richmond — Philanthropic Advisor",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Philanthropic Advisor with direct responsibility for donor engagement and giving strategy within development function at largest Virginia community foundation.",
+      "source_query": "hunter:w2026-08-30f:cfrichmond",
+      "meta": {
+        "tier": "B",
+        "role": "Philanthropic Advisor",
+        "target_org": "Community Foundation for Greater Richmond",
+        "evidence_url": "https://www.cfrichmond.org/discover/cf/meet-us/experts",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Jonathan Putt",
+      "org_type": "individual",
+      "city": "Richmond",
+      "state": "VA",
+      "summary": "Community Foundation for Greater Richmond — Philanthropic Advisor",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Philanthropic Advisor with responsibility for donor relations and philanthropic planning strategy within development structure.",
+      "source_query": "hunter:w2026-08-30f:cfrichmond",
+      "meta": {
+        "tier": "B",
+        "role": "Philanthropic Advisor",
+        "target_org": "Community Foundation for Greater Richmond",
+        "evidence_url": "https://www.cfrichmond.org/discover/cf/meet-us/experts",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Sarah Holland",
+      "org_type": "individual",
+      "city": "Richmond",
+      "state": "VA",
+      "summary": "Community Foundation for Greater Richmond — Chief Impact Officer",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Executive leadership role as Chief Impact Officer overseeing philanthropic outcomes and donor engagement at organization with $876M in assets.",
+      "source_query": "hunter:w2026-08-30f:cfrichmond",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Impact Officer",
+        "target_org": "Community Foundation for Greater Richmond",
+        "evidence_url": "https://www.cfrichmond.org/discover/cf/meet-us/experts",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Community Foundation for Greater Richmond",
+      "website": "https://www.cfrichmond.org",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "headcount_est": 35,
+      "faith_orientation": "secular",
+      "evidence": "Richmond VA, founded 1968. Largest community foundation in Virginia, third largest in Southeast. Manages 1,000+ charitable funds with $876M in assets. Serves Richmond, Ashland, Colonial Heights, Hopewell, Petersburg and surrounding counties. 501(c)(3) EIN 23-7009135. Address: 3409 Moore Street, Richmond, VA 23230."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Community Foundation for Greater Richmond staff development philanthropic advisor",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "cfrichmond.org team leadership executives board",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Community Foundation for Greater Richmond\" donor services advancement officer",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Community Foundation for Greater Richmond\" staff directory board trustees",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Community Foundation Greater Richmond Virginia director development grants",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "cfrichmond Richmond Virginia community foundation leadership team contact",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Veronica Fleming",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as representative in search results but role and employment status unclear; insufficient evidence of staff position or governance role"
+    }
+  ],
+  "needs_review": []
+}

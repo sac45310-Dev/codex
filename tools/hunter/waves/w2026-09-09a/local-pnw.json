@@ -1,0 +1,483 @@
+{
+  "wave_id": "w2026-09-09a",
+  "agent": "local:pacific-northwest",
+  "searches_used": 18,
+  "orgs_discovered": [
+    {
+      "org_name": "El Centro de la Raza",
+      "website": "https://www.elcentrodelaraza.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "A",
+      "faith_orientation": "secular",
+      "city": "Seattle",
+      "state": "WA",
+      "notes": "Educational, cultural, and social service agency centered in Latino/Chicano community. Founded 1972. Annual gala fundraiser."
+    },
+    {
+      "org_name": "FareStart",
+      "website": "https://www.farestart.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "A",
+      "faith_orientation": "secular",
+      "city": "Seattle",
+      "state": "WA",
+      "notes": "Restaurant industry job training for homeless/disadvantaged. 33rd Annual Gala raised $2M+ in 2025."
+    },
+    {
+      "org_name": "Real Change Homeless Empowerment Project",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Seattle",
+      "state": "WA",
+      "notes": "Homeless empowerment services. EIN 91-1817387."
+    },
+    {
+      "org_name": "Seattle King County Coalition On Homelessness",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Seattle",
+      "state": "WA",
+      "notes": "Homelessness advocacy and coalition. EIN 82-1831734."
+    },
+    {
+      "org_name": "Ronald McDonald House Charities of Western Washington & Alaska",
+      "website": "https://rmhcseattle.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Seattle",
+      "state": "WA",
+      "notes": "Family support for children's medical care. 39th Annual Gala October 17, 2026."
+    },
+    {
+      "org_name": "Alliance for Education",
+      "website": "https://www.alliance4ed.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Seattle",
+      "state": "WA",
+      "notes": "Education nonprofit. Annual gala fundraiser event."
+    },
+    {
+      "org_name": "The Goodtimes Project",
+      "website": "https://www.thegoodtimesproject.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Seattle",
+      "state": "WA",
+      "notes": "Community nonprofit. 23rd Annual Goodtimes Gala May 2, 2026."
+    },
+    {
+      "org_name": "Downtown Emergency Service Center",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Seattle",
+      "state": "WA",
+      "notes": "Homeless emergency shelter services."
+    },
+    {
+      "org_name": "Transition Projects",
+      "website": "https://www.tprojects.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "A",
+      "faith_orientation": "secular",
+      "city": "Portland",
+      "state": "OR",
+      "notes": "Homeless services. Assists 10,000+ annually, placed 800+ in housing last year. IMPACT Gala April 25, 2026."
+    },
+    {
+      "org_name": "NAYA (Native American Youth and Family Center)",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "A",
+      "faith_orientation": "secular",
+      "city": "Portland",
+      "state": "OR",
+      "notes": "Native American youth and family services. 50+ years serving Portland region. Annual Gala Nov 14, 2025."
+    },
+    {
+      "org_name": "Portland Youthbuilders",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Portland",
+      "state": "OR",
+      "notes": "Youth development programs. EIN 94-3123483."
+    },
+    {
+      "org_name": "Youth Mentoring Connection",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Portland",
+      "state": "OR",
+      "notes": "Youth mentoring. EIN 95-4845105."
+    },
+    {
+      "org_name": "Relay Resources",
+      "website": "https://www.relayresources.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Portland",
+      "state": "OR",
+      "notes": "Disability services and inclusion. 75th Anniversary Gala April 15, 2026."
+    },
+    {
+      "org_name": "OMSI (Oregon Museum of Science and Industry)",
+      "website": "https://omsi.edu/",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Portland",
+      "state": "OR",
+      "notes": "Science museum and education. Annual gala May 2, 2026."
+    },
+    {
+      "org_name": "Springfield Neighborhood Housing",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Springfield",
+      "state": "OR",
+      "notes": "Community housing development. Form 990s available since 2015."
+    },
+    {
+      "org_name": "Oregon Community Programs",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Eugene",
+      "state": "OR",
+      "notes": "Community programs organization. Filed 2024."
+    },
+    {
+      "org_name": "Building Community Thru Healing Homelessness",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Eugene",
+      "state": "OR",
+      "notes": "Homelessness services and healing. EIN 99-4146662."
+    },
+    {
+      "org_name": "Eugene Mission",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Eugene",
+      "state": "OR",
+      "notes": "Homeless shelter. 2024 revenue $8.02M, expenses $8.13M, assets $10.3M."
+    },
+    {
+      "org_name": "Hospice of Spokane",
+      "website": "https://www.hospiceofspokane.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Spokane",
+      "state": "WA",
+      "notes": "Non-profit hospice since 1977. Only non-profit hospice in Greater Spokane area. 2024 revenue $24.6M."
+    },
+    {
+      "org_name": "Community Health Association of Spokane",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Spokane",
+      "state": "WA",
+      "notes": "Community health center. 2024 revenue $300M, assets $232M. Major health services provider."
+    },
+    {
+      "org_name": "Spokane Treatment And Recovery Services",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Spokane",
+      "state": "WA",
+      "notes": "Addiction treatment and recovery services. EIN 91-1108762."
+    },
+    {
+      "org_name": "Tacoma Healing Awareness Community",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Tacoma",
+      "state": "WA",
+      "notes": "Addiction recovery and healing community. EIN 84-4621393."
+    },
+    {
+      "org_name": "JFT Recovery And Veterans Support Services",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Tacoma",
+      "state": "WA",
+      "notes": "Veterans and recovery services. Military/Veterans organization. EIN 46-4799132."
+    },
+    {
+      "org_name": "Cali Cats Animal Rescue",
+      "website": "https://www.calicatsrescue.com/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Fresno",
+      "state": "CA",
+      "notes": "Cat rescue and TNR programs. Founded 2024. Accepts donations via Zeffy."
+    },
+    {
+      "org_name": "Fresno Humane Animal Services",
+      "website": "https://www.fresnohumane.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Fresno",
+      "state": "CA",
+      "notes": "Animal shelter and humane services. Adoption and welfare programs."
+    },
+    {
+      "org_name": "Animal Compassion Team",
+      "website": "https://www.animalcompassionteam.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Fresno",
+      "state": "CA",
+      "notes": "Animal rescue and welfare. Fresno area."
+    },
+    {
+      "org_name": "Central California SPCA",
+      "website": "https://ccspca.com/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Fresno",
+      "state": "CA",
+      "notes": "Animal shelter and welfare. Helping animals since 1895."
+    },
+    {
+      "org_name": "Fresno Wildlife Rescue & Rehabilitation Service",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Clovis",
+      "state": "CA",
+      "notes": "Wildlife rescue and rehabilitation. All-volunteer non-profit. EIN 94-2628893."
+    },
+    {
+      "org_name": "City Of Refuge Sacramento",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Sacramento",
+      "state": "CA",
+      "notes": "Refugee resettlement and services. EIN 46-2676243."
+    },
+    {
+      "org_name": "The Refugee Education Center",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Sacramento",
+      "state": "CA",
+      "notes": "Refugee education services. EIN 61-0770896."
+    },
+    {
+      "org_name": "Refugees Enrichment & Development Association Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Sacramento",
+      "state": "CA",
+      "notes": "Refugee enrichment and development. EIN 82-2023971."
+    },
+    {
+      "org_name": "Fresh Start Refugee Assistance Center",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Sacramento",
+      "state": "CA",
+      "notes": "Refugee assistance services. EIN 82-1079316."
+    },
+    {
+      "org_name": "Sacramento Food Bank & Family Services",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Sacramento",
+      "state": "CA",
+      "notes": "Food bank and family services. Sacramento Region Community Foundation grantee."
+    },
+    {
+      "org_name": "Central Oregon Youth Development Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Central Oregon",
+      "state": "OR",
+      "notes": "Youth development programs. EIN 45-3729085."
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Seattle Washington homeless rescue mission",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Portland Oregon nonprofit youth mentoring after-school",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:causeiq.com Sacramento Fresno California nonprofit animal rescue refugee",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Tacoma Washington nonprofit addiction recovery veterans services",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Spokane Washington nonprofit free clinic hospice community development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Eugene Oregon nonprofit literacy crisis pregnancy center community",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"GiveBIG\" Washington 2026 participating nonprofits Seattle Tacoma",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Willamette Valley Community Foundation\" OR \"Oregon Community Foundation\" grantees nonprofits",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Sacramento Region Community Foundation\" OR \"Community Foundation\" Sacramento Fresno grantees nonprofits",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Seattle nonprofit \"executive director\" gala fundraiser event 2025 2026",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Portland Oregon nonprofit \"executive director\" gala fundraiser 2025 2026",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"El Centro de la Raza\" Seattle donate website OR \"NAYA\" Portland donate Native American",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"FareStart\" Seattle donate website OR \"Transition Projects\" Portland homeless",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Animal Rescue of Fresno\" OR \"Cali Cats Animal Rescue\" Fresno donate website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Mercy Community Crisis Pregnancy Center\" OR \"Lifeline Crisis Pregnancy Center\" donate website",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Hospice of Spokane\" OR \"Community Health Association of Spokane\" donate website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Eugene Springfield Oregon nonprofit community development homeless",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Sacramento Fresno Modesto California nonprofit refugee literacy",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Mercy Community Crisis Pregnancy Center",
+      "reason_code": "wrong_geography",
+      "detail": "Located in Reading, Pennsylvania - outside Pacific Northwest and Northern California territory"
+    }
+  ],
+  "needs_review": []
+}

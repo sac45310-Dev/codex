@@ -1,0 +1,134 @@
+{
+  "wave_id": "pilot-2026-08-29",
+  "agent": "verifier",
+  "verified": [
+    {
+      "name": "Perry Jones",
+      "org": "Capital City Rescue Mission",
+      "verdict": "ok",
+      "evidence": "Executive Director confirmed; 40+ years tenure; Albany NY rescue mission leadership established"
+    },
+    {
+      "name": "Brian Kushman",
+      "org": "World Gospel Mission",
+      "verdict": "ok",
+      "evidence": "Missionary with wife Paula confirmed; serving WGM Hispanic Ministries USA in theological education and church support"
+    },
+    {
+      "name": "Gabe Ernst",
+      "org": "World Gospel Mission",
+      "verdict": "ok",
+      "evidence": "Missionary with wife Dahiana confirmed; serving indigenous ministry Paraguay since 2022; support-raised status confirmed"
+    },
+    {
+      "name": "Robin McCarthy",
+      "org": "Good Shepherd Food Bank",
+      "verdict": "ok",
+      "evidence": "Chief Advancement Officer promoted from nationwide search; development/communications leadership confirmed"
+    },
+    {
+      "name": "David Kerney",
+      "org": "World Gospel Mission",
+      "verdict": "ok",
+      "evidence": "Missionary with Rachel Kerney confirmed; mid-term missionary in Texas; teaching/evangelism/compassionate ministries"
+    },
+    {
+      "name": "Benji Jenkins",
+      "org": "World Gospel Mission",
+      "verdict": "ok",
+      "evidence": "Area Team Leader Asia Pacific confirmed; missionary support leadership for Papua New Guinea, Cambodia, South Korea regions"
+    },
+    {
+      "name": "Betsy Phillips",
+      "org": "World Gospel Mission",
+      "verdict": "ok",
+      "evidence": "Missionary confirmed; 26 years cross-cultural ministry; currently teaching Bible in Albania; support-raised status confirmed"
+    },
+    {
+      "name": "Moselle Stark",
+      "org": "World Gospel Mission",
+      "verdict": "ok",
+      "evidence": "Missionary with husband Kevin confirmed; OB/GYN doctor in Kenya training medical residents; support-raised missionary status"
+    }
+  ],
+  "adjudicated": [
+    {
+      "name": "The Gospel Mission",
+      "org": "The Gospel Mission",
+      "decision": "accept",
+      "tier": "B",
+      "fit": 6,
+      "reasoning": "Established 80+ year Siouxland rescue mission; legitimate nonprofit with community-driven donor model; development staff exist"
+    },
+    {
+      "name": "World Gospel Mission",
+      "org": "World Gospel Mission",
+      "decision": "accept",
+      "tier": "B",
+      "fit": 8,
+      "reasoning": "Confirmed legitimate missionary organization; 236+ missionaries across 23 countries; established development/advancement infrastructure"
+    },
+    {
+      "name": "Real Change Seattle",
+      "org": "Real Change",
+      "decision": "accept",
+      "tier": "B",
+      "fit": 6,
+      "reasoning": "Seattle nonprofit with development director role; $1.4M budget supported by individual gifts, grants, sponsorships; active fundraising"
+    },
+    {
+      "name": "Mission House Northeast Florida",
+      "org": "Mission House",
+      "decision": "accept",
+      "tier": "B",
+      "fit": 5,
+      "reasoning": "20+ year Jacksonville nonprofit serving homeless; executive director position exists; individual donor focus evident"
+    },
+    {
+      "name": "The Mission Continues",
+      "org": "The Mission Continues",
+      "decision": "accept",
+      "tier": "B",
+      "fit": 7,
+      "reasoning": "National veteran nonprofit; 40+ city service platoons; established individual donor program with DAF/matching gift options"
+    },
+    {
+      "name": "Cohen Veterans Network",
+      "org": "Cohen Veterans Network",
+      "decision": "accept",
+      "tier": "C",
+      "fit": 7,
+      "reasoning": "Large veteran mental health network; $87M+ budget, 22 clinics; actively solicits individual/philanthropic partnership support"
+    },
+    {
+      "name": "Gleaners Community Food Bank",
+      "org": "Gleaners Community Food Bank",
+      "decision": "accept",
+      "tier": "B",
+      "fit": 6,
+      "reasoning": "Michigan food bank serving 1M+ households annually; actively seeks individual donations through website and virtual food drives"
+    },
+    {
+      "name": "John & Donna McMath",
+      "org": "Fellowship International Mission",
+      "decision": "accept",
+      "tier": "A",
+      "fit": 8,
+      "reasoning": "Confirmed FIM missionaries on pray-for-missionaries page; teach online courses for Filipino church leaders; Philippines/Italy involvement"
+    },
+    {
+      "name": "Oscar & Jenny Mata",
+      "org": "Fellowship International Mission",
+      "decision": "still_unclear",
+      "reasoning": "Mentioned in FIM prayer materials for Mexico ministry but specific role, employment status, and tier remain unclear from search evidence"
+    },
+    {
+      "name": "Ben Porter, Dan Baetz, David Marttunen, Richard Flemming, Bob Holmes",
+      "org": "Fellowship International Mission",
+      "decision": "still_unclear",
+      "reasoning": "Ben Porter active as FIM director; Dan Baetz confirmed in mission leadership; others unconfirmed; historical status mixed with unclear current viability"
+    }
+  ],
+  "false_positive_rate": 0.0,
+  "notes": "All 8 sample records verified with search evidence. Strong World Gospel Mission cohort (6 of 8) with confirmed support-raised missionaries. Organization prospects all legitimate nonprofits with individual donor models. FIM individuals: McMaths confirmed, Matas require follow-up, historical board members show mixed current engagement."
+}

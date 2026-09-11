@@ -1,0 +1,409 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:christar",
+  "target_org": "Christar",
+  "roster_verdict": "exhausted",
+  "notes": "Initial roster sweep completed with 5 successful WebSearch queries. Web search budget exhausted. Identified 8 Tier B executive/director staff and 11 Tier C board members. Tier A workers not individually named in search results despite evidence of 353 active workers serving across 28 countries. Personal giving page URLs referenced but not individually enumerated in search results.",
+  "people": [
+    {
+      "org_name": "James Capaldo",
+      "org_type": "individual",
+      "website": "",
+      "city": "Richardson",
+      "state": "TX",
+      "summary": "Christar — U.S. Director",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Key leadership position, appointed U.S. Director July 1, 2024",
+      "meta": {
+        "tier": "B",
+        "role": "U.S. Director",
+        "target_org": "Christar",
+        "evidence_url": "https://christar.org/leadership",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Daniel Bethel",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — International Director",
+      "fit_score": 7,
+      "fit_reason": "Tier B: International director leading global operations and 353 workers across 28 countries",
+      "meta": {
+        "tier": "B",
+        "role": "International Director",
+        "target_org": "Christar",
+        "evidence_url": "https://christar.org/files/Transformation%20Update/Christar%202025%20Annual%20Report.pdf",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Peter Bowers",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — Church-Planting Division Director",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Director of key ministry division",
+      "meta": {
+        "tier": "B",
+        "role": "Church-Planting Division Director",
+        "target_org": "Christar",
+        "evidence_url": "https://christar.org/files/Transformation%20Update/Christar%202025%20Annual%20Report.pdf",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Andrew Broeckelman",
+      "org_type": "individual",
+      "website": "",
+      "city": "Richardson",
+      "state": "TX",
+      "summary": "Christar — Executive Team Director",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Member of U.S. Executive Team",
+      "meta": {
+        "tier": "B",
+        "role": "Director",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mark Burkholder",
+      "org_type": "individual",
+      "website": "",
+      "city": "Richardson",
+      "state": "TX",
+      "summary": "Christar — Director of Personnel",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Director overseeing personnel management",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Personnel",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mark Ciliberti",
+      "org_type": "individual",
+      "website": "",
+      "city": "Richardson",
+      "state": "TX",
+      "summary": "Christar — Executive Team Director",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Member of U.S. Executive Team",
+      "meta": {
+        "tier": "B",
+        "role": "Director",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jared Gray",
+      "org_type": "individual",
+      "website": "",
+      "city": "Richardson",
+      "state": "TX",
+      "summary": "Christar — Director of Finance",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Director of financial operations",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Finance",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Beverly Guy",
+      "org_type": "individual",
+      "website": "",
+      "city": "Richardson",
+      "state": "TX",
+      "summary": "Christar — Director of Communications",
+      "fit_score": 5,
+      "fit_reason": "Tier B: Director of communications and donor relations",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Communications",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "H. Eugene Williams III",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — Board Chairman",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board chair providing governance and strategic direction",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chairman",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Keith Carlson",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Chuck Hendricks",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Eric M'Barine",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Marvin Newell",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member with doctoral credential",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ruth Nystrom",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Greg Parsons",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member with doctoral credential",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Durwood Thompson Jr.",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member (Woody Thompson Jr.)",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Caleb Wong",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Brad Wright",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Christar — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member with doctoral credential",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Christar",
+        "evidence_url": "https://www.christar.org/project/christar-mobilization-center-u-s",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "name": "Christar",
+      "website": "https://christar.org",
+      "location": "Richardson, TX",
+      "summary": "International evangelical Christian mission organization serving least-reached peoples. 353 workers across 81 teams in 28 countries.",
+      "evidence_url": "https://christar.org/files/Transformation%20Update/Christar%202025%20Annual%20Report.pdf"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:christar.org workers missionaries",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:christar.org staff leadership team",
+      "outcome": "found_people",
+      "people_found": 14
+    },
+    {
+      "kind": "query",
+      "value": "site:christar.org give workers support",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Christar missionaries support raised personal giving page",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:christar.org president director executive",
+      "outcome": "found_people",
+      "people_found": 8
+    },
+    {
+      "kind": "query",
+      "value": "christar.org/give/workers designation page",
+      "outcome": "budget_exhausted",
+      "people_found": null
+    },
+    {
+      "kind": "query",
+      "value": "site:christar.org board directors members",
+      "outcome": "budget_exhausted",
+      "people_found": null
+    },
+    {
+      "kind": "query",
+      "value": "Christar Richardson TX missionary support us personal giving",
+      "outcome": "budget_exhausted",
+      "people_found": null
+    },
+    {
+      "kind": "query",
+      "value": "site:christar.org team members profiles workers overseas",
+      "outcome": "budget_exhausted",
+      "people_found": null
+    },
+    {
+      "kind": "query",
+      "value": "James Capaldo Christar U.S. director",
+      "outcome": "budget_exhausted",
+      "people_found": null
+    }
+  ],
+  "negatives": [
+    "No individual Tier A workers with verified personal giving page URLs found in search results, despite evidence of 353 active workers",
+    "Nancy H. board member name incomplete - excluded from roster due to insufficient identifying information"
+  ],
+  "needs_review": []
+}

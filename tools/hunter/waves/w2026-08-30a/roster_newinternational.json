@@ -1,0 +1,227 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:newinternational",
+  "target_org": "New International",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Jeff Metzger",
+      "summary": "New International — CEO/President",
+      "fit_score": 9,
+      "fit_reason": "Tier C - Board/Executive leadership. CEO and President since 2015, founder influence, leading organization of 200+ missionaries.",
+      "source_query": "hunter:w2026-08-30a:newinternational",
+      "meta": {
+        "tier": "C",
+        "role": "CEO/President",
+        "target_org": "New International",
+        "evidence_url": "https://newinternational.org/discover/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Larry Boden",
+      "summary": "New International — Board Chairman",
+      "fit_score": 9,
+      "fit_reason": "Tier C - Board member. Board chairman of 10-member board with fiduciary responsibility.",
+      "source_query": "hunter:w2026-08-30a:newinternational",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chairman",
+        "target_org": "New International",
+        "evidence_url": "https://newinternational.org/discover/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Susan Caple",
+      "summary": "New International — Chief Accounting Officer",
+      "fit_score": 8,
+      "fit_reason": "Tier C - Executive leadership. C-level officer, former CFO (June 2005 - March 2025), currently CAO.",
+      "source_query": "hunter:w2026-08-30a:newinternational",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Accounting Officer",
+        "target_org": "New International",
+        "evidence_url": "https://www.linkedin.com/in/susan-caple-98708915/",
+        "linkedin_url": "https://www.linkedin.com/in/susan-caple-98708915/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jim Vogel",
+      "summary": "New International — Chief International Officer",
+      "fit_score": 8,
+      "fit_reason": "Tier C - Executive leadership. C-level officer with international portfolio.",
+      "source_query": "hunter:w2026-08-30a:newinternational",
+      "meta": {
+        "tier": "C",
+        "role": "Chief International Officer",
+        "target_org": "New International",
+        "evidence_url": "https://newinternational.org/discover/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mark Michael",
+      "summary": "New International — Chief People Officer",
+      "fit_score": 8,
+      "fit_reason": "Tier C - Executive leadership. C-level officer managing human resources.",
+      "source_query": "hunter:w2026-08-30a:newinternational",
+      "meta": {
+        "tier": "C",
+        "role": "Chief People Officer",
+        "target_org": "New International",
+        "evidence_url": "https://newinternational.org/discover/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jayson Simonson",
+      "summary": "New International — Chief Financial Officer",
+      "fit_score": 8,
+      "fit_reason": "Tier C - Executive leadership. C-level officer managing financial operations.",
+      "source_query": "hunter:w2026-08-30a:newinternational",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Financial Officer",
+        "target_org": "New International",
+        "evidence_url": "https://newinternational.org/discover/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bernie Anderson",
+      "summary": "New International — Support-Raised Missionary",
+      "fit_score": 9,
+      "fit_reason": "Tier A - Support-raised missionary. Public giving campaign page indicates personal support-raising model.",
+      "source_query": "hunter:w2026-08-30a:newinternational",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "New International",
+        "evidence_url": "https://www.newinternational.org/give/campaign/bernie-renee-anderson",
+        "donation_page": "https://www.newinternational.org/give/campaign/bernie-renee-anderson",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Renee Anderson",
+      "summary": "New International — Support-Raised Missionary",
+      "fit_score": 9,
+      "fit_reason": "Tier A - Support-raised missionary. Public giving campaign page indicates personal support-raising model.",
+      "source_query": "hunter:w2026-08-30a:newinternational",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "New International",
+        "evidence_url": "https://www.newinternational.org/give/campaign/bernie-renee-anderson",
+        "donation_page": "https://www.newinternational.org/give/campaign/bernie-renee-anderson",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Marty Steiner",
+      "summary": "New International — Finance Division Staff",
+      "fit_score": 7,
+      "fit_reason": "Tier A/B - Support-raised staff member in Finance Division based on org model stating all staff raise support.",
+      "source_query": "hunter:w2026-08-30a:newinternational",
+      "meta": {
+        "tier": "A",
+        "role": "Finance Division",
+        "target_org": "New International",
+        "evidence_url": "https://newinternational.org/give/campaign/marty-jeannette-steiner",
+        "donation_page": "https://newinternational.org/give/campaign/marty-jeannette-steiner",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Jeannette Steiner",
+      "summary": "New International — Information Technology Division Staff",
+      "fit_score": 7,
+      "fit_reason": "Tier A/B - Support-raised staff member in IT Division based on org model stating all staff raise support.",
+      "source_query": "hunter:w2026-08-30a:newinternational",
+      "meta": {
+        "tier": "A",
+        "role": "Information Technology Division",
+        "target_org": "New International",
+        "evidence_url": "https://newinternational.org/give/campaign/marty-jeannette-steiner",
+        "donation_page": "https://newinternational.org/give/campaign/marty-jeannette-steiner",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "New International",
+      "website": "https://newinternational.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "headcount_est": 225,
+      "faith_orientation": "christian",
+      "evidence": "Rebranded from New Mission Systems International (NMSI) in January 2019. International community of 200+ missionaries serving in 26 countries in ministries of church multiplication, community transformation, global youth ministry and marketplace ministry. Founded in 1989, incorporated in 1991. Fort Myers, Florida-based mission sending agency. All missionaries and home office staff raise support. 4-star Charity Navigator rating, ECFA member."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "New International newinternational.org staff team leadership",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "\"New International\" board members directors missionaries",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:newinternational.org team staff about",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Jeff Metzger\" \"New International\" CEO missionaries",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "New International missionaries field directors support-raised",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"New International\" development director advancement donor relations",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Larry Boden\" \"New International\" board chairman",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "New International NMSI \"Susan Caple\" \"Jim Vogel\" \"Mark Michael\" officers",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "newinternational.org missionaries give campaign support",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"New International\" missionaries \"field director\" OR \"development\" OR \"advancement\" team members",
+      "outcome": "found_people",
+      "people_found": 0
+    }
+  ]
+}

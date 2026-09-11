@@ -1,0 +1,55 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:heartforafrica",
+  "target_org": "Heart for Africa",
+  "roster_verdict": "rejected:insufficient_data",
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Heart for Africa africaheart.com staff team members",
+      "outcome": "no_people",
+      "people_found": 0,
+      "note": "Web search budget exhausted (200/200 calls) before execution"
+    },
+    {
+      "kind": "query",
+      "value": "Heart for Africa Eswatini Project Canaan leadership team",
+      "outcome": "no_people",
+      "people_found": 0,
+      "note": "Web search budget exhausted before execution"
+    },
+    {
+      "kind": "query",
+      "value": "Heart for Africa board directors trustees",
+      "outcome": "no_people",
+      "people_found": 0,
+      "note": "Web search budget exhausted before execution"
+    },
+    {
+      "kind": "query",
+      "value": "Heart for Africa missionary prayer letter support fundraising",
+      "outcome": "no_people",
+      "people_found": 0,
+      "note": "Web search budget exhausted before execution"
+    },
+    {
+      "kind": "query",
+      "value": "Heart for Africa donate support team member individual fundraising page",
+      "outcome": "no_people",
+      "people_found": 0,
+      "note": "Web search budget exhausted before execution"
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Heart for Africa",
+      "website": "https://africaheart.com",
+      "org_type": "nonprofit",
+      "faith_orientation": "christian",
+      "evidence": "Organization confirmed in task brief: Christian nonprofit operating Project Canaan in Eswatini"
+    }
+  ],
+  "negatives": [],
+  "needs_review": []
+}

@@ -1,0 +1,157 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:pittsburghfb",
+  "roster_verdict": "rostered",
+  "target_org": "Greater Pittsburgh Community Food Bank",
+  "people": [
+    {
+      "org_name": "Charla Irwin-Buncher",
+      "summary": "Greater Pittsburgh Community Food Bank — Chief External Affairs Officer",
+      "fit_score": 10,
+      "fit_reason": "Tier B: Chief External Affairs Officer overseeing all development and donor relations functions; previously Director of Development managing individual giving and major gifts.",
+      "source_query": "hunter:w2026-08-30f:pittsburghfb",
+      "website": "https://pittsburghfoodbank.org/staff-board/charla-irwin-buncher/",
+      "meta": {
+        "tier": "B",
+        "role": "Chief External Affairs Officer",
+        "target_org": "Greater Pittsburgh Community Food Bank",
+        "evidence_url": "https://pittsburghfoodbank.org/staff-board/charla-irwin-buncher/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Megan Cramer",
+      "summary": "Greater Pittsburgh Community Food Bank — Director of Development & Donor Relations",
+      "fit_score": 9,
+      "fit_reason": "Tier B: Director of Development & Donor Relations managing individual giving, major gifts, and donor relations programs.",
+      "source_query": "hunter:w2026-08-30f:pittsburghfb",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development & Donor Relations",
+        "target_org": "Greater Pittsburgh Community Food Bank",
+        "evidence_url": "https://theorg.com/org/greater-pittsburgh-community-food-bank/offices/hq",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jennifer Zgurich",
+      "summary": "Greater Pittsburgh Community Food Bank — Fundraising Professional",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Nonprofit development professional with 18+ years fundraising experience; joined December 2019. Specific current role unclear but development-focused.",
+      "source_query": "hunter:w2026-08-30f:pittsburghfb",
+      "meta": {
+        "tier": "B",
+        "role": "Fundraising Professional",
+        "target_org": "Greater Pittsburgh Community Food Bank",
+        "evidence_url": "https://leadiq.com/c/greater-pittsburgh-community-food-bank/5a1d86c9240000240060ecd8/employee-directory",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Lisa Scales",
+      "summary": "Greater Pittsburgh Community Food Bank — President and CEO",
+      "fit_score": 8,
+      "fit_reason": "Tier C: President and CEO since 2012; key executive leader of 178-person organization. Chair of Feeding Pennsylvania.",
+      "source_query": "hunter:w2026-08-30f:pittsburghfb",
+      "meta": {
+        "tier": "C",
+        "role": "President and CEO",
+        "target_org": "Greater Pittsburgh Community Food Bank",
+        "evidence_url": "https://pittsburghfoodbank.org/about/our-organization/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Justin Lee",
+      "summary": "Greater Pittsburgh Community Food Bank — Chief Operating Officer",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Chief Operating Officer in executive leadership; operations and strategy focus.",
+      "source_query": "hunter:w2026-08-30f:pittsburghfb",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Operating Officer",
+        "target_org": "Greater Pittsburgh Community Food Bank",
+        "evidence_url": "https://pittsburghfoodbank.org/about/our-organization/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gary Doyle",
+      "summary": "Greater Pittsburgh Community Food Bank — Chief Financial Officer",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Chief Financial Officer in executive leadership; finance and budget oversight.",
+      "source_query": "hunter:w2026-08-30f:pittsburghfb",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Financial Officer",
+        "target_org": "Greater Pittsburgh Community Food Bank",
+        "evidence_url": "https://pittsburghfoodbank.org/about/our-organization/leadership/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Greater Pittsburgh Community Food Bank",
+      "website": "https://pittsburghfoodbank.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "headcount_est": 178,
+      "faith_orientation": "secular",
+      "evidence": "Secular hunger-relief nonprofit distributing 47 million pounds of food annually across 11 counties in southwestern Pennsylvania through 850+ community partners."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Greater Pittsburgh Community Food Bank development advancement staff director",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Greater Pittsburgh Community Food Bank major gifts OR donor relations OR philanthropy",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Pittsburgh Community Food Bank executive team leadership",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "Greater Pittsburgh Community Food Bank staff directory",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Greater Pittsburgh Community Food Bank board members trustees",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Pittsburgh Community Food Bank annual report leadership team 2025 2026",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Board Members",
+      "org": "Greater Pittsburgh Community Food Bank",
+      "question": "Complete list of board members/trustees not accessible via WebSearch. Organization has staff-board page (pittsburghfoodbank.org/staff-board/) but search results returned limited detail.",
+      "evidence_url": "https://pittsburghfoodbank.org/staff-board/"
+    },
+    {
+      "name": "Erin Malloy",
+      "org": "Greater Pittsburgh Community Food Bank",
+      "question": "LinkedIn profile found but specific current role/title at organization unclear from search results. Possible donor relations position.",
+      "evidence_url": "https://www.linkedin.com/in/erin-malloy-a9100b9/"
+    }
+  ]
+}

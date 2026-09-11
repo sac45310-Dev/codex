@@ -1,0 +1,240 @@
+{
+  "wave_id": "w2026-09-11p",
+  "agent": "p-women-ya",
+  "target_org": "Women Youth Apostles / Youth Apostles",
+  "slice": "Women Youth Apostles discovery, then Youth Apostles from the school / parish / Arlington-diocese angle",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Tyler Fabian",
+      "org": "Youth Apostles",
+      "tier": "A",
+      "role": "Coordinator, Youth Apostles Missionary Program; Development Officer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.youthapostles.org/tylerfabian",
+      "fit_reason": "Tier A; root-level flat slug carries full name, title 'Tyler Fabian | Youth Apostles'. Coaches and trains missionaries who evangelize in Arlington-diocese parishes and high schools; also listed as Development Officer on /officestaff. Youth Apostles missionaries are personally supported (Mission Companion / Support Us model)."
+    },
+    {
+      "name": "Austin Mee",
+      "org": "Youth Apostles",
+      "tier": "A",
+      "role": "Missionary and Missionary Program Director, Bishop O'Connell High School",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.youthapostles.org/austinmee",
+      "fit_reason": "Tier A; slug carries full name, title 'Austin Mee, YA | Youth Apostles'. Eight years in youth ministry; page ties him to Bishop O'Connell HS (Arlington), St. Bernadette Springfield VA, JMU CCM and Virginia Tech CCM parishes (St. Mary Blacksburg, Holy Spirit Christiansburg, St. Jude Radford)."
+    },
+    {
+      "name": "Jim Harbour",
+      "org": "Youth Apostles",
+      "tier": "A",
+      "role": "Consecrated Youth Apostle / Missionary, Catholic Campus Ministry at Virginia Tech",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.youthapostles.org/jimharbour",
+      "fit_reason": "Tier A; slug carries full name, title 'Jim Harbour | Youth Apostles'. Page describes him as a Consecrated Youth Apostle who served as missionary with Catholic Campus Ministry at Virginia Tech (2019-20) and hopes to begin studies for priesthood."
+    },
+    {
+      "name": "Joseph Frommelt",
+      "org": "Youth Apostles",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.youthapostles.org/josephfrommelt",
+      "fit_reason": "Tier A; slug carries full name, title 'Joseph Frommelt | Youth Apostles'. Appears in the missionary-profile result set; BA in Communications from George Mason University, six years as a support-raised FOCUS missionary before Youth Apostles."
+    },
+    {
+      "name": "Nick Eastman",
+      "org": "Youth Apostles",
+      "tier": "A",
+      "role": "Youth Apostles member, missionary program (exact role wording not confirmed from snippet)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.youthapostles.org/nickeastman",
+      "fit_reason": "Tier A; slug carries full name, title 'Nick Eastman | Youth Apostles' — a dedicated person page in the same flat root-slug family as the confirmed missionaries. Surfaced on the Virginia Tech campus-ministry axis (attended Virginia Tech, formed in bible study and CCM there). Role title itself was not visible in the snippet, so role is described rather than quoted."
+    },
+    {
+      "name": "Nick Zaso",
+      "org": "Youth Apostles",
+      "tier": "A",
+      "role": "Missionary, St. Paul VI Catholic High School, Chantilly VA",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.youthapostles.org/nickzaso",
+      "fit_reason": "Tier A; slug carries full name, title 'Nick Zaso | Youth Apostles'. Listed as missionary at St. Paul VI Catholic High School; encountered the community in college and works in relational ministry."
+    },
+    {
+      "name": "John More",
+      "org": "Youth Apostles",
+      "tier": "B",
+      "role": "General Director",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.youthapostles.org/ourcouncil",
+      "fit_reason": "Named on the /ourcouncil leadership page as General Director (a post confirmed by the Bishop of Arlington). No per-person page found and no personal support ask, so the name is not in the cited URL — medium. Tiered B because nothing states community leadership raises personal support; if the council is in fact support-raised this is a Tier A miss."
+    },
+    {
+      "name": "Fr. Jack Peterson",
+      "org": "Youth Apostles",
+      "tier": "B",
+      "role": "Consecrated Cleric Assistant Director",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.youthapostles.org/ourcouncil",
+      "fit_reason": "Named on /ourcouncil as YA Consecrated Cleric Assistant Director; name not in the cited URL, so medium. Arlington Catholic Herald separately reports 'Fr. Peterson steps down as director of Youth Apostles', so the role on the council page may be stale — see needs_review. Tier B: consecrated cleric, no personal support ask found."
+    },
+    {
+      "name": "Liz Garcia",
+      "org": "Youth Apostles",
+      "tier": "B",
+      "role": "Director of Communications",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.youthapostles.org/officestaff",
+      "fit_reason": "Named on the /officestaff hub page as Director of Communications with an @youthapostles.org address. Name not in the cited URL, so medium. Tier B: home-office role with no support ask on the page — note the standing caution that home-office staff at support-raising orgs can still be Tier A; unresolved here."
+    },
+    {
+      "name": "Tiffany Lambert",
+      "org": "Women Youth Apostles",
+      "tier": "B",
+      "role": "Directress, General Council (2023-2025)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://womenyouthapostles.org/who-we-are/our-general-council/",
+      "fit_reason": "Named on the General Council page, which is the only named-person surface on the domain — there are no per-person pages and no giving pages at all. Name not in the URL, so medium. Tier B because the community describes members as serving 'as volunteers and staff'; no personal support-raising is documented anywhere on the site."
+    },
+    {
+      "name": "Krysti Patient",
+      "org": "Women Youth Apostles",
+      "tier": "B",
+      "role": "Assistant Director for Consecrated, General Council; Consecrated Full Member",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://womenyouthapostles.org/who-we-are/our-general-council/",
+      "fit_reason": "Named on the General Council page; the site also gives her as the community's contact (Assistant Director). Name not in the URL, so medium. Tier B for the same reason as the rest of the WYA council — no giving surface on the domain."
+    },
+    {
+      "name": "Elena Adinaro",
+      "org": "Women Youth Apostles",
+      "tier": "B",
+      "role": "Assistant Director for Married & Single, General Council; Local Director, Emmitsburg MD",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://womenyouthapostles.org/who-we-are/our-general-council/",
+      "fit_reason": "Named on the General Council page and again as Emmitsburg local director on /community-life/local-communities/. Name not in either URL, so medium. Tier B — no giving surface on the domain."
+    },
+    {
+      "name": "Makayla Puzio",
+      "org": "Women Youth Apostles",
+      "tier": "B",
+      "role": "At-Large member, General Council (2023-2025)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://womenyouthapostles.org/who-we-are/our-general-council/",
+      "fit_reason": "Named on the General Council page. Name not in the URL, so medium. Tier B — no giving surface on the domain."
+    },
+    {
+      "name": "MariTere Adinaro",
+      "org": "Women Youth Apostles",
+      "tier": "B",
+      "role": "At-Large member, General Council; Local Director, Tidewater (Newport News VA)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://womenyouthapostles.org/who-we-are/our-general-council/",
+      "fit_reason": "Named on the General Council page and again as Tidewater local director on /community-life/local-communities/. Name not in either URL, so medium. Tier B — no giving surface on the domain. Distinct person from Elena Adinaro; both named separately in the same council listing."
+    },
+    {
+      "name": "Miranda Cuccias",
+      "org": "Women Youth Apostles",
+      "tier": "B",
+      "role": "Local Director, Northern Virginia (Oakton)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://womenyouthapostles.org/community-life/local-communities/",
+      "fit_reason": "Named as Northern VA / Oakton local director on the Local Communities page. Name not in the URL, so medium. Tier B — no giving surface on the domain."
+    },
+    {
+      "name": "Joanna Hitzelberger",
+      "org": "Women Youth Apostles",
+      "tier": "B",
+      "role": "Local Director, Blacksburg VA",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://womenyouthapostles.org/community-life/local-communities/",
+      "fit_reason": "Named as Blacksburg local director on the Local Communities page. Name not in the URL, so medium. Tier B — no giving surface on the domain."
+    }
+  ],
+  "coverage": [
+    {"kind": "domain_verdict", "value": "womenyouthapostles.org — NO per-person surface. The site is a small WordPress install with topical section pages (/who-we-are/*, /community-life/*, /apostolic-life/) and blog categories (/category/community-news/, /category/spiritual-life/, /category/community-house/, /category/ministry-events/, /tag/community-life/). Every blog post is filed under a single site-wide author, /author/womenyouthapostles/ — there are no per-member author pages. The Youth Apostles flat root-slug shape (youthapostles.org/tylerfabian) was tested and does NOT exist here; no /firstlast page surfaced on any query. No donate, give or support page surfaced either, so there is no per-person giving URL to mine. The only named-person surfaces on the whole domain are two directory pages: /who-we-are/our-general-council/ and /community-life/local-communities/. The community states it has 23 members and that they serve 'as volunteers and staff', so most of the roster is both unnamed publicly and of unknown support status. Verdict: not a mineable per-person target; harvestable ceiling is the ~7 named leaders on those two pages.", "outcome": "found_people"},
+    {"kind": "query", "value": "site:womenyouthapostles.org", "outcome": "found_people"},
+    {"kind": "query", "value": "\"Women Youth Apostles\" members community womenyouthapostles.org director", "outcome": "found_people"},
+    {"kind": "query", "value": "site:womenyouthapostles.org community-life OR about OR members OR vocation", "outcome": "no_people"},
+    {"kind": "query", "value": "site:womenyouthapostles.org donate OR support OR give OR \"who-we-are\"", "outcome": "no_people"},
+    {"kind": "query", "value": "\"Women Youth Apostles\" \"Tiffany Lambert\" OR \"Krysti Patient\" OR \"Elena Adinaro\" consecrated sister", "outcome": "found_people"},
+    {"kind": "query", "value": "\"Women Youth Apostles\" campus minister OR \"youth minister\" Arlington parish name -site:wikipedia.org", "outcome": "no_people"},
+    {"kind": "query", "value": "\"Youth Apostles\" Virginia Tech Catholic campus ministry catholichokie brother", "outcome": "no_people"},
+    {"kind": "query", "value": "site:youthapostles.org \"St. Paul VI\" OR \"Paul VI Catholic High School\"", "outcome": "found_people"},
+    {"kind": "query", "value": "site:youthapostles.org missionary \"Bishop O'Connell\" OR \"O'Connell High School\" OR \"Marymount University\"", "outcome": "no_people"},
+    {"kind": "query", "value": "site:youthapostles.org \"George Mason\" OR \"Virginia Tech\" OR \"Mary Washington\" campus minister missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:youthapostles.org \"St. Mary of Sorrows\" OR \"St. Bernadette\" OR \"St. Ambrose\" OR \"Blessed Sacrament\" youth minister", "outcome": "found_people"},
+    {"kind": "query", "value": "site:youthapostles.org \"St. Anthony of Padua\" OR \"St. Leo the Great\" OR \"Good Shepherd\" OR \"St. Thomas à Becket\" parish missionary", "outcome": "offtopic"},
+    {"kind": "query", "value": "Youth Apostles missionary serving parish youth minister support [allowed_domains=youthapostles.org]", "outcome": "found_people"},
+    {"kind": "query", "value": "Youth Apostles brother house Oakton Vienna Fairfax community member [allowed_domains=youthapostles.org]", "outcome": "no_people"},
+    {"kind": "query", "value": "Our Council general director assistant director consecrated members names [allowed_domains=youthapostles.org]", "outcome": "found_people"},
+    {"kind": "query", "value": "missionary profile bio \"Youth Apostles\" -Fabian -Mee -Harbour -Frommelt -Eastman -Zaso [allowed_domains=youthapostles.org]", "outcome": "no_people"},
+    {"kind": "query", "value": "Office Staff development operations administrator name [allowed_domains=youthapostles.org]", "outcome": "found_people"},
+    {"kind": "query", "value": "missionary high school Chantilly Arlington O'Connell Seton \"Pope John Paul the Great\" serving [allowed_domains=youthapostles.org]", "outcome": "no_people"},
+    {"kind": "note", "value": "Bare site: queries on youthapostles.org were repeatedly hijacked by Wikipedia when the query carried a saint's or school's name (the St. Anthony / St. Leo parish sweep returned seven Wikipedia church articles and zero youthapostles.org results). Switching from the site: operator to allowed_domains=youthapostles.org fixed this completely and is the single most useful tactic found this run — every allowed_domains query returned ten on-domain results. Recommend the next wave use allowed_domains, not site:, for this target.", "outcome": "no_people"},
+    {"kind": "note", "value": "The -surname exclusion sweep degraded exactly as the brief predicted: the engine dropped the operators and re-served Fabian, Mee, Harbour, Frommelt and Zaso. That, plus the last two queries returning no new names, is the stop signal — the school/parish axis on youthapostles.org appears exhausted at the six person-pages found. The site's own /missionaries index page almost certainly lists more, but it cannot be paginated from search snippets.", "outcome": "no_people"},
+    {"kind": "hub_page", "value": "https://www.youthapostles.org/missionaries — named hub; the roster index. Not fetchable here.", "outcome": "no_people"},
+    {"kind": "hub_page", "value": "https://www.youthapostles.org/officestaff — named hub; yielded Tyler Fabian (Development Officer), Liz Garcia (Director of Communications) and an unnamed Operations Manager.", "outcome": "found_people"},
+    {"kind": "hub_page", "value": "https://www.youthapostles.org/ourcouncil — named hub; yielded John More and Fr. Jack Peterson. Snippet said other council members' names were not listed in the returned text.", "outcome": "found_people"},
+    {"kind": "hub_page", "value": "https://catholichokie.org/yaandwoya/ — Virginia Tech Catholic Campus Ministry page dedicated to Youth Apostles and Women Youth Apostles. Off-domain, unprobed, may name the YA/WoYA staff serving there. Best untried lead for the next wave.", "outcome": "no_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "Women Youth Apostles roster is 23 members but only ~7 are published",
+      "finding": "The community states it has 23 members; the website names only the five General Council members and three local directors (two of whom are also council members). The remaining members are not published anywhere on the domain.",
+      "evidence": "https://womenyouthapostles.org/who-we-are/our-general-council/ and https://womenyouthapostles.org/community-life/local-communities/; membership count from the community's own description.",
+      "recommendation": "Treat the domain as closed for enumeration. Do not spend further search budget on womenyouthapostles.org — there is no per-person surface and no giving surface to mine."
+    },
+    {
+      "issue": "Tier for the entire Women Youth Apostles set is genuinely unresolved",
+      "finding": "WYA members are described by the community as serving 'as volunteers and staff' in youth and campus ministry. There is no donate page, no support page and no personal giving ask anywhere on womenyouthapostles.org. All seven WYA records were therefore graded Tier B rather than A.",
+      "evidence": "womenyouthapostles.org/apostolic-life/ and the site's own membership description; no give/donate/support URL surfaced in two targeted queries.",
+      "recommendation": "Before any outreach, establish whether WYA members raise personal support or are volunteers with outside income. If they are volunteers they are not an ICP fit at all and these seven should be reviewed out rather than re-tiered. Same screening logic the brief applies to Ratio Christi tent-makers."
+    },
+    {
+      "issue": "General Council listing is dated 2023-2025 and may be stale",
+      "finding": "The Women Youth Apostles council page is labelled for the 2023-2025 term. As of the current date that term has lapsed, so Tiffany Lambert, Krysti Patient, Elena Adinaro, Makayla Puzio and MariTere Adinaro may no longer hold the roles recorded.",
+      "evidence": "https://womenyouthapostles.org/who-we-are/our-general-council/ (term dates in the page content).",
+      "recommendation": "Verify roles before use. The people are real and current members; only the titles are at risk."
+    },
+    {
+      "issue": "Fr. Jack Peterson's recorded role conflicts with a news report",
+      "finding": "The Youth Apostles /ourcouncil page names Fr. Jack Peterson as YA Consecrated Cleric Assistant Director, but the Arlington Catholic Herald published an article titled 'Fr. Peterson steps down as director of Youth Apostles'.",
+      "evidence": "https://www.youthapostles.org/ourcouncil vs https://www.catholicherald.com/article/local/fr-peterson-steps-down-as-director-of-youth-apostles/",
+      "recommendation": "Verify current role. He is clearly a real, living member of the community; the discrepancy is between 'general director' (stepped down from) and 'consecrated cleric assistant director' (current), which may simply be two different posts."
+    },
+    {
+      "issue": "Unnamed Operations Manager on the Youth Apostles office staff page",
+      "finding": "The /officestaff page lists an Operations Manager position but the name did not appear in any snippet.",
+      "evidence": "https://www.youthapostles.org/officestaff",
+      "recommendation": "Not emitted — a vacant or unnamed role is not a person. Re-probe /officestaff directly if page fetching becomes available."
+    },
+    {
+      "issue": "Students excluded from the Youth Apostles pro-life contest page",
+      "finding": "Katherine Faist and Gianna Cackett surfaced as first- and second-place winners of the 6th Annual Youth Apostles Multimedia Pro-Life Contest and are identified as St. Paul VI Catholic High School students.",
+      "evidence": "https://www.youthapostles.org/blog/6thannualprolifecontest",
+      "recommendation": "Deliberately NOT emitted. They are ministry participants and high-school minors, not staff. Logged so a later wave does not re-find and emit them."
+    },
+    {
+      "issue": "Fr. Peter Nassetta named on another person's page",
+      "finding": "Fr. Peter Nassetta was named in a snippet as having led Catholic Campus Ministry at George Mason, appearing in the context of a Youth Apostles member's own profile page.",
+      "evidence": "surfaced alongside https://www.youthapostles.org/tylerfabian",
+      "recommendation": "Not emitted. He is a person mentioned on someone else's page with no page of his own and no confirmed Youth Apostles membership — citing him would mean citing another person's profile."
+    }
+  ]
+}

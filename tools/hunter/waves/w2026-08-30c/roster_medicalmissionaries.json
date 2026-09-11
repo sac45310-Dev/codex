@@ -1,0 +1,298 @@
+{
+  "wave_id": "w2026-08-30c",
+  "agent": "roster:medicalmissionaries",
+  "roster_verdict": "rostered",
+  "target_org": "Medical Missionaries",
+  "people": [
+    {
+      "org_name": "Gilbert Irwin",
+      "summary": "Medical Missionaries — President and Founder (MD)",
+      "fit_score": 5,
+      "fit_reason": "Tier C: President and founder of donor-funded Christian medical missionary nonprofit; leadership position influencing organizational direction and funding strategy.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "President and Founder",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.charitynavigator.org/ein/541990595",
+        "linkedin_url": "https://www.linkedin.com/in/gilbert-irwin-1a992734/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brian Brenner",
+      "summary": "Medical Missionaries — Board Chair",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board chair of donor-funded Christian medical missionary nonprofit; provides governance and strategic direction.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kenneth Kornetsky",
+      "summary": "Medical Missionaries — Vice President",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Vice President at donor-funded Christian medical missionary nonprofit; executive leadership role with organizational influence.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Vice President",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Carolyn A Jeans",
+      "summary": "Medical Missionaries — Treasurer",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Treasurer and board member of donor-funded Christian medical missionary nonprofit; financial leadership and governance role.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Treasurer",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Debra Parrish",
+      "summary": "Medical Missionaries — Secretary, RN",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Secretary and board member (RN credential) of donor-funded Christian medical missionary nonprofit; governance and organizational direction.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Secretary",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Julian Hertz",
+      "summary": "Medical Missionaries — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member of donor-funded Christian medical missionary nonprofit; provides governance and organizational oversight.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nick Cuneo",
+      "summary": "Medical Missionaries — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member of donor-funded Christian medical missionary nonprofit; governance and organizational oversight role.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Pete Silva",
+      "summary": "Medical Missionaries — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member of donor-funded Christian medical missionary nonprofit; governance and organizational oversight role.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tim Purnell",
+      "summary": "Medical Missionaries — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member of donor-funded Christian medical missionary nonprofit; governance and organizational oversight role.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "George Bazaco",
+      "summary": "Medical Missionaries — Trustee (MD)",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Trustee (MD credential) of donor-funded Christian medical missionary nonprofit; governance and organizational oversight.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Trustee",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joan Betz",
+      "summary": "Medical Missionaries — Trustee",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Trustee of donor-funded Christian medical missionary nonprofit; governance and organizational oversight role.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Trustee",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Judy Corcoran",
+      "summary": "Medical Missionaries — Trustee (RN)",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Trustee (RN credential) of donor-funded Christian medical missionary nonprofit; governance and organizational oversight.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Trustee",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Eileen Drinkwater",
+      "summary": "Medical Missionaries — Trustee (RN)",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Trustee (RN credential) of donor-funded Christian medical missionary nonprofit; governance and organizational oversight.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Trustee",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "JP McCusker",
+      "summary": "Medical Missionaries — Trustee",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Trustee of donor-funded Christian medical missionary nonprofit; governance and organizational oversight role.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Trustee",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Robert Tuccillo",
+      "summary": "Medical Missionaries — Trustee",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Trustee of donor-funded Christian medical missionary nonprofit; governance and organizational oversight role.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "C",
+        "role": "Trustee",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://www.medicalmissionaries.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tami O'Neal",
+      "summary": "Medical Missionaries — Director of Donor Engagement",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Director of Donor Engagement at donor-funded Christian medical missionary nonprofit; explicit donor relations and development leadership role.",
+      "source_query": "hunter:w2026-08-30c:medicalmissionaries",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Donor Engagement",
+        "target_org": "Medical Missionaries",
+        "evidence_url": "https://secure.qgiv.com/for/medicalmissionaries",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Medical Missionaries",
+      "website": "https://www.medicalmissionaries.org",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "C",
+      "headcount_est": 200,
+      "faith_orientation": "christian",
+      "evidence": "Volunteer group of 200+ doctors, nurses, dentists; Christian medical missions nonprofit supporting 120 medical mission teams; located in Manassas, VA; EIN 54-1990595"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Medical Missionaries medicalmissionaries.org Manassas staff leadership",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Medical Missionaries\" \"Gil Irwin\" board directors executive team",
+      "outcome": "found_people",
+      "people_found": 15
+    },
+    {
+      "kind": "query",
+      "value": "\"Medical Missionaries\" development officer fundraising director staff",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:medicalmissionaries.org staff team about us",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Medical Missionaries Manassas staff \"Executive Director\" OR \"Development\" OR \"Executive Officer\"",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Tami O'Neal\" \"Marc Corona\" \"Medical Missionaries\" deputation fundraising",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"Medical Missionaries\" employees staff",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Marc Corona",
+      "reason_code": "salaried_leader",
+      "detail": "Director - Business Development at Medical Missionaries; title does not explicitly indicate development/advancement/donor relations role; business development at nonprofits is typically operational/grant management rather than individual donor relations; excluded per tier discipline of tiering down when evidence is ambiguous"
+    }
+  ],
+  "needs_review": []
+}

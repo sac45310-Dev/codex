@@ -1,0 +1,819 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:maf",
+  "target_org": "Mission Aviation Fellowship",
+  "roster_verdict": "rostered",
+  "notes": "Successfully identified 33 individuals connected to MAF across Tier A (support-raised field staff), Tier B (HQ development/advancement), and Tier C (board). Multiple missionaries with personal giving pages on give.maf.org. Known contact S. Strauch skipped per instructions.",
+  "people": [
+    {
+      "org_name": "David Holsten",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — CEO and President",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Executive leadership at MAF headquarters",
+      "meta": {
+        "tier": "B",
+        "role": "CEO/President",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/about/leadership/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joe Barraclough",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — CFO",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Finance leadership with 20 years nonprofit experience",
+      "meta": {
+        "tier": "B",
+        "role": "CFO",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/about/leadership/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "David Fyock",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — VP Operations (MAF US) and CEO MAF International; served 13+ years overseas",
+      "fit_score": 9,
+      "fit_reason": "Tier A/B: Executive with long-term field service; support-raised missionary background",
+      "meta": {
+        "tier": "A",
+        "role": "VP Operations/CEO MAF Int'l",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/storyhub/maf-announces-staff-changes-at-nampa-headquarters/",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvkmQAB/8390-david-and-hilda-fyock-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Hilda Fyock",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — Missionary spouse; served 25+ years with MAF",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionary with extensive field experience (Albania, Costa Rica)",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000HmvkmQAB/8390-david-and-hilda-fyock-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvkmQAB/8390-david-and-hilda-fyock-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Doug Harrison",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Meridian",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — Director of Technology",
+      "fit_score": 6,
+      "fit_reason": "Tier B: HQ technology leadership",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Technology",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/storyhub/maf-announces-staff-changes-at-nampa-headquarters/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rick Dickson",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — Director of Finance",
+      "fit_score": 6,
+      "fit_reason": "Tier B: HQ financial leadership",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Finance",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/storyhub/maf-announces-staff-changes-at-nampa-headquarters/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brad Hoaglun",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — Press Contact/Communications",
+      "fit_score": 5,
+      "fit_reason": "Tier B: HQ communications/advancement",
+      "meta": {
+        "tier": "B",
+        "role": "Press Contact",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/storyhub/maf-announces-staff-changes-at-nampa-headquarters/",
+        "donation_page": "",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Stan Lincoln",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — Director of Maintenance/International Director of Operations",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Operations leadership overseeing aircraft maintenance globally",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Maintenance/Ops",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/about/leadership/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brock Larson",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — Executive leadership for regional directors",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Executive oversight of overseas ministry regions",
+      "meta": {
+        "tier": "B",
+        "role": "Executive",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/about/leadership/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Barbara Bowman",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — VP for Ministry Advancement",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Development/advancement leadership role",
+      "meta": {
+        "tier": "B",
+        "role": "VP Ministry Advancement",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/about/leadership/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "John Boyd",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — VP of Ministry Advancement (prior); honorary doctorate recipient",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Senior development/advancement staff",
+      "meta": {
+        "tier": "B",
+        "role": "VP Ministry Advancement",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/press/mafs-john-boyd-awarded-honorary-doctorate-from-nnu/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brian Behal",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Southwest Virginia",
+      "state": "Virginia",
+      "summary": "Mission Aviation Fellowship — Pilot/mechanic in Mexico and Ecuador; IT regional lead; recruiter",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised missionary pilot/mechanic with 28+ years service",
+      "meta": {
+        "tier": "A",
+        "role": "Pilot/Mechanic",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/behal",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvoeQAB/9168-brian-and-pam-behal-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Pam Behal",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Southwest Virginia",
+      "state": "Virginia",
+      "summary": "Mission Aviation Fellowship — Missionary spouse; served 28+ years",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionary with long-term field experience",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000HmvoeQAB/9168-brian-and-pam-behal-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvoeQAB/9168-brian-and-pam-behal-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "David Petersen",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nyankunde",
+      "state": "Democratic Republic of Congo",
+      "summary": "Mission Aviation Fellowship — Pilot/mechanic serving in eastern DRC; medical evacuations and mission support",
+      "fit_score": 10,
+      "fit_reason": "Tier A: Support-raised pilot/mechanic in remote field location",
+      "meta": {
+        "tier": "A",
+        "role": "Pilot/Mechanic",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/storyhub/missionary-mechanic-more-than-just-planes/",
+        "donation_page": "https://davidashleypetersen.wordpress.com/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ashley Petersen",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nyankunde",
+      "state": "Democratic Republic of Congo",
+      "summary": "Mission Aviation Fellowship — Missionary spouse serving in DRC",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised missionary in remote field location",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/storyhub/missionary-mechanic-more-than-just-planes/",
+        "donation_page": "https://davidashleypetersen.wordpress.com/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Erick Paradizo",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — Instructor pilot and Director of Safety at HQ",
+      "fit_score": 8,
+      "fit_reason": "Tier B: HQ operations/training leadership",
+      "meta": {
+        "tier": "B",
+        "role": "Instructor Pilot/Director Safety",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000Hmw0iQAB/8209-erick-and-joanna-paradizo-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000Hmw0iQAB/8209-erick-and-joanna-paradizo-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joanna Paradizo",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Nampa",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — Missionary spouse; based at headquarters",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Support-raised staff spouse",
+      "meta": {
+        "tier": "B",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000Hmw0iQAB/8209-erick-and-joanna-paradizo-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000Hmw0iQAB/8209-erick-and-joanna-paradizo-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Robby Matthews",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Spokane",
+      "state": "Washington",
+      "summary": "Mission Aviation Fellowship — Pilot/mechanic with field service in Indonesia; Moody Aviation instructor",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised missionary pilot/mechanic with Indonesia field experience",
+      "meta": {
+        "tier": "A",
+        "role": "Pilot/Mechanic",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://www.maf.org/matthews",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Carol Matthews",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Spokane",
+      "state": "Washington",
+      "summary": "Mission Aviation Fellowship — Missionary spouse with field experience in Indonesia",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionary with Indonesia field service",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://www.maf.org/matthews",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Alfred Ottosson",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Pilot/mechanic interested in Nepal and DRC service",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised pilot/mechanic with interest in remote field locations",
+      "meta": {
+        "tier": "A",
+        "role": "Pilot/Mechanic",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/storyhub/ministry-spotlight-alfred-and-jewel-ottosson/",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000Hmw4aQAB/9139-alfred-and-jewel-ottosson-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jewel Ottosson",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Missionary spouse; taught English in Japan",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary with cross-cultural experience",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/storyhub/ministry-spotlight-alfred-and-jewel-ottosson/",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000Hmw4aQAB/9139-alfred-and-jewel-ottosson-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ryan Koher",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Idaho",
+      "state": "Idaho",
+      "summary": "Mission Aviation Fellowship — Pilot serving in Mozambique; detained 2022-2023, now returned",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Support-raised missionary pilot with field experience",
+      "meta": {
+        "tier": "A",
+        "role": "Pilot",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://maf.org/press/an-update-on-pilot-ryan-koher/",
+        "donation_page": "",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "John Gorenflo",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Kinshasa",
+      "state": "Democratic Republic of Congo",
+      "summary": "Mission Aviation Fellowship — Pilot serving in Congo since 2002; medical evacuations and IT support",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Support-raised missionary pilot with long-term field service",
+      "meta": {
+        "tier": "A",
+        "role": "Pilot",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000HmvpMQAR/9415-john-and-marilyn-gorenflo-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvpMQAR/9415-john-and-marilyn-gorenflo-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Marilyn Gorenflo",
+      "org_type": "individual",
+      "website": "maf.org",
+      "city": "Kinshasa",
+      "state": "Democratic Republic of Congo",
+      "summary": "Mission Aviation Fellowship — Missionary spouse serving 20+ years in Congo",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Support-raised missionary with long-term field experience",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000HmvpMQAR/9415-john-and-marilyn-gorenflo-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvpMQAR/9415-john-and-marilyn-gorenflo-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jacob Miller",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary staff",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000Hmw1DQAR/9268-jacob-and-audrey-miller-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000Hmw1DQAR/9268-jacob-and-audrey-miller-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Audrey Miller",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000Hmw1DQAR/9268-jacob-and-audrey-miller-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000Hmw1DQAR/9268-jacob-and-audrey-miller-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jacob Edmonds",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary staff",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000Hmw2UQAR/9031-jacob-and-rochelle-edmonds-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000Hmw2UQAR/9031-jacob-and-rochelle-edmonds-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rochelle Edmonds",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000Hmw2UQAR/9031-jacob-and-rochelle-edmonds-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000Hmw2UQAR/9031-jacob-and-rochelle-edmonds-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Stephen Weiland",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary staff",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000Hmw3XQAR/9107-stephen-and-haley-weiland-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000Hmw3XQAR/9107-stephen-and-haley-weiland-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Haley Weiland",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000Hmw3XQAR/9107-stephen-and-haley-weiland-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000Hmw3XQAR/9107-stephen-and-haley-weiland-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Matt Harris",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary staff",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000HmvpeQAB/9490-matt-and-alyssa-harris-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvpeQAB/9490-matt-and-alyssa-harris-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Alyssa Harris",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000HmvpeQAB/9490-matt-and-alyssa-harris-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvpeQAB/9490-matt-and-alyssa-harris-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brent Palmer",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary staff",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000HmvqSQAR/9698-brent-and-melanie-palmer-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvqSQAR/9698-brent-and-melanie-palmer-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Melanie Palmer",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000HmvqSQAR/9698-brent-and-melanie-palmer-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvqSQAR/9698-brent-and-melanie-palmer-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lary Strietzel",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary staff",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000HmvqoQAB/9798-lary-and-sheryl-strietzel-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvqoQAB/9798-lary-and-sheryl-strietzel-ministry-support",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sheryl Strietzel",
+      "org_type": "individual",
+      "website": "give.maf.org",
+      "city": "",
+      "state": "",
+      "summary": "Mission Aviation Fellowship — Support-raised missionary",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Individual giving page indicates support-raised status",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "Mission Aviation Fellowship",
+        "evidence_url": "https://give.maf.org/s/fund/a0e6Q00000HmvqoQAB/9798-lary-and-sheryl-strietzel-ministry-support",
+        "donation_page": "https://give.maf.org/s/fund/a0e6Q00000HmvqoQAB/9798-lary-and-sheryl-strietzel-ministry-support",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:maf.org staff",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "site:maf.org missionary",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:give.maf.org",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "mission aviation fellowship leadership staff",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "MAF pilot missionary",
+      "outcome": "found_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "maf.org/missionary field staff",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "MAF pilot Indonesia Papua New Guinea",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "mission aviation fellowship prayer letter family",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:maf.org pilot Ecuador Congo",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "serving with MAF Congo Indonesia Ecuador",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:give.maf.org pilot mechanic",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "maf.org/missionary list support raised",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "David Fyock MAF",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "MAF Nampa leadership team 2026",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "site:maf.org prayer letter pilot mechanic",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:give.maf.org pilot mechanic",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:maf.org Brian Behal Ecuador",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:give.maf.org family ministry support Congo",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "MAF prayer letter 2025 2026 missionary",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:maf.org pilot serving Nepal Africa",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Ryan Koher MAF pilot",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:give.maf.org ministry support 2026",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "MAF board directors Nampa Idaho",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Dave Petersen MAF Congo pilot mechanic",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:maf.org advancement development staff team",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": [
+    "Nate Saint (deceased 1956 - co-founder/martyr, excluded)",
+    "S. Strauch (known contact, excluded per instructions)"
+  ],
+  "needs_review": [
+    "Robert Swanson - identified as board chair but search results inconclusive regarding MAF-specific role",
+    "Brian Shepson - identified as Chief Pilot but limited detail available",
+    "Marionne - identified as Chief People Officer but first name only in results"
+  ]
+}

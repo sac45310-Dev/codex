@@ -1,0 +1,156 @@
+{
+  "wave_id": "w2026-09-10a",
+  "agent": "enum-givesendgo",
+  "target_domain": "givesendgo.com",
+  "searches_used": 15,
+  "url_pattern_confirmed": "https://www.givesendgo.com/<CampaignSlug>",
+  "people": [
+    {
+      "name": "Carla Wellington",
+      "org": "GiveSendGo (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.givesendgo.com/carlawellingtonmissionary",
+      "fit_reason": "Full-time missionary fundraiser in Europe with dedicated personal campaign URL"
+    },
+    {
+      "name": "Aiden Ashmore",
+      "org": "GiveSendGo (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.givesendgo.com/CentralAsiaAidenAshmore",
+      "fit_reason": "Gospel ministry fundraiser in Central Asia with name embedded in campaign URL"
+    },
+    {
+      "name": "Chris Yoon",
+      "org": "GiveSendGo (agency unknown)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.givesendgo.com/chrisyoon",
+      "fit_reason": "Full-time missionary in Korea raising $7,777/month for ongoing ministry work"
+    },
+    {
+      "name": "Zachary Allen",
+      "org": "YWAM (Youth with a Mission)",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.givesendgo.com/missionary-staff-in-youth-with-a-mission",
+      "fit_reason": "YWAM staff member seeking ongoing monthly support team for full-time missionary placement to India or Iraq"
+    },
+    {
+      "name": "Bernardino Tomé",
+      "org": "Wycliffe (PROEL)",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givesendgo.com/G26MX",
+      "fit_reason": "Bible translation ministry with Wycliffe raising funds for New Testament translation project (Fa d'Ambu language)"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com missionary \"monthly support\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com \"church planting\" support raising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com missionary Africa support raising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com missionary India monthly support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com \"missionary to\" field Asia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com \"support raising\" \"church planting\" Latin America",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com translator missionary support Bible translation",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com missionary Europe support church planting",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com \"monthly giving\" missionary partner field",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com missionary \"living expenses\" support staff evangelist",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com missionary \"ongoing support\" OR \"monthly support\" -alsobrook -elena -family -flint -heard",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com \"church planting\" missionary China Thailand Cambodia Vietnam",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com YWAM Frontiers \"Wycliffe\" missionary support raising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com \"missionary partner\" OR \"mission staff\" monthly support -canada -diarra -reeves -wolfe",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givesendgo.com evangelist revival crusade ministry fundraiser personal support",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Group campaign - incomplete name capture",
+      "finding": "Christopher Gerry, Alexandra Gerry, and Janelle Whitten fundraising for Ghana mission trip via Vision International Missions",
+      "evidence": "Shared campaign URL (https://www.givesendgo.com/ghanagroup2026) with multiple fundraisers listed; unclear if Vision International Missions places them as long-term missionaries or coordinates short-term mission trip",
+      "recommendation": "Review campaign page to determine if ongoing missionary placement (Tier A) or short-term trip (exclude); if long-term, split into three Tier A records"
+    },
+    {
+      "issue": "Ambiguous campaign purpose",
+      "finding": "Torben Sondergaard evangelist/family fundraiser",
+      "evidence": "Campaign URL (https://www.givesendgo.com/412days) uses cryptic code instead of name slug; snippet describes 'support evangelist and family' but unclear if ongoing ministry or one-time assistance",
+      "recommendation": "Access full campaign page to verify ongoing ministry support framework before emitting as Tier A"
+    },
+    {
+      "issue": "Incomplete name data - first name only",
+      "finding": "Christina, Central Asia missionary (URL: https://www.givesendgo.com/26milesforthegospel)",
+      "evidence": "Snippet only provides first name 'Christina'; last name not available in search results per BRIEF exclusion rule",
+      "recommendation": "Access full campaign page to obtain last name; if not discoverable, do not emit per BRIEF guidance"
+    }
+  ]
+}

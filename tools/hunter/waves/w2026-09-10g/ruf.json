@@ -1,0 +1,479 @@
+{
+  "wave_id": "w2026-09-10g",
+  "agent": "ruf",
+  "target_org": "Reformed University Fellowship",
+  "slice": "ruf.org people directories",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Chuck Askew",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ncsu",
+      "fit_reason": "Campus minister at NC State University; personal giving page on RUF support platform. Campus code in slug, full name in title."
+    },
+    {
+      "name": "Austin Cassel",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/KentSt",
+      "fit_reason": "Campus minister at Kent State University; personal giving page on RUF support platform."
+    },
+    {
+      "name": "Chad Turner",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/unf",
+      "fit_reason": "Campus minister at University of North Florida; personal giving page on RUF support platform."
+    },
+    {
+      "name": "Bobby Kazanski",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/utarlington",
+      "fit_reason": "Campus minister at UT Arlington; personal giving page on RUF support platform."
+    },
+    {
+      "name": "Sammy Rhodes",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/usc",
+      "fit_reason": "Campus minister at USC; personal giving page on RUF support platform."
+    },
+    {
+      "name": "Lauren Danforth",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/Lauren.Danforth",
+      "fit_reason": "Campus staff at Baylor University; personal giving page on RUF support platform. Surname in slug, full name in title."
+    },
+    {
+      "name": "Sara Larson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/sara.larson",
+      "fit_reason": "Campus staff at Florida Gulf Coast University; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Evan England",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/evan.england",
+      "fit_reason": "Campus minister at Ole Miss and Auburn; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "J.R. Foster",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Area Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/jrfoster",
+      "fit_reason": "Area Coordinator for SC and central/western NC; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Anna Plybon",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/anna.plybon",
+      "fit_reason": "Campus staff at Washington and Lee University; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Ashley Van Dixhoorn",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ashley.vandixhoorn",
+      "fit_reason": "Campus staff in North Carolina area; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Jason Little",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Area Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/jasonlittle",
+      "fit_reason": "Area Coordinator for VA and Eastern NC based in Roanoke; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Matt Holdsworth",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/matt.holdsworth",
+      "fit_reason": "Campus staff at University of Virginia; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Kamryn Holleman",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/kamryn.holleman",
+      "fit_reason": "Campus staff from Smithfield, NC; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Heath McLaughen",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/vt",
+      "fit_reason": "Campus minister at Virginia Tech; personal giving page on RUF support platform. Campus code in slug."
+    },
+    {
+      "name": "Laura Straka",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/laurastraka",
+      "fit_reason": "Campus staff from Forest, VA; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Skylar Adams",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ecu",
+      "fit_reason": "Campus staff from Clayton, NC, attendee of Appalachian State; personal giving page on RUF support platform. Campus code in slug."
+    },
+    {
+      "name": "Chase Daws",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/vandy",
+      "fit_reason": "Campus minister at Vanderbilt University; personal giving page on RUF support platform. Campus code in slug."
+    },
+    {
+      "name": "Kevin Twit",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/belmont",
+      "fit_reason": "Campus minister at Belmont University since 1995; personal giving page on RUF support platform. Campus name in slug."
+    },
+    {
+      "name": "Andrew Terrell",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/vandyrufi",
+      "fit_reason": "Campus minister for international students at Vanderbilt RUF-I; personal giving page on RUF support platform."
+    },
+    {
+      "name": "Stewart Swain",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/bama",
+      "fit_reason": "Campus minister at University of Alabama since June 2015; personal giving page on RUF support platform. Campus code in slug."
+    },
+    {
+      "name": "Austin McCann",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/hailstate",
+      "fit_reason": "Campus minister at Mississippi State (2022-2024); personal giving page on RUF support platform. Campus code in slug."
+    },
+    {
+      "name": "Britton Wood",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Area Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/brittonwood",
+      "fit_reason": "Area Coordinator for Alabama and Tennessee since 2018; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "John Crosby",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/memphis",
+      "fit_reason": "Campus minister at Memphis; personal giving page on RUF support platform."
+    },
+    {
+      "name": "Curtis Shields",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/rice",
+      "fit_reason": "Campus minister at Rice University; personal giving page on RUF support platform."
+    },
+    {
+      "name": "Matt Mahla",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/duke",
+      "fit_reason": "Campus minister at Duke University; personal giving page on RUF support platform."
+    },
+    {
+      "name": "Grace Mautz",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/grace.mautz",
+      "fit_reason": "Campus staff from Delafield, WI; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Nathanael Miller",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/gsu",
+      "fit_reason": "Campus staff at Georgia State University; personal giving page on RUF support platform. Campus code in slug."
+    },
+    {
+      "name": "Lucas Tanner",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/fgcu",
+      "fit_reason": "Campus staff at Florida Gulf Coast University; personal giving page on RUF support platform. Campus code in slug."
+    },
+    {
+      "name": "Kyusik Choi",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/kyusik.choi",
+      "fit_reason": "Campus staff from Minnesota area; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Anna Boyd",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/anna.boyd",
+      "fit_reason": "Campus staff at University of Florida; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Luke Wilkerson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/luke.wilkerson",
+      "fit_reason": "Campus staff at Florida State University; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Kelly Jackson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/fsu",
+      "fit_reason": "Campus staff at Florida State University; personal giving page on RUF support platform. Campus code in slug."
+    },
+    {
+      "name": "Christina McWhite",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/christina.mcwhite",
+      "fit_reason": "Campus staff; personal giving page on RUF support platform. Surname in slug."
+    },
+    {
+      "name": "Travis Hutchinson",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/brownrisd",
+      "fit_reason": "Campus staff; personal giving page on RUF support platform."
+    },
+    {
+      "name": "Tim Grider",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/columbus",
+      "fit_reason": "Campus staff in Columbus area; personal giving page on RUF support platform."
+    },
+    {
+      "name": "Noel Coppedge",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/noel.coppedge",
+      "fit_reason": "Campus staff from Austin, TX; personal giving page on RUF support platform. Surname in slug."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:ruf.org \"campus minister\" \"University of Georgia\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/people/ Clemson Auburn Alabama Vanderbilt",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/people/ministers",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/people/ministers/ -site:ruf.org/people/ministers/ alabama clemson",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/people/ministers/ staff member name profile",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"ruf.org\" \"campus minister\" \"North Carolina\" OR \"Ole Miss\" OR \"Mississippi State\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/people Chuck Askew Elliott Everitt Austin",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/people/staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"ruf.org\" \"campus minister\" \"Texas A&M\" OR \"Baylor\" OR \"Virginia Tech\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/people \"intern\" OR \"campus staff\" vanderbilt florida belmont",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ruf.org/people/ministers/ askew OR bondurant OR everitt",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org \"campus minister\" OR \"campus staff\" askew bondurant everitt",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org michigan wisconsin minnesota florida \"campus\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org auburn ole miss clemson auburn baylor",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate \"intern\" OR \"staff\" north carolina virginia texas",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org \"campus minister\" vanderbilt belmont alabama mississippi",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate \"intern\" OR \"staff\" florida state wisconsin minnesota",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate texas michigan virginia north carolina",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Per-person pages at ruf.org not found",
+      "finding": "Searches 2, 3, 5, 7, and 10 targeted ruf.org/people/ subdirectories and returned only main index pages (ruf.org/people/ministers/, ruf.org/people/staff/, ruf.org/people/) with no per-person subpages indexed by search engines.",
+      "evidence": "The orchestrator's pre-wave searches confirmed this finding: no per-person pages exist at ruf.org, only directory indexes. All people were sourced from givetoruf.org/donate/ pages, which are RUF's personal support-raising platform.",
+      "recommendation": "Confirm that givetoruf.org/donate/[name] pages are acceptable as source_url for RUF staff. These are personal giving pages where each staff member, campus minister, and intern has a support-raising profile. While the assignment slice was 'ruf.org people directories,' the actual per-person pages for RUF support-raised staff exist only on their giving platform."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+ "wave_id": "w2026-09-09c",
+ "agent": "roster:agwm",
+ "target_org": "Assemblies of God World Missions",
+ "searches_used": 15,
+ "roster_verdict": "exhausted",
+ "people": [
+  {
+   "org_name": "Zach Rix",
+   "summary": "Assemblies of God World Missions \u2014 Missionary to Honduras",
+   "fit_score": 9,
+   "fit_reason": "AGWM missionary with documented personal support page and dedicated ministry website. Raises own financial support with demonstrated giving infrastructure.",
+   "source_url": null,
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "low",
+    "evidence_basis": "personal_page",
+    "target_org": "Assemblies of God World Missions",
+    "agwm_account": "294791",
+    "personal_site": "rixmissions.com",
+    "orchestrator_note": "URL dropped: agent cited the same giving account as Zachariah Brinegar while its own report gave Rix a different account number. One citation is wrong; not guessing which."
+   }
+  },
+  {
+   "org_name": "Zachariah Brinegar",
+   "summary": "Assemblies of God World Missions \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "AGWM missionary with personal giving page on giving.ag.org platform. Direct evidence of support page URL structure for personal fundraising.",
+   "source_url": "https://giving.ag.org/Give/Details/600001-294376?MinistryName=Brinegar&Page=0",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Assemblies of God World Missions",
+    "agwm_account": "600001-294376"
+   }
+  },
+  {
+   "org_name": "Ben Bock",
+   "summary": "Assemblies of God World Missions \u2014 Missionary to Montenegro/Spain",
+   "fit_score": 8,
+   "fit_reason": "AGWM missionary with documented missionary profile. Served as first AGWM missionary to Montenegro starting 2018, now serving in Spain. Part of documented AGWM missionary network with personal support structure.",
+   "source_url": "https://agmd.org/u/theBocks",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "org_policy",
+    "target_org": "Assemblies of God World Missions",
+    "field_assignment": "Montenegro/Spain"
+   }
+  },
+  {
+   "org_name": "John Easter",
+   "summary": "Assemblies of God World Missions \u2014 Executive Director",
+   "fit_score": 6,
+   "fit_reason": "Senior leadership at AGWM with donor/partnership development background. Previously served as Director of Partnership Development before promotion to Executive Director. Leads organization that coordinates 2,500+ missionaries.",
+   "source_url": "https://agwm.org/en/executive/",
+   "meta": {
+    "tier": "C",
+    "role": "Executive Director (formerly Director of Partnership Development)",
+    "confidence": "high",
+    "evidence_basis": "senior_leadership",
+    "target_org": "Assemblies of God World Missions"
+   }
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:giving.ag.org missionary",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"AGWM\" missionary \"support us\" OR \"partner with\" giving page",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "AGWM missionaries list \"support\" OR \"partner\" names",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "agwm.org/missionary OR agwm.org missionaries \"monthly partner\" OR deputation",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:giving.ag.org \"missionary\" names 2025 OR 2026",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"Zach Rix\" AGWM missionary giving OR support",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"Assemblies of God World Missions\" missionaries Africa support page monthly",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "giving.ag.org \"Details\" missionary Brazil OR Asia OR Africa",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:news.ag.org AGWM missionary stories names",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"Victor Diaz\" OR \"Stephen Jester\" OR \"Erik Erickson\" AGWM missionary giving OR support",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "AGWM \"development director\" OR \"donor relations\" OR \"advancement\" staff",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:agwm.org executive OR board members OR staff leadership",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "AGWM missionaries \"how to support\" OR \"prayer partners\" OR \"partners\" site:.com OR site:.org",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"Brinegar\" AGWM missionary OR \"Paul Kazim\" AGWM OR \"Ben Bock\" AGWM",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "AGWM \"board of directors\" OR \"development officer\" OR leadership team 2025 2026",
+   "outcome": "found_people"
+  }
+ ],
+ "negatives": [
+  {
+   "name": "Dave Houck",
+   "reason_code": "wrong_org",
+   "note": "AGUSM (US Missions), not AGWM (World Missions)"
+  },
+  {
+   "name": "Tammy Houck",
+   "reason_code": "wrong_org",
+   "note": "AGUSM (US Missions), not AGWM (World Missions)"
+  },
+  {
+   "name": "Greg Mundis",
+   "reason_code": "no_longer_active",
+   "note": "Previous/retired Executive Director, current status unknown"
+  }
+ ],
+ "needs_review": [
+  {
+   "finding": "AGWM has documented org policy that all missionaries personally raise their own support through churches and individuals. This establishes org-level evidence that any AGWM missionary record would be Tier A.",
+   "implication": "Other named missionaries (Paul Kazim, Victor Diaz, Stephen Jester, Erik Erickson) identified in AGWM news/stories should be resurveyed with confidence='medium' and evidence_basis='org_policy' if additional confirmation is needed."
+  },
+  {
+   "finding": "giving.ag.org platform hosts personal missionary support pages, but search engine indexing is limited. Direct navigation or platform search may reveal additional missionaries beyond the 3 found via search snippets.",
+   "implication": "Additional Tier A discoveries likely exist on giving.ag.org. The Brinegar and Rix entries demonstrate the personal_page pattern is valid and consistent."
+  }
+ ]
+}

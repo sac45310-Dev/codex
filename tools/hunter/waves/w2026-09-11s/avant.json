@@ -1,0 +1,202 @@
+{
+  "wave_id": "w2026-09-11s",
+  "agent": "s-avant",
+  "target_org": "Avant Ministries",
+  "slice": "all fields. Rotate qualifiers across regions and roles — church planting, France/Spain/Europe, Latin America (Mexico, Peru, Bolivia), West Africa, Asia, aviation, media, camp, home office (Kansas City)",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Jessica Jenkins",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Communications and Website Specialist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/j-jenkins",
+      "fit_reason": "URL matches confirmed pattern <initial>-<surname>: j-jenkins. Page title shows full name 'Jessica Jenkins'. Serves in home office (communications role). Previously served with community center outreach and church planting team near Mexico City with Camino Global before merger with Avant in 2019."
+    },
+    {
+      "name": "Phil O'Day",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "President",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/oday",
+      "fit_reason": "Couple page: title 'Phil and Lori O'Day' names both. Splitting on title. URL slug is surname-only (oday), not the confirmed initial-surname pattern. Appointed 1992, served in Mexico city church-planting and field administration. Became Avant President January 2023."
+    },
+    {
+      "name": "Lori O'Day",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/oday",
+      "fit_reason": "Couple page: title 'Phil and Lori O'Day' names both spouses. URL slug is surname-only, not the confirmed pattern. Served with Phil 27+ years prior to 2019 merger with Avant. Served in Mexico church planting and field administration."
+    },
+    {
+      "name": "Alan McManus",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/alan-and-beth-mcmanus-1",
+      "fit_reason": "Couple page: title 'Alan & Beth McManus' names both. Appointed 2000 to CAM International (now Avant after 2019 merger). Over 16 years serving in central Mexico. Since 2018 teaching at Puebla Christian School and participating in church plant. Suffix '-1' is CMS collision, not part of name."
+    },
+    {
+      "name": "Beth McManus",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/alan-and-beth-mcmanus-1",
+      "fit_reason": "Couple page: title 'Alan & Beth McManus' names both spouses. Appointed 2000, served in Mexico for 16+ years. Teaching and ministry involvement in church plant."
+    },
+    {
+      "name": "Bryan Smith",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Camp Administrator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/bryan-and-lori-smith",
+      "fit_reason": "Couple page: title 'Bryan & Lori Smith' names both. Left for Mexico 2001 through CAM International (now Avant after 2019 merger). Currently serves as administrator for Camp Living Water Oasis in Puebla, Mexico. Also involved in church planting. Role includes training camp staff."
+    },
+    {
+      "name": "Lori Smith",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Camp Administrator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/bryan-and-lori-smith",
+      "fit_reason": "Couple page: title 'Bryan & Lori Smith' names both spouses. Serves with Bryan as camp administrator. Mentoring and training camp staff at Camp Living Water Oasis in Mexico."
+    },
+    {
+      "name": "Leah Vanderlaan",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/leah-vanderlaan",
+      "fit_reason": "Single person page. Appointed 2006 to Avant. Served in Stuttgart Germany ministering to US Military kids in partnership with Cadence International. URL format is first-name-surname, not the confirmed initial-surname pattern."
+    },
+    {
+      "name": "Glenn Stewart",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Aircraft Mechanic",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/glenn-and-judy-stewart-1",
+      "fit_reason": "Couple page: title 'Glenn & Judy Stewart' names both. Raised 3 children while serving 45+ years married life in overseas assignments including Bolivia with South America Mission. Roles included aircraft mechanic, field leadership, church planting, and hospitality. Member care involvement."
+    },
+    {
+      "name": "Judy Stewart",
+      "org": "Avant Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://avantministries.org/missionary/glenn-and-judy-stewart-1",
+      "fit_reason": "Couple page: title 'Glenn & Judy Stewart' names both spouses. Served 45+ years in overseas assignments including Bolivia. Involved in member care and support functions."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary j-jenkins",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary \"church plant\" Latin America",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary mexico",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary Europe Spain France",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary aviation",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary \"pray for\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary \"West Africa\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary/a-",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary \"appointed to Avant\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary camp",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary Asia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary media",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary Bolivia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary Peru",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionaries \"directory\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary/b- -bryan",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary/r-",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:avantministries.org/missionary \"Kansas City\" OR \"home office\"",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}

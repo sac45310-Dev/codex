@@ -1,0 +1,592 @@
+{
+  "wave_id": "w2026-09-10k",
+  "agent": "spo",
+  "target_org": "Saint Paul's Outreach",
+  "slice": "spo.org per-missionary support pages",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Adrian Espindola",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-adrian-espindola",
+      "fit_reason": "Tier A; per-person support page, full name in slug"
+    },
+    {
+      "name": "Ben Huntley",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-ben-huntley",
+      "fit_reason": "Tier A; per-person support page, full name in slug"
+    },
+    {
+      "name": "Alli Michaels",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-alli-michaels",
+      "fit_reason": "Tier A; per-person support page, full name in slug; verified in brief"
+    },
+    {
+      "name": "Liam Burke",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-liam-burke",
+      "fit_reason": "Tier A; per-person support page, full name in slug"
+    },
+    {
+      "name": "Max Lee",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-max-lee",
+      "fit_reason": "Tier A; per-person support page, full name in slug"
+    },
+    {
+      "name": "Rachel Holmes",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Mission Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-rachel-holmes",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Mission Supervisor Minnesota"
+    },
+    {
+      "name": "Sebastian Reyes",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-sebastian-reyes",
+      "fit_reason": "Tier A; per-person support page, full name in slug"
+    },
+    {
+      "name": "Jonathan Ryan",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Mission Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-jonathan-jr-ryan",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Twin Cities Young Adults"
+    },
+    {
+      "name": "Kevin Hadsall",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Mission Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-kevin-hadsall",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Twin Cities Young Adults"
+    },
+    {
+      "name": "Michael Nichols",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Administrative Assistant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-michael-nichols",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Ohio Region"
+    },
+    {
+      "name": "Paul Stucker",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Mission Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-paul-stucker",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Mission Supervisor Ohio"
+    },
+    {
+      "name": "Sarah Hughes",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Mission Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-sarah-hughes",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Mission Supervisor Ohio"
+    },
+    {
+      "name": "Rachel Dolby",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-rachel-dolby",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Ohio State University"
+    },
+    {
+      "name": "Kayla Vergara",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-kayla-vergara",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Ohio State University"
+    },
+    {
+      "name": "Gabriel Tisnes",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-gabriel-tisnes",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Rutgers University"
+    },
+    {
+      "name": "Sophia Elchynski",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-sophia-elchynski",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Rutgers University"
+    },
+    {
+      "name": "Hannah Cunningham",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Chapter Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-hannah-cunningham",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Chapter Leader Rutgers"
+    },
+    {
+      "name": "Giovanna Pessa",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-giovanna-pessa",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Rutgers University area"
+    },
+    {
+      "name": "Sam Harmeyer",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-sam-harmeyer",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Rutgers University area"
+    },
+    {
+      "name": "Trevor Marquardt",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-trevor-marquardt",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Colorado"
+    },
+    {
+      "name": "Brandon Ruiz",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-brandon-ruiz",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Colorado"
+    },
+    {
+      "name": "Mary North",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-mary-north",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Colorado area"
+    },
+    {
+      "name": "Julianna Castelluccio",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Mission Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-julianna-castelluccio",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Mission Supervisor Texas"
+    },
+    {
+      "name": "Jacob Angus",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-jacob-angus",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Texas State University"
+    },
+    {
+      "name": "Lola Martin",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-lola-martin",
+      "fit_reason": "Tier A; per-person support page, full name in slug; verified in brief, Texas State University"
+    },
+    {
+      "name": "Anna Watson",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-anna-watson",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Texas State University"
+    },
+    {
+      "name": "Cassady Detrick",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Chapter Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-cassady-detrick",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Chapter Leader Texas State"
+    },
+    {
+      "name": "Chandler Dodge",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-chandler-dodge",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Texas area"
+    },
+    {
+      "name": "Olivia Samper",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Chapter Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-olivia-samper",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Chapter Leader University of Kansas"
+    },
+    {
+      "name": "Olivia Eck",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-olivia-eck",
+      "fit_reason": "Tier A; per-person support page, full name in slug"
+    },
+    {
+      "name": "Rick Erisman",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Mission Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-rick-erisman",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Mission Supervisor College Station & Houston"
+    },
+    {
+      "name": "Elizabeth Stein",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Mission Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-elizabeth-stein",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Mission Supervisor Florida"
+    },
+    {
+      "name": "Kayla Lynch",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Mission Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-kayla-lynch",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Mission Supervisor SPO National"
+    },
+    {
+      "name": "Anna Stevenson",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Mission Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-anna-stevenson",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Mission Supervisor Southwest"
+    },
+    {
+      "name": "John Prost",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Mission Supervisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-john-prost",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Mission Supervisor Kansas City"
+    },
+    {
+      "name": "Jacob Whitmore",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Chapter Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-jacob-whitmore",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Chapter Leader University of St. Thomas Houston"
+    },
+    {
+      "name": "Chris Medina",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Chapter Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-chris-medina",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Chapter Leader University of Minnesota"
+    },
+    {
+      "name": "Miriam Spada",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Chapter Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-miriam-spada",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Chapter Leader University of St. Thomas"
+    },
+    {
+      "name": "Gwyneth Buganski",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Chapter Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-gwyneth-buganski",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Chapter Leader Benedictine College"
+    },
+    {
+      "name": "Elizabeth Lollar",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-elizabeth-lollar",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Boston Area Colleges"
+    },
+    {
+      "name": "Aaron Ihrig",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-aaron-ihrig",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Boston Area Colleges"
+    },
+    {
+      "name": "William Mueller",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-william-mueller",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Boston Area Colleges"
+    },
+    {
+      "name": "Izabela Bigos",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-izabela-bigos",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Boston Area Colleges"
+    },
+    {
+      "name": "David Haig",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Chapter Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-david-haig",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Chapter Leader Boston Area Colleges"
+    },
+    {
+      "name": "Hunter Kirkman",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Chapter Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-hunter-kirkman",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Chapter Leader Boston Area Colleges"
+    },
+    {
+      "name": "David Switala",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-david-switala",
+      "fit_reason": "Tier A; per-person support page, full name in slug; University of Minnesota"
+    },
+    {
+      "name": "Bonnie LaGrange",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-bonnie-lagrange",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Ohio State University"
+    },
+    {
+      "name": "Stephen Ginzel",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-stephen-ginzel",
+      "fit_reason": "Tier A; per-person support page, full name in slug; Young Adults"
+    },
+    {
+      "name": "Kaitlyn Richmond",
+      "org": "Saint Paul's Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.spo.org/support-kaitlyn-richmond",
+      "fit_reason": "Tier A; per-person support page, full name in slug; verified in brief"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:spo.org find-a-missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- Minnesota",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- \"St Paul\" OR \"Twin Cities\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- Ohio",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- Wisconsin OR Madison",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- Michigan OR Detroit",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- \"New Jersey\" OR Rutgers",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- Colorado",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- Texas",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- campus ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- household",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- mission supervisor",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- chapter leader",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org \"support-\" -alli-michaels -lola-martin -kaitlyn-richmond -adrian-espindola -ben-huntley",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- Boston area",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org/support- 2024 2025 2026",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:spo.org support- young adults",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}

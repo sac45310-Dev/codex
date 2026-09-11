@@ -1,0 +1,142 @@
+{
+  "wave_id": "w2026-09-10b",
+  "agent": "disc-agencies",
+  "searches_used": 15,
+  "orgs": [
+    {
+      "org": "Ethnos360",
+      "domain": "ethnos360.org",
+      "pattern": "https://ethnos360.org/missionaries/<name> | https://blogs.ethnos360.org/<name>/",
+      "pattern_kind": "path|blog",
+      "examples": [
+        "https://ethnos360.org/missionaries/jim-and-elisa-passetti",
+        "https://ethnos360.org/missionaries/steve-and-ithie-jackson",
+        "https://ethnos360.org/missionaries/dj-and-jennifer-searcy",
+        "https://blogs.ethnos360.org/anthony-haskins/",
+        "https://blogs.ethnos360.org/ryan-beck/"
+      ],
+      "estimated_depth": "100+ individual missionaries; 47 Tier A held; search results show extensive per-person page network",
+      "notes": "Ethnos360 publishes per-person pages on two surfaces: (1) path on main domain at ethnos360.org/missionaries/<firstname>-and-<firstname>-<lastname>/, slug format with hyphen-separated names; (2) dedicated blog network at blogs.ethnos360.org/<firstname>-<lastname>/ with per-missionary blogs and individual give pages (blogs.ethnos360.org/<name>/give/). Confirmed stable URL patterns on both."
+    },
+    {
+      "org": "Wycliffe Bible Translators USA",
+      "domain": "wycliffe.org",
+      "pattern": null,
+      "pattern_kind": "none",
+      "examples": [
+        "https://www.wycliffe.org/partner/missionaries",
+        "https://www.wycliffe.org/partner/missionaries?page=3",
+        "https://www.wycliffe.org/partner/missionaries?page=49"
+      ],
+      "estimated_depth": "Hundreds of missionaries in centralized directory with pagination (page parameters suggest 50+ pages)",
+      "notes": "Wycliffe operates a centralized paginated/searchable missionaries directory at wycliffe.org/partner/missionaries with query parameters (?page=3, ?mview=true, ?filter[0][]=1) but NO stable per-person URL pattern. Donors give via a shared directory, not individual per-person giving pages. This is a valid 'none' result confirming no per-person pattern."
+    },
+    {
+      "org": "World Gospel Mission",
+      "domain": "wgm.org",
+      "pattern": "https://wgm.org/missionary/<lastname>",
+      "pattern_kind": "path",
+      "examples": [
+        "https://wgm.org/missionary/margaron",
+        "https://wgm.org/missionary/allshouse",
+        "https://wgm.org/sensitive-missionary"
+      ],
+      "estimated_depth": "236 full-time missionaries; per-person pages at stable URLs",
+      "notes": "WGM publishes per-person missionary pages at wgm.org/missionary/<lastname> format. Confirmed pattern with examples: Bob Margaron (margaron), Bill and Lydia Allshouse (allshouse). Also found wgm.org/sensitive-missionary for missionaries in restricted areas. Per-person giving form accessible on each page."
+    },
+    {
+      "org": "One Mission Society",
+      "domain": "onemissionsociety.org",
+      "pattern": "https://onemissionsociety.org/missionaries/detail/<identifier>",
+      "pattern_kind": "path",
+      "examples": [
+        "https://onemissionsociety.org/missionaries/detail/gard",
+        "https://onemissionsociety.org/missionaries/detail/Christopher",
+        "https://onemissionsociety.org/missionaries/detail/Pema",
+        "https://onemissionsociety.org/missionaries/detail/Nancy",
+        "https://onemissionsociety.org/missionaries/detail/howarth"
+      ],
+      "estimated_depth": "~300 full-time missionaries; additional missionaries in sensitive areas accessible via Express Give",
+      "notes": "OMS publishes per-person pages at onemissionsociety.org/missionaries/detail/<identifier> where identifier appears to be last name or slug format. Confirmed pattern with examples (Lydia/gard, Shane/Christopher, Chunillal/Pema, Nancy/Nancy, Aimee/howarth). Note: Some missionaries in sensitive areas not publicly listed but still accessible via Express Give option (account number entry). Per-person giving pages confirmed."
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org give OR donate OR support missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360aviation.org",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:blogs.ethnos360.org",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org partner missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org donate OR give missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org missionaries prayer",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "\"wycliffe.org\" support missionary per-person",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org give OR donate missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wgm.org missionary prayer letter",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org give OR donate missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:onemissionsociety.org missionary prayer support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"onemissionsociety.org\" per-person missionary page",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}

@@ -1,0 +1,120 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:wec",
+  "target_org": "WEC International USA",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Larry Sterwart",
+      "summary": "WEC International USA — USA Branch Director",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Confirmed USA Branch Director and top leader through GuideStar and public sources.",
+      "source_query": "hunter:w2026-08-30a:wec",
+      "meta": {
+        "tier": "C",
+        "role": "USA Branch Director",
+        "target_org": "WEC International USA",
+        "evidence_url": "https://www.guidestar.org/profile/23-6396212",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Adriana Sterwart",
+      "summary": "WEC International USA — USA Branch Director",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Confirmed USA Branch Director through GuideStar and public organizational records.",
+      "source_query": "hunter:w2026-08-30a:wec",
+      "meta": {
+        "tier": "C",
+        "role": "USA Branch Director",
+        "target_org": "WEC International USA",
+        "evidence_url": "https://www.guidestar.org/profile/23-6396212",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Daniel Durben",
+      "summary": "WEC International USA — Vice President and Treasurer",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Confirmed VP and Treasurer of WEC International; registered agent and Governor of the organization.",
+      "source_query": "hunter:w2026-08-30a:wec",
+      "meta": {
+        "tier": "C",
+        "role": "Vice President, Treasurer",
+        "target_org": "WEC International USA",
+        "evidence_url": "https://www.guidestar.org/profile/23-6396212",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "WEC International USA",
+      "website": "https://wec-usa.org/",
+      "org_type": "parachurch",
+      "size_estimate": "small",
+      "tier_profile": "C",
+      "faith_orientation": "christian",
+      "evidence": "Fort Washington, PA 19034-8707; EIN 23-6396212; established USA branch in 1939; recruits, trains, and sends missionaries; all staff support-raised, no salaries paid."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "WEC International USA leadership board members",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "WEC International USA staff directory missionaries",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"WEC International USA\" Fort Washington director president",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "WEC International USA advancement development donor relations",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Larry Sterwart Adriana Sterwart WEC International USA",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Marie Murtha\" WEC International USA",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Daniel Durben\" WEC International USA finance",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "WEC International USA board directors trustees members",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Marie Murtha",
+      "org": "WEC International USA",
+      "question": "Role and tier classification unclear; appears as 'Director' but mission/department not specified.",
+      "evidence_url": "https://www.linkedin.com/in/marie-murtha-80236230/",
+      "notes": "LinkedIn indicates Director title at WEC International; insufficient public detail to classify as Tier A (support-raised), Tier B (development staff), or Tier C (board member)."
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+ "wave_id": "w2026-09-10c",
+ "agent": "wgm-americas",
+ "target_org": "World Gospel Mission",
+ "slice": "the Americas, Europe, and US-based ministries",
+ "searches_used": 15,
+ "people": [
+  {
+   "name": "Bill Allshouse",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/allshouse",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses"
+  },
+  {
+   "name": "Lydia Allshouse",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/allshouse",
+   "fit_reason": "Per-person giving page; spouse listed in title with married surname"
+  },
+  {
+   "name": "David Hawk",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/davidhawk",
+   "fit_reason": "Per-person giving page; full name in slug; title confirms both spouses; Regional Director Americas"
+  },
+  {
+   "name": "Debbie Hawk",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Regional Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/davidhawk",
+   "fit_reason": "Per-person giving page; spouse in shared profile; Regional Director Americas"
+  },
+  {
+   "name": "Chrissy Greenwell",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/greenwell",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms; Mexico ministry"
+  },
+  {
+   "name": "Joe Cavanaugh",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/cavanaugh",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Central Mexico"
+  },
+  {
+   "name": "Corinna Cavanaugh",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/cavanaugh",
+   "fit_reason": "Per-person giving page; spouse listed in title; Central Mexico ministry"
+  },
+  {
+   "name": "Jorge Vaca",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/vaca",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Texas/Mexico border"
+  },
+  {
+   "name": "Laura Vaca",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/vaca",
+   "fit_reason": "Per-person giving page; spouse listed in title; Texas/Mexico border"
+  },
+  {
+   "name": "Carlos Saavedra",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/saavedra",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Mexico focus"
+  },
+  {
+   "name": "Lily Saavedra",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/saavedra",
+   "fit_reason": "Per-person giving page; spouse listed in title; Mexico focus"
+  },
+  {
+   "name": "Miguel Irías",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/irias",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Paraguay ministry"
+  },
+  {
+   "name": "Ana Irías",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/irias",
+   "fit_reason": "Per-person giving page; spouse listed in title; Paraguay ministry"
+  },
+  {
+   "name": "Weadette Burge",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.wgm.org/missionary/burge",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms; Paraguay church ministries"
+  },
+  {
+   "name": "Mike Brown",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/brown",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Bolivia ministry"
+  },
+  {
+   "name": "Donna Brown",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/brown",
+   "fit_reason": "Per-person giving page; spouse listed in title; Bolivia nursing ministry"
+  },
+  {
+   "name": "Mike Banks",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/banks",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms; Bolivia ministry since 1991"
+  },
+  {
+   "name": "Colby Grindean",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.wgm.org/missionary/grindean",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Bolivia"
+  },
+  {
+   "name": "Kimberly Grindean",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.wgm.org/missionary/grindean",
+   "fit_reason": "Per-person giving page; spouse listed in title; Bolivia ministry"
+  },
+  {
+   "name": "Nina Kunkle",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/ninakunkle",
+   "fit_reason": "Per-person giving page; full name in slug; Bolivia medical and church ministries"
+  },
+  {
+   "name": "Facundo Mulet Oliva",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/mulet-oliva",
+   "fit_reason": "Per-person giving page; full name in slug; title confirms both spouses; Argentina Diaspora Ministry"
+  },
+  {
+   "name": "Valeria Mulet Oliva",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/mulet-oliva",
+   "fit_reason": "Per-person giving page; spouse listed in title; Argentina Diaspora Ministry"
+  },
+  {
+   "name": "Brad Weinert",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/weinert",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Argentina 35 years"
+  },
+  {
+   "name": "Kristy Weinert",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/weinert",
+   "fit_reason": "Per-person giving page; spouse listed in title; Argentina church planting ministry"
+  },
+  {
+   "name": "Larry Overholt",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/overholt",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Honduras 43 years"
+  },
+  {
+   "name": "Angie Overholt",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/overholt",
+   "fit_reason": "Per-person giving page; spouse listed in title; Honduras 40 years service"
+  },
+  {
+   "name": "Justin Guest",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/guest",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Honduras Children's Home"
+  },
+  {
+   "name": "Ashley Guest",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/guest",
+   "fit_reason": "Per-person giving page; spouse listed in title; Honduras and Caribbean ministry"
+  },
+  {
+   "name": "Tim Spetnagel",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.wgm.org/missionary/spetnagel",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Honduras community development"
+  },
+  {
+   "name": "Aleyda Spetnagel",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://www.wgm.org/missionary/spetnagel",
+   "fit_reason": "Per-person giving page; spouse listed in title; Honduras community development"
+  },
+  {
+   "name": "Laurie Potter",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/potter",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms; Honduras field director assistant"
+  },
+  {
+   "name": "Ethan Batschelet",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/batschelet",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Honduras Escuela El Sembrador"
+  },
+  {
+   "name": "Ashley Batschelet",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/batschelet",
+   "fit_reason": "Per-person giving page; spouse listed in title; Honduras school ministry"
+  },
+  {
+   "name": "Steve Solheim",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/solheim",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Honduras La Esperanza"
+  },
+  {
+   "name": "Kelly Solheim",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/solheim",
+   "fit_reason": "Per-person giving page; spouse listed in title; Honduras church leadership ministry"
+  },
+  {
+   "name": "Osman Echeverría",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/echeverria",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Honduras ministry"
+  },
+  {
+   "name": "Leslie Echeverría",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/echeverria",
+   "fit_reason": "Per-person giving page; spouse listed in title; Honduras ministry"
+  },
+  {
+   "name": "Gary Griffin",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/griffin",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Honduras ministry"
+  },
+  {
+   "name": "Laura Griffin",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/griffin",
+   "fit_reason": "Per-person giving page; spouse listed in title; Honduras ministry"
+  },
+  {
+   "name": "John Kunkle",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/johnkunkle",
+   "fit_reason": "Per-person giving page; full name in slug; title confirms both spouses; Haiti connection, Wings of Peace aviation"
+  },
+  {
+   "name": "Priscilla Kunkle",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/johnkunkle",
+   "fit_reason": "Per-person giving page; spouse listed in title; born in Haiti as missionary kid, Wings of Peace"
+  },
+  {
+   "name": "Lori Braatz",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/braatz",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms; Haiti and international short-term ministry"
+  },
+  {
+   "name": "Doug Darfus",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/darfus",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Southwest USA Native American ministry director"
+  },
+  {
+   "name": "Becky Darfus",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/darfus",
+   "fit_reason": "Per-person giving page; spouse listed in title; Southwest USA Native American ministry"
+  },
+  {
+   "name": "Darin Arnott",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/arnott",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Arizona Tohono O'odham Nation"
+  },
+  {
+   "name": "Laura Arnott",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/arnott",
+   "fit_reason": "Per-person giving page; spouse listed in title; Arizona Native American ministry"
+  },
+  {
+   "name": "Jon Birkey",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/birkey",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Arizona Christian Community Center"
+  },
+  {
+   "name": "Lindsay Birkey",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/birkey",
+   "fit_reason": "Per-person giving page; spouse listed in title; Arizona Chief Program Officer"
+  },
+  {
+   "name": "Steve Cartwright",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/cartwright",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Arizona Gila River ministry, Caribbean experience"
+  },
+  {
+   "name": "Debbie Cartwright",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/cartwright",
+   "fit_reason": "Per-person giving page; spouse listed in title; Arizona reservation ministry"
+  },
+  {
+   "name": "Chris Amberman",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/amberman",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms; New Mexico church planting ministry"
+  },
+  {
+   "name": "Kristi Kaber",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/kaber",
+   "fit_reason": "Per-person giving page; surname in slug; USA Southwest Ministries involvement"
+  },
+  {
+   "name": "Tanner Parmley",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/parmley",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; USA Southwest ministry"
+  },
+  {
+   "name": "Senica Parmley",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/parmley",
+   "fit_reason": "Per-person giving page; spouse listed in title; USA Southwest ministry"
+  },
+  {
+   "name": "Jake Routzahn",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/routzahn",
+   "fit_reason": "Per-person giving page; surname in slug; USA Southwest Ministries"
+  },
+  {
+   "name": "Chuck Bemm",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/bemm",
+   "fit_reason": "Per-person giving page; surname in slug; title confirms both spouses; Appalachia Pennsylvania ministry"
+  },
+  {
+   "name": "Amy Bemm",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/bemm",
+   "fit_reason": "Per-person giving page; spouse listed in title; Appalachia mid-term mission"
+  },
+  {
+   "name": "DeeAnn Rich",
+   "org": "World Gospel Mission",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://wgm.org/missionary/rich",
+   "fit_reason": "Per-person giving page; surname in slug; USA headquarters involvement"
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary Mexico missionary",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary Paraguay",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary Bolivia",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary Peru",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary Argentina",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary Honduras",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary Haiti",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary \"Southwest\" OR \"Arizona\" missionary USA",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary Appalachia",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary Caribbean",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary Hungary Europe",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary \"Discovery Experience\" OR \"Native American\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary \"Americas Region Team\" OR Brazil OR \"Regional\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary Americas -bowen -dunbar -ernst -sosa -fish -phillips -hughes -kushman -martinez -landerholm -jenkins",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:wgm.org/missionary \"Marion\" OR \"headquarters\" OR \"USA\" -bowen -dunbar -ernst -sosa -fish -phillips -hughes -landerholm",
+   "outcome": "found_people"
+  }
+ ],
+ "needs_review": [
+  {
+   "issue": "Cross-agent safety conflict — held out of the load",
+   "finding": "This agent emitted Justin/Ashley Guest, Ethan/Ashley Batschelet and John/Priscilla/Nina Kunkle as ordinary records. The sibling agent wgm-africa-asia had independently flagged the same people as appearing in WGM sensitive/creative-access search results and withheld them.",
+   "evidence": "Orchestrator cross-agent audit, w2026-09-10c.",
+   "recommendation": "Held out of the load. Where two agents disagree on whether someone is a sensitive-region worker, take the cautious reading — the cost of wrongly withholding is one lost contact, the cost of wrongly publishing is undoing a protection their agency put in place."
+  }
+ ]
+}

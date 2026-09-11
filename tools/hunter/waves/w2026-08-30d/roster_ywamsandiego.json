@@ -1,0 +1,167 @@
+{
+  "wave_id": "w2026-08-30d",
+  "agent": "roster:ywamsandiego",
+  "target_org": "YWAM San Diego/Baja",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Sean Lambert",
+      "summary": "YWAM San Diego/Baja — President & Director",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Co-founder (1991) and President; YWAM org policy documents all staff raise personal support",
+      "source_query": "hunter:w2026-08-30d:ywamsandiego",
+      "website": "https://www.ywamsandiegobaja.org/staff-profiles/sean-janet-lambert",
+      "meta": {
+        "tier": "A",
+        "role": "President & Director",
+        "target_org": "YWAM San Diego/Baja",
+        "evidence_url": "https://www.ywamsandiegobaja.org/staff-profiles/sean-janet-lambert",
+        "linkedin_url": "https://www.linkedin.com/in/sean-lambert-70884540/",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    },
+    {
+      "org_name": "Janet Lambert",
+      "summary": "YWAM San Diego/Baja — Co-founder & Leadership",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Co-founder (1991) with Sean; YWAM org policy documents all staff raise personal support",
+      "source_query": "hunter:w2026-08-30d:ywamsandiego",
+      "website": "https://www.ywamsandiegobaja.org/staff-profiles/sean-janet-lambert",
+      "meta": {
+        "tier": "A",
+        "role": "Co-founder & Leadership",
+        "target_org": "YWAM San Diego/Baja",
+        "evidence_url": "https://www.ywamsandiegobaja.org/staff-profiles/sean-janet-lambert",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    },
+    {
+      "org_name": "Giezi Nino",
+      "summary": "YWAM San Diego/Baja — San Antonio Del Mar Campus Leadership",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Campus director with responsibilities for Hope Zone, Homes of Hope, and staff care; YWAM org policy applies",
+      "source_query": "hunter:w2026-08-30d:ywamsandiego",
+      "website": "https://www.ywamsandiegobaja.org/staff-profiles/nino-family",
+      "meta": {
+        "tier": "A",
+        "role": "San Antonio Del Mar Campus Leadership",
+        "target_org": "YWAM San Diego/Baja",
+        "evidence_url": "https://www.ywamsandiegobaja.org/staff-profiles/nino-family",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    },
+    {
+      "org_name": "Amanda Nino",
+      "summary": "YWAM San Diego/Baja — San Antonio Del Mar Campus Leadership",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Serving with husband Giezi in campus leadership; YWAM org policy applies to all staff",
+      "source_query": "hunter:w2026-08-30d:ywamsandiego",
+      "website": "https://www.ywamsandiegobaja.org/staff-profiles/nino-family",
+      "meta": {
+        "tier": "A",
+        "role": "San Antonio Del Mar Campus Leadership",
+        "target_org": "YWAM San Diego/Baja",
+        "evidence_url": "https://www.ywamsandiegobaja.org/staff-profiles/nino-family",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    },
+    {
+      "org_name": "Omar Murillo",
+      "summary": "YWAM San Diego/Baja — Ensenada Campus Leadership",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Campus leader at Ensenada with 200-bed facility managing Mission Adventures and Homes of Hope; YWAM org policy applies",
+      "source_query": "hunter:w2026-08-30d:ywamsandiego",
+      "website": "https://www.ywamsandiegobaja.org/staff-profiles/murillo-family",
+      "meta": {
+        "tier": "A",
+        "role": "Ensenada Campus Leadership",
+        "target_org": "YWAM San Diego/Baja",
+        "evidence_url": "https://www.ywamsandiegobaja.org/staff-profiles/murillo-family",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    },
+    {
+      "org_name": "Stephanie Murillo",
+      "summary": "YWAM San Diego/Baja — Ensenada Campus Leadership",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Serving with husband Omar in Ensenada campus leadership; YWAM org policy applies to all staff",
+      "source_query": "hunter:w2026-08-30d:ywamsandiego",
+      "website": "https://www.ywamsandiegobaja.org/staff-profiles/murillo-family",
+      "meta": {
+        "tier": "A",
+        "role": "Ensenada Campus Leadership",
+        "target_org": "YWAM San Diego/Baja",
+        "evidence_url": "https://www.ywamsandiegobaja.org/staff-profiles/murillo-family",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "YWAM San Diego/Baja",
+      "website": "https://www.ywamsandiegobaja.org/",
+      "org_type": "ministry",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "headcount_est": 250,
+      "faith_orientation": "christian",
+      "evidence": "YWAM (Youth With A Mission) is a documented Christian organization where 100% of staff raise their own personal support, not salaried. Founded 1991 by Sean and Janet Lambert. Multi-campus ministry with locations in San Diego, Tijuana, and Ensenada, Mexico. Accredited with ECFA."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "YWAM San Diego Baja staff leadership team ywamsandiegobaja.org",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Sean Lambert YWAM San Diego Baja director staff support",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "YWAM staff raise own support personal fundraising policy",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Giezi Nino YWAM San Diego Baja",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Stephanie Murillo YWAM San Diego Baja Ensenada",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"YWAM San Diego Baja\" staff profiles team members -openings",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "YWAM San Diego Baja staff \"prayer letter\" OR \"partner with us\" OR \"support\" 2024 2025 2026",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:ywamsandiegobaja.org staff OR leadership",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ]
+}

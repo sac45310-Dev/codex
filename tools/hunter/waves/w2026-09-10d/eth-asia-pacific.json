@@ -1,0 +1,704 @@
+{
+ "wave_id": "w2026-09-10d",
+ "agent": "eth-asia-pacific",
+ "target_org": "Ethnos360",
+ "slice": "Asia, Pacific, Papua New Guinea, Indonesia, Philippines",
+ "searches_used": 15,
+ "people": [
+  {
+   "name": "Nathan Claasen",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/nathan-and-elizabeth-claasen",
+   "fit_reason": "Surname in slug; title names both spouses; personal support page"
+  },
+  {
+   "name": "Elizabeth Claasen",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/nathan-and-elizabeth-claasen",
+   "fit_reason": "Couple split; shared page; PNG missionary; surname in slug"
+  },
+  {
+   "name": "Jeff Glessner",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Aviation Pilot/Mechanic",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jeff-and-anna-glessner",
+   "fit_reason": "Surname in slug; title names both spouses; Papua New Guinea aviator"
+  },
+  {
+   "name": "Anna Glessner",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jeff-and-anna-glessner",
+   "fit_reason": "Couple split; shared page; Papua New Guinea"
+  },
+  {
+   "name": "Brody Pav",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/brody-and-jen-pav",
+   "fit_reason": "Surname in slug; title names both spouses; Papua New Guinea"
+  },
+  {
+   "name": "Jen Pav",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/brody-and-jen-pav",
+   "fit_reason": "Couple split; shared page; Papua New Guinea"
+  },
+  {
+   "name": "Jason Cizdziel",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jason-and-laken-cizdziel",
+   "fit_reason": "Surname in slug; title names both spouses; Papua New Guinea"
+  },
+  {
+   "name": "Laken Cizdziel",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jason-and-laken-cizdziel",
+   "fit_reason": "Couple split; shared page; Papua New Guinea"
+  },
+  {
+   "name": "Mike McGregor",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Helicopter Pilot",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/mike-mcgregor",
+   "fit_reason": "Aviation pilot serving remote tribal areas; Papua New Guinea"
+  },
+  {
+   "name": "Jacob Devine",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jacob-and-beth-devine",
+   "fit_reason": "Sepik, Papua New Guinea; surname in slug; title names both"
+  },
+  {
+   "name": "Beth Devine",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/jacob-and-beth-devine",
+   "fit_reason": "Couple split; Sepik missionary work"
+  },
+  {
+   "name": "Jack Housley",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/jack-housley/about/",
+   "fit_reason": "Sepik, Papua New Guinea; blog-based reference only; no direct missionaries page found"
+  },
+  {
+   "name": "Jane Housley",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/jack-housley/about/",
+   "fit_reason": "Couple split; Sepik, Papua New Guinea; blog reference"
+  },
+  {
+   "name": "Jon Myers",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/jon-myers/",
+   "fit_reason": "Sepik, Papua New Guinea; blog-based; different from Luke and Vickie Myers"
+  },
+  {
+   "name": "Jen Myers",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/jon-myers/",
+   "fit_reason": "Couple split; Sepik, Papua New Guinea; blog reference"
+  },
+  {
+   "name": "Greg Greenlaw",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/greg-and-heidi-greenlaw",
+   "fit_reason": "Sepik, Papua New Guinea; surname in slug; title names both"
+  },
+  {
+   "name": "Heidi Greenlaw",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/greg-and-heidi-greenlaw",
+   "fit_reason": "Couple split; Sepik, Papua New Guinea"
+  },
+  {
+   "name": "Rick Zook",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/rick-and-anji-zook",
+   "fit_reason": "Surname in slug; title names both; Papua New Guinea translation and church planting"
+  },
+  {
+   "name": "Anji Zook",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/rick-and-anji-zook",
+   "fit_reason": "Couple split; Papua New Guinea"
+  },
+  {
+   "name": "Travis Lesicka",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Aviation Pilot/Mechanic",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/travis-and-rebecca-lesicka",
+   "fit_reason": "Surname in slug; title names both; Papua New Guinea aviation"
+  },
+  {
+   "name": "Rebecca Lesicka",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/travis-and-rebecca-lesicka",
+   "fit_reason": "Couple split; Papua New Guinea"
+  },
+  {
+   "name": "Andrew Smith",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/andrew-and-anna-smith",
+   "fit_reason": "Surname in slug; title names both; Papua New Guinea"
+  },
+  {
+   "name": "Anna Smith",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/andrew-and-anna-smith",
+   "fit_reason": "Couple split; Papua New Guinea"
+  },
+  {
+   "name": "Adam Ferguson",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/adam-and-anna-ferguson",
+   "fit_reason": "Surname in slug; title names both; Papua New Guinea"
+  },
+  {
+   "name": "Anna Ferguson",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/adam-and-anna-ferguson",
+   "fit_reason": "Couple split; Papua New Guinea"
+  },
+  {
+   "name": "Boris Bergen",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/boris-and-valentina-bergen",
+   "fit_reason": "Surname in slug; title names both; Indonesia/Borneo"
+  },
+  {
+   "name": "Valentina Bergen",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/boris-and-valentina-bergen",
+   "fit_reason": "Couple split; Indonesia/Borneo"
+  },
+  {
+   "name": "Dan Shaylor",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/dan-and-diana-shaylor",
+   "fit_reason": "Surname in slug; title names both; Borneo/Kalimantan"
+  },
+  {
+   "name": "Diana Shaylor",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/dan-and-diana-shaylor",
+   "fit_reason": "Couple split; Indonesia/Borneo"
+  },
+  {
+   "name": "BJ Sanders",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/bj-and-jill-sanders",
+   "fit_reason": "Surname in slug; title names both; Borneo/Kalimantan"
+  },
+  {
+   "name": "Jill Sanders",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/bj-and-jill-sanders",
+   "fit_reason": "Couple split; Indonesia/Borneo"
+  },
+  {
+   "name": "Myles Bloye",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/myles-and-coryn-bloye-1",
+   "fit_reason": "Surname in slug; title names both; Borneo/Kalimantan"
+  },
+  {
+   "name": "Coryn Bloye",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/myles-and-coryn-bloye-1",
+   "fit_reason": "Couple split; Indonesia/Borneo"
+  },
+  {
+   "name": "Aaron Weatherl",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/aaron-and-erika-weatherl",
+   "fit_reason": "Surname in slug; title names both; Borneo/Kalimantan"
+  },
+  {
+   "name": "Erika Weatherl",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/aaron-and-erika-weatherl",
+   "fit_reason": "Couple split; Indonesia/Borneo"
+  },
+  {
+   "name": "Dan Bohling",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/dan-and-linda-bohling",
+   "fit_reason": "Surname in slug; title names both; Indonesia/Borneo"
+  },
+  {
+   "name": "Linda Bohling",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/dan-and-linda-bohling",
+   "fit_reason": "Couple split; Indonesia/Borneo"
+  },
+  {
+   "name": "Bob Clark",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Bible Translator",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/bob-clark/about/",
+   "fit_reason": "Indonesia; blog-based; Bible translation consultant for Tugutil people"
+  },
+  {
+   "name": "Debbie Clark",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Bible Translator",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/bob-clark/about/",
+   "fit_reason": "Couple split; Indonesia; 20 years in Asia-Pacific"
+  },
+  {
+   "name": "Sue-Melissa Guillaume",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/sue-melissa-guillaume",
+   "fit_reason": "Surname in slug; title names individual; Philippines"
+  },
+  {
+   "name": "Werner Schneidmueller",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/werner-and-cel-schneidmueller",
+   "fit_reason": "Surname in slug; title names both; Philippines"
+  },
+  {
+   "name": "Cel Schneidmueller",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/werner-and-cel-schneidmueller",
+   "fit_reason": "Couple split; Philippines"
+  },
+  {
+   "name": "Vicky Martin",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/vicky-martin",
+   "fit_reason": "Surname in slug; title names individual; Philippines"
+  },
+  {
+   "name": "Erlincio Balinsay",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/erlincio-and-ricen-balinsay",
+   "fit_reason": "Surname in slug; title names both; Philippines"
+  },
+  {
+   "name": "Ricen Balinsay",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/erlincio-and-ricen-balinsay",
+   "fit_reason": "Couple split; Philippines"
+  },
+  {
+   "name": "Shairene Bantolo",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/shairene-bantolo",
+   "fit_reason": "Surname in slug; title names individual; Philippines"
+  },
+  {
+   "name": "Claire Thompson",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/claire-thompson",
+   "fit_reason": "Surname in slug; title names individual; Philippines"
+  },
+  {
+   "name": "Tanner Carus",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/tanner-and-vivian-carus",
+   "fit_reason": "Surname in slug; title names both; Philippines"
+  },
+  {
+   "name": "Vivian Carus",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/tanner-and-vivian-carus",
+   "fit_reason": "Couple split; Philippines"
+  },
+  {
+   "name": "Mark Cobo",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/mark-cobo",
+   "fit_reason": "Surname in slug; title names individual; Philippines"
+  },
+  {
+   "name": "Danny Brooks",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planting Director",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/danny-and-philippa-brooks",
+   "fit_reason": "Surname in slug; title names both; Philippines"
+  },
+  {
+   "name": "Philippa Brooks",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/danny-and-philippa-brooks",
+   "fit_reason": "Couple split; Philippines"
+  },
+  {
+   "name": "Lance Ostman",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Translation Helper",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/lance-and-laura-ostman",
+   "fit_reason": "Surname in slug; title names both; Philippines"
+  },
+  {
+   "name": "Laura Ostman",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/lance-and-laura-ostman",
+   "fit_reason": "Couple split; Philippines"
+  },
+  {
+   "name": "Darryl Jordan",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Church Planter",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/darryl-jordan/about/",
+   "fit_reason": "Philippines/Mindanao-Palawan; blog-based; church planting in Philippines field"
+  },
+  {
+   "name": "Becky Jordan",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/darryl-jordan/about/",
+   "fit_reason": "Couple split; Philippines/Mindanao-Palawan"
+  },
+  {
+   "name": "Josh Dalton",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/josh-dalton/",
+   "fit_reason": "Philippines; blog-based"
+  },
+  {
+   "name": "Candy Dalton",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/josh-dalton/",
+   "fit_reason": "Couple split; Philippines; blog reference"
+  },
+  {
+   "name": "Eli Jordan",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "high",
+   "evidence_basis": "personal_page",
+   "source_url": "https://ethnos360.org/missionaries/eli-jordan",
+   "fit_reason": "Surname in slug; title names individual; Asia-Pacific"
+  },
+  {
+   "name": "Phil Koop",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Aviation",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/phil-koop/about/",
+   "fit_reason": "Asia-Pacific aviation; blog-based"
+  },
+  {
+   "name": "Ellen Koop",
+   "org": "Ethnos360",
+   "tier": "A",
+   "role": "Missionary",
+   "confidence": "medium",
+   "evidence_basis": "staff_directory",
+   "source_url": "https://blogs.ethnos360.org/phil-koop/about/",
+   "fit_reason": "Couple split; Asia-Pacific aviation"
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"ethnos360\" missionaries \"Papua New Guinea\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"ethnos360\" missionaries Indonesia",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"ethnos360\" missionaries Philippines",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "ethnos360 missionaries \"Bible translation\" Asia",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "ethnos360 missionaries \"church planting\" Indonesia Philippines Papua",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "ethnos360 missionaries aviation pilot Papua Indonesia Philippines",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "ethnos360 missionaries Mindanao Palawan Philippines",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "ethnos360 missionaries literacy \"language learning\" Asia Pacific",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "ethnos360 missionaries Sepik Papua",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"ethnos360.org/missionaries\" tribal PNG Indonesia Philippines",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries -claasen -burleson -glessner -bittner -ellis -myers -sanford -goodman -pav -cizdziel",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:ethnos360.org/missionaries Borneo Kalimantan Dyak",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "ethnos360.org/missionaries \"Papua New Guinea\" -claasen -pav -cizdziel -glessner -mcgregor",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "ethnos360.org/missionaries Philippines -guillaume -schneidmueller -martin -balinsay -bantolo -thompson -carus",
+   "outcome": "found_people"
+  }
+ ],
+ "needs_review": [
+  {
+   "issue": "Records citing editorial pages rather than a per-person page",
+   "finding": "Julie Ward and Stephen Crockett were emitted with magazine/story URLs (/magazine/stories/..., /stories/story/...). Those pages do not name them in the URL and are not per-person giving pages, so they cannot carry evidence_basis personal_page.",
+   "evidence": "Orchestrator path audit at ingest, w2026-09-10d.",
+   "recommendation": "Held out of the load. Both are probably real Ethnos360 people — re-hunt them against ethnos360.org/missionaries/<slug> to get a citation that supports the claim."
+  }
+ ]
+}

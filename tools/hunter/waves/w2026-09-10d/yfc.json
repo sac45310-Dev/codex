@@ -1,0 +1,114 @@
+{
+  "wave_id": "w2026-09-10d",
+  "agent": "yfc",
+  "target_org": "Youth for Christ USA",
+  "slice": "all regions",
+  "searches_used": 15,
+  "people": [
+    {
+      "name": "Scott Rosene",
+      "org": "Youth for Christ International",
+      "tier": "A",
+      "role": "Online Content Manager / Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://epray.yfci.org/appeals/scott-rosene/",
+      "fit_reason": "Tier A staff member; per-person appeals giving page with surname in slug matches title"
+    },
+    {
+      "name": "Freddy Tuyizere",
+      "org": "Youth for Christ International",
+      "tier": "A",
+      "role": "National Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://epray.yfci.org/appeals/freddy-tuyizere/",
+      "fit_reason": "Tier A leadership; National Director of YFC Burundi with per-person appeals page; surname in slug matches title"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals/ -globallaunch",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals \"national director\" Africa",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals Rwanda staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals Kenya youth",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals India missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals \"Latin America\" OR Mexico OR Brazil",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals John OR David OR Maria",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals/ Africa -Rosene -Tuyizere -globallaunch",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals Uganda",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals Asia ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals \"james-\" OR \"michael-\" OR \"sarah-\" OR \"jennifer-\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals Daniel OR Christopher OR Rebecca OR Timothy",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals director OR coordinator OR missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals smith OR johnson OR brown OR williams OR anderson",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:epray.yfci.org/appeals/ -globallaunch",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Limited enumeration surface",
+      "finding": "After 15 searches rotating across countries (Africa, Kenya, Rwanda, Uganda, India, Latin America, Asia), roles (director, coordinator, missionary, staff), and common first names, only two named individuals were discovered in the /appeals/ path",
+      "evidence": "Search results consistently returned only Scott Rosene and Freddy Tuyizere; Global Launch Fund (a fund, not a person) appeared but was excluded per filter rules",
+      "recommendation": "The epray.yfci.org/appeals domain may have limited public indexing or a small subset of named personal giving pages. Verify with YFC if this represents the complete enumerable set or if other staff profiles exist behind authentication or under different URL structures"
+    }
+  ]
+}

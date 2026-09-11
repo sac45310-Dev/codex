@@ -1,0 +1,210 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:foodbankwma",
+  "target_org": "Food Bank of Western Massachusetts",
+  "roster_verdict": "rostered",
+  "crm_incumbent": null,
+  "people": [
+    {
+      "org_name": "Kathy Tobin",
+      "summary": "Food Bank of Western Massachusetts — Director of Development and Marketing",
+      "fit_score": 95,
+      "fit_reason": "Senior development role responsible for fundraising strategy, major gifts, and communications. Tier B development staff.",
+      "source_query": "hunter:w2026-08-30f:foodbankwma",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development and Marketing",
+        "target_org": "Food Bank of Western Massachusetts",
+        "evidence_url": "https://www.foodbankwma.org/kathy-tobin-joins-the-food-bank-as-new-director-of-development-and-marketing/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Natasha Schott",
+      "summary": "Food Bank of Western Massachusetts — Donor Relations Specialist",
+      "fit_score": 85,
+      "fit_reason": "Development staff managing donor relations, donor-advised funds, and individual giving. Direct contact for gift operations.",
+      "source_query": "hunter:w2026-08-30f:foodbankwma",
+      "meta": {
+        "tier": "B",
+        "role": "Donor Relations Specialist",
+        "target_org": "Food Bank of Western Massachusetts",
+        "evidence_url": "https://www.foodbankwma.org/donate/home/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Andrew Morehouse",
+      "summary": "Food Bank of Western Massachusetts — Executive Director",
+      "fit_score": 90,
+      "fit_reason": "Executive leadership; manages all food bank operations, public education, advocacy, and fundraising since 2005. Tier C executive.",
+      "source_query": "hunter:w2026-08-30f:foodbankwma",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "Food Bank of Western Massachusetts",
+        "evidence_url": "https://www.foodbankwma.org/about/leadership-board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nancy Robinson",
+      "summary": "Food Bank of Western Massachusetts — Senior Director of Operations",
+      "fit_score": 80,
+      "fit_reason": "Senior operations executive overseeing food distribution, programs, HR, and IT. Extensive nonprofit leadership experience.",
+      "source_query": "hunter:w2026-08-30f:foodbankwma",
+      "meta": {
+        "tier": "C",
+        "role": "Senior Director of Operations",
+        "target_org": "Food Bank of Western Massachusetts",
+        "evidence_url": "https://www.foodbankwma.org/about/leadership-board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Omar Irizarry",
+      "summary": "Food Bank of Western Massachusetts — Board Chair",
+      "fit_score": 85,
+      "fit_reason": "Board Chair, serves in Massachusetts Department of Mental Health. Primary board governance leadership.",
+      "source_query": "hunter:w2026-08-30f:foodbankwma",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Food Bank of Western Massachusetts",
+        "evidence_url": "https://www.foodbankwma.org/who-we-are/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Charlotte Boney",
+      "summary": "Food Bank of Western Massachusetts — Board President",
+      "fit_score": 85,
+      "fit_reason": "Board President (M.D.), physician leadership on board governance and fiduciary responsibility.",
+      "source_query": "hunter:w2026-08-30f:foodbankwma",
+      "meta": {
+        "tier": "C",
+        "role": "Board President",
+        "target_org": "Food Bank of Western Massachusetts",
+        "evidence_url": "https://www.foodbankwma.org/about/leadership-board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jake Hough",
+      "summary": "Food Bank of Western Massachusetts — Director of Finance and Administration",
+      "fit_score": 75,
+      "fit_reason": "Finance and administration leadership; manages organizational finances and administrative operations.",
+      "source_query": "hunter:w2026-08-30f:foodbankwma",
+      "meta": {
+        "tier": "C",
+        "role": "Director of Finance and Administration",
+        "target_org": "Food Bank of Western Massachusetts",
+        "evidence_url": "https://www.foodbankwma.org/about/leadership-board/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Food Bank Western Massachusetts development director advancement staff",
+      "outcome": "found_people",
+      "people_found": [
+        "Jillian Morgan (Director of Development)",
+        "Kathy Tobin (Director of Development and Marketing - newer)"
+      ]
+    },
+    {
+      "query": "Food Bank Western Massachusetts executive director leadership team",
+      "outcome": "found_people",
+      "people_found": [
+        "Andrew Morehouse (Executive Director)",
+        "Nancy Robinson (Senior Director of Operations)",
+        "Jake Hough (Director of Finance and Administration)",
+        "Christina Maxwell (Director of Programs)",
+        "Carolyn Sailer (Director of Human Resources)"
+      ]
+    },
+    {
+      "query": "Food Bank of Western Massachusetts board members trustees",
+      "outcome": "found_people",
+      "people_found": [
+        "Omar Irizarry (Board Chair)",
+        "Charlotte Boney (Board President)",
+        "Amy R. Rome (Board Member - new 2025)",
+        "Dr. Olivia Aguilar (Board Member - new 2025)",
+        "Maureen James (Board Member)",
+        "William Harju (Treasurer)",
+        "Andrea Leibson (Board Member)"
+      ]
+    },
+    {
+      "query": "foodbankwma.org staff directory philanthropy",
+      "outcome": "found_people",
+      "people_found": [
+        "Christina Maxwell (Director of Programs)"
+      ]
+    },
+    {
+      "query": "Food Bank of Western Massachusetts major gifts donor relations",
+      "outcome": "found_people",
+      "people_found": [
+        "Natasha Schott (Donor Relations - 413-203-4803)",
+        "Jillian Morgan (Director of Philanthropy - 413-203-4946)"
+      ]
+    },
+    {
+      "query": "site:foodbankwma.org team staff about",
+      "outcome": "found_people",
+      "people_found": [
+        "Kathy Tobin (Director of Development and Marketing - new hire)",
+        "Nancy Robinson (Senior Director of Operations)",
+        "Christina Maxwell (Director of Programs)",
+        "Shirley (Director of Food Operations)"
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "name": "Jillian Morgan",
+      "reason": "platform_not_person",
+      "notes": "Original Director of Development; appears superseded by Kathy Tobin in newer position. Not included in active roster as role may have changed."
+    },
+    {
+      "name": "Christina Maxwell",
+      "reason": "not_development_tier",
+      "notes": "Director of Programs (operations-focused, not development/advancement tier)"
+    },
+    {
+      "name": "Carolyn Sailer",
+      "reason": "not_development_tier",
+      "notes": "Director of Human Resources (administrative, not development/advancement tier)"
+    },
+    {
+      "name": "Shirley",
+      "reason": "incomplete_record",
+      "notes": "Last name not provided; Director of Food Operations (not development tier)"
+    },
+    {
+      "name": "Willette Johnson",
+      "reason": "board_retired",
+      "notes": "Retired from Springfield Public Schools; board member but marked retired"
+    },
+    {
+      "name": "Willie Spradley Jr.",
+      "reason": "board_retired",
+      "notes": "Retired from Mass Mutual; board member but marked retired"
+    },
+    {
+      "name": "Andrea Leibson",
+      "reason": "insufficient_data",
+      "notes": "Board member; limited public information available"
+    }
+  ],
+  "summary": {
+    "tier_b_count": 2,
+    "tier_c_count": 5,
+    "total_rostered": 7,
+    "search_count": 6,
+    "notes": "Rostered verdict based on strong publicly available data from organizational website and third-party sources. Focused on Tier B development staff (2 people: Kathy Tobin - Director of Development and Marketing, Natasha Schott - Donor Relations). Limited Tier C to 5 board/executive members as instructed. Searches exhausted with 6 WebSearch queries, all returning quality results. No CRM platform publicly named."
+  }
+}

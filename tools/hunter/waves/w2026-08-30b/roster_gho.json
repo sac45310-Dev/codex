@@ -1,0 +1,125 @@
+{
+  "wave_id": "w2026-08-30b",
+  "agent": "roster:gho",
+  "roster_verdict": "rejected:too_institutional",
+  "target_org": "Global Health Outreach (CMDA)",
+  "people": [
+    {
+      "org_name": "Patricia 'Trish' Burgess",
+      "org_type": "individual",
+      "summary": "Global Health Outreach (CMDA) — Director",
+      "fit_score": 3,
+      "fit_reason": "Tier B development staff; salaried director of mission program, no personal fundraising responsibility. Part of CMDA institutional structure, not independent fundraiser.",
+      "source_query": "hunter:w2026-08-30b:gho",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Global Health Outreach",
+        "target_org": "Global Health Outreach (CMDA)",
+        "evidence_url": "https://cmda.org/global-health-outreach/",
+        "linkedin_url": "https://www.linkedin.com/in/trish-burgess-5738a31a0/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Andy Lamb",
+      "org_type": "individual",
+      "summary": "Global Health Outreach (CMDA) — Senior Team Leader",
+      "fit_score": 5,
+      "fit_reason": "Tier A potential: volunteer mission trip leader (not salaried); leads 50+ mission trips since 2000. Private practice physician with personal mission ministry. Likely raises support for trips but no explicit donation page confirmed.",
+      "source_query": "hunter:w2026-08-30b:gho",
+      "meta": {
+        "tier": "A",
+        "role": "Senior Team Leader, Global Health Outreach",
+        "target_org": "Global Health Outreach (CMDA)",
+        "evidence_url": "https://cmda.org/podcast/is-there-a-place-for-me-finding-your-role-in-global-health-outreach-with-dr-andy-lamb-dr-trish-burgess/",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Global Health Outreach (CMDA)",
+      "website": "https://cmda.org/global-health-outreach/",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "headcount_est": 1,
+      "faith_orientation": "christian",
+      "evidence": "Global Health Outreach is the short-term medical missions program/ministry of Christian Medical & Dental Associations (CMDA). It is not a standalone donor-funded organization but rather a program within CMDA's membership/professional association structure. Organizes approximately 50 mission trips annually with volunteer medical professionals and support staff."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Global Health Outreach CMDA staff leadership",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Global Health Outreach\" CMDA director staff members 2026",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "cmda.org global health outreach team staff directory",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Andy Lamb\" \"Global Health Outreach\" CMDA",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "CMDA Christian Medical Dental Associations Global Health Outreach board members",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Trish Burgess\" CMDA Global Health Outreach director",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Global Health Outreach CMDA coordinator manager assistant staff",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Global Health Outreach",
+      "website": "https://cmda.org/global-health-outreach/",
+      "reason_code": "too_institutional",
+      "detail": "Global Health Outreach is a ministry program of CMDA, a membership/professional association for Christian medical and dental professionals. It is not a standalone donor-funded organization with independent staff and fundraising. GHO organizes short-term medical mission trips (approximately 50 annually) with volunteer medical professionals, not a donor prospect organization."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Sam Molind",
+      "reason_code": "salaried_leader",
+      "detail": "Past director of Global Health Outreach; no longer in current role. Not current staff."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Don Thompson",
+      "reason_code": "salaried_leader",
+      "detail": "Past director of Global Health Outreach; no longer in current role. Not current staff."
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Andy Lamb",
+      "org": "Global Health Outreach (CMDA)",
+      "question": "Does Andy Lamb personally raise support for mission trips (Tier A), or is he a volunteer leader without personal fundraising responsibility?",
+      "evidence_url": "https://kevinmd.com/post-author/andy-lamb",
+      "notes": "Publicly identified as senior team leader for GHO, leading 50+ mission trips since 2000. Still in private practice (internist at Cone Health) and Medical Director at Elon University. No explicit donation page or fundraising mechanism found, but mission trip leaders typically do raise personal support."
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "wave_id": "w2026-08-30d",
+  "agent": "roster:feedingnefl",
+  "roster_verdict": "rostered",
+  "target_org": "Feeding Northeast Florida",
+  "people": [
+    {
+      "org_name": "Jacqueline Culver",
+      "summary": "Feeding Northeast Florida — Vice President of Philanthropy",
+      "fit_score": 6,
+      "fit_reason": "Tier B development staff: VP Philanthropy with CFRE credential and professional background in nonprofit fundraising and major gifts strategy.",
+      "source_query": "hunter:w2026-08-30d:feedingnefl",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President of Philanthropy",
+        "target_org": "Feeding Northeast Florida",
+        "evidence_url": "https://www.zoominfo.com/p/Jacqueline-Culver/1561003382",
+        "email": "j***@feedingnefl.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rachel McCandless",
+      "summary": "Feeding Northeast Florida — Vice President of Health & Nutrition",
+      "fit_score": 5,
+      "fit_reason": "Tier C executive leadership: VP of operations focused on program health and nutrition; secondary B2B contact for organizational strategy.",
+      "source_query": "hunter:w2026-08-30d:feedingnefl",
+      "meta": {
+        "tier": "C",
+        "role": "Vice President, Health & Nutrition",
+        "target_org": "Feeding Northeast Florida",
+        "evidence_url": "https://www.zoominfo.com/p/Rachel-Mccandless/4274704015",
+        "email": "r***@feedingnefl.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Elizabeth Rice",
+      "summary": "Feeding Northeast Florida — Vice President of Finance",
+      "fit_score": 4,
+      "fit_reason": "Tier C executive leadership: VP Finance manages budget and financial strategy; secondary B2B prospect for organizational discussions.",
+      "source_query": "hunter:w2026-08-30d:feedingnefl",
+      "meta": {
+        "tier": "C",
+        "role": "Vice President, Finance",
+        "target_org": "Feeding Northeast Florida",
+        "evidence_url": "https://www.zoominfo.com/p/Elizabeth-Rice/17547721160",
+        "email": "e***@feedingnefl.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dipak Rajhansa",
+      "summary": "Feeding Northeast Florida — Board Chair",
+      "fit_score": 5,
+      "fit_reason": "Tier C board leadership: Board Chair at Blingle Premier Lighting; strategic influencer in organizational governance and major decision-making.",
+      "source_query": "hunter:w2026-08-30d:feedingnefl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Feeding Northeast Florida",
+        "evidence_url": "https://feedingnefl.org/wp-content/uploads/2025/08/FNEFL-Annual-Report-2024-Digital.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Russell Baker",
+      "summary": "Feeding Northeast Florida — Board Vice Chair",
+      "fit_score": 4,
+      "fit_reason": "Tier C board leadership: Vice Chair and CEO of Wingard; secondary strategic influencer in organizational governance.",
+      "source_query": "hunter:w2026-08-30d:feedingnefl",
+      "meta": {
+        "tier": "C",
+        "role": "Vice Chair, Board of Directors",
+        "target_org": "Feeding Northeast Florida",
+        "evidence_url": "https://feedingnefl.org/wp-content/uploads/2025/08/FNEFL-Annual-Report-2024-Digital.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Linda Pittenger",
+      "summary": "Feeding Northeast Florida — Board Governance Chair",
+      "fit_score": 4,
+      "fit_reason": "Tier C board leadership: Governance Chair and Managing Partner of The Pittenger Group; influential in board oversight and organizational policies.",
+      "source_query": "hunter:w2026-08-30d:feedingnefl",
+      "meta": {
+        "tier": "C",
+        "role": "Governance Chair, Board of Directors",
+        "target_org": "Feeding Northeast Florida",
+        "evidence_url": "https://feedingnefl.org/wp-content/uploads/2025/08/FNEFL-Annual-Report-2024-Digital.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gavin Hayden",
+      "summary": "Feeding Northeast Florida — Board Finance Chair",
+      "fit_score": 4,
+      "fit_reason": "Tier C board leadership: Finance Chair at Senior Manager level at KPMG LLP; influential in financial strategy and donor discussions.",
+      "source_query": "hunter:w2026-08-30d:feedingnefl",
+      "meta": {
+        "tier": "C",
+        "role": "Finance Chair, Board of Directors",
+        "target_org": "Feeding Northeast Florida",
+        "evidence_url": "https://feedingnefl.org/wp-content/uploads/2025/08/FNEFL-Annual-Report-2024-Digital.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Marla Buchanan",
+      "summary": "Feeding Northeast Florida — Board Secretary",
+      "fit_score": 4,
+      "fit_reason": "Tier C board leadership: Board Secretary and Attorney/CEO of Blue Ocean Title LLC; influencer in organizational governance.",
+      "source_query": "hunter:w2026-08-30d:feedingnefl",
+      "meta": {
+        "tier": "C",
+        "role": "Secretary, Board of Directors",
+        "target_org": "Feeding Northeast Florida",
+        "evidence_url": "https://feedingnefl.org/wp-content/uploads/2025/08/FNEFL-Annual-Report-2024-Digital.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Josh Martino",
+      "summary": "Feeding Northeast Florida — Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C board leadership: Board Chairman/Member and President/Legal Counsel at Bono's Pit Bar-B-Q; active strategic influencer and community leader.",
+      "source_query": "hunter:w2026-08-30d:feedingnefl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Feeding Northeast Florida",
+        "evidence_url": "https://feedingnefl.org/wp-content/uploads/2025/08/FNEFL-Annual-Report-2024-Digital.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Len Brown",
+      "summary": "Feeding Northeast Florida — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C board leadership: Board Member with Global Business Ventures background and PGA Tour affiliation; influential in strategic partnerships.",
+      "source_query": "hunter:w2026-08-30d:feedingnefl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Feeding Northeast Florida",
+        "evidence_url": "https://feedingnefl.org/wp-content/uploads/2025/08/FNEFL-Annual-Report-2024-Digital.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Craig Provenzano",
+      "summary": "Feeding Northeast Florida — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C board leadership: Board Member and VP Enterprise Tax at Guidewell Mutual Holding; influential in organizational strategy.",
+      "source_query": "hunter:w2026-08-30d:feedingnefl",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Feeding Northeast Florida",
+        "evidence_url": "https://feedingnefl.org/wp-content/uploads/2025/08/FNEFL-Annual-Report-2024-Digital.pdf",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Feeding Northeast Florida",
+      "website": "https://feedingnefl.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "headcount_est": 148,
+      "faith_orientation": "secular",
+      "evidence": "Secular hunger-relief nonprofit serving 12 counties in Northeast Florida with ~148 employees as of 2024. Distributes 33+ million pounds of food annually."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Feeding Northeast Florida board members leadership staff",
+      "outcome": "found_people",
+      "people_found": 9
+    },
+    {
+      "kind": "query",
+      "value": "\"Feeding Northeast Florida\" Jacksonville staff directory team",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Feeding Northeast Florida development director major gifts",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "feedingnefl.org \"about us\" leadership team",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"Jackie Culver\" \"Feeding Northeast Florida\" philanthropy",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Rachel McCandless\" \"Feeding Northeast Florida\"",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Feeding Northeast Florida Josh Martino board president",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Feeding Northeast Florida\" annual report 2024 leadership staff",
+      "outcome": "found_people",
+      "people_found": 6
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Poppy Clements",
+      "reason_code": "salaried_leader",
+      "detail": "Listed as 'Retired - Community Volunteer' rather than active staff or board member in professional capacity"
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "wave_id": "w2026-09-09c",
+  "agent": "roster:cmf-international",
+  "target_org": "Christian Missionary Fellowship International",
+  "searches_used": 15,
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Dylan Ferguson",
+      "summary": "CMF International — Church Catalyst missionary in Ethiopia",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/dylan-ferguson",
+      "meta": {
+        "tier": "A",
+        "role": "Church Catalyst missionary",
+        "location": "Ethiopia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Sara Amis",
+      "summary": "CMF International — Globalscope campus missionary in Mexico",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/sara-amis",
+      "meta": {
+        "tier": "A",
+        "role": "Campus missionary",
+        "location": "Puebla, Mexico",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Lance Barrett",
+      "summary": "CMF International — Marketplace Ministry missionary in Mexico",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/lance-barrett",
+      "meta": {
+        "tier": "A",
+        "role": "Marketplace missionary",
+        "location": "Mexico",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Brandon Way",
+      "summary": "CMF International — Globalscope campus missionary in England",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/brandon-kelsey-way",
+      "meta": {
+        "tier": "A",
+        "role": "Campus missionary",
+        "location": "Birmingham, England",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Kelsey Way",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Kelsey Way",
+      "summary": "CMF International — Globalscope campus missionary in England",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/brandon-kelsey-way",
+      "meta": {
+        "tier": "A",
+        "role": "Campus missionary",
+        "location": "Birmingham, England",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Brandon Way",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Greg Syverson",
+      "summary": "CMF International — Church planter and On the Move trainer in Mexico",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/greg-vicki-syverson",
+      "meta": {
+        "tier": "A",
+        "role": "Church planter, On the Move program leader",
+        "location": "Pachuca, Mexico",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Vicki Syverson",
+        "years_served": "since 2002",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Vicki Syverson",
+      "summary": "CMF International — Church planter and On the Move trainer in Mexico",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/greg-vicki-syverson",
+      "meta": {
+        "tier": "A",
+        "role": "Church planter, On the Move program leader",
+        "location": "Pachuca, Mexico",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Greg Syverson",
+        "years_served": "since 2002",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Joy Reks",
+      "summary": "CMF International — Globalscope campus missionary in Uruguay",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/joy-reks",
+      "meta": {
+        "tier": "A",
+        "role": "Campus missionary",
+        "location": "Montevideo, Uruguay",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Preslie Horton",
+      "summary": "CMF International — Garden campus missionary in Australia",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/preslie-horton",
+      "meta": {
+        "tier": "A",
+        "role": "Campus missionary",
+        "location": "Brisbane, Australia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Sierra Reismeier",
+      "summary": "CMF International — Women Together missionary in Ivory Coast",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/sierra-reismeier",
+      "meta": {
+        "tier": "A",
+        "role": "Women's ministry missionary",
+        "location": "Ivory Coast, West Africa",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Keith Ham",
+      "summary": "CMF International — Missionary with personal giving page",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/keith-kathy-ham",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Kathy Ham",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Kathy Ham",
+      "summary": "CMF International — Missionary with personal giving page",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/keith-kathy-ham",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Keith Ham",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Patrick Gerber",
+      "summary": "CMF International — Missionary in Africa with personal giving page",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/patrick-katie-gerber",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Katie Gerber",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Katie Gerber",
+      "summary": "CMF International — Missionary in Africa with personal giving page",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/patrick-katie-gerber",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Patrick Gerber",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Ash Barker",
+      "summary": "CMF International — Doctor and missionary with personal giving page",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/ash-and-anji-barker",
+      "meta": {
+        "tier": "A",
+        "role": "Medical missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Anji Barker",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Anji Barker",
+      "summary": "CMF International — Missionary with personal giving page",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/ash-and-anji-barker",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Ash Barker",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Jordan Shelton",
+      "summary": "CMF International — Missionary in Brazil with soccer and education outreach",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/jordan-jaime-shelton",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "location": "Paraiba, Brazil",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Jaime Shelton",
+        "ministry": "Soccer outreach and English teaching to at-risk youth",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Jaime Shelton",
+      "summary": "CMF International — Missionary in Brazil with soccer and education outreach",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/jordan-jaime-shelton",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "location": "Paraiba, Brazil",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Jordan Shelton",
+        "ministry": "Soccer outreach and English teaching to at-risk youth",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Nathanael Fittro",
+      "summary": "CMF International — Missionary with personal giving page",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/nathanael-fittro",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Craig Fowler",
+      "summary": "CMF International — Church Catalyst team leader and evangelist trainer in Ethiopia",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/church-catalyst-ethiopia-fowler",
+      "meta": {
+        "tier": "A",
+        "role": "Church Catalyst team leader, evangelist trainer",
+        "location": "Ethiopia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Allison Fowler",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    },
+    {
+      "org_name": "Allison Fowler",
+      "summary": "CMF International — Missionary in Ethiopia",
+      "fit_score": 10,
+      "fit_reason": "Confirmed personal giving page with direct donor support model",
+      "source_url": "https://give.cmfi.org/donate/church-catalyst-ethiopia-fowler",
+      "meta": {
+        "tier": "A",
+        "role": "Church Catalyst missionary",
+        "location": "Ethiopia",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "partner": "Craig Fowler",
+        "target_org": "Christian Missionary Fellowship International"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:cmfi.org missionaries support giving page",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.cmfi.org missionary OR partner \"support\" page",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.cmfi.org/donate\" missionary name",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "CMF International missionaries list roster 2024 2025",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.cmfi.org\" \"Greg Syverson\" OR \"Vicki Syverson\" OR \"Juan David Ramirez\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.cmfi.org/donate\" \"Sara Amis\" OR \"Lance Barrett\" OR \"Brandon Way\" OR \"Kelsey Way\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.cmfi.org/donate\" \"Joy Reks\" OR \"Preslie Horton\" OR \"Dylan Ferguson\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cmfi.org missionaries \"meet\" OR \"our team\" 2025",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.cmfi.org/donate\" \"Micah Smith\" OR \"Sierra Reismeier\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmfi.org missionaries \"serve\" OR \"ministry\" members staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmfi.org \"leadership\" OR \"board\" staff team director president",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.cmfi.org/donate\" \"Tim Ross\" OR \"Keith Ham\" OR \"Patrick Gerber\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "CMF International missionaries \"personal giving\" OR \"support page\" OR \"donate now\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.cmfi.org/donate -\"care\" -\"fellowship\" -\"fund\" -\"hub\" -\"assistance\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"give.cmfi.org/donate\" person name -team -assistance -fund -care",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "name": "Juan David Ramirez",
+      "reason": "Referenced as On the Move program co-leader but no dedicated personal giving page found"
+    },
+    {
+      "name": "Micah Smith",
+      "reason": "Listed as newest recruit heading to Thailand but no personal giving page established yet"
+    },
+    {
+      "name": "Tim Ross",
+      "reason": "Mentioned as returning to service with CMF but no personal giving page found"
+    },
+    {
+      "name": "Vova and Viktoria",
+      "reason": "Ukrainian missionaries in Kenya mentioned in KCAT program but no individual personal pages"
+    }
+  ],
+  "needs_review": [
+    "Confirmed URL pattern: give.cmfi.org/donate/<name(s)> for individual/couple personal giving pages",
+    "CMF International operates 150+ missionaries across 25+ countries",
+    "All 21 people identified (11 married couples counted as 2 individuals each, 1 single) have confirmed personal giving pages matching pattern",
+    "Leadership/board members to research separately: Dr. Lines (Executive Director), Doug (Finance Director), Wende Holtzen (former HR Director), Alan Ahlgrim (board member, deceased)"
+  ]
+}

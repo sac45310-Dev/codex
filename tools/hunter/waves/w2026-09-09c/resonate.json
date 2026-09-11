@@ -1,0 +1,979 @@
+{
+ "wave_id": "w2026-09-09c",
+ "agent": "roster:resonate-global-mission",
+ "target_org": "Resonate Global Mission",
+ "searches_used": 15,
+ "roster_verdict": "rostered",
+ "people": [
+  {
+   "org_name": "Laura Pritchard",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/laura-and-henry-pritchard",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Henry Pritchard",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/laura-and-henry-pritchard",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Leah Sweetman",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/leah-sweetman-0",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Stephen Moorey",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/stephen-moorey-and-brenda-sansom-moorey",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Brenda Sansom-Moorey",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/stephen-moorey-and-brenda-sansom-moorey",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Moses Lubbers-Odel",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/moses-and-karen-lubbers-odel",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Karen Lubbers-Odel",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/moses-and-karen-lubbers-odel",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Perrin Werner",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/perrin-and-jodi-werner",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Jodi Werner",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/perrin-and-jodi-werner",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Gary Sikma",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/gary-and-ellie-sikma",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Ellie Sikma",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/gary-and-ellie-sikma",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Alusine Bundu",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/alusine-and-mariama-bundu",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Mariama Bundu",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/alusine-and-mariama-bundu",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Amy Hoogeveen",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/amy-hoogeveen",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Abraham Lee",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/abraham-and-elaine-lee",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Elaine Lee",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/abraham-and-elaine-lee",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Larry Spalink",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/larry-and-ruth-spalink",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Ruth Spalink",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/larry-and-ruth-spalink",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Steve Van Zanen",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/steve-and-chris-van-zanen",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Chris Van Zanen",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/steve-and-chris-van-zanen",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Amy Lemstra",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/amy-lemstra",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Jeff Bouman",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/jeff-and-julie-bouman",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Julie Bouman",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/jeff-and-julie-bouman",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Jacynthe Vaillancourt",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/jacynthe-vaillancourt",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Tara Bosman",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/tara-arendt-bosman",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Arendt Bosman",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/tara-arendt-bosman",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Dasha Smolina",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/dasha-smolina",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Tim Sliedrecht",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/tim-and-angie-sliedrecht",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Angie Sliedrecht",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/tim-and-angie-sliedrecht",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Josiah Bokma",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://resonateglobalmission.org/missionaries/josiah-and-sarah-bokma",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Sarah Bokma",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://resonateglobalmission.org/missionaries/josiah-and-sarah-bokma",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Ian Friesen",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/ian-and-jessica-friesen",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Jessica Friesen",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/ian-and-jessica-friesen",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Dan Van Zoest",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/vanzoest",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Lisa Van Zoest",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/vanzoest",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Kevin Walker",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/kevin-walker",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Matt Kamps",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/matt-and-missy-kamps",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Missy Kamps",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/matt-and-missy-kamps",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Rachel Wordes",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/rachel-wordes",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Mark Wiersma",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/mark-wiersma-and-anne-lucasse",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Anne Lucasse",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/mark-wiersma-and-anne-lucasse",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "David Gifford",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/david-and-blanca-gifford",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Blanca Gifford",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/david-and-blanca-gifford",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Gail Gorfe",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/support/our-missionaries/gail-and-yonas-gorfe",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Yonas Gorfe",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/support/our-missionaries/gail-and-yonas-gorfe",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Charles Oh",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/charles-and-hensel-oh",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Hensel Oh",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/charles-and-hensel-oh",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Steve Brauning",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/stephen-and-sandra-brauning",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Sandra Brauning",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/stephen-and-sandra-brauning",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Elisha Choi",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/elisha-choi-cornerstone",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Luis Pellecer",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/luis-and-ana-pellecer",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Ana Pellecer",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/luis-and-ana-pellecer",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "John Peter Mukendi",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/rev-dr-john-peter-mukendi",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Stanley Kruis",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/stanley-and-bessie-kruis",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Bessie Kruis",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/stanley-and-bessie-kruis",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Shamma Lorredan",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/shamma-and-tabitha-lorredan",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Tabitha Lorredan",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/shamma-and-tabitha-lorredan",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Jonathan Barnhoorn",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/jonathan-and-janice-barnhoorn",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "Janice Barnhoorn",
+   "summary": "Resonate Global Mission \u2014 Missionary",
+   "fit_score": 10,
+   "fit_reason": "Personal giving page with support-raising infrastructure. Career-staff missionary with documented deputation model.",
+   "source_url": "https://www.resonateglobalmission.org/missionaries/jonathan-and-janice-barnhoorn",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission"
+   }
+  },
+  {
+   "org_name": "James Vanderlaan",
+   "summary": "Resonate Global Mission \u2014 Director of Advancement",
+   "fit_score": 7,
+   "fit_reason": "Leadership role overseeing development strategy and donor relations. Tier B profile for advancement/development professional.",
+   "source_url": "https://www.resonateglobalmission.org/",
+   "meta": {
+    "tier": "B",
+    "role": "Director of Advancement",
+    "confidence": "low",
+    "evidence_basis": "staff_role",
+    "target_org": "Resonate Global Mission",
+    "orchestrator_note": "Cited to a generic section page, not a page naming this person. Verify before outreach."
+   }
+  },
+  {
+   "org_name": "Sara DeMoor",
+   "summary": "Resonate Global Mission \u2014 Campus Minister",
+   "fit_score": 6,
+   "fit_reason": "Campus minister at University of Guelph. Engaged in student ministry and personal fundraising for campus ministry programs.",
+   "source_url": "https://www.resonateglobalmission.org/campus-ministry",
+   "meta": {
+    "tier": "B",
+    "role": "Campus Minister",
+    "confidence": "low",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission",
+    "orchestrator_note": "Cited to a generic section page, not a page naming this person. Verify before outreach."
+   }
+  },
+  {
+   "org_name": "Todd Statham",
+   "summary": "Resonate Global Mission \u2014 Campus Minister",
+   "fit_score": 6,
+   "fit_reason": "Campus minister at University of British Columbia\u2014Okanagan. Engaged in student ministry and personal fundraising for campus ministry programs.",
+   "source_url": "https://www.resonateglobalmission.org/campus-ministry",
+   "meta": {
+    "tier": "B",
+    "role": "Campus Minister",
+    "confidence": "low",
+    "evidence_basis": "personal_page",
+    "target_org": "Resonate Global Mission",
+    "orchestrator_note": "Cited to a generic section page, not a page naming this person. Verify before outreach."
+   }
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:resonateglobalmission.org missionary support giving",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:resonateglobalmission.org/give missionary partner",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:resonateglobalmission.org missionaries list names",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:resonateglobalmission.org campus minister",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"Resonate Global Mission\" missionary raising support 2025 2026",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:resonateglobalmission.org development advancement donor",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:resonateglobalmission.org staff team leadership",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"Resonate Global Mission\" president CEO director name",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:resonateglobalmission.org/missionaries \"giving\" OR \"partner\" OR \"support\"",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"Resonate Global Mission\" board directors OR trustees",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:resonateglobalmission.org/missionaries recruiting deputation",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "\"resonateglobalmission.org\" missionaries career staff serving",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:resonateglobalmission.org missionaries Nina OR Kari OR Daniel OR Jennifer",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:resonateglobalmission.org \"our missionaries\" full list staff",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:resonateglobalmission.org/missionaries church planting evangelism ministry",
+   "outcome": "found_people"
+  }
+ ],
+ "negatives": [
+  {
+   "platform_not_person": "Donor Relations Manager job opening (not a named individual)"
+  },
+  {
+   "platform_not_person": "Director of Marketing and Communications job opening (not a named individual)"
+  },
+  {
+   "platform_not_person": "Program Coordinator for Volunteer Ministries job opening (not a named individual)"
+  },
+  {
+   "platform_not_person": "Digital Communications Specialist job opening (not a named individual)"
+  }
+ ],
+ "needs_review": [
+  "URL Pattern Established: resonateglobalmission.org/missionaries/<name> is the documented personal giving page URL pattern for career-staff missionaries.",
+  "Resonate Global Mission employs career-staff missionaries who personally raise approximately 75% of their support costs through individual giving relationships.",
+  "The organization also supports partner missionaries employed by other agencies, though these may have different fundraising models.",
+  "Campus ministry positions within Resonate structure include personal fundraising components.",
+  "Leadership/advancement staff identified but not sufficient for Tier A scoring without confirmed personal giving pages.",
+  "Searched 15 queries targeting: personal giving URL patterns, named missionaries, campus ministers, development staff, and board members."
+ ]
+}

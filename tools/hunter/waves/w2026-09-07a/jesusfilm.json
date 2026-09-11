@@ -1,0 +1,230 @@
+{
+  "wave_id": "w2026-09-07a",
+  "agent": "roster:jesus-film-project",
+  "target_org": "Jesus Film Project",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "name": "Matt Thiessen",
+      "org": "Jesus Film Project",
+      "role": "Director of Development",
+      "tier": "B",
+      "fit_score": 7,
+      "confidence": "high",
+      "source_url": "https://www.linkedin.com/in/matt-thiessen-baa52246/",
+      "fit_reason": "Senior development leader responsible for fundraising strategy and donor relations",
+      "meta": {
+        "evidence_basis": "theorg.com and LinkedIn confirmed",
+        "title_verified": true,
+        "verified_sources": ["theorg.com", "linkedin.com"]
+      }
+    },
+    {
+      "name": "Larry Buck",
+      "org": "Jesus Film Project",
+      "role": "Associate Director of Development",
+      "tier": "B",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://theorg.com/org/jesus-film-project/org-chart/larry-buck",
+      "fit_reason": "Development operations leader focused on major donor support and direct marketing",
+      "meta": {
+        "evidence_basis": "theorg.com verified",
+        "title_verified": true,
+        "tenure_note": "Since September 1986"
+      }
+    },
+    {
+      "name": "David Bradley",
+      "org": "Jesus Film Project",
+      "role": "Associate Director of Development",
+      "tier": "B",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://www.linkedin.com/in/david-bradley-b5196518/",
+      "fit_reason": "Development team member supporting fundraising and donor engagement",
+      "meta": {
+        "evidence_basis": "LinkedIn verified",
+        "title_verified": true,
+        "location": "Orlando, FL"
+      }
+    },
+    {
+      "name": "Jason Summers",
+      "org": "Jesus Film Project",
+      "role": "Associate Director of Development",
+      "tier": "B",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://rocketreach.co/jason-summers-email_118573460",
+      "fit_reason": "Development team member supporting fundraising operations and donor relations",
+      "meta": {
+        "evidence_basis": "RocketReach and Wiza verified",
+        "title_verified": true,
+        "location": "Atlanta, GA"
+      }
+    },
+    {
+      "name": "Bruce Boyd",
+      "org": "Jesus Film Project",
+      "role": "Development Representative",
+      "tier": "B",
+      "fit_score": 5,
+      "confidence": "high",
+      "source_url": "https://theorg.com/org/jesus-film-project/org-chart/bruce-boyd",
+      "fit_reason": "Development staff supporting donor relations and fundraising initiatives",
+      "meta": {
+        "evidence_basis": "theorg.com verified",
+        "title_verified": true
+      }
+    },
+    {
+      "name": "Josh Newell",
+      "org": "Jesus Film Project",
+      "role": "Executive Director",
+      "tier": "C",
+      "fit_score": 7,
+      "confidence": "high",
+      "source_url": "https://www.linkedin.com/in/joshnewell/",
+      "fit_reason": "Senior organizational leader with strategic influence over fundraising and donor relations",
+      "meta": {
+        "evidence_basis": "Multiple sources verified",
+        "title_verified": true,
+        "tenure": "Since 2018",
+        "additional_title": "Cru Vice President"
+      }
+    },
+    {
+      "name": "Tom Meiner",
+      "org": "Jesus Film Project",
+      "role": "Chief Operating Officer",
+      "tier": "C",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://www.linkedin.com/in/tom-meiner-5341b45/",
+      "fit_reason": "Senior executive overseeing operations and institutional strategy",
+      "meta": {
+        "evidence_basis": "theorg.com and LinkedIn verified",
+        "title_verified": true
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Jesus Film Project independent organization Cru relationship EIN",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jesus Film Project\" \"Director of Development\" staff team",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com \"Jesus Film Project\" development director major gifts",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com \"Jesus Film Project\" \"Larry Buck\" OR \"Matt Thiessen\" OR development team",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com \"Jesus Film Project\" development OR fundraising OR advancement staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com \"Jesus Film Project\" \"major gifts\" OR \"donor relations\" OR \"annual fund\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com/org/jesus-film-project \"Director\" OR \"Manager\" OR \"Officer\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com \"Jesus Film Project\" development officer specialist representative stewardship",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"Jesus Film Project\" development major gifts donor",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"Jesus Film Project\" OR \"jesusfilm.org\" \"major gifts\" OR \"donor relations\" OR \"advancement\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"jesusfilm.org\" staff team leadership development giving relations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jesus Film Project\" board trustees leadership directors officers 2026",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jesus Film Project\" stewardship officer specialist recruiter partner coordinator",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "linkedin.com \"Jesus Film Project\" \"Director\" OR \"Manager\" OR \"Officer\" development stewardship",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "linkedin.com \"Jesus Film Project\" \"Jason Summers\" OR \"David Bradley\" development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com/org/jesus-film-project/org-chart development stewardship partner",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jesus Film Project\" \"Chief Development Officer\" OR \"VP Development\" OR \"Senior Development\" 2025 2026",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jesus Film Project\" board members OR trustees OR \"executive team\" names list",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "reason_code": "platform_not_person",
+      "reason": "Job postings found at ZipRecruiter and Glassdoor for various positions, but no named individual vacancy holders"
+    },
+    {
+      "reason_code": "role_unclear",
+      "reason": "Found names without clear roles (Jonas Sanz, Chris Herndon, Karen Perez, Seth Irby, Loree Cameron) - insufficient data to categorize"
+    },
+    {
+      "reason_code": "board_names_not_found",
+      "reason": "Board members exist (9 total, 8 independent) but specific names not available in public search results"
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Miheret T. Eshete",
+      "role": "Director of Digital Strategy",
+      "reason": "Found on LinkedIn but digital strategy is not a development/advancement role - verify if any fundraising responsibilities"
+    },
+    {
+      "name": "Geoff Peters",
+      "role": "Global Marketing Director",
+      "reason": "Found on theorg.com but marketing role - verify if any donor relations responsibilities"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:albemarle",
+  "target_org": "Food Bank of the Albemarle",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Diana Flippo",
+      "org_type": "individual",
+      "city": "Elizabeth City",
+      "state": "NC",
+      "summary": "Food Bank of the Albemarle — Chief Development and Marketing Officer",
+      "fit_score": 9,
+      "fit_reason": "Tier B development staff; Chief Development and Marketing Officer responsible for fundraising, donor relations, and planned giving (Partners in Hope legacy society).",
+      "source_query": "hunter:w2026-08-30f:albemarle",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Development and Marketing Officer",
+        "target_org": "Food Bank of the Albemarle",
+        "evidence_url": "https://www.zoominfo.com/p/Diana-Flippo/662302392",
+        "email": "dflippo@afoodbank.org",
+        "linkedin_url": "https://www.linkedin.com/in/diana-flippo-451342172/",
+        "donation_page": "https://afoodbank.org/give-back/planned-giving-partners-in-hope-society/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Liz Reasoner",
+      "org_type": "individual",
+      "city": "Elizabeth City",
+      "state": "NC",
+      "summary": "Food Bank of the Albemarle — Executive Director",
+      "fit_score": 8,
+      "fit_reason": "Tier C executive; Chief Executive Officer/Executive Director overseeing organization strategy, staff management, and development initiatives for 15-county service area.",
+      "source_query": "hunter:w2026-08-30f:albemarle",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director / CEO",
+        "target_org": "Food Bank of the Albemarle",
+        "evidence_url": "https://afoodbank.org/about-us/board-management-staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jennifer Purcell",
+      "org_type": "individual",
+      "city": "Elizabeth City",
+      "state": "NC",
+      "summary": "Food Bank of the Albemarle — Board President",
+      "fit_score": 8,
+      "fit_reason": "Tier C board leadership; Board President with fiduciary and strategic oversight responsibilities.",
+      "source_query": "hunter:w2026-08-30f:albemarle",
+      "meta": {
+        "tier": "C",
+        "role": "Board President",
+        "target_org": "Food Bank of the Albemarle",
+        "evidence_url": "https://afoodbank.org/about-us/board-management-staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Peebles Harrison",
+      "org_type": "individual",
+      "city": "Elizabeth City",
+      "state": "NC",
+      "summary": "Food Bank of the Albemarle — Board Vice President",
+      "fit_score": 7,
+      "fit_reason": "Tier C board leadership; Vice President providing strategic governance and operational oversight.",
+      "source_query": "hunter:w2026-08-30f:albemarle",
+      "meta": {
+        "tier": "C",
+        "role": "Board Vice President",
+        "target_org": "Food Bank of the Albemarle",
+        "evidence_url": "https://afoodbank.org/about-us/board-management-staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Doug Gardner",
+      "org_type": "individual",
+      "city": "Elizabeth City",
+      "state": "NC",
+      "summary": "Food Bank of the Albemarle — Board Treasurer",
+      "fit_score": 7,
+      "fit_reason": "Tier C board leadership; Treasurer overseeing financial strategy, audit, and fiscal stewardship.",
+      "source_query": "hunter:w2026-08-30f:albemarle",
+      "meta": {
+        "tier": "C",
+        "role": "Board Treasurer",
+        "target_org": "Food Bank of the Albemarle",
+        "evidence_url": "https://afoodbank.org/about-us/board-management-staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Debbie Malenfant",
+      "org_type": "individual",
+      "city": "Elizabeth City",
+      "state": "NC",
+      "summary": "Food Bank of the Albemarle — Board Secretary",
+      "fit_score": 7,
+      "fit_reason": "Tier C board leadership; Secretary managing board governance, meeting records, and compliance.",
+      "source_query": "hunter:w2026-08-30f:albemarle",
+      "meta": {
+        "tier": "C",
+        "role": "Board Secretary",
+        "target_org": "Food Bank of the Albemarle",
+        "evidence_url": "https://afoodbank.org/about-us/board-management-staff/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Food Bank of the Albemarle",
+      "website": "https://afoodbank.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "headcount_est": 29,
+      "faith_orientation": "secular",
+      "evidence": "15-county regional food bank serving 100+ partner organizations in northeastern North Carolina; GuideStar nonprofit profile; member of Feeding America network."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Food Bank of the Albemarle Elizabeth City staff team",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "\"Food Bank of the Albemarle\" executive director development",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Food Bank of the Albemarle\" board members trustees",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "site:afoodbank.org staff board members",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "Liz Reasoner Food Bank Albemarle executive director",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Diana Flippo Food Bank Albemarle development officer",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "LJ Brown",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as staff member in ZoomInfo but no role description or organizational affiliation confirmed; insufficient evidence of development/advancement role."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Andrew Spencer",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as staff member in ZoomInfo but no role description or organizational affiliation confirmed; insufficient evidence of development/advancement role."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Lisa Meads",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as staff member in ZoomInfo but no role description or organizational affiliation confirmed; insufficient evidence of development/advancement role."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Justine Koksal",
+      "reason_code": "platform_not_person",
+      "detail": "Listed as staff member in ZoomInfo but no role description or organizational affiliation confirmed; insufficient evidence of development/advancement role."
+    }
+  ]
+}

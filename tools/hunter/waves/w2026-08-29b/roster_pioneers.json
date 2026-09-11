@@ -1,0 +1,43 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:pioneers",
+  "target_org": "Pioneers",
+  "roster_verdict": "exhausted",
+  "notes": "Web search budget exhausted (200/200 calls) before hunt could begin. Attempted searches blocked. Recommend increasing CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION to complete roster discovery.",
+  "people": [],
+  "orgs_discovered": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:pioneers.org missionary support raising give",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:pioneers.org \"serving with pioneers\" missionary",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "pioneers.org leadership staff president Orlando",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:pioneers.org staff directory team",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:pioneers.org mobilization development unreached",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    }
+  ],
+  "negatives": [],
+  "needs_review": []
+}

@@ -1,0 +1,1603 @@
+{
+  "wave_id": "w2026-09-10n",
+  "agent": "n-youth",
+  "target_org": "Cadence International (primary); Ratio Christi (secondary)",
+  "slice": "US-domestic youth and campus parachurch organisations whose staff raise their own salary",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Eric Thimell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-janet-thimell/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Janet Thimell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-janet-thimell/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Mike Paterson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/mike-and-amber-paterson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Amber Paterson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/mike-and-amber-paterson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Joel Jessen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house missionary, Kaiserslautern Military Community, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joel-and-rebecca-jessen/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Rebecca Jessen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house missionary, Kaiserslautern Military Community, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joel-and-rebecca-jessen/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Joseph Vincent",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Landscheid, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joseph-and-jill-vincent/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Jill Vincent",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Landscheid, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joseph-and-jill-vincent/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Chris Burgess",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/chris-and-emily-burgess/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Emily Burgess",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/chris-and-emily-burgess/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Matt Huisjen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house director, Vilseck, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/matt-and-tina-huisjen/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Tina Huisjen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house director, Vilseck, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/matt-and-tina-huisjen/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Chris Stephenson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house planter, Camp Lejeune/MCAS New River, NC",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/chris-and-melissa-stephenson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Melissa Stephenson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house planter, Camp Lejeune/MCAS New River, NC",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/chris-and-melissa-stephenson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "David Bruce",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadence Associate Field Staff, Wiesbaden, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-daniela-bruce/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Daniela Bruce",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadence Associate Field Staff, Wiesbaden, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-daniela-bruce/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "David Schroeder",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Headquarters leadership (president)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-joyce-schroeder/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Joyce Schroeder",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Headquarters leadership (president)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-joyce-schroeder/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Peter Kinney",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/peter-and-tanya-kinney/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Tanya Kinney",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/peter-and-tanya-kinney/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Harrison Rakhshani",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Limited Term Ministry Staff, Hansen Christian Center, Okinawa",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/harrison-crisell-rakhshani/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Crisell Rakhshani",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Limited Term Ministry Staff, Hansen Christian Center, Okinawa",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/harrison-crisell-rakhshani/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Craig Jentink",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Basecamp, Alaska",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/craig-and-kim-jentink/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Kim Jentink",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Basecamp, Alaska",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/craig-and-kim-jentink/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "David Hutchings",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-andrea-hutchings/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Andrea Hutchings",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-andrea-hutchings/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Steven Harvell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Kadena AFB, Okinawa",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/steven-and-rachel-harvell/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Rachel Harvell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Kadena AFB, Okinawa",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/steven-and-rachel-harvell/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Lou Rozmiarek",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Yokosuka Japan / Okinawa",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/lou-and-cathy-rozmiarek/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Cathy Rozmiarek",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Yokosuka Japan / Okinawa",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/lou-and-cathy-rozmiarek/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Dave Lambert",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dave-and-bonnie-lambert/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Bonnie Lambert",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dave-and-bonnie-lambert/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Stanley Arnold",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Humphreys Hospitality House, South Korea",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/stanley-and-beverly-arnold/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Beverly Arnold",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Humphreys Hospitality House, South Korea",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/stanley-and-beverly-arnold/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Ben Hyde",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-and-doris-hyde/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Doris Hyde",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-and-doris-hyde/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Matt Snell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/matt-and-meredith-snell/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Meredith Snell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/matt-and-meredith-snell/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Ben Bloker",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house director, Rota, Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-and-melody-bloker/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Melody Bloker",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house director, Rota, Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-and-melody-bloker/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "John Good",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/john-marcie-good/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Marcie Good",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/john-marcie-good/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Mark Fischer",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Norfolk/Virginia Beach",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/mark-and-mary-fischer/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Mary Fischer",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Norfolk/Virginia Beach",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/mark-and-mary-fischer/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Dan Haas",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dan-and-becke-haas/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Becke Haas",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dan-and-becke-haas/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Nate Johnson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/nate-and-louise-johnson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Louise Johnson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/nate-and-louise-johnson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Paul Bradley",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "European Field Leaders",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/paul-and-sandra-bradley/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Sandra Bradley",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "European Field Leaders",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/paul-and-sandra-bradley/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Bill Kramer",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bill-and-jeannette-kramer/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Jeannette Kramer",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bill-and-jeannette-kramer/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Dick Reynolds",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dick-and-maryetta-reynolds/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "MaryEtta Reynolds",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dick-and-maryetta-reynolds/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Hugh Wilson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Vicenza Italy / Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/hugh-and-debbie-wilson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Debbie Wilson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Vicenza Italy / Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/hugh-and-debbie-wilson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Dwight Grismore",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Dayton, Ohio",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dwight-and-letty-grismore/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Letty Grismore",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Dayton, Ohio",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dwight-and-letty-grismore/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Wes Auldridge",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house directors, Anchorage / Baumholder / RAF Lakenheath",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/wes-and-elaine-auldridge/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Elaine Auldridge",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house directors, Anchorage / Baumholder / RAF Lakenheath",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/wes-and-elaine-auldridge/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Eric Bryan",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadence Associate Field Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-jody-bryan/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Jody Bryan",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadence Associate Field Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-jody-bryan/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Anthony Amor",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/anthony-and-jessica-amor/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Jessica Amor",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/anthony-and-jessica-amor/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Jose Argueta",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jose-susan-argueta/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Susan Argueta",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jose-susan-argueta/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Steve Nielsen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/steve-and-annette-nielsen/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Annette Nielsen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/steve-and-annette-nielsen/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "John Hobson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/john-and-joan-hobson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Joan Hobson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/john-and-joan-hobson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Daniel Busenbark",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/daniel-and-charlotte-busenbark/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Charlotte Busenbark",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/daniel-and-charlotte-busenbark/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Kenji Fukunaga",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/kenji-and-amy-fukunaga/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Amy Fukunaga",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/kenji-and-amy-fukunaga/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Ron Dice",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ron-and-liz-dice/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Liz Dice",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ron-and-liz-dice/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Ben Hallford",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Joint Base Elmendorf-Richardson, Alaska",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-simi-hallford/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Simi Hallford",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Joint Base Elmendorf-Richardson, Alaska",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-simi-hallford/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Levi Stephens",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Associate Field Staff, Adult Ministry, Ellsworth AFB",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/levi-hannah-stephens/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Hannah Stephens",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Associate Field Staff, Adult Ministry, Ellsworth AFB",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/levi-hannah-stephens/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Brian Kleager",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/brian-and-aimee-kleager/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Aimee Kleager",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/brian-and-aimee-kleager/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Greg Carlson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Naval Base Kitsap, Washington",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/greg-and-heidi-carlson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Heidi Carlson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Naval Base Kitsap, Washington",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/greg-and-heidi-carlson/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "David Osborne",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadence Associate Field Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-jennie-osborne/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Jennie Osborne",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadence Associate Field Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-jennie-osborne/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Sam Baker",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/sam-alyson-baker/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Alyson Baker",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/sam-alyson-baker/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Danny Perez",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Eastern Field Leaders, Fort Bragg",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/danny-and-kathryn-perez/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Kathryn Perez",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Eastern Field Leaders, Fort Bragg",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/danny-and-kathryn-perez/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Bob Ball",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house missionary, The Bragg House, Fort Bragg",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-glenda-ball/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Glenda Ball",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house missionary, The Bragg House, Fort Bragg",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-glenda-ball/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Joe Fletcher",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house directors, The Anchor, NAS Oceana",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joe-and-caitlin-fletcher/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Caitlin Fletcher",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality house directors, The Anchor, NAS Oceana",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joe-and-caitlin-fletcher/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Braydon Legere",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/braydon-joelle-legere/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Joelle Legere",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/braydon-joelle-legere/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Jeffrey Walton",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jeffrey-and-candace-walton/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Candace Walton",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jeffrey-and-candace-walton/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Brad Ellgen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/brad-and-debbie-ellgen/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Debbie Ellgen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/brad-and-debbie-ellgen/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Robert Caudle",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/robert-and-stephanie-caudle/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Stephanie Caudle",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/robert-and-stephanie-caudle/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Zach Kelly",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/zach-and-kara-kelly/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Kara Kelly",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/zach-and-kara-kelly/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Trey Fryman",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/trey-hannah-fryman/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Hannah Fryman",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/trey-hannah-fryman/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Bill Sperry",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bill-and-dianne-sperry/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Dianne Sperry",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bill-and-dianne-sperry/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Scott Crawford",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/scott-and-rebecca-crawford/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Rebecca Crawford",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/scott-and-rebecca-crawford/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Isaac Beasley",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Associate Field Staff, Adult Ministry, Fort Irwin",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/isaac-and-andrea-beasley/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Andrea Beasley",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Associate Field Staff, Adult Ministry, Fort Irwin",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/isaac-and-andrea-beasley/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Bob Liercke",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-merleen-liercke/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Merleen Liercke",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-merleen-liercke/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries both spouses' first names and the shared surname and the page title names both. Couple page split into two records."
+    },
+    {
+      "name": "Jonathan Bratcher",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "SkillBridge Intern, Spangdahlem Air Base, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jonathan-bratcher/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Lexy Krogman",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Landscheid, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/lexy-krogman/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Beth Mabry",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadence Student Ministry, Yokota Air Base, Japan",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/beth-mabry/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Melissa Rafferty",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, The Harbor, Kadena AFB, Okinawa",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/melissa-rafferty/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Katie Lambert",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/katie-lambert/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Andrea Haddock",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/andrea-haddock/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Mike Martin",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/mike-martin/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Ellie Mercer",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ellie-mercer/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Lorene Glynn",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "USAF Prep School Cadet Ministry, U.S. Air Force Academy",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/lorene-glynn/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Stan Fisher",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, U.S. Naval Academy, Annapolis",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/stan-fisher/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "David Cordell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadet mentoring, Texas A&M Corps of Cadets",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-cordell/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Fenny Evers",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/fenny-evers/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Christine Graham",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Associate Field Staff, Homestead Hospitality House, Eagle River, Alaska",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/christine-graham/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Dan Evans",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dan-evans/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Abby Baucher",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Intern, Fort Benning, Georgia",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/abby-baucher/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Patrick Odom",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Associate Field Staff, The Peak, Travis AFB",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/patrick-odom/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Natalie Harper",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/natalie-harper/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Michael Peavey",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Associate Field Staff, Adult Ministry, Fleet Activities Yokosuka",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/michael-peavey/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Anna Tamblyn",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Newly appointed missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/anna-tamblyn/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Nicole Yamaguchi",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Mobilization Team, Cadence Headquarters",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/nicole-yamaguchi/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page under /missionary/; slug carries this person's full name and the page title names them."
+    },
+    {
+      "name": "Benjamin Sprague",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadence Student Ministry staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/benjamin-sprague/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Per-person giving page; slug carries his full name."
+    },
+    {
+      "name": "Anna Sprague",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadence Student Ministry staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/benjamin-sprague/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Slug omits her, but the page title is 'Benjamin & Anna Sprague' - shared couple page, spouse named in title with the shared surname."
+    },
+    {
+      "name": "Duncan Sprague",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/sprague/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Slug is surname-only ('/missionary/sprague/') so the URL does not tie to his first name; the page title 'Duncan & Angie Sprague' does. Downgraded to medium for that reason."
+    },
+    {
+      "name": "Angie Sprague",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/sprague/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Slug is surname-only; name comes from the page title 'Duncan & Angie Sprague'. Medium because the URL does not carry her first name. Note a separate Sprague couple (Benjamin & Anna) exists on this site - do not merge."
+    },
+    {
+      "name": "RJ Prestwich",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Joint Base Lewis-McChord",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/rj-and-sabrina-prestwich/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Slug and title both give 'RJ' as the given name; recorded as published but graded medium because the given name is initials rather than a spelled-out first name."
+    },
+    {
+      "name": "Sabrina Prestwich",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Joint Base Lewis-McChord",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/rj-and-sabrina-prestwich/",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Couple page; slug carries her first name and the shared surname."
+    },
+    {
+      "name": "Jeremy Cover",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jeremy-and-kim-cover",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Slug follows the site's couple-page shape, but the indexed page title is 'Redirection' rather than the couple's name, so the title does not independently confirm the person. Medium."
+    },
+    {
+      "name": "Kim Cover",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jeremy-and-kim-cover",
+      "fit_reason": "Tier A; Cadence International states its missionaries raise funds for ministry expenses, benefits and their monthly salary. Slug carries her first name and the shared surname, but the indexed title is 'Redirection' and does not confirm. Medium."
+    },
+    {
+      "name": "Ron Carter",
+      "org": "Ratio Christi",
+      "tier": "A",
+      "role": "Chapter Director / supported missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.ratiochristi.org/missionary/ron-carter",
+      "fit_reason": "Tier A; Ratio Christi states all staff must develop ministry partners and offers 'Supported Missionary' chapter director posts paid from partner funds. Per-person giving page; slug carries his full name and the title names him (published as Ron 'Bruce' Carter)."
+    },
+    {
+      "name": "Jane Pantig",
+      "org": "Ratio Christi",
+      "tier": "A",
+      "role": "Chapter Director / supported missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.ratiochristi.org/missionary/jane-pantig/",
+      "fit_reason": "Tier A; Ratio Christi states all staff must develop ministry partners and offers 'Supported Missionary' chapter director posts paid from partner funds. Per-person giving page; slug carries her full name and the title names her."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:cadence.org missionaries support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:collegiatenavigators.org staff give",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:midamericanavs.org staff",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary Germany",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary Japan Okinawa Korea",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org missionary hospitality house Texas",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary student ministry campus",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary Italy Spain England Europe",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary Colorado Springs home office",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary Air Force Academy West Point Annapolis cadets",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary Alaska Washington California base",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary North Carolina Virginia Fort Bragg Norfolk",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary -Jessen -Vincent -Huisjen -Stephenson -Schroeder -Kinney -Bloker -Jentink -Sprague -Argueta",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary Georgia Florida Kansas Illinois Ohio Missouri",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Associate Field Staff\" OR \"Limited Term Ministry Staff\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary -Rozmiarek -Good -Amor -Walton -Ellgen -Bradley -Caudle -Auldridge -Kelly -Fryman -Odom -Graham",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:stumo.org staff support give",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ratiochristi.org chapter director give support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "org",
+      "value": "Cadence International - cadence.org",
+      "outcome": "found_people",
+      "note": "HIT. Static per-person giving pages at cadence.org/missionary/<first>-and-<first>-<last>/ (also <first>-<first>-<last>/ and <first>-<last>/ for singles). Directory indexes at cadence.org/donate/support-a-missionary, cadence.org/missionary-directory/, cadence.org/directory/, cadence.org/ministry-directory/ and cadence.org/student-ministry-staff/. Org states missionaries raise ministry expenses, benefits AND monthly salary, so headquarters/mobilization staff with a /missionary/ page are Tier A too. Mined for the rest of this run; the directory pages were never fetched, so the roster is almost certainly larger than what search surfaced."
+    },
+    {
+      "kind": "org",
+      "value": "Ratio Christi - ratiochristi.org / give.ratiochristi.org",
+      "outcome": "found_people",
+      "note": "HIT, found on the final search of the budget and therefore NOT mined. Two distinct static shapes: give.ratiochristi.org/missionary/<first>-<last> (per-person giving page) and give.ratiochristi.org/chapter/<university-name> (per-chapter giving page), with an index at give.ratiochristi.org/chapters. Org policy page states all staff must develop ministry partners and distinguishes 'Supported Missionary' chapter directors from volunteer tent-makers. This is the highest-value unworked seam left in this segment - it should get a dedicated agent."
+    },
+    {
+      "kind": "org",
+      "value": "Navigators Collegiate - collegiatenavigators.org",
+      "outcome": "no_people",
+      "note": "MISS. Site is program content only (Edge Corps, summer training, NCC conference, speakers). Giving copy says 'support a staff member by giving directly to the ministry and campus of your choice' - i.e. giving is keyed to campus, not to a named person. No /staff/<name> pages surfaced."
+    },
+    {
+      "kind": "org",
+      "value": "Mid-America Navigators - midamericanavs.org",
+      "outcome": "no_people",
+      "note": "MISS. Flat .html brochure site (connect.html, dmr.html, jaxstp.html). No staff directory page and no per-person pages. Only one person surfaced at all (a regional missions director, named in a snippet without an identifiable page) - logged in needs_review rather than emitted."
+    },
+    {
+      "kind": "org",
+      "value": "Student Mobilization (StuMo) - stumo.org",
+      "outcome": "no_people",
+      "note": "MISS on the per-person surface. Giving runs through give.stumo.org / register.stumo.org/managegiving and staff.stumo.org, which is LOGIN-GATED (staff.stumo.org/page/1276?returnurl=/ returns a login). Campus chapters do live on subdomains with flat staff rosters (e.g. tcu.stumo.org/staff.html) - that is a roster page, not a per-person giving page, and the names were not in the snippet. A future fetch-enabled wave could harvest <campus>.stumo.org/staff.html across chapters."
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Second confirmed hit left unmined - budget exhausted",
+      "finding": "Ratio Christi publishes static per-person giving pages at give.ratiochristi.org/missionary/<first>-<last> and per-chapter pages at give.ratiochristi.org/chapter/<university>, with an index at give.ratiochristi.org/chapters. It was found on search 18 of 18, so only two people were captured.",
+      "evidence": "https://give.ratiochristi.org/missionary/ron-carter ; https://give.ratiochristi.org/missionary/jane-pantig/ ; https://give.ratiochristi.org/chapters ; https://ratiochristi.org/join/application-interview-process/ (states all staff develop ministry partners; 'Supported Missionary' vs volunteer tent-maker chapter directors)",
+      "recommendation": "Dispatch a dedicated agent against give.ratiochristi.org with a full budget. Rotate university names as qualifiers against site:give.ratiochristi.org/missionary - the chapter index gives the campus list. Screen out volunteer tent-maker chapter directors, who are explicitly NOT support-funded and are therefore not Tier A."
+    },
+    {
+      "issue": "Cadence roster is larger than search surfaced; directory pages known but unfetched",
+      "finding": "Cadence exposes at least five index pages that would enumerate the whole roster in one fetch, but page fetching is blocked this wave and search only returns ~10 slugs per query.",
+      "evidence": "https://cadence.org/donate/support-a-missionary ; https://cadence.org/missionary-directory/ ; https://cadence.org/directory/ ; https://cadence.org/ministry-directory/ ; https://cadence.org/student-ministry-staff/",
+      "recommendation": "Hand these five URLs to a fetch-enabled wave; the /missionary/<slug>/ shape is already confirmed so the index alone converts straight into records."
+    },
+    {
+      "issue": "Person named in a snippet with no identifiable page",
+      "finding": "A regional missions director for Mid-America Navigators (Brian Hopp) was named in a search snippet, but no page on midamericanavs.org could be tied to him, so no citation is available.",
+      "evidence": "https://www.midamericanavs.org/ (snippet only; site is flat .html with no staff directory)",
+      "recommendation": "Do not emit without a citable page. If Mid-America Navigators is revisited, check connect.html for a staff list; otherwise treat the domain as a negative."
+    },
+    {
+      "issue": "Retired / emeritus Cadence staff may be mixed into the roster",
+      "finding": "Several Cadence /missionary/ pages describe ministry in the past tense or with historical date ranges (e.g. a couple who directed a hospitality house 1998-2013). Cadence appears to keep pages for long-tenured and possibly retired staff alongside active ones, and search snippets do not reliably distinguish them.",
+      "evidence": "https://cadence.org/missionary/matt-and-tina-huisjen/ ; https://cadence.org/missionary/dick-and-maryetta-reynolds/ ; https://cadence.org/missionary/bob-and-merleen-liercke/",
+      "recommendation": "All are emitted Tier A because each still carries a live giving ask, but flag at ingest for an active/retired check before any outreach."
+    },
+    {
+      "issue": "Two unrelated Sprague households on the same domain",
+      "finding": "cadence.org serves both /missionary/benjamin-sprague/ (title 'Benjamin & Anna Sprague') and /missionary/sprague/ (title 'Duncan & Angie Sprague'). These are different couples sharing a surname.",
+      "evidence": "https://cadence.org/missionary/benjamin-sprague/ ; https://cadence.org/missionary/sprague/",
+      "recommendation": "Do not dedupe these four records on surname. The surname-only slug also means Duncan and Angie are graded medium."
+    }
+  ]
+}

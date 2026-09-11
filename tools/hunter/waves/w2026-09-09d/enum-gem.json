@@ -1,0 +1,715 @@
+{
+ "wave_id": "w2026-09-09d",
+ "agent": "enum:gem",
+ "target_org": "Greater Europe Mission",
+ "searches_used": 15,
+ "people": [
+  {
+   "org_name": "Joe Lemenager",
+   "summary": "Greater Europe Mission \u2014 Church Planter",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/joe-allie-lemenager",
+   "meta": {
+    "tier": "A",
+    "role": "Church Planter",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Allie Lemenager",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/joe-allie-lemenager",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Dustin Johnson",
+   "summary": "Greater Europe Mission \u2014 Project Supervisor",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/23792/",
+   "meta": {
+    "tier": "A",
+    "role": "Project Supervisor",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Michelle Johnson",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/23792/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Justin Bessert",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/03930/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Joanne Bessert",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/03930/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Christian Taylor",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/43105/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Meg Taylor",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/43105/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Jon Shell",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/40535/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Laura Shell",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/40535/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Daniel Jackson",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/23515/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Rebecca Jackson",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/23515/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Crystal Dueck",
+   "summary": "Greater Europe Mission \u2014 Church Planter",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/crystal-dueck/",
+   "meta": {
+    "tier": "A",
+    "role": "Church Planter",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Doug Mitts",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/29880/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Lisa Mitts",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/29880/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Tom Guffey",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/20400/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Brenda Guffey",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/20400/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Jesse Brubaker",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/06395",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Naomi Brubaker",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/06395",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Seb Brandt",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/seb-and-jess-brandt/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Jess Brandt",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/seb-and-jess-brandt/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Meaghan McNeil",
+   "summary": "Greater Europe Mission \u2014 University Student Ministry",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/29140/",
+   "meta": {
+    "tier": "A",
+    "role": "University Student Ministry",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Jay Vetter",
+   "summary": "Greater Europe Mission \u2014 Church Planter",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/45000/",
+   "meta": {
+    "tier": "A",
+    "role": "Church Planter",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Elizabeth Vetter",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/45000/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Mark Mylin",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/30250/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Marti Mylin",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/30250/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Jordan Egli",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/jordan-and-kate-egli/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Kate Egli",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/jordan-and-kate-egli/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Bennett Boyd",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/bennett-boyd/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Howard Moore",
+   "summary": "Greater Europe Mission \u2014 Summer Camp Ministry",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/howard-and-caron-moore/",
+   "meta": {
+    "tier": "A",
+    "role": "Camp Ministry",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Caron Moore",
+   "summary": "Greater Europe Mission \u2014 Summer Camp Ministry",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/howard-and-caron-moore/",
+   "meta": {
+    "tier": "A",
+    "role": "Camp Ministry",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Pamela Konstant",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/25300/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Dawn Sanders",
+   "summary": "Greater Europe Mission \u2014 Church Planter",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/donatemissionary/dawn-sanders",
+   "meta": {
+    "tier": "A",
+    "role": "Church Planter",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Shirley Unger",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.ca/donate/shirley-unger",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Alex Printis",
+   "summary": "Greater Europe Mission \u2014 Youth Mentoring",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.ca/donate/alex-printis",
+   "meta": {
+    "tier": "A",
+    "role": "Youth Mentoring",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Matthew Colegrove",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.ca/donate/colegroves",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Katarina Colegrove",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.ca/donate/colegroves",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Wendy Harder",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.ca/donate/wendy-harder",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "high",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission"
+   }
+  },
+  {
+   "org_name": "Jacob Coon",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/give/10360/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Jeff Gage",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/give/19060/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Carrie Gage",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/give/19060/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "John Gilberts",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/give/19370/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  },
+  {
+   "org_name": "Molly Gilberts",
+   "summary": "Greater Europe Mission \u2014 Missionary",
+   "fit_score": 9,
+   "fit_reason": "Personal giving page",
+   "source_url": "https://gemission.org/give/19370/",
+   "meta": {
+    "tier": "A",
+    "role": "Missionary",
+    "confidence": "medium",
+    "evidence_basis": "personal_page",
+    "target_org": "Greater Europe Mission",
+    "orchestrator_note": "Numeric giving-page ID; name read from the result title and not corroborated by the URL."
+   }
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:gemission.org/donatemissionary Germany",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/donatemissionary Spain",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/donatemissionary Poland",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/missionaries church planter",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/missionaries teacher",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.ca/donate",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/donatemissionary France",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/donatemissionary Italy",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/missionaries youth",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/give",
+   "outcome": "found_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/donatemissionary Netherlands",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/donatemissionary Latvia",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/missionaries media",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/missionaries camp",
+   "outcome": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:gemission.org/donatemissionary Czech",
+   "outcome": "no_people"
+  }
+ ],
+ "needs_review": []
+}

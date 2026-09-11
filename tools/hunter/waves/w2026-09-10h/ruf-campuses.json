@@ -1,0 +1,602 @@
+{
+  "wave_id": "w2026-09-10h",
+  "agent": "ruf-campuses",
+  "target_org": "Reformed University Fellowship",
+  "slice": "RUF campus codes beyond the 19 already spent",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Alec Cotton",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/appstate",
+      "fit_reason": "Campus ministry page (appstate) names campus minister; direct name attribution on ministry page"
+    },
+    {
+      "name": "Chad Jowers",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/gatech",
+      "fit_reason": "Campus ministry page (gatech) names campus minister"
+    },
+    {
+      "name": "Daniel Hightower",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/clemson",
+      "fit_reason": "Campus ministry page (clemson) names campus minister"
+    },
+    {
+      "name": "Jim Hahn",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/unc",
+      "fit_reason": "Campus ministry page (unc) names campus minister"
+    },
+    {
+      "name": "Juan Rodriguez",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Associate",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/charlotte",
+      "fit_reason": "Campus ministry page (charlotte) names campus associate at UNC Charlotte"
+    },
+    {
+      "name": "Ben Griffith",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/samford",
+      "fit_reason": "Campus ministry page (samford) names campus minister"
+    },
+    {
+      "name": "Austin Braasch",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/olemiss",
+      "fit_reason": "Campus ministry page (olemiss) names campus minister"
+    },
+    {
+      "name": "Davis Morgan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/southernmiss",
+      "fit_reason": "Campus ministry page (southernmiss) names campus minister"
+    },
+    {
+      "name": "Tanner Crum",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/auburn",
+      "fit_reason": "Campus ministry page (auburn) names campus minister"
+    },
+    {
+      "name": "Aldo Mondin",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/usf",
+      "fit_reason": "Campus ministry page (usf) names campus minister"
+    },
+    {
+      "name": "Hardy Reynolds",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/ucf",
+      "fit_reason": "Campus ministry page (ucf) names campus minister"
+    },
+    {
+      "name": "Steve Lammers",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/gators",
+      "fit_reason": "Campus ministry page (gators) names campus minister at UF"
+    },
+    {
+      "name": "Bailey Wagner",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/jmu",
+      "fit_reason": "Campus ministry page (jmu) names staff member at James Madison University"
+    },
+    {
+      "name": "Josiah Carey",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/uva",
+      "fit_reason": "Campus ministry page (uva) names campus minister"
+    },
+    {
+      "name": "Gavin Breeden",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/pitt",
+      "fit_reason": "Campus ministry page (pitt) names campus minister at University of Pittsburgh"
+    },
+    {
+      "name": "Nate Osner",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/purdue",
+      "fit_reason": "Campus ministry page (purdue) names campus minister"
+    },
+    {
+      "name": "Andrew Whitaker",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/indianauniversity",
+      "fit_reason": "Campus ministry page (indianauniversity) names campus minister"
+    },
+    {
+      "name": "Quinn Sloan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/kansas",
+      "fit_reason": "Campus ministry page (kansas) names campus minister at University of Kansas"
+    },
+    {
+      "name": "Mac Holt",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/utk",
+      "fit_reason": "Campus ministry page (utk) names campus minister at University of Tennessee Knoxville"
+    },
+    {
+      "name": "Bradford Green",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/tcu",
+      "fit_reason": "Campus ministry page (tcu) names campus minister at Texas Christian University"
+    },
+    {
+      "name": "Ryan Dougan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/ut-austin",
+      "fit_reason": "Campus ministry page (ut-austin) names campus minister at University of Texas at Austin"
+    },
+    {
+      "name": "Brooks Harwood",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/houston",
+      "fit_reason": "Campus ministry page (houston) names RUF pastor at University of Houston"
+    },
+    {
+      "name": "David Birnie",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/stanford",
+      "fit_reason": "Campus ministry page (stanford) names campus minister"
+    },
+    {
+      "name": "Braden Carter",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/uw",
+      "fit_reason": "Campus ministry page (uw) names campus minister at University of Washington"
+    },
+    {
+      "name": "Drew Burdette",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/boisestate",
+      "fit_reason": "Campus ministry page (boisestate) names campus minister at Boise State University"
+    },
+    {
+      "name": "Coleman Greene",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/wofford",
+      "fit_reason": "Campus ministry page (wofford) names campus minister at Wofford College"
+    },
+    {
+      "name": "Marlin Harris",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/mercer",
+      "fit_reason": "Campus ministry page (mercer) names campus minister at Mercer University"
+    },
+    {
+      "name": "Joe Fischer",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/rutgers",
+      "fit_reason": "Campus ministry page (rutgers) names campus minister at Rutgers University"
+    },
+    {
+      "name": "Ian Deffenbaugh",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/cnu",
+      "fit_reason": "Campus ministry page (cnu) names campus minister at Christopher Newport University"
+    },
+    {
+      "name": "Chris Reed",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/tsu",
+      "fit_reason": "Campus ministry page (tsu) names staff member at Texas Southern University"
+    },
+    {
+      "name": "Justin Helms",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/lsu",
+      "fit_reason": "Campus ministry page (lsu) names campus minister at Louisiana State University"
+    },
+    {
+      "name": "Brad Owens",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/uab",
+      "fit_reason": "Campus ministry page (uab) names campus minister at University of Alabama at Birmingham"
+    },
+    {
+      "name": "Austin Royal",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/rufarkansas",
+      "fit_reason": "Campus ministry page (rufarkansas) names campus minister in Arkansas"
+    },
+    {
+      "name": "Tyler Majors",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/jacksonville",
+      "fit_reason": "Campus ministry page (jacksonville) names campus minister at Jacksonville universities"
+    },
+    {
+      "name": "Michael Goodlin",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/lehigh",
+      "fit_reason": "Campus ministry page (lehigh) names campus minister at Lehigh University"
+    },
+    {
+      "name": "Matt Dabiero",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/pennstate",
+      "fit_reason": "Campus ministry page (pennstate) names campus minister at Pennsylvania State University"
+    },
+    {
+      "name": "Kris Cooper",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/NCCU",
+      "fit_reason": "Campus ministry page (NCCU) names staff member at North Carolina Central University"
+    },
+    {
+      "name": "Kyle Grow",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/sjsu",
+      "fit_reason": "Campus ministry page (sjsu) names campus minister at San Jose State University"
+    },
+    {
+      "name": "Nate Fowler",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/liberty",
+      "fit_reason": "Campus ministry page (liberty) names campus minister at Liberty University"
+    },
+    {
+      "name": "Bentley Crawford",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/belhaven",
+      "fit_reason": "Campus ministry page (belhaven) names campus minister at Belhaven University"
+    },
+    {
+      "name": "Lee Leadbetter",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/utkrufi",
+      "fit_reason": "Campus ministry page (utkrufi) names campus minister for RUF International at University of Tennessee"
+    },
+    {
+      "name": "Tom Hart",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/furman",
+      "fit_reason": "Campus ministry page (furman) names campus minister at Furman University"
+    },
+    {
+      "name": "Andrew Goyzueta",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/davidsoncats",
+      "fit_reason": "Campus ministry page (davidsoncats) names campus minister at Davidson College; non-standard code format"
+    },
+    {
+      "name": "John Matta",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/northwestern-international",
+      "fit_reason": "Campus ministry page names international students minister; non-standard code format"
+    },
+    {
+      "name": "Holt West",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/trinity",
+      "fit_reason": "Campus ministry page (trinity) names campus minister; confirms Trinity University RUF presence"
+    },
+    {
+      "name": "Will Peters",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/smuint",
+      "fit_reason": "Campus ministry page names international students staff member at SMU; non-standard code format"
+    },
+    {
+      "name": "Lucas Tanner",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/fgcu",
+      "fit_reason": "Campus ministry page (fgcu) names campus minister at Florida Gulf Coast University"
+    },
+    {
+      "name": "Austin Slater",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/ucfrufi",
+      "fit_reason": "Campus ministry page names RUF staff at UCF; non-standard code format"
+    },
+    {
+      "name": "Caleb Jakana",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/longbeachst",
+      "fit_reason": "Campus ministry page names campus minister at Long Beach State University; non-standard code format"
+    },
+    {
+      "name": "James Post",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/ou",
+      "fit_reason": "Campus ministry page (ou) names campus minister at University of Oklahoma"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate uga gatech emory clemson appstate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate uncc unc elon wake davidson uncw",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate auburn olemiss southernmiss troy samford",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate uf ucf usf fau fiu fgcu stetson",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate uva vcu wm jmu odu radford liberty",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate richmond gmu umd towson pitt psu temple drexel",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate osu purdue indiana illinois northwestern iowa",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate iowastate nebraska kansas mizzou msu umich wisc umn",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate texastech tcu smu houston ut arizona asu colorado",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate oregon washington cal ucla stanford utah colorado",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate mercer furman wofford citadel charlestonsc",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate villanova lehigh bucknell rutgers marquette",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate lsu tulane ulm uab jsu",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate ncstate davidson elon",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate utk tennessee memphis belmont",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate jacksonville fau",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate psu temple villanova lehigh bucknell",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:givetoruf.org/donate tarleton ecu liberty radford vcu",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}

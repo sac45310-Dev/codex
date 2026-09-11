@@ -1,0 +1,1102 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:youth-for-christ",
+  "target_org": "Youth for Christ USA",
+  "roster_verdict": "exhausted",
+  "notes": "Large national org with ~130+ local chapters. Searched for national leadership, chapter executive directors, and development staff. Tier A prioritized (chapter/field support-raised staff). Found ~60 people across national office, chapters, and board. Partial coverage due to large organization scope.",
+  "people": [
+    {
+      "org_name": "Jacob D. Bland",
+      "org_type": "individual",
+      "website": "yfc.net",
+      "city": "Denver",
+      "state": "CO",
+      "summary": "Youth for Christ USA — President and CEO (National)",
+      "fit_score": 8,
+      "fit_reason": "Tier A: National leadership position, support-raised movement leader",
+      "meta": {
+        "tier": "A",
+        "role": "President and CEO",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfc.net/press/jacob-bland-yfc/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Jessica Taylor",
+      "org_type": "individual",
+      "website": "yfc.net",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ USA — Chief of Staff (National)",
+      "fit_score": 8,
+      "fit_reason": "Tier A: National executive leadership, strategic initiatives",
+      "meta": {
+        "tier": "A",
+        "role": "Chief of Staff",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfc.net/press/youth-for-christ-usa-names-dr-jessica-taylor-as-chief-of-staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Barry Huebner",
+      "org_type": "individual",
+      "website": "yfc.net",
+      "city": "Kankakee",
+      "state": "IL",
+      "summary": "Youth for Christ USA — Chairman of the Board",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board chairman, governance leadership",
+      "meta": {
+        "tier": "C",
+        "role": "Chairman of the Board",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfc.net/about/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gay Brown",
+      "org_type": "individual",
+      "website": "yfc.net",
+      "city": "Eugene",
+      "state": "OR",
+      "summary": "Youth for Christ USA — Vice Chair of the Board",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Board vice chair, governance leadership",
+      "meta": {
+        "tier": "C",
+        "role": "Vice Chair of the Board",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfc.net/about/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ken Allen",
+      "org_type": "individual",
+      "website": "yfcdenver.org",
+      "city": "Englewood",
+      "state": "CO",
+      "summary": "Youth for Christ — Executive Director, Denver Area chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Denver Area Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfcdenver.org/about/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Todd Lovelace",
+      "org_type": "individual",
+      "website": "",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "summary": "Youth for Christ — Executive Director, Oklahoma City chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Oklahoma City Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/jobs/view/executive-director-at-youth-for-christ-usa-inc-4165631137",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ken Sylvia",
+      "org_type": "individual",
+      "website": "cvyouth.org",
+      "city": "Modesto",
+      "state": "CA",
+      "summary": "Youth for Christ — Executive Director, Central Valley chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Youth for Christ Central Valley",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://socalyfc.org/about/staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Scott Arnold",
+      "org_type": "individual",
+      "website": "coyfc.org",
+      "city": "Columbus",
+      "state": "OH",
+      "summary": "Youth for Christ — Executive Director, Central Ohio chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Central Ohio Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://coyfc.org/about/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bill Backman",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ — Executive Director/Missionary",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Executive director role in support-raised ministry",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/bill-backman-903aa115/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Emelio Gassibe",
+      "org_type": "individual",
+      "website": "",
+      "city": "Cape Cod",
+      "state": "MA",
+      "summary": "Youth for Christ — Executive Director, Cape Cod chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Cape Cod Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/emelio-gassibe-a75181357/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brad Holt",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "MS",
+      "summary": "Youth for Christ — Executive Director, Mississippi Gulf Coast chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Youth for Christ - Mississippi Gulf Coast",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/brad-holt-b258a0b7/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Don Leader",
+      "org_type": "individual",
+      "website": "",
+      "city": "Findlay",
+      "state": "OH",
+      "summary": "Youth for Christ — Executive Director, Findlay Area chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Findlay Area Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/don-leader-19a94519/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kevin Collins",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "MI",
+      "summary": "Youth for Christ — Executive Director, East Michigan chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Youth for Christ East Michigan",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/kevin-collins-5a370725/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rick Selk",
+      "org_type": "individual",
+      "website": "yfcchicago.org",
+      "city": "Chicago",
+      "state": "IL",
+      "summary": "Youth for Christ — Strategic Advisor & Major Donor Engagement, Chicago chapter",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Major donor engagement/development role",
+      "meta": {
+        "tier": "B",
+        "role": "Strategic Advisor & Major Donor Engagement",
+        "chapter": "Youth For Christ Chicago",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.yfcchicago.org/staff",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Derek Jacobsen",
+      "org_type": "individual",
+      "website": "giyfc.org",
+      "city": "Mason City",
+      "state": "IA",
+      "summary": "Youth for Christ — Executive Director, Greater Iowa chapter (35+ years)",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Chapter executive director, 35 years tenure, support-raised staff",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Greater Iowa Youth For Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/derek-jacobsen-0756668/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Adam Pedersen",
+      "org_type": "individual",
+      "website": "",
+      "city": "Indianapolis",
+      "state": "IN",
+      "summary": "Youth for Christ — Campus Life Director, Southport location",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Field staff, Campus Life ministry",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Life Director",
+        "chapter": "Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/adam-pedersen-42327810/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Emma Grewell",
+      "org_type": "individual",
+      "website": "",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "summary": "Youth for Christ — Campus Life Director, Jenison Middle School",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Campus Life staff, field ministry director",
+      "meta": {
+        "tier": "B",
+        "role": "Campus Life Director",
+        "chapter": "Youth For Christ USA Inc.",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/emma-grewell-01297b256/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Katie Burmeister",
+      "org_type": "individual",
+      "website": "",
+      "city": "Lansing",
+      "state": "MI",
+      "summary": "Youth for Christ — Club Director, Holt Campus Life/Lansing",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Campus Life field staff",
+      "meta": {
+        "tier": "B",
+        "role": "Club Director",
+        "chapter": "Lansing Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/katie-burmeister-66b02b43/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Al Siebert",
+      "org_type": "individual",
+      "website": "socalyfc.org",
+      "city": "",
+      "state": "CA",
+      "summary": "Youth for Christ — Executive Director, Southern California chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Southern California Youth For Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://socalyfc.org/about/staff/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jameson White",
+      "org_type": "individual",
+      "website": "yfcnow.org",
+      "city": "Fresno",
+      "state": "CA",
+      "summary": "Youth for Christ — Executive Director, Fresno/Madera chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Fresno/Madera YFC",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfcnow.org/about/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jon Christensen",
+      "org_type": "individual",
+      "website": "yfcchicago.org",
+      "city": "Wheaton",
+      "state": "IL",
+      "summary": "Youth for Christ — CEO, Youth For Christ Chicago chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive leadership, support-raised staff",
+      "meta": {
+        "tier": "A",
+        "role": "Chief Executive Officer",
+        "chapter": "Youth For Christ Chicago",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.yfcchicago.org/staff",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gilbert Hernandez",
+      "org_type": "individual",
+      "website": "styfc.net",
+      "city": "San Antonio",
+      "state": "TX",
+      "summary": "Youth for Christ — Executive Director/President/CEO, South Texas chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director/President/CEO",
+        "chapter": "South Texas Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/gilbert-hernandez-0586321a/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Daniel Sanabria",
+      "org_type": "individual",
+      "website": "yfcnyc.org",
+      "city": "New York",
+      "state": "NY",
+      "summary": "Youth for Christ — Executive Director, New York City chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Youth for Christ New York City",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.facebook.com/americanfamilyradio/videos/daniel-sanabria-executive-director-of-youth-for-christ-new-york-city-steps-into-/477897914995497/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Beria Gaxiola",
+      "org_type": "individual",
+      "website": "liyfc.org",
+      "city": "",
+      "state": "NY",
+      "summary": "Youth for Christ — Executive Director, Long Island chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Long Island YFC",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://liyfc.org/about/our-story/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jeff",
+      "org_type": "individual",
+      "website": "yfccleveland.org",
+      "city": "Cleveland",
+      "state": "OH",
+      "summary": "Youth for Christ — Executive Director, Greater Cleveland chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Greater Cleveland Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfccleveland.org/about/leadership/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Kevin Kroitor",
+      "org_type": "individual",
+      "website": "yfcirc.com",
+      "city": "",
+      "state": "FL",
+      "summary": "Youth for Christ — Executive Director, Indian River County chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Youth for Christ Indian River County",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.yfcirc.com/staff",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Greg Gudal",
+      "org_type": "individual",
+      "website": "scmyfc.org",
+      "city": "",
+      "state": "MN",
+      "summary": "Youth for Christ — Executive Director, South Central Minnesota chapter (30+ years)",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Chapter executive director, 30 years tenure, support-raised staff",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "South Central Minnesota Youth For Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.scmyfc.org/about",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sean Levesque",
+      "org_type": "individual",
+      "website": "yfcminnesota.com",
+      "city": "Willmar",
+      "state": "MN",
+      "summary": "Youth for Christ — Executive Director, West Central Minnesota chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "West Central Minnesota Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfcminnesota.com/about/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Andrew LaValley",
+      "org_type": "individual",
+      "website": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "summary": "Youth for Christ — Executive Director, Southern Colorado chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Southern Colorado Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.bbb.org/us/co/colorado-springs/profile/non-profit-organizations/southern-colorado-youth-for-christ-inc-0785-17000203",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Daniel Kregel",
+      "org_type": "individual",
+      "website": "wmyfc.org",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "summary": "Youth for Christ — Executive Director, West Michigan chapter (since 2007, 30+ years tenure)",
+      "fit_score": 9,
+      "fit_reason": "Tier A: Chapter executive director, 30+ years ministry tenure, support-raised staff",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "West Michigan Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://wmyfc.org/about/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joel Williamson",
+      "org_type": "individual",
+      "website": "yfcsck.org",
+      "city": "",
+      "state": "KS",
+      "summary": "Youth for Christ — Executive Director, South Central Kansas chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "South Central Kansas Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "http://www.yfcsck.org/about/staff",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jeff Shicks",
+      "org_type": "individual",
+      "website": "yfc.net",
+      "city": "Nashville",
+      "state": "TN",
+      "summary": "Youth for Christ — Executive Director, Nashville Area chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director, support-raised staff position",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Nashville Area Youth For Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfc.net/chapter/nashville-area/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Matt Ridgely",
+      "org_type": "individual",
+      "website": "yfc.net",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ USA — Vice President, People Stewardship (National)",
+      "fit_score": 7,
+      "fit_reason": "Tier B: National development/stewardship leadership",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President, People Stewardship",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/mattridgely/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brian Cho",
+      "org_type": "individual",
+      "website": "yfc.net",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ USA — Vice President, Mission Investment (Development & Marketing)",
+      "fit_score": 7,
+      "fit_reason": "Tier B: National development leadership role",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President, Mission Investment",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/brian-cho-2a3569243/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ali King",
+      "org_type": "individual",
+      "website": "yfc.net",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ USA — Chief Operating Officer (National)",
+      "fit_score": 7,
+      "fit_reason": "Tier B: National operations leadership",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Operating Officer",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://theorg.com/org/youth-for-christ-usa-inc",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Malayia Roper",
+      "org_type": "individual",
+      "website": "yfc.net",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ USA — Vice President, Strategic Alignment (National)",
+      "fit_score": 7,
+      "fit_reason": "Tier B: National strategic leadership",
+      "meta": {
+        "tier": "B",
+        "role": "Vice President, Strategic Alignment",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://theorg.com/org/youth-for-christ-usa-inc",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sean Wallinger",
+      "org_type": "individual",
+      "website": "yfc.net",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ USA — Chief Financial Officer (National)",
+      "fit_score": 6,
+      "fit_reason": "Tier B: National finance leadership",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Financial Officer",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/sean-wallinger-462775189/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jerry Wheeler",
+      "org_type": "individual",
+      "website": "yfc.net",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ USA — Director, Credentialing & Spiritual Transformation (National)",
+      "fit_score": 6,
+      "fit_reason": "Tier B: National credentialing and transformation leadership",
+      "meta": {
+        "tier": "B",
+        "role": "Director Credentialing, Spiritual Transformation",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/jerry-wheeler-5784037/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Scott Rosene",
+      "org_type": "individual",
+      "website": "yfci.org",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ International — Donor Communication Specialist",
+      "fit_score": 5,
+      "fit_reason": "Tier B: International donor relations/communication",
+      "meta": {
+        "tier": "B",
+        "role": "Donor Communication Specialist",
+        "target_org": "Youth for Christ (International)",
+        "evidence_url": "https://yfci.org/about/team/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Jim Snellink",
+      "org_type": "individual",
+      "website": "yfci.org",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ International — Donor Relations Representative",
+      "fit_score": 5,
+      "fit_reason": "Tier B: International donor relations",
+      "meta": {
+        "tier": "B",
+        "role": "Donor Relations Representative",
+        "target_org": "Youth for Christ (International)",
+        "evidence_url": "https://yfci.org/about/team/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Chuck Maw",
+      "org_type": "individual",
+      "website": "yfcchicago.org",
+      "city": "Chicago",
+      "state": "IL",
+      "summary": "Youth for Christ — Chief Operations Officer, Chicago chapter",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Chapter operations leadership",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Operations Officer",
+        "chapter": "Youth For Christ Chicago",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.yfcchicago.org/staff",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tim Butler",
+      "org_type": "individual",
+      "website": "yfcdenver.org",
+      "city": "Denver",
+      "state": "CO",
+      "summary": "Youth for Christ — Juvenile Justice Ministry Director, Denver Area",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Field ministry director, Denver chapter",
+      "meta": {
+        "tier": "B",
+        "role": "Juvenile Justice Ministry Director",
+        "chapter": "Denver Area Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfcdenver.org/about/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Derek Polansky",
+      "org_type": "individual",
+      "website": "yfcchicago.org",
+      "city": "Chicago",
+      "state": "IL",
+      "summary": "Youth for Christ — JJM Director, Chicago chapter",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Juvenile Justice Ministry field director",
+      "meta": {
+        "tier": "B",
+        "role": "Juvenile Justice Ministry Director",
+        "chapter": "Youth For Christ Chicago",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.yfcchicago.org/staff",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nathan Sanders",
+      "org_type": "individual",
+      "website": "",
+      "city": "Kansas City",
+      "state": "MO",
+      "summary": "Youth for Christ — Juvenile Justice Ministry Director, Kansas City chapter",
+      "fit_score": 6,
+      "fit_reason": "Tier B: Juvenile Justice Ministry field director",
+      "meta": {
+        "tier": "B",
+        "role": "Juvenile Justice Ministry Director",
+        "chapter": "Kansas City Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfc.net/story/youth-for-christ-juvenile-justice-ministry-offers-hope-and-guidance-to-overlooked-teens-in-kansas-city/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dennis Konrady",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ Foundation — Board of Trustees",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Foundation board trustee",
+      "meta": {
+        "tier": "C",
+        "role": "Board of Trustees",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/posts/youth-for-christ-usa-inc-_meetthemovement-activity-7427343208227135488-q3Pw",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Maday Gonzalez Redd",
+      "org_type": "individual",
+      "website": "",
+      "city": "Houston",
+      "state": "TX",
+      "summary": "Youth for Christ USA — National Board of Trustees, Grant Strategy Director (Stoller Foundation)",
+      "fit_score": 6,
+      "fit_reason": "Tier C: National board trustee with nonprofit leadership experience",
+      "meta": {
+        "tier": "C",
+        "role": "National Board of Trustees",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/posts/jacob-bland-96553834_strong-mission-requires-strong-governance-activity-7432072439653687296-o4ct",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Haddon Anderson",
+      "org_type": "individual",
+      "website": "statelineyfc.org",
+      "city": "Rockford",
+      "state": "IL",
+      "summary": "Youth for Christ — Executive Director, Stateline chapter & Board Trustee",
+      "fit_score": 8,
+      "fit_reason": "Tier A/C: Chapter executive director + national board trustee",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Stateline Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfc.net/about/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Shani Wilfred",
+      "org_type": "individual",
+      "website": "",
+      "city": "Valdosta",
+      "state": "GA",
+      "summary": "Youth for Christ USA — National Board of Trustees, Criminal Justice Programs",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board trustee with criminal justice expertise",
+      "meta": {
+        "tier": "C",
+        "role": "National Board of Trustees",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://yfc.net/about/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Parnell Davis",
+      "org_type": "individual",
+      "website": "",
+      "city": "",
+      "state": "",
+      "summary": "Youth for Christ USA — Executive Director (chapter/location TBD)",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Executive director role",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/parnell-davis-540aa5380",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Michael J. Hennessy",
+      "org_type": "individual",
+      "website": "",
+      "city": "Rochester",
+      "state": "NY",
+      "summary": "Youth for Christ — Executive Director, Rochester chapter",
+      "fit_score": 8,
+      "fit_reason": "Tier A: Chapter executive director",
+      "meta": {
+        "tier": "A",
+        "role": "Executive Director",
+        "chapter": "Rochester Youth for Christ",
+        "target_org": "Youth for Christ USA",
+        "evidence_url": "https://www.linkedin.com/in/michael-j-hennessy-3a5a9815",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    "Youth for Christ USA",
+    "Denver Area Youth for Christ",
+    "Oklahoma City Youth for Christ",
+    "Youth for Christ Central Valley",
+    "Central Ohio Youth for Christ",
+    "Cape Cod Youth for Christ",
+    "Youth for Christ - Mississippi Gulf Coast",
+    "Findlay Area Youth for Christ",
+    "Youth for Christ East Michigan",
+    "Youth For Christ Chicago",
+    "Greater Iowa Youth For Christ",
+    "Southern California Youth For Christ",
+    "Fresno/Madera YFC",
+    "South Texas Youth for Christ",
+    "Youth for Christ New York City",
+    "Long Island YFC",
+    "Greater Cleveland Youth for Christ",
+    "Youth for Christ Indian River County",
+    "South Central Minnesota Youth For Christ",
+    "West Central Minnesota Youth for Christ",
+    "Southern Colorado Youth for Christ",
+    "West Michigan Youth for Christ",
+    "South Central Kansas Youth for Christ",
+    "Nashville Area Youth For Christ",
+    "Stateline Youth for Christ",
+    "Youth for Christ International",
+    "Rochester Youth for Christ"
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Youth for Christ USA national leadership staff site:yfc.net",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "\"Youth for Christ\" national director president site:yfc.net",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Youth for Christ USA chapter executive director",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "\"youth for christ\" \"executive director\" site:linkedin.com",
+      "outcome": "found_people",
+      "people_found": 7
+    },
+    {
+      "kind": "query",
+      "value": "\"Denver Area Youth for Christ\" executive director staff",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "\"Greater Iowa\" \"youth for christ\" executive director",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Youth for Christ \"development director\" OR \"advancement director\" staff",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"campus life\" director \"youth for christ\" site:linkedin.com",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Youth for Christ California chapter executive director",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"youth for christ\" board member OR trustee site:linkedin.com",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "Chicago area youth for christ executive director staff",
+      "outcome": "found_people",
+      "people_found": 10
+    },
+    {
+      "kind": "query",
+      "value": "Texas \"youth for christ\" executive director chapter",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Florida \"youth for christ\" executive director staff",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"youth for christ\" New York executive director chapter",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Pennsylvania Ohio \"youth for christ\" executive director",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "\"youth for christ\" \"development\" \"major gifts\" OR \"fundraising\" staff site:linkedin.com",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Minnesota Wisconsin \"youth for christ\" executive director",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Washington state \"youth for christ\" executive director OR leadership",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Missouri Kansas \"youth for christ\" executive director chapter",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Massachusetts Connecticut \"youth for christ\" executive director",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"youth for christ\" national office staff \"chief operating officer\" OR \"vice president\"",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "Colorado Springs \"youth for christ\" executive director OR staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"youth for christ\" \"major donor\" OR \"donor relations\" staff director",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Michigan \"youth for christ\" executive director chapter",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Arizona Nevada \"youth for christ\" executive director",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"youth for christ\" board trustees site:yfc.net",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "Georgia Tennessee \"youth for christ\" executive director staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"youth for christ usa\" executive team leadership site:linkedin.com",
+      "outcome": "found_people",
+      "people_found": 8
+    }
+  ],
+  "negatives": [
+    "No specific Massachusetts/Connecticut YFC chapter director found",
+    "No specific Arizona/Nevada YFC chapter director found",
+    "Bob Poe - former director, West Central Minnesota YFC (retired - excluded)",
+    "Josh Roe - former director, Spokane YFC (2008 info, outdated)"
+  ],
+  "needs_review": [
+    "Mike (Atlanta YFC) - only first name available in search results; needs verification",
+    "Jeff (Greater Cleveland YFC) - only first name available; needs verification",
+    "Katie Sexton-Wood - appeared in Arizona search but unclear YFC connection"
+  ]
+}

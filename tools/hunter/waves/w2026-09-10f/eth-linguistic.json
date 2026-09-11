@@ -1,0 +1,649 @@
+{
+  "wave_id": "w2026-09-10f",
+  "agent": "eth-linguistic",
+  "target_org": "Ethnos360",
+  "slice": "language and translation roles",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Abel Miller",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/abel-and-sarah-miller",
+      "fit_reason": "Surname in slug; combined record with Sarah Miller sharing page"
+    },
+    {
+      "name": "Sarah Miller",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/abel-and-sarah-miller",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Dennis Farthing",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dennis-and-monika-farthing",
+      "fit_reason": "Surname in slug; combined record with Monika Farthing sharing page"
+    },
+    {
+      "name": "Monika Farthing",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dennis-and-monika-farthing",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Ralf Schlegel",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/ralf-and-elisabeth-schlegel",
+      "fit_reason": "Surname in slug; combined record with Elisabeth Schlegel sharing page"
+    },
+    {
+      "name": "Elisabeth Schlegel",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/ralf-and-elisabeth-schlegel",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Jim Passetti",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jim-and-elisa-passetti",
+      "fit_reason": "Surname in slug; combined record with Elisa Passetti sharing page"
+    },
+    {
+      "name": "Elisa Passetti",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jim-and-elisa-passetti",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Nathan Claasen",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/nathan-and-elizabeth-claasen",
+      "fit_reason": "Surname in slug; combined record with Elizabeth Claasen sharing page"
+    },
+    {
+      "name": "Elizabeth Claasen",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/nathan-and-elizabeth-claasen",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Elsie Gill",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/elsie-gill",
+      "fit_reason": "Single person page; surname in slug"
+    },
+    {
+      "name": "Jim Wilhelmson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jim-and-millie-wilhelmson",
+      "fit_reason": "Surname in slug; combined record with Millie Wilhelmson sharing page"
+    },
+    {
+      "name": "Millie Wilhelmson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jim-and-millie-wilhelmson",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Paul Cheshire",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/paul-and-carol-cheshire",
+      "fit_reason": "Surname in slug; combined record with Carol Cheshire sharing page"
+    },
+    {
+      "name": "Carol Cheshire",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/paul-and-carol-cheshire",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Kathryn Kreiger",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Language Consultant",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/kathryn-kreiger",
+      "fit_reason": "Single person page; surname in slug; title specifies language consultant role"
+    },
+    {
+      "name": "Marcio Pimentel",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Culture and Language Consultant",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/marcio-and-francineve-pimentel",
+      "fit_reason": "Surname in slug; combined record with Francineve Pimentel sharing page"
+    },
+    {
+      "name": "Francineve Pimentel",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Culture and Language Consultant",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/marcio-and-francineve-pimentel",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Rebecca Stottlemyer",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Literacy Specialist",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/rebecca-stottlemyer",
+      "fit_reason": "Single person page; surname in slug; ministry is Literacy/discipleship"
+    },
+    {
+      "name": "Luke Thek",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/luke-and-jessica-thek",
+      "fit_reason": "Surname in slug; combined record with Jessica Thek sharing page"
+    },
+    {
+      "name": "Jessica Thek",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/luke-and-jessica-thek",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Clara Pohl",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/clara-pohl",
+      "fit_reason": "Single person page; surname in slug"
+    },
+    {
+      "name": "TJ Shropshire",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/tj-and-lilly-shropshire",
+      "fit_reason": "Surname in slug; combined record with Lily Shropshire sharing page"
+    },
+    {
+      "name": "Lily Shropshire",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/tj-and-lilly-shropshire",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Steve Irwin",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/steve-and-eida-irwin",
+      "fit_reason": "Surname in slug; combined record with Eida Irwin sharing page"
+    },
+    {
+      "name": "Eida Irwin",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/steve-and-eida-irwin",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Dan Shaylor",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dan-and-diana-shaylor",
+      "fit_reason": "Surname in slug; combined record with Diana Shaylor sharing page"
+    },
+    {
+      "name": "Diana Shaylor",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dan-and-diana-shaylor",
+      "fit_reason": "Couple record split; surname in slug"
+    },
+    {
+      "name": "Bob Clark",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Bible Translation Consultant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/bob-clark/",
+      "fit_reason": "Blog page about this person; surname in slug; search results indicate translation consultant role"
+    },
+    {
+      "name": "Jonathan Bamford",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/jonathan-heidi-bamford/",
+      "fit_reason": "Blog page about this person; surname in slug"
+    },
+    {
+      "name": "Heidi Bamford",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/jonathan-heidi-bamford/",
+      "fit_reason": "Couple record split; blog page shares both names"
+    },
+    {
+      "name": "Bill Davis",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Language Learning Consultant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/bill-davis/",
+      "fit_reason": "Blog page about this person; search results describe as language learning consultant"
+    },
+    {
+      "name": "Donna Davis",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Language Learning Consultant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/bill-davis/",
+      "fit_reason": "Couple record split; blog page shares both names"
+    },
+    {
+      "name": "Phil Burns",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Culture Acquisition Specialist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/phil-burns/",
+      "fit_reason": "Blog page about this person; surname in slug; culture acquisition context"
+    },
+    {
+      "name": "Jackie Burns",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Culture Acquisition Specialist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/phil-burns/",
+      "fit_reason": "Couple record split; blog page shares both names"
+    },
+    {
+      "name": "Imie Mark III",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/imie-mark/",
+      "fit_reason": "Blog page about this person; oral Bible storying context"
+    },
+    {
+      "name": "Amy Mark",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/imie-mark/",
+      "fit_reason": "Couple record split; blog page shares both names"
+    },
+    {
+      "name": "Joseph Suttle",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/joseph-suttle/",
+      "fit_reason": "Blog page about this person; surname in slug; discipleship materials context"
+    },
+    {
+      "name": "Erin Suttle",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/joseph-suttle/",
+      "fit_reason": "Couple record split; blog page shares both names"
+    },
+    {
+      "name": "Alberto Gonzalez",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/alberto-gonzalez/",
+      "fit_reason": "Blog page about this person; surname in slug; discipleship materials context"
+    },
+    {
+      "name": "Nancy Gonzalez",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/alberto-gonzalez/",
+      "fit_reason": "Couple record split; blog page shares both names"
+    },
+    {
+      "name": "Tom Carlton",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/tom-carlton/",
+      "fit_reason": "Blog page about this person; surname in slug"
+    },
+    {
+      "name": "Beth Carlton",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/tom-carlton/",
+      "fit_reason": "Couple record split; blog page shares both names"
+    },
+    {
+      "name": "Ian Fallis",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/ian-fallis/",
+      "fit_reason": "Blog page about this person; surname in slug; search results describe as Bible translator"
+    },
+    {
+      "name": "Julie Fallis",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/ian-fallis/",
+      "fit_reason": "Couple record split; blog page shares both names"
+    },
+    {
+      "name": "DJ Searcy",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/dj-searcy/",
+      "fit_reason": "Blog page about this person; language translator roles context"
+    },
+    {
+      "name": "Jennifer Searcy",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/dj-searcy/",
+      "fit_reason": "Couple record split; blog page shares both names"
+    },
+    {
+      "name": "Robyn Green",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/robyn-green/",
+      "fit_reason": "Blog page about this person; surname in slug"
+    },
+    {
+      "name": "Summer Zimmer",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/summer-zimmer/",
+      "fit_reason": "Blog page about this person; surname in slug"
+    },
+    {
+      "name": "Kwang Hyun Kim",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/kwanghyun-kim/",
+      "fit_reason": "Blog page about this person; surname in slug"
+    },
+    {
+      "name": "Haejung Sung",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/kwanghyun-kim/",
+      "fit_reason": "Couple record split; blog page shares both names"
+    },
+    {
+      "name": "Tobi Magill",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/tobi-magill/",
+      "fit_reason": "Blog page about this person; surname in slug"
+    },
+    {
+      "name": "Christian Tshimanga",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/christian-tshimanga/",
+      "fit_reason": "Blog page about this person; surname in slug"
+    },
+    {
+      "name": "Elizabeth Tshimanga",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/christian-tshimanga/",
+      "fit_reason": "Couple record split; blog page shares both names"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org linguist missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org linguistics missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org phonetics missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org orthography missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org \"translation consultant\" missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org \"translation checker\" missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org exegetical missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org \"language consultant\" missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org \"language learning helper\" missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org \"culture acquisition\" missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org \"Scripture use\" missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org \"oral Bible storying\" missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org \"discipleship materials\" missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org \"comprehension check\" missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org \"literacy specialist\" missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org \"literacy worker\" missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:blogs.ethnos360.org language translator roles",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ethnos360.org/missionaries language linguistics phonetics",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Retirement homes resident",
+      "finding": "Linda Krieg",
+      "evidence": "https://homes.ethnos360.org/story/linda-krieg/",
+      "recommendation": "Page is from homes.ethnos360.org (retirement homes site), not active field or home-office staff. Review to determine if still raising active support or retired."
+    }
+  ]
+}

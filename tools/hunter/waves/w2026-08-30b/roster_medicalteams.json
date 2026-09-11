@@ -1,0 +1,351 @@
+{
+  "wave_id": "w2026-08-30b",
+  "agent": "roster:medicalteams",
+  "target_org": "Medical Teams International",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Eric Ha",
+      "summary": "Medical Teams International — President & CEO",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Executive leadership; President & CEO with 20+ years in international development and human rights, previously COO at International Justice Mission",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "President & Chief Executive Officer",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lauren Taylor",
+      "summary": "Medical Teams International — Chief of International Programs",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Executive leadership; Chief of International Programs with 25+ years in international relief and development, formerly National Director of World Vision Jerusalem/West Bank/Gaza",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Chief of International Programs",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tricia Caldwell",
+      "summary": "Medical Teams International — Chief Development Officer",
+      "fit_score": 7,
+      "fit_reason": "Tier B: Development staff; Chief Development Officer leading organization's development and fundraising initiatives, MBA Strategic Management from George Fox University",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Development Officer",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/news/medical-teams-international-names-tricia-caldwell-as-chief-development-officer/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Suzanne Garber",
+      "summary": "Medical Teams International — Chief Operating Officer",
+      "fit_score": 6,
+      "fit_reason": "Tier C: Executive leadership; COO with 20+ years in global leadership across corporate, government, and nonprofit sectors, previously COO at International SOS",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Operating Officer",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.linkedin.com/in/suzannegarber/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sam Wehbe",
+      "summary": "Medical Teams International — Chief Financial Officer",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Executive leadership; Chief Financial Officer and Vice President of Finance managing organizational finances",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Financial Officer / Vice President of Finance",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Maggie Weaver",
+      "summary": "Medical Teams International — Director of Human Resources",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Leadership role in organizational management; Director of Human Resources",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Director of Human Resources",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joe DiCarlo",
+      "summary": "Medical Teams International — Executive Chaplain & External Engagement Director",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Leadership role; Executive Chaplain and External Engagement Director",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Chaplain & External Engagement Director",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Geoff Guilfoy",
+      "summary": "Medical Teams International — Board Chairman",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board chair; Board member and Chairman overseeing organizational governance",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chairman",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sarah Hasselbeck",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; Director-level board member appointed April 2021",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/news/medical-teams-international-names-sarah-hasselbeck-to-board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jason Norris",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; CFA appointed to board in September 2024",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member (CFA)",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/news/medical-teams-international-names-jason-norris-cfa-to-board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Fred Gregory",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; Board director with governance and strategic oversight responsibilities",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Michael Levelle",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; Board director with governance and strategic oversight responsibilities",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "John E. Phillips",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; Board director with governance and strategic oversight responsibilities",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sean Robbins",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; Board director with governance and strategic oversight responsibilities",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Beth Weibling",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; Board director with governance and strategic oversight responsibilities",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gabe Winslow",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; Board director with governance and strategic oversight responsibilities",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dametra Johnson-Marletti",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; Board director appointed in 2021 with governance and strategic oversight responsibilities",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lars Gustavsson",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; Board director appointed in 2021 with governance and strategic oversight responsibilities",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Reagan Cannon",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; Board director appointed in 2021 with governance and strategic oversight responsibilities",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. E. Anne Peterson",
+      "summary": "Medical Teams International — Board Member",
+      "fit_score": 4,
+      "fit_reason": "Tier C: Board member; Board director appointed in 2021 with governance and strategic oversight responsibilities",
+      "source_query": "hunter:w2026-08-30b:medicalteams",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member (Dr.)",
+        "target_org": "Medical Teams International",
+        "evidence_url": "https://www.medicalteams.org/who-we-are/leadership/board-of-directors/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Medical Teams International",
+      "website": "https://www.medicalteams.org",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "C",
+      "headcount_est": 1193,
+      "faith_orientation": "christian",
+      "evidence": "Christian global health nonprofit based in Portland, OR providing medical relief to refugees, disaster survivors, mothers and children. 4-star Charity Navigator rating. 1,193 employees as of June 2026."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Medical Teams International staff directory leadership",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "Medical Teams International board members",
+      "outcome": "found_people",
+      "people_found": 13
+    },
+    {
+      "kind": "query",
+      "value": "Medical Teams International leadership team executives",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "Medical Teams International development director donor relations",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Tricia Caldwell Medical Teams International Chief Development Officer",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Medical Teams International field staff missionary deputation prayer letter",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Suzanne Garber Medical Teams International COO",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Medical Teams International Portland Oregon staff employees",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": []
+}

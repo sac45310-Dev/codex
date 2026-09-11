@@ -1,0 +1,546 @@
+{
+  "wave_id": "w2026-09-07a",
+  "agent": "prospector:medical-missions",
+  "orgs_discovered": [
+    {
+      "org_name": "Mercy Ships",
+      "website": "https://www.mercyships.org",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Hospital ship nonprofit providing free surgical care, 592 ports in 55 developing nations [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Medical Ambassadors International",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Uses Community Health Evangelism approach with development model [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Blessings International",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Provides medicine/supplies for medical missions and disaster relief"
+    },
+    {
+      "org_name": "Project HOPE",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Medical training, health education, disaster response across five continents 60+ years"
+    },
+    {
+      "org_name": "CrossLink International",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Provides medicines, supplies, eyeglasses for Christian medical teams [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Medical Missions for Children",
+      "website": "https://mmfc.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Telemedicine consultations and surgery for children, 100+ countries [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Christian Health Service Corps",
+      "website": "https://www.healthservicecorps.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Specializes in long-term career healthcare professional missions across five continents [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Bay Area Medical Missions",
+      "website": "https://www.bayareamedicalmissions.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "501c3 nonprofit founded 2021, Christ-centered physical and spiritual care [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "One World Surgery",
+      "website": "https://oneworldsurgery.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Confronting global health crisis through surgical partnerships and community engagement [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Partnerships for Global Surgery",
+      "website": "https://partnershipsforglobalsurgery.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "501c3 comprehensive approach: needs assessment, training programs, educational materials"
+    },
+    {
+      "org_name": "LEAP Global Missions",
+      "website": "https://leapmissions.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Specialized surgical services to underserved populations, sending teams since 1991 [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Global Surgical Volunteers",
+      "website": "https://www.globalsurgicalvolunteers.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Medical services in Dominican Republic and Haiti through education and care [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Global Surgical and Medical Support Group",
+      "website": "https://www.gsmsg.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "501c3 providing medical relief in conflict zones, austere environments, disaster areas"
+    },
+    {
+      "org_name": "International Surgical Health Initiative",
+      "website": "https://www.ishiglobal.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Provides free surgical care to underserved communities worldwide regardless of background [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Surgicorps International",
+      "website": "https://surgicorps.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Non-profit surgical and medical care missions in developing countries [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "The Global Surgery Foundation",
+      "website": "https://www.globalsurgeryfoundation.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Global surgery foundation supporting surgical missions"
+    },
+    {
+      "org_name": "Operation International",
+      "website": "https://www.operationinternational.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Medical care for underserved communities [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "SEE International",
+      "website": "https://www.seeintl.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Eye care services nonprofit, ending preventable blindness since 1974 [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "VOSH International",
+      "website": "https://vosh.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Bringing vision to every person on planet, volunteer eye surgeon missions [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Vision Outreach International",
+      "website": "https://visionoutreach.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Vision outreach mission network organization [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Global Eye Mission",
+      "website": "https://www.globaleyemission.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Develops clinical and surgical eye services in under-served regions [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Orbis International",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Trains eye care professionals in 92 countries, 325,000+ professionals enhanced"
+    },
+    {
+      "org_name": "Himalayan Cataract Project",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Eradicating avoidable blindness through capacity building in under-resourced areas [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Nurses with Purpose",
+      "website": "https://nurseswithpurpose.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "501c3 established 2017, preventative healthcare outreach during medical missions [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Serge",
+      "website": "https://serge.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Holistic medical missions with doctors, nurses, nutritionists, physical therapists [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Medical Missionaries",
+      "website": "https://www.medicalmissionaries.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "501c3 nonprofit with 200+ volunteer doctors, nurses, dentists worldwide [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Flying Doctors of America",
+      "website": "https://fdoamerica.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "36+ years of medical missions, 460+ missions, treated 440,000 people [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "International Medical Relief",
+      "website": "https://internationalmedicalrelief.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Largest dental mission provider, medical and dental professional missions [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Medical Missions Africa",
+      "website": "https://www.memafrica.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Trains and sends medical/non-medical missionaries to underserved African communities"
+    },
+    {
+      "org_name": "Central Africa Medical Mission",
+      "website": "https://camm.us",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Serves Zambia and Malawi through WELS congregations and individuals [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "African Mission Healthcare",
+      "website": "https://africanmissionhealthcare.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Partnerships with mission hospitals across sub-Saharan Africa for training and transformation"
+    },
+    {
+      "org_name": "Team Africa Mission International",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Improves lives in developing African countries, operations in Ghana and Nigeria [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Medical Missions for Children - MMFC",
+      "website": "https://mmfc.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "501c3 with 375+ volunteer specialists, cleft lip/palate surgeries, 25+ years [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Children's Surgery International",
+      "website": "https://childrenssurgeryintl.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Volunteer-driven pediatric surgery missions with surgeons, nurses, anesthesiologists [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Children's Lifeline International",
+      "website": "https://childrens-lifeline.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Sends teams from US teaching hospitals to 22+ countries for pediatric missions [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Mission of Hope",
+      "website": "https://www.missionofhope.com",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Medical mission trips to Haiti and Dominican Republic [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Mother Health International",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "501c3 providing maternal health relief in disaster/war/poverty areas with birth centers [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Heart to Heart International",
+      "website": "https://www.hearttoheart.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "WHO certified Emergency Medical Team Type 1, disaster relief and emergency response"
+    },
+    {
+      "org_name": "Compassionate Health Missions",
+      "website": "https://compassionatehealthmissions.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Healthcare for underserved communities missions [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Good Samaritan Medical and Dental Ministries",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Founded by Vietnamese refugees, dental mission work in Vietnam [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "Charity Vision",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "notes": "Eye care mission organization [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    },
+    {
+      "org_name": "African Christian Fellowship USA",
+      "website": "https://www.acfusa.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Medical missions trips for healthcare workers serving African communities [orchestrator: tier_profile A->B, no support-raising evidence in note]"
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "medical missions organizations list",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "short-term medical missions sending organizations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Christian medical mission agencies nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"medical mission\" \"sending organization\" directory list",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "dental mission organizations international",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "global surgery mission organizations nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "eye care mission organizations international",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "nurse mission organizations sending agencies",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:missionexus.org medical missions",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "healthcare missions database directory missionexus",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "hospital ship medical missions organizations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "pediatric medical missions organizations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "maternal health mission organizations nonprofit sending",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Africa medical missions nonprofit organizations sending",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "doctor physician medical missions nonprofit organizations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"medical missions\" nonprofit funding individual donors",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "health professionals fundraising mission organizations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "emergency medical mission disaster relief organizations",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Doctors Without Borders/M\u00e9decins Sans Fronti\u00e8res",
+      "reason_code": "not_donor_model",
+      "detail": "Large international organization primarily funded by grants and government; not primarily dependent on individual supporters raising personal support"
+    },
+    {
+      "entity_kind": "org",
+      "name": "International Medical Corps",
+      "reason_code": "not_donor_model",
+      "detail": "Large multinational relief organization, primarily grant/government funded rather than individual donor-driven missions"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Nurses Christian Fellowship",
+      "reason_code": "too_institutional",
+      "detail": "Professional membership fellowship/resource organization, not a mission-sending agency"
+    },
+    {
+      "entity_kind": "org",
+      "name": "American Academy of Ophthalmology",
+      "reason_code": "too_institutional",
+      "detail": "Professional association, not a mission-sending organization"
+    },
+    {
+      "entity_kind": "org",
+      "name": "International College of Dentists",
+      "reason_code": "too_institutional",
+      "detail": "Professional society, not a mission-sending organization"
+    },
+    {
+      "entity_kind": "org",
+      "name": "American Society of Cataract and Refractive Surgeons",
+      "reason_code": "too_institutional",
+      "detail": "Professional association, not a mission-sending organization"
+    },
+    {
+      "entity_kind": "org",
+      "name": "CARE International",
+      "reason_code": "not_donor_model",
+      "detail": "Humanitarian mega-organization, primarily grant and government funded"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Helen Keller International",
+      "reason_code": "too_institutional",
+      "detail": "Large health organization primarily grant-funded, not individual donor-dependent mission model"
+    },
+    {
+      "entity_kind": "org",
+      "name": "International Volunteer HQ",
+      "reason_code": "too_institutional",
+      "detail": "Volunteer placement/job board service, not a mission-sending organization"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Medical Mission Sisters",
+      "reason_code": "too_institutional",
+      "detail": "Catholic religious order/community, not a donor-fundraising mission agency"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Postpartum Support International",
+      "reason_code": "geographic_scope",
+      "detail": "Primarily US-based mental health training and support, not international healthcare mission sending"
+    }
+  ],
+  "needs_review": []
+}

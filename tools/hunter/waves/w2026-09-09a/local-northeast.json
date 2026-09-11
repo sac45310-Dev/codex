@@ -1,0 +1,527 @@
+{
+  "wave_id": "w2026-09-09a",
+  "agent": "local:northeast",
+  "searches_used": 18,
+  "orgs_discovered": [
+    {
+      "org_name": "The Boston Project Ministries",
+      "website": "https://www.tbpm.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Boston",
+      "state": "MA",
+      "notes": "Community building and equipping neighbors; congregation-engaged ministry model"
+    },
+    {
+      "org_name": "Grace City Boston",
+      "website": "https://www.gracecityboston.com/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Boston",
+      "state": "MA",
+      "notes": "Local church plant with serve/volunteer community engagement"
+    },
+    {
+      "org_name": "Friends Of Boston Homeless Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Boston",
+      "state": "MA",
+      "notes": "Homeless services organization; found via ProPublica nonprofit explorer"
+    },
+    {
+      "org_name": "Worcester Youth Center Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Worcester",
+      "state": "MA",
+      "notes": "Youth development programs; found via ProPublica nonprofit explorer"
+    },
+    {
+      "org_name": "Worcester Youth Cooperatives Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Worcester",
+      "state": "MA",
+      "notes": "Youth development; found via ProPublica nonprofit explorer"
+    },
+    {
+      "org_name": "CASA Project",
+      "website": "https://www.thecasaproject.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Worcester",
+      "state": "MA",
+      "notes": "Court-appointed special advocates; child advocacy organization"
+    },
+    {
+      "org_name": "Making Opportunity Count",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Worcester",
+      "state": "MA",
+      "notes": "Nonprofit services; executive director-led organization mentioned via Greater Worcester Community Foundation"
+    },
+    {
+      "org_name": "Dorcas International Institute of Rhode Island",
+      "website": "https://www.diiri.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Providence",
+      "state": "RI",
+      "notes": "100+ years serving immigrants; adult education, legal services, refugee resettlement; established donor base"
+    },
+    {
+      "org_name": "Project Weber/RENEW",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Providence",
+      "state": "RI",
+      "notes": "LGBTQ services; funded by Rhode Island Foundation"
+    },
+    {
+      "org_name": "Woonsocket Pride",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Woonsocket",
+      "state": "RI",
+      "notes": "LGBTQ community organization; funded by Rhode Island Foundation"
+    },
+    {
+      "org_name": "Pride in Aging RI",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Providence",
+      "state": "RI",
+      "notes": "LGBTQ seniors services; funded by Rhode Island Foundation"
+    },
+    {
+      "org_name": "Black and Pink Providence",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Providence",
+      "state": "RI",
+      "notes": "LGBTQ advocacy; funded by Rhode Island Foundation"
+    },
+    {
+      "org_name": "GLBTQ Legal Advocates & Defenders",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Providence",
+      "state": "RI",
+      "notes": "LGBTQ legal services; funded by Rhode Island Foundation"
+    },
+    {
+      "org_name": "Youth Pride Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Providence",
+      "state": "RI",
+      "notes": "LGBTQ youth services; funded by Rhode Island Foundation"
+    },
+    {
+      "org_name": "Higher Ground International",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Providence",
+      "state": "RI",
+      "notes": "Immigrant and refugee services; provides elder care through Sweetie Care"
+    },
+    {
+      "org_name": "Beautiful Day Rhode Island",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Providence",
+      "state": "RI",
+      "notes": "Refugee workforce development; paid training programs for job market entry"
+    },
+    {
+      "org_name": "The Providence Center Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Providence",
+      "state": "RI",
+      "notes": "Mental health and crisis intervention services; found via ProPublica nonprofit explorer"
+    },
+    {
+      "org_name": "Immigrant Coalition of Rhode Island",
+      "website": "https://www.immigrantcoalitionri.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Providence",
+      "state": "RI",
+      "notes": "Immigrant advocacy coalition; volunteer-driven community organization"
+    },
+    {
+      "org_name": "Connecticut Institute for Refugees and Immigrants",
+      "website": "https://cirict.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Hartford",
+      "state": "CT",
+      "notes": "Established 1918; immigration legal services, adult education; multi-office statewide nonprofit"
+    },
+    {
+      "org_name": "Integrated Refugee & Immigrant Services",
+      "website": "https://irisct.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "New Haven",
+      "state": "CT",
+      "notes": "State refugee resettlement contractor; comprehensive immigrant services; established donor base"
+    },
+    {
+      "org_name": "Connecticut Immigrant & Refugee Coalition",
+      "website": "https://www.coalitionct.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Hartford",
+      "state": "CT",
+      "notes": "Immigrant advocacy coalition; community network organization"
+    },
+    {
+      "org_name": "Greater Hartford Refugee Resettlement Coalition",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "interfaith",
+      "city": "Hartford",
+      "state": "CT",
+      "notes": "Interfaith community organization for refugee services; grassroots coalition"
+    },
+    {
+      "org_name": "Albany Housing Coalition",
+      "website": "https://ahcvets.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Albany",
+      "state": "NY",
+      "notes": "Veteran housing and services; operating since 1993 with individual donor support model"
+    },
+    {
+      "org_name": "Veterans Miracle Center",
+      "website": "https://www.vmcalbany.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Albany",
+      "state": "NY",
+      "notes": "Free retail-style distribution center for veteran needs; created 2014; individual donor funded"
+    },
+    {
+      "org_name": "Living Resources",
+      "website": "https://www.livingresources.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Albany",
+      "state": "NY",
+      "notes": "Community-based veteran support services; arts and benefit access programming"
+    },
+    {
+      "org_name": "Addictions Care Center Of Albany Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Albany",
+      "state": "NY",
+      "notes": "Addiction recovery services; mental health and crisis intervention; found via ProPublica"
+    },
+    {
+      "org_name": "Birthright of Rochester",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Rochester",
+      "state": "NY",
+      "notes": "Crisis pregnancy center; pregnancy support services"
+    },
+    {
+      "org_name": "Embracing Options",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Rochester",
+      "state": "NY",
+      "notes": "Pregnancy support and counseling services"
+    },
+    {
+      "org_name": "Rochester Main Street",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Rochester",
+      "state": "NY",
+      "notes": "Community improvement and economic development; found via ProPublica nonprofit explorer"
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Boston Massachusetts rescue mission homeless shelter",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:causeiq.com nonprofits Boston Massachusetts animal rescue youth mentoring",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:taxexemptworld.com Providence Rhode Island nonprofit literacy addiction recovery",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Boston Foundation\" grantees nonprofit list 2024 2025",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Rhode Island Foundation\" grantees list nonprofit organizations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Hartford Connecticut nonprofits refugee resettlement community development grantees",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Worcester Massachusetts nonprofit \"executive director\" fundraising donor support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Worcester Massachusetts after-school youth mentoring",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Albany New York nonprofit organizations veterans services community",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Albany New York nonprofit hospice addiction recovery",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Buffalo Rochester New York nonprofits crisis pregnancy center food pantry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Community Foundation\" Connecticut Massachusetts Rhode Island grantees nonprofit list",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Boston nonprofit organizations \"monthly partners\" \"support raising\" campus ministry FOCUS",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "Providence Rhode Island nonprofit organizations immigrant services literacy community",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Hartford \"community development\" nonprofit \"executive director\" grant fundraiser",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Buffalo Rochester nonprofit organizations \"individual donors\" mission fundraising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Providence Worcester Hartford Buffalo Rochester nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Boston \"nonprofit organization\" Christian missionary \"partner support\" fundraising",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Animal Rescue League of Boston",
+      "reason_code": "already_in_system",
+      "detail": "Confirmed in system per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Food Bank of Western Massachusetts",
+      "reason_code": "already_in_system",
+      "detail": "Confirmed in system per exclusion list; food banks deprioritized"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Food Bank For New York City",
+      "reason_code": "already_in_system",
+      "detail": "Confirmed in system per exclusion list; food banks deprioritized"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Homes for Our Troops",
+      "reason_code": "already_in_system",
+      "detail": "Confirmed in system per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Capital City Rescue Mission",
+      "reason_code": "already_in_system",
+      "detail": "Confirmed in system per exclusion list"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Boston Rescue Mission Inc",
+      "reason_code": "institutional_profile",
+      "detail": "Rescue mission model; institutional rescue missions excluded per kill test; some variants exist but primarily institutional"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Jewish Federation of Connecticut",
+      "reason_code": "institutional_profile",
+      "detail": "Denominational office; fits exclusion criteria"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Jewish Family Services of Greenwich",
+      "reason_code": "institutional_profile",
+      "detail": "Denominational/institutional family services"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Planned Parenthood of Southern New England",
+      "reason_code": "institutional_profile",
+      "detail": "Large institutional healthcare provider; secular but healthcare-institutional model"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Catholic Charities",
+      "reason_code": "institutional_profile",
+      "detail": "Diocesan charitable office; institutional model; multiple locations but centralized"
+    },
+    {
+      "entity_kind": "org",
+      "name": "St. Gianna Molla Pregnancy Outreach Center",
+      "reason_code": "institutional_profile",
+      "detail": "Listed under Diocese of Buffalo; diocesan office exclusion applies"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Feedmore WNY Foundation",
+      "reason_code": "food_bank_model",
+      "detail": "Food bank/distribution; food banks deprioritized"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Providence Housing Development Corporation",
+      "reason_code": "government_funded_model",
+      "detail": "Public housing development entity; primarily government-funded"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Rochester Family Mission",
+      "reason_code": "institutional_profile",
+      "detail": "Church organization; local church exclusion"
+    }
+  ],
+  "needs_review": [
+    {
+      "org_name": "Crisis Pregnancy Center (Buffalo)",
+      "reason": "Multiple crisis pregnancy centers exist in Buffalo area; specific org identity and individual donation model needs verification; website not found in snippets"
+    },
+    {
+      "org_name": "Crisis Pregnancy Services",
+      "reason": "Generic name; unclear which specific organization this refers to; may be duplicate or multi-location provider"
+    },
+    {
+      "org_name": "Haus of Codec",
+      "reason": "Found via Rhode Island Foundation grantees but minimal context; community center designation needs verification"
+    },
+    {
+      "org_name": "Newport Community School",
+      "reason": "Found via Rhode Island Foundation grantees; school designation suggests possible exclusion category; needs review for individual donor fundraising model"
+    },
+    {
+      "org_name": "Wanderground Lesbian Archive Library",
+      "reason": "Archive/library model; minimal commercial/donor activity information in search results"
+    }
+  ]
+}

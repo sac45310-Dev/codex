@@ -1,0 +1,37 @@
+{
+  "wave_id": "w2026-08-29b",
+  "agent": "roster:east-west",
+  "target_org": "East-West Ministries International",
+  "roster_verdict": "budget_exhausted",
+  "notes": "WebSearch budget exhausted (200/200 calls) before roster could begin. Session inherited a previous session's full search quota. Unable to execute any queries for East-West Ministries International missionary and staff discovery.",
+  "people": [],
+  "orgs_discovered": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:eastwest.org missionary staff team",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"east-west ministries\" missionaries support Plano Texas",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:eastwest.org leadership president director",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"serving with east-west ministries\" missionaries",
+      "outcome": "budget_exhausted",
+      "people_found": 0
+    }
+  ],
+  "negatives": [],
+  "needs_review": []
+}

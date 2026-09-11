@@ -1,0 +1,1063 @@
+{
+  "wave_id": "w2026-09-10f",
+  "agent": "eth-education",
+  "target_org": "Ethnos360",
+  "slice": "schools and childcare roles",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Stephen Crockett",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher/Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/stephen-and-carolyn-crockett",
+      "fit_reason": "Missionaries directory; surname Crockett in slug; title names both spouses; field teacher"
+    },
+    {
+      "name": "Carolyn Crockett",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher/Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/stephen-and-carolyn-crockett",
+      "fit_reason": "Missionaries directory; surname Crockett in slug; title names both spouses; field teacher"
+    },
+    {
+      "name": "Natalie Millikan-Carmona",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Mission School Teacher",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/natalie-millikan-carmona",
+      "fit_reason": "Missionaries directory; surname in slug; title names person; mission school teacher"
+    },
+    {
+      "name": "Barbara Cork",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher (MK School)",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/barbara-cork",
+      "fit_reason": "Missionaries directory; surname Cork in slug; title names person; MK school teacher"
+    },
+    {
+      "name": "Andy Royer",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Bible Teacher",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/andy-and-sara-royer",
+      "fit_reason": "Missionaries directory; surname Royer in slug; title names both spouses; Bible teacher"
+    },
+    {
+      "name": "Sara Royer",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Bible Teacher",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/andy-and-sara-royer",
+      "fit_reason": "Missionaries directory; surname Royer in slug; title names both spouses; Bible teacher"
+    },
+    {
+      "name": "Emily Bonner",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/emily-bonner",
+      "fit_reason": "Missionaries directory; surname Bonner in slug; title names person; field teacher in Papua New Guinea"
+    },
+    {
+      "name": "Dennis Farthing",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Linguistics Teacher",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dennis-and-monika-farthing",
+      "fit_reason": "Missionaries directory; surname Farthing in slug; title names both spouses; MTC staff teacher"
+    },
+    {
+      "name": "Monika Farthing",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Linguistics Secretary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dennis-and-monika-farthing",
+      "fit_reason": "Missionaries directory; surname Farthing in slug; title names both spouses; MTC staff"
+    },
+    {
+      "name": "Robyn Green",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/robyn-green",
+      "fit_reason": "Missionaries directory; surname Green in slug; title names person; Numonohi Christian Academy teacher in Papua New Guinea"
+    },
+    {
+      "name": "Joey Cogliano",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Bible Institute Teacher",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/joey-and-emily-cogliano",
+      "fit_reason": "Missionaries directory; surname Cogliano in slug; title names both spouses; Bible Institute teacher"
+    },
+    {
+      "name": "Emily Cogliano",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Bible Institute Teacher",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/joey-and-emily-cogliano",
+      "fit_reason": "Missionaries directory; surname Cogliano in slug; title names both spouses; Bible Institute teacher"
+    },
+    {
+      "name": "Randy Damschen",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "MTC Teacher/Director",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/randy-and-laura-damschen",
+      "fit_reason": "Missionaries directory; surname Damschen in slug; title names both spouses; MTC Teacher and Director of Operations"
+    },
+    {
+      "name": "Laura Damschen",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "MTC Childcare Coordinator",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/randy-and-laura-damschen",
+      "fit_reason": "Missionaries directory; surname Damschen in slug; title names both spouses; MTC Childcare Coordinator"
+    },
+    {
+      "name": "Ernest Jones",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "NTM Tech Center Teacher",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/ernest-and-tina-jones",
+      "fit_reason": "Missionaries directory; surname Jones in slug; title names both spouses; tech center teacher"
+    },
+    {
+      "name": "Tina Jones",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "NTM Tech Center Staff",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/ernest-and-tina-jones",
+      "fit_reason": "Missionaries directory; surname Jones in slug; title names both spouses; tech center staff"
+    },
+    {
+      "name": "Dwight Brown",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Administrator",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dwight-and-diana-brown",
+      "fit_reason": "Missionaries directory; surname Brown in slug; title names both spouses; admin/childcare support"
+    },
+    {
+      "name": "Diana Brown",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Childcare Provider",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dwight-and-diana-brown",
+      "fit_reason": "Missionaries directory; surname Brown in slug; title names both spouses; childcare provider"
+    },
+    {
+      "name": "Jim Stewart",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Receptionist/Childcare",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jim-and-kris-stewart",
+      "fit_reason": "Missionaries directory; surname Stewart in slug; title names both spouses; childcare provider"
+    },
+    {
+      "name": "Kris Stewart",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Receptionist/Childcare",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jim-and-kris-stewart",
+      "fit_reason": "Missionaries directory; surname Stewart in slug; title names both spouses; childcare provider"
+    },
+    {
+      "name": "Dave Field",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Childcare",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dave-and-kim-field",
+      "fit_reason": "Missionaries directory; surname Field in slug; title names both spouses"
+    },
+    {
+      "name": "Kim Field",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Childcare",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dave-and-kim-field",
+      "fit_reason": "Missionaries directory; surname Field in slug; title names both spouses"
+    },
+    {
+      "name": "TJ Shropshire",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Childcare",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/tj-and-lilly-shropshire",
+      "fit_reason": "Missionaries directory; surname Shropshire in slug; title names both spouses; childcare provider"
+    },
+    {
+      "name": "Lily Shropshire",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Childcare",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/tj-and-lilly-shropshire",
+      "fit_reason": "Missionaries directory; surname Shropshire in slug; title names both spouses; childcare provider"
+    },
+    {
+      "name": "Trevor Clarke",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Childcare/Support",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/trevor-and-judy-clarke",
+      "fit_reason": "Missionaries directory; surname Clarke in slug; title names both spouses"
+    },
+    {
+      "name": "Judy Clarke",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Childcare/Support",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/trevor-and-judy-clarke",
+      "fit_reason": "Missionaries directory; surname Clarke in slug; title names both spouses"
+    },
+    {
+      "name": "Ryan Farran",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Childcare",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/ryan-and-chelsea-farran",
+      "fit_reason": "Missionaries directory; surname Farran in slug; title names both spouses; childcare provider"
+    },
+    {
+      "name": "Chelsea Farran",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Childcare",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/ryan-and-chelsea-farran",
+      "fit_reason": "Missionaries directory; surname Farran in slug; title names both spouses; childcare provider"
+    },
+    {
+      "name": "Stuart Sims",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Childcare/Support",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/stuart-and-brynn-sims",
+      "fit_reason": "Missionaries directory; surname Sims in slug; title names both spouses"
+    },
+    {
+      "name": "Brynn Sims",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Childcare/Support",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/stuart-and-brynn-sims",
+      "fit_reason": "Missionaries directory; surname Sims in slug; title names both spouses"
+    },
+    {
+      "name": "Kathryn Kreiger",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Childcare Provider",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/kathryn-kreiger",
+      "fit_reason": "Missionaries directory; surname Kreiger in slug; title names person; childcare provider"
+    },
+    {
+      "name": "Craig Hammonds",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher/Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/craig-and-marcy-hammonds",
+      "fit_reason": "Missionaries directory; surname Hammonds in slug; title names both spouses; Numonohi Christian Academy in Papua New Guinea"
+    },
+    {
+      "name": "Marcy Hammonds",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher/Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/craig-and-marcy-hammonds",
+      "fit_reason": "Missionaries directory; surname Hammonds in slug; title names both spouses; Numonohi Christian Academy in Papua New Guinea"
+    },
+    {
+      "name": "Riley Veal",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "MK Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/riley-and-jessica-veal",
+      "fit_reason": "Missionaries directory; surname Veal in slug; title names both spouses; MK Care & Education field role in Brazil"
+    },
+    {
+      "name": "Jessica Veal",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "MK Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/riley-and-jessica-veal",
+      "fit_reason": "Missionaries directory; surname Veal in slug; title names both spouses; MK Care & Education field role in Brazil"
+    },
+    {
+      "name": "Jed Appell",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "MK Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jed-and-amy-appell",
+      "fit_reason": "Missionaries directory; surname Appell in slug; title names both spouses; MK Education in Asia-Pacific"
+    },
+    {
+      "name": "Amy Appell",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "MK Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jed-and-amy-appell",
+      "fit_reason": "Missionaries directory; surname Appell in slug; title names both spouses; MK Education in Asia-Pacific"
+    },
+    {
+      "name": "Jared Jantz",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Physical Plant/Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jared-and-diana-jantz",
+      "fit_reason": "Missionaries directory; surname Jantz in slug; title names both spouses; Education office staff at NTBI"
+    },
+    {
+      "name": "Diana Jantz",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Education Secretary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jared-and-diana-jantz",
+      "fit_reason": "Missionaries directory; surname Jantz in slug; title names both spouses; Education office staff at NTBI"
+    },
+    {
+      "name": "Jake Posey",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Online Education/Media",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jake-and-jasmine-posey",
+      "fit_reason": "Missionaries directory; surname Posey in slug; title names both spouses; Online Education and Media Production"
+    },
+    {
+      "name": "Jasmine Posey",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Online Education/Media",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jake-and-jasmine-posey",
+      "fit_reason": "Missionaries directory; surname Posey in slug; title names both spouses; Online Education and Media Production"
+    },
+    {
+      "name": "David Mough",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Director of Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/david-and-jena-mough",
+      "fit_reason": "Missionaries directory; surname Mough in slug; title names both spouses; Director of Education for MTC"
+    },
+    {
+      "name": "Jena Mough",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "MK Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/david-and-jena-mough",
+      "fit_reason": "Missionaries directory; surname Mough in slug; title names both spouses; MK Care & Education field role in Brazil"
+    },
+    {
+      "name": "Lincoln Lilley",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Education Support",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/lincoln-lilley",
+      "fit_reason": "Missionaries directory; surname Lilley in slug; title names person; continuing education ministry"
+    },
+    {
+      "name": "Andy Templeton",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Dean of Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/andy-and-gina-templeton",
+      "fit_reason": "Missionaries directory; surname Templeton in slug; title names both spouses; Dean of Education at MTC"
+    },
+    {
+      "name": "Gina Templeton",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Education/Administration",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/andy-and-gina-templeton",
+      "fit_reason": "Missionaries directory; surname Templeton in slug; title names both spouses"
+    },
+    {
+      "name": "Ken Jack",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/ken-and-andrea-jack",
+      "fit_reason": "Missionaries directory; surname Jack in slug; title names both spouses"
+    },
+    {
+      "name": "Andrea Jack",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Early Childhood Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/ken-and-andrea-jack",
+      "fit_reason": "Missionaries directory; surname Jack in slug; title names both spouses; Early Childhood Education"
+    },
+    {
+      "name": "David Kern",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "MK Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/david-and-angie-kern",
+      "fit_reason": "Missionaries directory; surname Kern in slug; title names both spouses; MK Care & Education field role in Brazil"
+    },
+    {
+      "name": "Angie Kern",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "MK Education",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/david-and-angie-kern",
+      "fit_reason": "Missionaries directory; surname Kern in slug; title names both spouses; MK Care & Education field role in Brazil"
+    },
+    {
+      "name": "Phil Garton",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Education Consulting",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/phil-and-heather-garton",
+      "fit_reason": "Missionaries directory; surname Garton in slug; title names both spouses; Member Care and Education Consulting"
+    },
+    {
+      "name": "Heather Garton",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Education Consulting",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/phil-and-heather-garton",
+      "fit_reason": "Missionaries directory; surname Garton in slug; title names both spouses; Member Care and Education Consulting"
+    },
+    {
+      "name": "Dan Shaylor",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Dorm Parent/Houseparent",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dan-and-diana-shaylor",
+      "fit_reason": "Missionaries directory; surname Shaylor in slug; title names both spouses; dorm parent at MK school"
+    },
+    {
+      "name": "Diana Shaylor",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Dorm Parent/Houseparent",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/dan-and-diana-shaylor",
+      "fit_reason": "Missionaries directory; surname Shaylor in slug; title names both spouses; dorm parent at MK school"
+    },
+    {
+      "name": "Alex Minium",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Houseparent",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/alex-and-elizabeth-minium",
+      "fit_reason": "Missionaries directory; surname Minium in slug; title names both spouses; houseparent"
+    },
+    {
+      "name": "Elizabeth Minium",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Houseparent",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/alex-and-elizabeth-minium",
+      "fit_reason": "Missionaries directory; surname Minium in slug; title names both spouses; houseparent"
+    },
+    {
+      "name": "Tracy Recalde",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Houseparent",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/tracy-recalde",
+      "fit_reason": "Missionaries directory; surname Recalde in slug; title names person; houseparent"
+    },
+    {
+      "name": "Joseph Suttle",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Houseparent",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/joseph-and-erin-suttle",
+      "fit_reason": "Missionaries directory; surname Suttle in slug; title names both spouses; houseparent"
+    },
+    {
+      "name": "Erin Suttle",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Houseparent",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/joseph-and-erin-suttle",
+      "fit_reason": "Missionaries directory; surname Suttle in slug; title names both spouses; houseparent"
+    },
+    {
+      "name": "Ralf Schlegel",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Houseparent",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/ralf-and-elisabeth-schlegel",
+      "fit_reason": "Missionaries directory; surname Schlegel in slug; title names both spouses; houseparent"
+    },
+    {
+      "name": "Elisabeth Schlegel",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Houseparent",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/ralf-and-elisabeth-schlegel",
+      "fit_reason": "Missionaries directory; surname Schlegel in slug; title names both spouses; houseparent"
+    },
+    {
+      "name": "Jon Button",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Curriculum Development",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jon-and-angela-button",
+      "fit_reason": "Missionaries directory; surname Button in slug; title names both spouses; E1 Curriculum Development field role in Tanzania"
+    },
+    {
+      "name": "Angela Button",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Curriculum Development",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/jon-and-angela-button",
+      "fit_reason": "Missionaries directory; surname Button in slug; title names both spouses; E1 Curriculum Development field role in Tanzania"
+    },
+    {
+      "name": "Chuck Talbot",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "School Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/chuck-shannon-talbot/",
+      "fit_reason": "Missionary blog; surname Talbot in slug; title names both spouses; school teacher"
+    },
+    {
+      "name": "Shannon Talbot",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "School Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/chuck-shannon-talbot/",
+      "fit_reason": "Missionary blog; surname Talbot in slug; title names both spouses; school teacher"
+    },
+    {
+      "name": "David Knapp",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Teacher/Bible Institute",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/david-knapp/",
+      "fit_reason": "Missionary blog; surname Knapp in slug; title names person; Bible institute teacher and administrator"
+    },
+    {
+      "name": "Joel McMartin",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Sunday School Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/joel-mcmartin/",
+      "fit_reason": "Missionary blog; surname McMartin in slug; title names person; teacher"
+    },
+    {
+      "name": "Crystal Pierce",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/crystal-pierce/",
+      "fit_reason": "Missionary blog; surname Pierce in slug; title names person; teacher in field ministry"
+    },
+    {
+      "name": "Michael Richardson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/School",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/michael-richardson/",
+      "fit_reason": "Missionary blog; surname Richardson in slug; title names both spouses; HOPAC school education"
+    },
+    {
+      "name": "Jessica Richardson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/School",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/michael-richardson/",
+      "fit_reason": "Missionary blog; surname Richardson in slug; title names both spouses; HOPAC school education"
+    },
+    {
+      "name": "Chris Hostetter",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher/Dorm Parent",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/chris-hostetter/",
+      "fit_reason": "Missionary blog; surname Hostetter in slug; title names both spouses; school teacher and dorm parent"
+    },
+    {
+      "name": "Maggie Hostetter",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher/Dorm Parent",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/chris-hostetter/",
+      "fit_reason": "Missionary blog; surname Hostetter in slug; title names both spouses; school teacher and dorm parent"
+    },
+    {
+      "name": "Stephen Jordan",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/stephen-jordan/",
+      "fit_reason": "Missionary blog; surname Jordan in slug; title names both spouses; teacher appreciation documented"
+    },
+    {
+      "name": "Ginger Jordan",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/stephen-jordan/",
+      "fit_reason": "Missionary blog; surname Jordan in slug; title names both spouses; teacher"
+    },
+    {
+      "name": "Andrew Watters",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/andrew-watters/",
+      "fit_reason": "Missionary blog; surname Watters in slug; title names both spouses; teacher in mission"
+    },
+    {
+      "name": "Emily Watters",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/andrew-watters/",
+      "fit_reason": "Missionary blog; surname Watters in slug; title names both spouses; teacher"
+    },
+    {
+      "name": "Bob Ambrosius",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/bob-ambrosius/",
+      "fit_reason": "Missionary blog; surname Ambrosius in slug; title names both spouses"
+    },
+    {
+      "name": "Judy Ambrosius",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/bob-ambrosius/",
+      "fit_reason": "Missionary blog; surname Ambrosius in slug; title names both spouses"
+    },
+    {
+      "name": "James Christensen",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/james-christensen/",
+      "fit_reason": "Missionary blog; surname Christensen in slug; title names person; emphasis on importance of education"
+    },
+    {
+      "name": "Martin Aksamit",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/martin-aksamit/",
+      "fit_reason": "Missionary blog; surname Aksamit in slug; title names both spouses"
+    },
+    {
+      "name": "Toni Aksamit",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/martin-aksamit/",
+      "fit_reason": "Missionary blog; surname Aksamit in slug; title names both spouses"
+    },
+    {
+      "name": "Jason Weaver",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Curriculum",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/jason-weaver/",
+      "fit_reason": "Missionary blog; surname Weaver in slug; title names person; New Testament curriculum"
+    },
+    {
+      "name": "Theo Enns",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Curriculum Developer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/theo-enns/",
+      "fit_reason": "Missionary blog; surname Enns in slug; title names both spouses; Bible curriculum developer for schools in Haiti"
+    },
+    {
+      "name": "Martha Enns",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Curriculum Developer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/theo-enns/",
+      "fit_reason": "Missionary blog; surname Enns in slug; title names both spouses; Bible curriculum developer for schools in Haiti"
+    },
+    {
+      "name": "Paul Wilson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Homeschool",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/paul-wilson/",
+      "fit_reason": "Missionary blog; surname Wilson in slug; title names both spouses; homeschool education support"
+    },
+    {
+      "name": "Andrea Wilson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Homeschool",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/paul-wilson/",
+      "fit_reason": "Missionary blog; surname Wilson in slug; title names both spouses; homeschool education support"
+    },
+    {
+      "name": "Danny Shaylor",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Dorm Parent",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/danny-shaylor/",
+      "fit_reason": "Missionary blog; surname Shaylor in slug; title names both spouses; served 8 years as dorm parents at NTM school"
+    },
+    {
+      "name": "Diana Shaylor",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Dorm Parent",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/danny-shaylor/",
+      "fit_reason": "Missionary blog; surname Shaylor in slug; title names both spouses; served 8 years as dorm parents at NTM school"
+    },
+    {
+      "name": "Ralf Schlegel",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Dorm Parent",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/ralf-schlegel/",
+      "fit_reason": "Missionary blog; surname Schlegel in slug; title names person; dorm parent ministry"
+    },
+    {
+      "name": "Elli Schlegel",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Dorm Parent",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/ralf-schlegel/",
+      "fit_reason": "Missionary blog; surname Schlegel in slug (Elli is nickname for Elisabeth); dorm parent ministry"
+    },
+    {
+      "name": "David Ogg",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Dorm Parent",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/david-ogg/",
+      "fit_reason": "Missionary blog; surname Ogg in slug; title names both spouses; dorm parent ministry"
+    },
+    {
+      "name": "Shari Ogg",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Dorm Parent",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/david-ogg/",
+      "fit_reason": "Missionary blog; surname Ogg in slug; title names both spouses; dorm parent ministry"
+    },
+    {
+      "name": "John Anyan",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Homeschool Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/john-anyan/",
+      "fit_reason": "Missionary blog; surname Anyan in slug; title names both spouses; homeschooling resources and support"
+    },
+    {
+      "name": "Asmara Anyan",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Homeschool Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/john-anyan/",
+      "fit_reason": "Missionary blog; surname Anyan in slug; title names both spouses; homeschooling resources and support"
+    },
+    {
+      "name": "Gregory Berglund",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/PE Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/greg-berglund/",
+      "fit_reason": "Missionary blog; surname Berglund in slug; title names both spouses; homeschool support and PE teaching"
+    },
+    {
+      "name": "Pamela Berglund",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Homeschool",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/greg-berglund/",
+      "fit_reason": "Missionary blog; surname Berglund in slug; title names both spouses; homeschool education"
+    },
+    {
+      "name": "Ned Beall",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/ned-beall/",
+      "fit_reason": "Missionary blog; surname Beall in slug; title names both spouses"
+    },
+    {
+      "name": "Linn Beall",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Homeschool Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/ned-beall/",
+      "fit_reason": "Missionary blog; surname Beall in slug; title names both spouses; helps homeschool missionary moms"
+    },
+    {
+      "name": "Seth Callahan",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Homeschool",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/seth-callahan/",
+      "fit_reason": "Missionary blog; surname Callahan in slug; title names both spouses; homeschool education"
+    },
+    {
+      "name": "Rochelle Callahan",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education/Homeschool",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/seth-callahan/",
+      "fit_reason": "Missionary blog; surname Callahan in slug; title names both spouses; homeschool education"
+    },
+    {
+      "name": "Geff Harada",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/geff-harada/",
+      "fit_reason": "Missionary blog; surname Harada in slug; title names both spouses; education-related ministry"
+    },
+    {
+      "name": "Christine Harada",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/geff-harada/",
+      "fit_reason": "Missionary blog; surname Harada in slug; title names both spouses; education-related ministry"
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "site:ethnos360.org/missionaries teacher", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries \"dorm parent\"", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries principal", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries \"school principal\"", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries tutor", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries childcare", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries \"Numonohi Christian Academy\"", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries education", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries houseparent", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries \"MK school\"", "outcome": "found_people"},
+    {"kind": "query", "value": "site:blogs.ethnos360.org teacher", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries \"boarding school\"", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries curriculum", "outcome": "found_people"},
+    {"kind": "query", "value": "site:blogs.ethnos360.org education", "outcome": "found_people"},
+    {"kind": "query", "value": "site:blogs.ethnos360.org \"dorm parent\"", "outcome": "found_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries \"guest teacher\"", "outcome": "no_people"},
+    {"kind": "query", "value": "site:ethnos360.org/missionaries \"substitute teacher\"", "outcome": "no_people"},
+    {"kind": "query", "value": "site:blogs.ethnos360.org \"homeschool\"", "outcome": "found_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "Retirement homes site",
+      "finding": "Jack and Esther Abbott listed at homes.ethnos360.org/missionaries/",
+      "evidence": "URL pattern homes.ethnos360.org is retirement homes site per wave briefing",
+      "recommendation": "Verify employment status and whether actively raising personal support before assigning tier"
+    },
+    {
+      "issue": "Initials-only slug anonymization",
+      "finding": "Susie from blogs.ethnos360.org/susie-l/ has initials-only designation",
+      "evidence": "URL slug contains only first name + initial: susie-l",
+      "recommendation": "Per enumeration rules, surnames withheld or initials-only go to needs_review; skip without full name"
+    }
+  ]
+}

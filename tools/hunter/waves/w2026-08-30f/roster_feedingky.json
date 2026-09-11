@@ -1,0 +1,191 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:feedingky",
+  "roster_verdict": "rostered",
+  "target_org": "Feeding America, Kentucky's Heartland",
+  "people": [
+    {
+      "org_name": "Tami Delaney",
+      "org_type": "individual",
+      "summary": "Feeding America, Kentucky's Heartland — Development Director",
+      "fit_score": 9,
+      "fit_reason": "Tier B development staff. Development Director responsible for fundraising, donor relations, and major gifts strategies.",
+      "source_query": "hunter:w2026-08-30f:feedingky",
+      "meta": {
+        "tier": "B",
+        "role": "Development Director",
+        "target_org": "Feeding America, Kentucky's Heartland",
+        "evidence_url": "https://givingcompass.org/nonprofit/feeding-america-kentucky-s-heartland",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Charles Dennis",
+      "org_type": "individual",
+      "summary": "Feeding America, Kentucky's Heartland — Executive Director",
+      "fit_score": 7,
+      "fit_reason": "Tier C executive leadership. Executive Director with oversight of organization including development strategy and donor relations.",
+      "source_query": "hunter:w2026-08-30f:feedingky",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "Feeding America, Kentucky's Heartland",
+        "evidence_url": "https://www.linkedin.com/in/charles-dennis-13624743/",
+        "linkedin_url": "https://www.linkedin.com/in/charles-dennis-13624743/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Julia Springsteen",
+      "org_type": "individual",
+      "summary": "Feeding America, Kentucky's Heartland — Board Chair",
+      "fit_score": 6,
+      "fit_reason": "Tier C board leadership. Board Chair representing organizational governance and strategic direction.",
+      "source_query": "hunter:w2026-08-30f:feedingky",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Feeding America, Kentucky's Heartland",
+        "evidence_url": "https://feedingamericaky.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tim Hagan",
+      "org_type": "individual",
+      "summary": "Feeding America, Kentucky's Heartland — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Tier C board leadership. Served as Board Chair with governance responsibilities for organization strategy.",
+      "source_query": "hunter:w2026-08-30f:feedingky",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member (former Chair)",
+        "target_org": "Feeding America, Kentucky's Heartland",
+        "evidence_url": "https://feedingamericaky.org/wp-content/uploads/2023/08/Impact_Report_19_20_final.pdf",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Karuu Njogu",
+      "org_type": "individual",
+      "summary": "Feeding America, Kentucky's Heartland — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Tier C board leadership. Board Treasurer with financial oversight responsibilities.",
+      "source_query": "hunter:w2026-08-30f:feedingky",
+      "meta": {
+        "tier": "C",
+        "role": "Board Treasurer",
+        "target_org": "Feeding America, Kentucky's Heartland",
+        "evidence_url": "https://feedingamericaky.org/wp-content/uploads/2023/08/Impact_Report_19_20_final.pdf",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Sherry Powers",
+      "org_type": "individual",
+      "summary": "Feeding America, Kentucky's Heartland — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Tier C board leadership. Board Secretary with governance responsibilities.",
+      "source_query": "hunter:w2026-08-30f:feedingky",
+      "meta": {
+        "tier": "C",
+        "role": "Board Secretary",
+        "target_org": "Feeding America, Kentucky's Heartland",
+        "evidence_url": "https://feedingamericaky.org/wp-content/uploads/2023/08/Impact_Report_19_20_final.pdf",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Rhonda Gonzalez",
+      "org_type": "individual",
+      "summary": "Feeding America, Kentucky's Heartland — Staff",
+      "fit_score": 5,
+      "fit_reason": "Staff member with operations or program responsibilities; no clear development role confirmed.",
+      "source_query": "hunter:w2026-08-30f:feedingky",
+      "meta": {
+        "tier": "B",
+        "role": "Staff Member (MSPH)",
+        "target_org": "Feeding America, Kentucky's Heartland",
+        "evidence_url": "https://www.linkedin.com/in/rhondagonzalez/",
+        "linkedin_url": "https://www.linkedin.com/in/rhondagonzalez/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Stephanie Hester",
+      "org_type": "individual",
+      "summary": "Feeding America, Kentucky's Heartland — Staff",
+      "fit_score": 5,
+      "fit_reason": "Staff member with organizational operations; no specific development role identified.",
+      "source_query": "hunter:w2026-08-30f:feedingky",
+      "meta": {
+        "tier": "B",
+        "role": "Staff Member",
+        "target_org": "Feeding America, Kentucky's Heartland",
+        "evidence_url": "https://www.linkedin.com/in/stephanie-hester-a2a36621a/",
+        "linkedin_url": "https://www.linkedin.com/in/stephanie-hester-a2a36621a/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Feeding America, Kentucky's Heartland",
+      "website": "https://feedingamericaky.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "crm_incumbent": null,
+      "evidence": "Regional food bank serving 42 Kentucky counties with ~250 charitable agency partners; provides donor stewardship management and annual fund development programs."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Feeding America Kentucky's Heartland staff team Elizabethtown",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "Feeding America Kentucky's Heartland development advancement major gifts fundraising",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Tami Delaney Feeding America Kentucky's Heartland development",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Feeding America Kentucky's Heartland board members trustees directors",
+      "outcome": "found_people",
+      "people_found": 7
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com Feeding America Kentucky's Heartland staff",
+      "outcome": "found_people",
+      "people_found": 10
+    },
+    {
+      "kind": "query",
+      "value": "Feeding America Kentucky's Heartland donor relations annual fund development staff 2024 2025 2026",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Feeding America (national organization)",
+      "website": "https://www.feedingamerica.org/",
+      "reason_code": "too_institutional",
+      "detail": "National Feeding America organization excluded per requirements; focused on Kentucky regional food bank only."
+    }
+  ],
+  "needs_review": []
+}

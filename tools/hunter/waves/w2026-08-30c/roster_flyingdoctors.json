@@ -1,0 +1,156 @@
+{
+  "wave_id": "w2026-08-30c",
+  "agent": "roster:flyingdoctors",
+  "roster_verdict": "rostered",
+  "target_org": "Flying Doctors of America",
+  "people": [
+    {
+      "org_name": "Michael Altman",
+      "summary": "Flying Doctors of America — Chairman/CEO",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Executive/Board member. CPA volunteer since 1991, retired 2020 to focus on humanitarian work; leads medical missions but no personal fundraising page identified.",
+      "source_query": "hunter:w2026-08-30c:flyingdoctors",
+      "meta": {
+        "tier": "C",
+        "role": "Chairman/CEO",
+        "target_org": "Flying Doctors of America",
+        "evidence_url": "https://fdoamerica.org/board-of-directors",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Douglas Schildhaus",
+      "summary": "Flying Doctors of America — Pediatric Dentist, Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board member. Pediatric dentist practicing since 1993, multiple mission team leader roles, but no personal fundraising page identified.",
+      "source_query": "hunter:w2026-08-30c:flyingdoctors",
+      "meta": {
+        "tier": "C",
+        "role": "Pediatric Dentist, Board Member",
+        "target_org": "Flying Doctors of America",
+        "evidence_url": "https://fdoamerica.org/board-of-directors",
+        "email": "douglas.schildhaus@fdoamerica.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Ashish Patel",
+      "summary": "Flying Doctors of America — Dentist, Board Adviser",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board adviser. DDS practicing in Atlanta since 1996, teaches and conducts annual mission trips, but no personal fundraising page identified.",
+      "source_query": "hunter:w2026-08-30c:flyingdoctors",
+      "meta": {
+        "tier": "C",
+        "role": "Dentist, Board Adviser",
+        "target_org": "Flying Doctors of America",
+        "evidence_url": "https://fdoamerica.org/board-of-directors",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dr. Jessica Willett",
+      "summary": "Flying Doctors of America — Emergency Medicine Physician, Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board member. Emergency medicine physician from Northern California involved in global health and humanitarian work, but no personal fundraising page identified.",
+      "source_query": "hunter:w2026-08-30c:flyingdoctors",
+      "meta": {
+        "tier": "C",
+        "role": "Emergency Medicine Physician, Board Member",
+        "target_org": "Flying Doctors of America",
+        "evidence_url": "https://fdoamerica.org/board-of-directors",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Dr. Allison Koenig",
+      "summary": "Flying Doctors of America — Pediatrician, Board Member",
+      "fit_score": 5,
+      "fit_reason": "Tier C: Board member. Board-certified pediatrician in private practice in Atlanta, Harvard/Johns Hopkins educated, participated in multiple medical missions, but no personal fundraising page identified.",
+      "source_query": "hunter:w2026-08-30c:flyingdoctors",
+      "meta": {
+        "tier": "C",
+        "role": "Pediatrician, Board Member",
+        "target_org": "Flying Doctors of America",
+        "evidence_url": "https://fdoamerica.org/board-of-directors",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Flying Doctors of America",
+      "website": "https://fdoamerica.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "C",
+      "headcount_est": 11,
+      "faith_orientation": "christian",
+      "evidence": "Medical mission nonprofit founded 1990, ~7000 volunteers, ~11 employees, 460+ medical missions to underserved populations worldwide, board-based governance with volunteer medical professionals."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Flying Doctors of America staff leadership team fdoamerica.org",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Flying Doctors of America\" board directors executives",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:fdoamerica.org staff team leadership",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Flying Doctors of America\" president director CEO",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Flying Doctors of America board directors complete list members",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "\"Michael Altman\" \"Flying Doctors of America\" CEO chairman",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Douglas Schildhaus\" \"Flying Doctors of America\"",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Ashish Patel\" \"Flying Doctors of America\" dentist board",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Allan M. Gathercoal",
+      "reason_code": "salaried_leader",
+      "detail": "Founder (1990) and former President; appears to be emeritus/retired as Michael Altman now serves as CEO. Not included as current active staff."
+    },
+    {
+      "entity_kind": "person",
+      "name": "Liz Marcela",
+      "reason_code": "salaried_leader",
+      "detail": "Former Executive Director; no longer actively employed. Not included as current staff."
+    }
+  ],
+  "needs_review": []
+}

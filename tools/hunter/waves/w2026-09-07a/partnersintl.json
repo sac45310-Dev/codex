@@ -1,0 +1,173 @@
+{
+  "wave_id": "w2026-09-07a",
+  "agent": "roster:partners-international",
+  "target_org": "Partners International",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "name": "John Burrough",
+      "org": "Partners International",
+      "role": "Chief Executive Officer",
+      "tier": "C",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://www.zoominfo.com/p/John-Burrough/1660587166",
+      "fit_reason": "Senior executive (CEO); while not a personal fundraiser or development staff, as CEO is significant influencer in organizational strategy and donor relationships. Previously served as Partnership Chief & Officer and VP of Emerging Partnerships.",
+      "meta": {
+        "evidence_basis": "multiple_sources",
+        "title": "Chief Executive Officer",
+        "linkedin_url": "https://www.linkedin.com/in/john-burrough-596394234/"
+      }
+    },
+    {
+      "name": "Dave Stephens",
+      "org": "Partners International",
+      "role": "President",
+      "tier": "C",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://www.linkedin.com/in/dave-stephens-b701845/",
+      "fit_reason": "Senior executive (President); organizational leadership with influence on strategy and donor engagement. Board-level decision making in Christian nonprofit ministry.",
+      "meta": {
+        "evidence_basis": "multiple_sources",
+        "title": "President"
+      }
+    },
+    {
+      "name": "Jennifer Holloran",
+      "org": "Partners International",
+      "role": "Board Chairman",
+      "tier": "C",
+      "fit_score": 5,
+      "confidence": "high",
+      "source_url": "https://news.americanbible.org/blog/entry/online-exclusive/american-bible-society-introduces-dr-jennifer-holloran-as-president-ceo",
+      "fit_reason": "Board member and Chairman; senior governance role. Serves on multiple mission organization boards including Partners International. Former COO of Wycliffe Bible Translators USA (22 years), now President & CEO of American Bible Society.",
+      "meta": {
+        "evidence_basis": "multiple_sources",
+        "title": "Board Chairman",
+        "other_boards": "Missio Nexus, Mission Aviation Fellowship USA",
+        "note": "Joined American Bible Society as President & CEO in March 2024; continues Partners International board role"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "theorg.com \"Partners International\" development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "theorg.com Partners International staff leadership",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:theorg.com Partners International wearepartners",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "linkedin.com Partners International wearepartners major gifts donor",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Partners International\" wearepartners.org leadership team staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Partners International\" wearepartners development officer advancement major gifts",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "wearepartners.org team leadership board trustees",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:linkedin.com \"Partners International\" wearepartners founder president CEO",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"John Burrough\" \"Partners International\" wearepartners president",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "linkedin.com John Burrough Partners International development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Dave Stephens\" \"Partners International\" wearepartners president",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "linkedin.com site:linkedin.com/company/partnersinternational employees team",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Partners International\" \"wearepartners\" board members trustees directors",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "wearepartners.org contact author staff office director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Marilyn Marincovich\" \"Partners International\" donor relations development",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jennifer Holloran\" \"Partners International\" board chairman",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "theorg.com \"Partners International\" wearepartners executive team staff roles",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Partners International\" wearepartners.org staff advancement fundraising officer",
+      "outcome": "no_people"
+    }
+  ],
+  "negatives": [
+    {
+      "mention": "Marilyn Marincovich",
+      "source": "ECFA/MinistryWatch data",
+      "reason_code": "unverified_role",
+      "note": "Listed as 'donor contact' in some directories but no independent verification of current employment or specific role at Partners International"
+    },
+    {
+      "mention": "Kate Nguyen",
+      "source": "wearepartners.org search snippet",
+      "reason_code": "conflicting_info",
+      "note": "One search result mentioned as 'CEO' but conflicts with John Burrough as CEO from multiple confirmed sources; likely outdated or misattributed data"
+    }
+  ],
+  "needs_review": [
+    {
+      "item": "Full board roster",
+      "status": "incomplete",
+      "note": "Organization confirmed to have 10-member board; only identified Jennifer Holloran (Chairman) as named board member. Remaining 9 board members not discoverable via public web search snippets. ECFA profile and organization's website likely contain full list but snippets were insufficient."
+    },
+    {
+      "item": "Development/Advancement staff (Tier B priority)",
+      "status": "not_found",
+      "note": "Multiple searches for development officers, major gifts staff, and advancement professionals at Partners International yielded no named individuals. Search results confirmed these roles likely exist organizationally but specific names not accessible via web search snippets. The organization's website structure (wearepartners.org/team_type/leadership/) was referenced but staff listings not returned in search results."
+    }
+  ],
+  "search_count": 18,
+  "search_limit_status": "at_maximum_capacity"
+}

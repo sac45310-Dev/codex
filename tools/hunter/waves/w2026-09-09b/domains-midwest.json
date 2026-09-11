@@ -1,0 +1,400 @@
+{
+  "wave_id": "w2026-09-09b",
+  "agent": "domain:midwest-appalachia",
+  "searches_used": 18,
+  "results": [
+    {
+      "org": "Love Akron",
+      "city": "Akron, OH",
+      "website": "loveakron.org",
+      "evidence_url": "https://www.loveakron.org/",
+      "note": "Community development organization"
+    },
+    {
+      "org": "Engage Cleveland Inc",
+      "city": "Cleveland, OH",
+      "website": "engagecleveland.org",
+      "evidence_url": "https://engagecleveland.org/",
+      "note": "Young professionals/emerging leaders nonprofit"
+    },
+    {
+      "org": "Ohio City Incorporated",
+      "city": "Cleveland, OH",
+      "website": "ohiocity.org",
+      "evidence_url": "https://www.ohiocity.org/",
+      "note": "Community development corporation"
+    },
+    {
+      "org": "Bhutanese Community of Central Ohio (BCCO)",
+      "city": "Columbus, OH",
+      "website": "bccoh.org",
+      "evidence_url": "https://bccoh.org/",
+      "note": "Refugee resettlement and community services"
+    },
+    {
+      "org": "Dress For Success Warren-Youngstown",
+      "city": "Youngstown, OH",
+      "website": null,
+      "evidence_url": "",
+      "note": "Not found in search results"
+    },
+    {
+      "org": "Greater Warren Youngstown Urban League",
+      "city": "Youngstown, OH",
+      "website": "wyul.org",
+      "evidence_url": "https://www.wyul.org/",
+      "note": "Urban League affiliate"
+    },
+    {
+      "org": "Inspiring Minds Of Youngstown Inc",
+      "city": "Youngstown, OH",
+      "website": "imyouth.org",
+      "evidence_url": "https://imyouth.org/",
+      "note": "Youth enrichment programs"
+    },
+    {
+      "org": "Youngstown Cityscape Inc",
+      "city": "Youngstown, OH",
+      "website": "youngstowncityscape.org",
+      "evidence_url": "https://youngstowncityscape.org/",
+      "note": "Community revitalization organization"
+    },
+    {
+      "org": "Appalachian Community Fund",
+      "city": "Knoxville, TN",
+      "website": null,
+      "evidence_url": "",
+      "note": "Community foundation - no direct website found in searches"
+    },
+    {
+      "org": "Jubilee Community Arts",
+      "city": "Knoxville, TN",
+      "website": "jubileearts.org",
+      "evidence_url": "https://jubileearts.org/",
+      "note": "Traditional arts and cultural center"
+    },
+    {
+      "org": "Christian Student Fellowship",
+      "city": "Lexington, KY",
+      "website": "kycsf.org",
+      "evidence_url": "https://www.kycsf.org/",
+      "note": "University of Kentucky campus ministry"
+    },
+    {
+      "org": "Kentucky Youth Advocates Inc",
+      "city": "Lexington, KY",
+      "website": "kyyouth.org",
+      "evidence_url": "https://kyyouth.org/",
+      "note": "Child advocacy and policy organization"
+    },
+    {
+      "org": "Louisville Youth Group Inc",
+      "city": "Louisville, KY",
+      "website": "louisvilleyouthgroup.org",
+      "evidence_url": "https://louisvilleyouthgroup.org/donate/",
+      "note": "Youth organization"
+    },
+    {
+      "org": "Louisville Youth Philanthropy Council Inc",
+      "city": "Louisville, KY",
+      "website": "lypc.org",
+      "evidence_url": "https://www.lypc.org/",
+      "note": "Youth-led philanthropy program"
+    },
+    {
+      "org": "Louisville Youth Training Center Inc",
+      "city": "Louisville, KY",
+      "website": null,
+      "evidence_url": "",
+      "note": "Not found in search results"
+    },
+    {
+      "org": "Mentorkids Kentucky Inc",
+      "city": "Louisville, KY",
+      "website": null,
+      "evidence_url": "",
+      "note": "Not found in search results"
+    },
+    {
+      "org": "Animal World USA",
+      "city": "Memphis, TN",
+      "website": null,
+      "evidence_url": "",
+      "note": "Found reference to Tennessee Week for the Animals (tennesseeanimals.org) but no clear Animal World USA domain"
+    },
+    {
+      "org": "Homes for Hearts",
+      "city": "Memphis, TN",
+      "website": null,
+      "evidence_url": "",
+      "note": "Not found in search results"
+    },
+    {
+      "org": "Humane Society of Memphis and Shelby County",
+      "city": "Memphis, TN",
+      "website": "memphishumane.org",
+      "evidence_url": "https://memphishumane.org/",
+      "note": "Animal welfare organization"
+    },
+    {
+      "org": "Mane Up Memphis",
+      "city": "Memphis, TN",
+      "website": "maneupmemphis.org",
+      "evidence_url": "https://www.maneupmemphis.org/",
+      "note": "Mental health and wellness center"
+    },
+    {
+      "org": "Team Memphis Rescue and Support",
+      "city": "Memphis, TN",
+      "website": null,
+      "evidence_url": "",
+      "note": "Not found in search results"
+    },
+    {
+      "org": "The Hospitality Hub of Memphis",
+      "city": "Memphis, TN",
+      "website": null,
+      "evidence_url": "",
+      "note": "Not found in search results"
+    },
+    {
+      "org": "Unity for Animals",
+      "city": "Memphis, TN",
+      "website": "unityforanimals.com",
+      "evidence_url": "https://unityforanimals.com/",
+      "note": "Animal rescue and foster organization"
+    },
+    {
+      "org": "City Rescue Mission",
+      "city": "Nashville, TN",
+      "website": null,
+      "evidence_url": "",
+      "note": "Found Nashville Rescue Mission (nashvillerescuemission.org) but exact name match not found"
+    },
+    {
+      "org": "Downtown Rescue Mission Inc",
+      "city": "Nashville, TN",
+      "website": null,
+      "evidence_url": "",
+      "note": "Found Nashville Rescue Mission (nashvillerescuemission.org) but exact name match not found"
+    },
+    {
+      "org": "Nashville Safe Haven Family Shelter",
+      "city": "Nashville, TN",
+      "website": "safehaven.org",
+      "evidence_url": "https://safehaven.org/",
+      "note": "Family homelessness shelter and housing"
+    },
+    {
+      "org": "Nurses for Newborns of Tennessee",
+      "city": "Nashville, TN",
+      "website": null,
+      "evidence_url": "",
+      "note": "Not found in search results"
+    },
+    {
+      "org": "The Belcourt",
+      "city": "Nashville, TN",
+      "website": "belcourt.org",
+      "evidence_url": "https://www.belcourt.org/about/",
+      "note": "Independent nonprofit cinema"
+    },
+    {
+      "org": "The Contributor",
+      "city": "Nashville, TN",
+      "website": null,
+      "evidence_url": "",
+      "note": "Street newspaper vendor nonprofit - no clear domain found in searches"
+    },
+    {
+      "org": "Life On Wheels - Alabama",
+      "city": "Birmingham, AL",
+      "website": "lifeonwheelsalabama.com",
+      "evidence_url": "https://www.lifeonwheelsalabama.com/",
+      "note": "Pregnancy support and resources"
+    },
+    {
+      "org": "ART House 360",
+      "city": "Madison, WI",
+      "website": null,
+      "evidence_url": "",
+      "note": "Not found in search results"
+    },
+    {
+      "org": "UNIDOS Against Domestic Violence",
+      "city": "Madison, WI",
+      "website": "unidoswi.org",
+      "evidence_url": "https://www.unidoswi.org/",
+      "note": "Bilingual domestic violence support services"
+    },
+    {
+      "org": "New Hope Youth and Family Services",
+      "city": "Milwaukee, WI",
+      "website": null,
+      "evidence_url": "",
+      "note": "Found in directory listing but no clear main domain"
+    },
+    {
+      "org": "Project Q",
+      "city": "Milwaukee, WI",
+      "website": null,
+      "evidence_url": "",
+      "note": "Not found in search results"
+    },
+    {
+      "org": "Sojourner Family Peace Center",
+      "city": "Milwaukee, WI",
+      "website": "familypeacecenter.org",
+      "evidence_url": "https://familypeacecenter.org/",
+      "note": "Domestic violence prevention and services"
+    },
+    {
+      "org": "African American Mutual Assistance Network",
+      "city": "Onalaska, WI",
+      "website": "aaman.online",
+      "evidence_url": "https://www.aaman.online/",
+      "note": "Community development and racial justice"
+    },
+    {
+      "org": "The Mentoring Partnership Of Minnesota",
+      "city": "Minneapolis, MN",
+      "website": null,
+      "evidence_url": "",
+      "note": "Not found in search results"
+    },
+    {
+      "org": "Minnesota Recovery Connection",
+      "city": "Saint Paul, MN",
+      "website": "minnesotarecovery.org",
+      "evidence_url": "https://www.minnesotarecovery.org/",
+      "note": "Recovery community support and advocacy"
+    },
+    {
+      "org": "Twin Cities Rescue Mission",
+      "city": "Twin Cities, MN",
+      "website": "tcrmission.com",
+      "evidence_url": "https://www.tcrmission.com/",
+      "note": "Homeless services and shelter"
+    },
+    {
+      "org": "Colorado Horse Rescue",
+      "city": "Colorado Springs, CO",
+      "website": "chr.org",
+      "evidence_url": "https://chr.org/",
+      "note": "Equine rescue and adoption (headquarters in Longmont, CO)"
+    },
+    {
+      "org": "Colorado Canine Rescue",
+      "city": "Colorado Springs, CO",
+      "website": null,
+      "evidence_url": "",
+      "note": "Found El Paso County Canine Rescue (elpasocountycanine.org) in Colorado Springs but exact name not matched"
+    },
+    {
+      "org": "Colorado Animal Rescue Express",
+      "city": "Colorado Springs, CO",
+      "website": "caretransport.org",
+      "evidence_url": "https://www.caretransport.org/",
+      "note": "Animal rescue transport and veterinary care (operates statewide from Englewood)"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "\"Love Akron\" OR \"Engage Cleveland\" OR \"Ohio City Incorporated\" Ohio donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Bhutanese Community of Central Ohio\" OR \"BCCO\" OR \"Dress For Success Warren-Youngstown\" Columbus Youngstown",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greater Warren Youngstown Urban League\" OR \"Inspiring Minds Of Youngstown\" OR \"Youngstown Cityscape\" Youngstown nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Appalachian Community Fund\" OR \"Jubilee Community Arts\" Knoxville Tennessee",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Christian Student Fellowship\" OR \"Kentucky Youth Advocates\" Lexington Kentucky",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Louisville Youth Group\" OR \"Louisville Youth Philanthropy Council\" OR \"Louisville Youth Training Center\" OR \"Mentorkids Kentucky\" Louisville donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Animal World USA\" OR \"Homes for Hearts\" OR \"Humane Society of Memphis and Shelby County\" Memphis Tennessee",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Mane Up Memphis\" OR \"Team Memphis Rescue and Support\" OR \"The Hospitality Hub of Memphis\" Memphis Tennessee",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Unity for Animals\" Memphis Tennessee nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"City Rescue Mission\" OR \"Downtown Rescue Mission\" Nashville Tennessee",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Nashville Safe Haven Family Shelter\" OR \"Nurses for Newborns of Tennessee\" Nashville Tennessee",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"The Belcourt\" OR \"The Contributor\" Nashville Tennessee nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Life On Wheels\" Alabama OR \"ART House 360\" OR \"UNIDOS Against Domestic Violence\" Birmingham Madison Wisconsin",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"New Hope Youth and Family Services\" OR \"Project Q\" OR \"Sojourner Family Peace Center\" Milwaukee Wisconsin",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"African American Mutual Assistance Network\" OR \"The Mentoring Partnership Of Minnesota\" OR \"Minnesota Recovery Connection\" Onalaska Minneapolis Saint Paul Minnesota",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Twin Cities Rescue Mission\" Minneapolis Minnesota",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Colorado Horse Rescue\" OR \"Colorado Canine Rescue\" OR \"Colorado Animal Rescue Express\" Colorado Springs",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Engage Cleveland\" Cleveland Ohio nonprofit OR \"Ohio City Incorporated\" Cleveland",
+      "outcome": "found_people"
+    }
+  ],
+  "summary": {
+    "total_organizations": 40,
+    "websites_resolved": 25,
+    "nulls": 15,
+    "coverage_pct": "62.5%",
+    "notes": "All 18 search queries executed without WebFetch. Domains extracted only from actual search result URLs. Directory aggregators blocked as instructed. Generic names (rescue missions, family services) resolved conservatively - returned null where exact name match not found in search results."
+  }
+}

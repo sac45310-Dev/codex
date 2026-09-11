@@ -1,0 +1,174 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:freestore",
+  "target_org": "Freestore Foodbank",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Trish Rayner",
+      "summary": "Freestore Foodbank — VP Chief Development Officer",
+      "fit_score": 10,
+      "fit_reason": "Tier B: Executive leadership overseeing all development, advancement, and philanthropy initiatives at Freestore Foodbank.",
+      "source_query": "hunter:w2026-08-30f:freestore",
+      "meta": {
+        "tier": "B",
+        "role": "VP Chief Development Officer",
+        "target_org": "Freestore Foodbank",
+        "evidence_url": "https://freestorefoodbank.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lindsay Starry",
+      "summary": "Freestore Foodbank — Grants & Major Gifts Manager",
+      "fit_score": 9,
+      "fit_reason": "Tier B: Manages grants and major gift relationships; direct contact for foundation and major donor engagement (grants@freestorefoodbank.org).",
+      "source_query": "hunter:w2026-08-30f:freestore",
+      "meta": {
+        "tier": "B",
+        "role": "Grants & Major Gifts Manager",
+        "target_org": "Freestore Foodbank",
+        "evidence_url": "https://freestorefoodbank.org/",
+        "email": "grants@freestorefoodbank.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nicki Roe",
+      "summary": "Freestore Foodbank — Marketing & Communications Manager",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Marketing and communications leadership supporting donor relations and development initiatives.",
+      "source_query": "hunter:w2026-08-30f:freestore",
+      "meta": {
+        "tier": "B",
+        "role": "Marketing & Communications Manager",
+        "target_org": "Freestore Foodbank",
+        "evidence_url": "https://freestorefoodbank.org/contact-us/",
+        "email": "nroe@freestorefoodbank.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kreg Keesee",
+      "summary": "Freestore Foodbank — President & CEO",
+      "fit_score": 9,
+      "fit_reason": "Tier C: Current executive leadership; strategic authority over organizational priorities and donor engagement.",
+      "source_query": "hunter:w2026-08-30f:freestore",
+      "meta": {
+        "tier": "C",
+        "role": "President & CEO",
+        "target_org": "Freestore Foodbank",
+        "evidence_url": "https://local12.com/news/local/freestore-foodbank-names-next-president-ceo-kreg-keesee-kurt-reiber-retirement-cincinnati-nonprofit",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dwinelva Z. Zackery",
+      "summary": "Freestore Foodbank — Board Chair",
+      "fit_score": 9,
+      "fit_reason": "Tier C: Current Board Chair from St. Elizabeth Healthcare; leads board governance and strategic oversight.",
+      "source_query": "hunter:w2026-08-30f:freestore",
+      "meta": {
+        "tier": "C",
+        "role": "Board Chair",
+        "target_org": "Freestore Foodbank",
+        "evidence_url": "https://freestorefoodbank.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Thomas J. Kirkwood",
+      "summary": "Freestore Foodbank — Board Member & Trustee",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Long-serving board trustee (second decade of service), retired from Thompson Hine LLP legal firm; strong organizational commitment.",
+      "source_query": "hunter:w2026-08-30f:freestore",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member & Trustee",
+        "target_org": "Freestore Foodbank",
+        "evidence_url": "https://freestorefoodbank.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tami L. Hendrickson",
+      "summary": "Freestore Foodbank — Board Member",
+      "fit_score": 8,
+      "fit_reason": "Tier C: Board member from Federal Home Loan Bank of Cincinnati; brings institutional banking and finance perspective.",
+      "source_query": "hunter:w2026-08-30f:freestore",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Freestore Foodbank",
+        "evidence_url": "https://freestorefoodbank.org/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bethany Heath",
+      "summary": "Freestore Foodbank — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Tier C: Board member; brings nonprofit mission experience from MomsHope, Inc.",
+      "source_query": "hunter:w2026-08-30f:freestore",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Freestore Foodbank",
+        "evidence_url": "https://freestorefoodbank.org/board-of-directors/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Freestore Foodbank",
+      "website": "https://freestorefoodbank.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "headcount_est": 131,
+      "faith_orientation": "secular",
+      "crm_incumbent": "Unknown - no CRM publicly disclosed",
+      "evidence": "Freestore Foodbank is the largest emergency food and services provider to children and families in Greater Cincinnati, Northern Kentucky and Southeast Indiana. Serves 250,000 food insecure individuals; supplied 47M+ meals in 2025 fiscal year. Annual revenue ~$15M. Network of 540+ community partners."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Freestore Foodbank Cincinnati development director advancement staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Freestore Foodbank philanthropy major gifts donor relations Cincinnati",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Freestore Foodbank executive director president CEO Cincinnati Ohio",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Freestore Foodbank board directors trustees Cincinnati",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "\"Freestore Foodbank\" staff leadership team Cincinnati",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "Freestore Foodbank annual report 2025 2026 staff directory",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": []
+}

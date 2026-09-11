@@ -1,0 +1,893 @@
+{
+  "wave_id": "w2026-09-10e",
+  "agent": "eth-deep",
+  "target_org": "Ethnos360",
+  "slice": "qualifiers not yet bought in prior waves",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Nathan Rueck",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/nathan-and-becky-rueck",
+      "fit_reason": "Couples split into two people; URL slug contains surname; Thailand work; field missionary tier A"
+    },
+    {
+      "name": "Becky Rueck",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/nathan-and-becky-rueck",
+      "fit_reason": "Couples split; URL slug contains surname; Thailand work; field missionary tier A"
+    },
+    {
+      "name": "Rob Orwiler",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Thailand",
+      "fit_reason": "Title in search snippet names Rob and Dawn Orwiler; Thailand, Lue tribal people; field missionary tier A"
+    },
+    {
+      "name": "Dawn Orwiler",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Thailand",
+      "fit_reason": "Couples split; title in search snippet; Thailand, Lue tribal people; field missionary tier A"
+    },
+    {
+      "name": "Ian Fallis",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/ian-fallis/thailand/",
+      "fit_reason": "Blog URL has surname slug; Thailand blog with personal support ask pattern; field missionary tier A"
+    },
+    {
+      "name": "Julie Fallis",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/ian-fallis/thailand/",
+      "fit_reason": "Couples split; blog URL has surname; Thailand work; field missionary tier A"
+    },
+    {
+      "name": "Phil Burns",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/phil-burns/",
+      "fit_reason": "Blog URL has surname slug; Thailand work (Another Tribe Hearing Gospel); field missionary tier A"
+    },
+    {
+      "name": "Jackie Burns",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/phil-burns/",
+      "fit_reason": "Couples split; blog URL has surname; Thailand/tribal ministry; field missionary tier A"
+    },
+    {
+      "name": "Bill Davis",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/bill-davis/",
+      "fit_reason": "Blog URL has surname slug; personal blog with updates; field missionary tier A"
+    },
+    {
+      "name": "Donna Davis",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/bill-davis/",
+      "fit_reason": "Couples split; blog URL has surname; personal blog; field missionary tier A"
+    },
+    {
+      "name": "Tom Carlton",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/tom-carlton/",
+      "fit_reason": "Blog URL has surname; personal blog with personal support content (Missionary Money); field missionary tier A"
+    },
+    {
+      "name": "Beth Carlton",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/tom-carlton/",
+      "fit_reason": "Couples split; blog URL has surname; personal support blog; field missionary tier A"
+    },
+    {
+      "name": "Jim Wilhelmson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/jim-and-millie-wilhelmson",
+      "fit_reason": "URL slug contains both names; personal missionary page; field missionary tier A"
+    },
+    {
+      "name": "Millie Wilhelmson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/jim-and-millie-wilhelmson",
+      "fit_reason": "Couples split; URL slug contains surname; field missionary tier A"
+    },
+    {
+      "name": "Ralf Schlegel",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/ralf-and-elisabeth-schlegel",
+      "fit_reason": "URL slug contains both names; personal page; field missionary tier A"
+    },
+    {
+      "name": "Elisabeth Schlegel",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/ralf-and-elisabeth-schlegel",
+      "fit_reason": "Couples split; URL slug contains surname; field missionary tier A"
+    },
+    {
+      "name": "Elsie Gill",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/elsie-gill",
+      "fit_reason": "Single name; URL slug contains surname; personal page; field missionary tier A"
+    },
+    {
+      "name": "Joe Price",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Venezuela",
+      "fit_reason": "Title in snippet: Joe and Jana Price; Venezuela 33+ years, Panare tribe, literacy and Bible translation; field missionary tier A"
+    },
+    {
+      "name": "Jana Price",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Venezuela",
+      "fit_reason": "Couples split; Venezuela Panares, literacy/translation; field missionary tier A"
+    },
+    {
+      "name": "Mark Cain",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Venezuela",
+      "fit_reason": "Title in snippet: Mark and Joyce Cain; Guahibo tribe; field missionary tier A"
+    },
+    {
+      "name": "Joyce Cain",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Venezuela",
+      "fit_reason": "Couples split; Guahibo tribe; field missionary tier A"
+    },
+    {
+      "name": "Connie Cain",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Venezuela",
+      "fit_reason": "Title in snippet: Connie and Mary Cain; Venezuela 7 years; field missionary tier A"
+    },
+    {
+      "name": "Mary Cain",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Venezuela",
+      "fit_reason": "Couples split; Venezuela ministry; field missionary tier A"
+    },
+    {
+      "name": "Danny Shaylor",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/danny-shaylor/",
+      "fit_reason": "Blog URL has surname; Venezuela ministry history; field missionary tier A"
+    },
+    {
+      "name": "Diana Shaylor",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/danny-shaylor/",
+      "fit_reason": "Couples split; blog URL has surname; Venezuela work; field missionary tier A"
+    },
+    {
+      "name": "Oren Green",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/oren-green",
+      "fit_reason": "URL slug contains surname; personal page; Ecuador context; field missionary tier A"
+    },
+    {
+      "name": "Andy Williams",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/andy-williams/about/",
+      "fit_reason": "Blog URL has surname; Ecuador ministry; field missionary tier A"
+    },
+    {
+      "name": "Majo Williams",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/andy-williams/about/",
+      "fit_reason": "Couples split; blog URL has surname; Ecuador work; field missionary tier A"
+    },
+    {
+      "name": "Alberto Gonzalez",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/alberto-gonzalez/",
+      "fit_reason": "Blog URL has surname; Peru, Tikuna ethnic group; field missionary tier A"
+    },
+    {
+      "name": "Nancy Gonzalez",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/alberto-gonzalez/",
+      "fit_reason": "Couples split; blog URL has surname; Peru Tikuna work; field missionary tier A"
+    },
+    {
+      "name": "Matt Zook",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/matt-and-debi-zook",
+      "fit_reason": "URL slug contains both names; Mozambique, Lolo people, Bible translation; field missionary tier A"
+    },
+    {
+      "name": "Debi Zook",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/matt-and-debi-zook",
+      "fit_reason": "Couples split; URL slug contains surname; Mozambique Lolo work; field missionary tier A"
+    },
+    {
+      "name": "Phil Henderson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Mozambique",
+      "fit_reason": "Title in snippet: Phil and Elin Henderson; Mozambique, Mwinika people, written language/Bible translation; field missionary tier A"
+    },
+    {
+      "name": "Elin Henderson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Mozambique",
+      "fit_reason": "Couples split; Mozambique Mwinika work; field missionary tier A"
+    },
+    {
+      "name": "Kent Schafer",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Mozambique",
+      "fit_reason": "Title in snippet: Kent and Jenny Schafer; Mozambique Maindo people; field missionary tier A"
+    },
+    {
+      "name": "Jenny Schafer",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/missionaries?query=Mozambique",
+      "fit_reason": "Couples split; Mozambique work; field missionary tier A"
+    },
+    {
+      "name": "Arnie Johnson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/arnie-and-rubenita-johnson",
+      "fit_reason": "URL slug contains both names; Mozambique Maindo people team; field missionary tier A"
+    },
+    {
+      "name": "Rubenita Johnson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/arnie-and-rubenita-johnson",
+      "fit_reason": "Couples split; URL slug contains surname; Mozambique work; field missionary tier A"
+    },
+    {
+      "name": "Francois Hattingh",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/francois-and-nadia-hattingh",
+      "fit_reason": "URL slug contains both names; Mozambique church planting and training; field missionary tier A"
+    },
+    {
+      "name": "Nadia Hattingh",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/francois-and-nadia-hattingh",
+      "fit_reason": "Couples split; URL slug contains surname; Mozambique work; field missionary tier A"
+    },
+    {
+      "name": "Michael Richardson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/michael-richardson/about/",
+      "fit_reason": "Blog URL has surname; Mozambique since 1998; field missionary tier A"
+    },
+    {
+      "name": "Jessica Richardson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/michael-richardson/about/",
+      "fit_reason": "Couples split; blog URL has surname; Mozambique work; field missionary tier A"
+    },
+    {
+      "name": "Clemilda Neves",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/clemilda-neves",
+      "fit_reason": "Single name; URL slug contains surname; Mozambique work; field missionary tier A"
+    },
+    {
+      "name": "Chad Earl",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/chad-and-martha-earl",
+      "fit_reason": "URL slug contains both names; personal page; field missionary tier A"
+    },
+    {
+      "name": "Martha Earl",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/chad-and-martha-earl",
+      "fit_reason": "Couples split; URL slug contains surname; field missionary tier A"
+    },
+    {
+      "name": "Chad Huber",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/chad-and-esther-huber",
+      "fit_reason": "URL slug contains both names; personal page; field missionary tier A"
+    },
+    {
+      "name": "Esther Huber",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/chad-and-esther-huber",
+      "fit_reason": "Couples split; URL slug contains surname; field missionary tier A"
+    },
+    {
+      "name": "Chad Mankins",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/chad-mankins/about/",
+      "fit_reason": "Blog URL has surname; Papua New Guinea Tobo people 22 years; field missionary tier A"
+    },
+    {
+      "name": "Janeene Mankins",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/chad-mankins/about/",
+      "fit_reason": "Couples split; blog URL has surname; Papua New Guinea work; field missionary tier A"
+    },
+    {
+      "name": "Ryan Farran",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/ryan-and-chelsea-farran",
+      "fit_reason": "URL slug contains both names; personal page; field missionary tier A"
+    },
+    {
+      "name": "Chelsea Farran",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/ryan-and-chelsea-farran",
+      "fit_reason": "Couples split; URL slug contains surname; field missionary tier A"
+    },
+    {
+      "name": "Chuck Talbot",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/chuck-shannon-talbot/",
+      "fit_reason": "Blog URL has surname; medical training/intensive; support role tier B"
+    },
+    {
+      "name": "Shannon Talbot",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/chuck-shannon-talbot/",
+      "fit_reason": "Couples split; blog URL has surname; medical role; support tier B"
+    },
+    {
+      "name": "Dave Sharp",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://homes.ethnos360.org/story/dave-and-laura-sharp/",
+      "fit_reason": "Title in snippet: Dave and Laura Sharp; support/homes staff tier B"
+    },
+    {
+      "name": "Laura Sharp",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://homes.ethnos360.org/story/dave-and-laura-sharp/",
+      "fit_reason": "Couples split; homes staff; support tier B"
+    },
+    {
+      "name": "Promise Vaughan",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Nurse",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/promise-vaughan/about/",
+      "fit_reason": "Blog URL has surname; nurse in PNG; field support tier A"
+    },
+    {
+      "name": "Dean Goddard",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://homes.ethnos360.org/story/dean-and-nellie-goddard/",
+      "fit_reason": "Title in snippet; Paraguay 43 years field missionary tier A"
+    },
+    {
+      "name": "Nellie Goddard",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Nurse",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://homes.ethnos360.org/story/dean-and-nellie-goddard/",
+      "fit_reason": "Couples split; Paraguay medical team; field missionary tier A"
+    },
+    {
+      "name": "Jacob Honebein",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/jacob-honebein/",
+      "fit_reason": "Blog URL has surname; field missionary tier A"
+    },
+    {
+      "name": "Melissa Honebein",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/jacob-honebein/",
+      "fit_reason": "Couples split; blog URL has surname; field missionary tier A"
+    },
+    {
+      "name": "Jerry Cox",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/jerry-renee-cox/about/",
+      "fit_reason": "Blog URL has surname; field missionary tier A"
+    },
+    {
+      "name": "Renee Cox",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/jerry-renee-cox/about/",
+      "fit_reason": "Couples split; blog URL has surname; field missionary tier A"
+    },
+    {
+      "name": "Walter Spicer",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/walter-and-cheryl-spicer",
+      "fit_reason": "URL slug contains both names; Philippines Administrator and Nurse roles; field missionary tier A"
+    },
+    {
+      "name": "Cheryl Spicer",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/walter-and-cheryl-spicer",
+      "fit_reason": "Couples split; URL slug contains surname; Philippines work; field missionary tier A"
+    },
+    {
+      "name": "Lorraine Blair",
+      "org": "Ethnos360",
+      "tier": "B",
+      "role": "Nurse",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://ethnos360.org/missionaries/lorraine-blair",
+      "fit_reason": "Single name; URL slug contains surname; staff nurse at Ethnos360 Homes; support tier B"
+    },
+    {
+      "name": "David Watters",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/david-watters/",
+      "fit_reason": "Blog URL has surname; field missionary tier A"
+    },
+    {
+      "name": "Robin Watters",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/david-watters/",
+      "fit_reason": "Couples split; blog URL has surname; field missionary tier A"
+    },
+    {
+      "name": "Jacob Devine",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/jacob-devine/",
+      "fit_reason": "Blog URL has surname; Papua New Guinea; field missionary tier A"
+    },
+    {
+      "name": "Beth Devine",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/jacob-devine/",
+      "fit_reason": "Couples split; blog URL has surname; Papua New Guinea; field missionary tier A"
+    },
+    {
+      "name": "Robyn Green",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://blogs.ethnos360.org/robyn-green/",
+      "fit_reason": "Blog URL has surname; field missionary tier A"
+    },
+    {
+      "name": "John Jette",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/john-jette",
+      "fit_reason": "Single name; URL slug contains surname; field missionary tier A"
+    },
+    {
+      "name": "Paul Rich",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/paul-and-sheryl-rich",
+      "fit_reason": "URL slug contains both names; personal page; field missionary tier A"
+    },
+    {
+      "name": "Sheryl Rich",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/paul-and-sheryl-rich",
+      "fit_reason": "Couples split; URL slug contains surname; field missionary tier A"
+    },
+    {
+      "name": "Nathan Claasen",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "IT",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/nathan-and-elizabeth-claasen",
+      "fit_reason": "URL slug contains both names; IT specialist; field support tier A"
+    },
+    {
+      "name": "Elizabeth Claasen",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "IT",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/nathan-and-elizabeth-claasen",
+      "fit_reason": "Couples split; URL slug contains surname; IT role; field support tier A"
+    },
+    {
+      "name": "Stuart Sims",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "IT",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/stuart-and-brynn-sims",
+      "fit_reason": "URL slug contains both names; IT role; field support tier A"
+    },
+    {
+      "name": "Brynn Sims",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "IT",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/stuart-and-brynn-sims",
+      "fit_reason": "Couples split; URL slug contains surname; IT role; field support tier A"
+    },
+    {
+      "name": "Levi Lilley",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "IT",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/levi-and-julia-lilley",
+      "fit_reason": "URL slug contains both names; IT specialist; field support tier A"
+    },
+    {
+      "name": "Julia Lilley",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "IT",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/levi-and-julia-lilley",
+      "fit_reason": "Couples split; URL slug contains surname; IT role; field support tier A"
+    },
+    {
+      "name": "Guy Burkhead",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/guy-and-keyla-burkhead",
+      "fit_reason": "URL slug contains both names; Liberia church planting; field missionary tier A"
+    },
+    {
+      "name": "Keyla Burkhead",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/guy-and-keyla-burkhead",
+      "fit_reason": "Couples split; URL slug contains surname; Liberia work; field missionary tier A"
+    },
+    {
+      "name": "Aaron Speitelsbach",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/aaron-and-amy-speitelsbach",
+      "fit_reason": "URL slug contains both names; Liberia church planting; field missionary tier A"
+    },
+    {
+      "name": "Amy Speitelsbach",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ethnos360.org/missionaries/aaron-and-amy-speitelsbach",
+      "fit_reason": "Couples split; URL slug contains surname; Liberia work; field missionary tier A"
+    },
+    {
+      "name": "Andrew Wilson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/stories/story/pulling-teeth",
+      "fit_reason": "Title in snippet: Andrew and Nelli Wilson; Papua New Guinea North Wahgi people; field missionary tier A"
+    },
+    {
+      "name": "Nelli Wilson",
+      "org": "Ethnos360",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "org_policy",
+      "source_url": "https://ethnos360.org/stories/story/pulling-teeth",
+      "fit_reason": "Couples split; Papua New Guinea work; field missionary tier A"
+    }
+  ],
+  "coverage": [
+    {"kind": "query","value":"site:ethnos360.org missionaries Thailand","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries Malaysia","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries Venezuela","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries Ecuador","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries Peru","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries Guyana","outcome":"no_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries Suriname","outcome":"no_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries Mozambique","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries Chad","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries Cameroon","outcome":"no_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries medical","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries nurse","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries dentist","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries literacy","outcome":"offtopic"},
+    {"kind": "query","value":"site:ethnos360.org missionaries finance","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries IT technology","outcome":"found_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries Ghana","outcome":"no_people"},
+    {"kind": "query","value":"site:ethnos360.org missionaries Liberia","outcome":"found_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "literacy",
+      "finding": "Search on literacy returned organizational content about literacy programs rather than individual missionaries",
+      "evidence": "Results focused on Literacy Starter software and training center academics",
+      "recommendation": "Literacy role qualifier would need specific person name in result; marked offtopic"
+    },
+    {
+      "issue": "geographic exhaustion",
+      "finding": "Three consecutive searches (Guyana, Suriname, Cameroon; Ghana, Liberia) with mixed yield patterns",
+      "evidence": "Guyana and Suriname returned no specific people; Cameroon returned no people; Ghana returned no people; Liberia succeeded",
+      "recommendation": "Open ground in South American interior (Guyana, Suriname) and central African countries (Chad, Cameroon, Ghana) may be sparsely mined or have minimal published profiles"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "wave_id": "w2026-09-07a",
+  "agent": "verify:group-1",
+  "searches_used": 16,
+  "results": [
+    {
+      "person": "Bridget Jones",
+      "org": "Akron-Canton Regional Foodbank",
+      "recorded_role": "Director, Development Operations",
+      "status": "confirmed",
+      "url": "https://www.akroncantonfoodbank.org/staff/bridget-jones",
+      "role_seen": "Director, Development Operations",
+      "notes": ""
+    },
+    {
+      "person": "Debbie Hagarty",
+      "org": "Akron-Canton Regional Foodbank",
+      "recorded_role": "Gift and Estate Planning Officer",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Found references to her role on planned gifts and securities pages of ACRFB, but no direct staff page URL located"
+    },
+    {
+      "person": "Terri Lessnau",
+      "org": "Akron-Canton Regional Foodbank",
+      "recorded_role": "Senior Director, Development",
+      "status": "confirmed",
+      "url": "https://www.akroncantonfoodbank.org/staff/terri-lessnau",
+      "role_seen": "Senior Director, Development",
+      "notes": ""
+    },
+    {
+      "person": "Elizabeth Wolf",
+      "org": "Animal Protection New Mexico",
+      "recorded_role": "Chief Development Officer",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Found references to Elizabeth Wolf in APNM publications (Making Tracks 2017-2022), but no staff page confirming her current role"
+    },
+    {
+      "person": "Jacquelyn Smith",
+      "org": "Animal Rescue League of Boston",
+      "recorded_role": "Chief Advancement Officer",
+      "status": "confirmed",
+      "url": "https://www.zoominfo.com/p/Jacquelyn-Smith/1953120607",
+      "role_seen": "Chief Advancement Officer",
+      "notes": ""
+    },
+    {
+      "person": "Elizabeth Spears",
+      "org": "Atlanta Community Food Bank",
+      "recorded_role": "Director of Individual Giving",
+      "status": "confirmed",
+      "url": "https://www.zoominfo.com/p/Elizabeth-Spears/4000326866",
+      "role_seen": "Director of Individual Giving",
+      "notes": "Also listed on theorg.com org chart"
+    },
+    {
+      "person": "Abby Paige Fenton",
+      "org": "Capital Area Food Bank",
+      "recorded_role": "Chief Advancement Officer",
+      "status": "confirmed",
+      "url": "https://www.zoominfo.com/p/Abby-Fenton/10376223210",
+      "role_seen": "Chief Advancement Officer",
+      "notes": "Joined CAFB in November 2024"
+    },
+    {
+      "person": "Melanie Minzes",
+      "org": "Capital Area Food Bank",
+      "recorded_role": "Deputy Chief Development Officer",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Mentioned in search results as Deputy Chief Development Officer who joined CAFB in 2020, but no direct URL to staff page found"
+    },
+    {
+      "person": "Christel Hair",
+      "org": "Capital Area Food Bank",
+      "recorded_role": "Senior Director of Major Gifts and Planned Giving",
+      "status": "role_differs",
+      "url": "https://www.zoominfo.com/p/Christel-Hair/8997055662",
+      "role_seen": "Chief Development Officer",
+      "notes": "Currently titled Chief Development Officer; prior title Sr. Director of Major Gifts & Planned Giving mentioned in sources. Record came from job posting, now confirmed at different title"
+    },
+    {
+      "person": "Chloe Lucca",
+      "org": "Central Illinois Foodbank",
+      "recorded_role": "Development Director",
+      "status": "confirmed",
+      "url": "https://centralilfoodbank.org/about-us/meet-the-team/",
+      "role_seen": "Director of Development",
+      "notes": "Title is essentially equivalent - Development Director vs Director of Development"
+    },
+    {
+      "person": "Joe Arthur",
+      "org": "Central Pennsylvania Food Bank",
+      "recorded_role": "VP/Development Director",
+      "status": "role_differs",
+      "url": "https://www.linkedin.com/in/joe-arthur-cpfb",
+      "role_seen": "Executive Director",
+      "notes": "Currently Executive Director; transitioning to Chief Development Officer as part of succession plan. Record title does not match current role"
+    },
+    {
+      "person": "Matt Lane",
+      "org": "Central Pennsylvania Food Bank",
+      "recorded_role": "Chief Development Officer",
+      "status": "confirmed",
+      "url": null,
+      "role_seen": "Chief Development Officer",
+      "notes": "Confirmed from news article about Central PA Food Bank's leadership appointments"
+    },
+    {
+      "person": "Jessica Sund",
+      "org": "Channel One Regional Food Bank",
+      "recorded_role": "Director of Development and Communications",
+      "status": "confirmed",
+      "url": null,
+      "role_seen": "Director of Development and Communications",
+      "notes": "Confirmed from web search; canonical domain is channeloneregionalfoodbank (not helpingfeedpeople.org)"
+    },
+    {
+      "person": "Ginger Pegues",
+      "org": "Community Food Bank of Central Alabama",
+      "recorded_role": "Donor Relations Contact",
+      "status": "role_differs",
+      "url": "https://feedingal.org/leadership-and-board/",
+      "role_seen": "Director of Development",
+      "notes": "Listed as Director of Development, not Donor Relations Contact as recorded"
+    },
+    {
+      "person": "Jonathan Putt",
+      "org": "Community Foundation for Greater Richmond",
+      "recorded_role": "Philanthropic Advisor",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Not located in available searches; would need additional search or direct site access"
+    },
+    {
+      "person": "Sarah Arenstein",
+      "org": "Community Foundation for Greater Richmond",
+      "recorded_role": "Philanthropic Advisor",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Not located in available searches; would need additional search or direct site access"
+    },
+    {
+      "person": "Amanda Borden",
+      "org": "Eastern Illinois Foodbank",
+      "recorded_role": "VP of Development",
+      "status": "unconfirmed",
+      "url": null,
+      "role_seen": "",
+      "notes": "Not located in available searches; would need additional search or direct site access"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "\"Akron-Canton Regional Foodbank\" staff development team",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Bridget Jones\" \"Akron-Canton Regional Foodbank\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Terri Lessnau\" \"Akron-Canton Regional Foodbank\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Debbie Hagarty\" \"Akron-Canton Regional Foodbank\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:akroncantonfoodbank.org \"Debbie Hagarty\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Elizabeth Wolf\" \"Animal Protection New Mexico\" OR \"APNM\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:apnm.org staff team OR leadership",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:apnm.org \"Elizabeth Wolf\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jacquelyn Smith\" \"Animal Rescue League of Boston\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Elizabeth Spears\" \"Atlanta Community Food Bank\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Capital Area Food Bank\" staff \"Abby\" OR \"Melanie\" OR \"Christel\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Abby Paige Fenton\" \"Capital Area Food Bank\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Christel Hair\" \"Capital Area Food Bank\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Chloe Lucca\" \"Central Illinois Foodbank\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Central Pennsylvania Food Bank\" \"Joe Arthur\" OR \"Matt Lane\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Jessica Sund\" \"Channel One Regional Food Bank\" OR \"Ginger Pegues\" \"Community Food Bank Central Alabama\"",
+      "outcome": "found_people"
+    }
+  ]
+}

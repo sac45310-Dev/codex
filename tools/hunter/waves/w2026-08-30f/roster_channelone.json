@@ -1,0 +1,157 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:channelone",
+  "target_org": "Channel One Regional Food Bank",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Jessica Sund",
+      "summary": "Channel One Regional Food Bank — Director of Development and Communications",
+      "fit_score": 10,
+      "fit_reason": "Tier B development staff. Director of Development and Communications directly responsible for fundraising, donor relations, and development strategy.",
+      "source_query": "hunter:w2026-08-30f:channelone",
+      "city": "Rochester",
+      "state": "MN",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Development and Communications",
+        "target_org": "Channel One Regional Food Bank",
+        "evidence_url": "https://www.helpingfeedpeople.org/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jennifer Belisle",
+      "summary": "Channel One Regional Food Bank — Programs and Agency Services Director",
+      "fit_score": 8,
+      "fit_reason": "Tier B development staff. Programs director with documented fundraising and grant development responsibilities including proposal writing and award management.",
+      "source_query": "hunter:w2026-08-30f:channelone",
+      "city": "Rochester",
+      "state": "MN",
+      "meta": {
+        "tier": "B",
+        "role": "Programs and Agency Services Director",
+        "target_org": "Channel One Regional Food Bank",
+        "evidence_url": "https://www.linkedin.com/in/jenniferbelisle/",
+        "linkedin_url": "https://www.linkedin.com/in/jenniferbelisle/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jim Bressi",
+      "summary": "Channel One Regional Food Bank — Board Chair",
+      "fit_score": 9,
+      "fit_reason": "Tier C board leadership. Serves as Chair of Board of Directors, representing significant organizational governance influence.",
+      "source_query": "hunter:w2026-08-30f:channelone",
+      "city": "Rochester",
+      "state": "MN",
+      "meta": {
+        "tier": "C",
+        "role": "Chair, Board of Directors",
+        "target_org": "Channel One Regional Food Bank",
+        "evidence_url": "https://www.helpingfeedpeople.org/about-us/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Susan Ahlquist",
+      "summary": "Channel One Regional Food Bank — Vice-Chair, Board of Directors",
+      "fit_score": 8,
+      "fit_reason": "Tier C board leadership. Vice-Chair of Board provides strategic direction and governance oversight as key board officer.",
+      "source_query": "hunter:w2026-08-30f:channelone",
+      "city": "Rochester",
+      "state": "MN",
+      "meta": {
+        "tier": "C",
+        "role": "Vice-Chair, Board of Directors",
+        "target_org": "Channel One Regional Food Bank",
+        "evidence_url": "https://www.helpingfeedpeople.org/about-us/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Diane Lund",
+      "summary": "Channel One Regional Food Bank — Secretary, Board of Directors",
+      "fit_score": 8,
+      "fit_reason": "Tier C board leadership. Board Secretary with fiduciary oversight and strategic governance responsibilities.",
+      "source_query": "hunter:w2026-08-30f:channelone",
+      "city": "Rochester",
+      "state": "MN",
+      "meta": {
+        "tier": "C",
+        "role": "Secretary, Board of Directors",
+        "target_org": "Channel One Regional Food Bank",
+        "evidence_url": "https://www.helpingfeedpeople.org/about-us/board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Chad DeCook",
+      "summary": "Channel One Regional Food Bank — Board Director",
+      "fit_score": 7,
+      "fit_reason": "Tier C board member. Serves on Board of Directors representing banking sector, contributing financial and strategic expertise.",
+      "source_query": "hunter:w2026-08-30f:channelone",
+      "city": "Rochester",
+      "state": "MN",
+      "meta": {
+        "tier": "C",
+        "role": "Board Director",
+        "target_org": "Channel One Regional Food Bank",
+        "evidence_url": "https://www.helpingfeedpeople.org/about-us/board-of-directors/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Channel One Regional Food Bank",
+      "website": "https://www.helpingfeedpeople.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "headcount_est": 35,
+      "faith_orientation": "secular",
+      "evidence": "Secular hunger-relief nonprofit serving 14 counties in southeast Minnesota and La Crosse County, Wisconsin. Distributes over 11 million pounds of food annually."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Channel One Regional Food Bank Rochester Minnesota staff directory",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Channel One Regional Food Bank development officer fundraising staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Channel One Regional Food Bank board members board of directors",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:helpingfeedpeople.org board directors OR development OR grants",
+      "outcome": "found_people",
+      "people_found": 15
+    },
+    {
+      "kind": "query",
+      "value": "\"Channel One Regional Food Bank\" \"development director\" OR \"advancement officer\" OR \"grant writer\"",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Virginia Witherspoon",
+      "reason_code": "already_in_crm",
+      "detail": "Executive Director, already recorded in DonorSend CRM per instructions"
+    }
+  ]
+}

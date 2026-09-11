@@ -1,0 +1,161 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:team",
+  "target_org": "TEAM - The Evangelical Alliance Mission",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Dr. April Moreton",
+      "org_type": "individual",
+      "summary": "TEAM - The Evangelical Alliance Mission — Donor Contact",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Development/advancement staff responsible for donor relations and stewardship at major Christian missions organization",
+      "source_query": "hunter:w2026-08-30f:team",
+      "meta": {
+        "tier": "B",
+        "role": "Donor Contact",
+        "target_org": "TEAM - The Evangelical Alliance Mission",
+        "evidence_url": "https://www.team.org/about-us/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Douglas K Batchelder",
+      "org_type": "individual",
+      "summary": "TEAM - The Evangelical Alliance Mission — Donor Relations Manager",
+      "fit_score": 8,
+      "fit_reason": "Tier B: Donor relations staff managing fundraising and donor engagement for the organization",
+      "source_query": "hunter:w2026-08-30f:team",
+      "meta": {
+        "tier": "B",
+        "role": "Donor Relations Manager",
+        "target_org": "TEAM - The Evangelical Alliance Mission",
+        "evidence_url": "https://db.ministrywatch.com/ministry.php?ein=000001531",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jared Riepma",
+      "org_type": "individual",
+      "summary": "TEAM - The Evangelical Alliance Mission — Missionary (Field Staff)",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Field missionary confirmed within TEAM network where organizational policy requires all missionaries to raise personal support",
+      "source_query": "hunter:w2026-08-30f:team",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "TEAM - The Evangelical Alliance Mission",
+        "evidence_url": "https://www.team.org/article/how-to-write-support-letter/",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    },
+    {
+      "org_name": "Denise Carter",
+      "org_type": "individual",
+      "summary": "TEAM - The Evangelical Alliance Mission — Missionary (Field Staff)",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Field missionary confirmed within TEAM network where organizational policy requires all missionaries to raise personal support",
+      "source_query": "hunter:w2026-08-30f:team",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "TEAM - The Evangelical Alliance Mission",
+        "evidence_url": "https://www.team.org/article/how-to-write-support-letter/",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    },
+    {
+      "org_name": "Beth Chadwick",
+      "org_type": "individual",
+      "summary": "TEAM - The Evangelical Alliance Mission — Missionary (Field Staff)",
+      "fit_score": 7,
+      "fit_reason": "Tier A: Field missionary confirmed within TEAM network where organizational policy requires all missionaries to raise personal support",
+      "source_query": "hunter:w2026-08-30f:team",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "target_org": "TEAM - The Evangelical Alliance Mission",
+        "evidence_url": "https://www.team.org/article/how-to-write-support-letter/",
+        "confidence": "medium",
+        "evidence_basis": "org_policy"
+      }
+    },
+    {
+      "org_name": "Justin Burkholder",
+      "org_type": "individual",
+      "summary": "TEAM - The Evangelical Alliance Mission — International Director",
+      "fit_score": 3,
+      "fit_reason": "Tier C: Senior organizational leader (International Director/top executive), not a missionary or development staff",
+      "source_query": "hunter:w2026-08-30f:team",
+      "meta": {
+        "tier": "C",
+        "role": "International Director / Top Leader",
+        "target_org": "TEAM - The Evangelical Alliance Mission",
+        "evidence_url": "https://www.team.org/about-us/",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "TEAM - The Evangelical Alliance Mission",
+      "website": "https://www.team.org/",
+      "org_type": "mission_board",
+      "size_estimate": "large",
+      "tier_profile": "AB",
+      "headcount_est": 575,
+      "faith_orientation": "christian",
+      "evidence": "Founded 1890; inter-denominational evangelical missions organization; 550+ missionaries in 40+ countries; mandatory personal support-raising model for field staff; headquarters Maryville, TN (U.S. office Carol Stream, IL)"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "TEAM The Evangelical Alliance Mission missionaries Carol Stream staff directory",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "TEAM - The Evangelical Alliance Mission field missionaries support raising",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "TEAM Evangelical Alliance Mission board leadership team development",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "TEAM Evangelical Alliance Mission missionaries prayer letters personal support pages names",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "TEAM Evangelical Alliance Mission development director donor relations advancement staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "TEAM Evangelical Alliance Mission board members trustees leadership 2026",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "negatives": [],
+  "needs_review": [
+    {
+      "name": "Board/Trustee Members",
+      "org": "TEAM - The Evangelical Alliance Mission",
+      "question": "No specific board trustee names found in public sources; organization has 575 staff but board composition not disclosed in search results",
+      "evidence_url": "https://www.ecfa.org/MemberProfile.aspx?ID=16122",
+      "notes": "Search exhausted public sources; board-level information may require direct contact or internal sources"
+    }
+  ]
+}

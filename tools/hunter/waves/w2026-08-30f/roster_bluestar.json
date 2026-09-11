@@ -1,0 +1,144 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:bluestar",
+  "target_org": "Blue Star Families",
+  "roster_verdict": "exhausted",
+  "people": [
+    {
+      "org_name": "Kathy Roth-Douquet",
+      "summary": "Blue Star Families — Founder and CEO",
+      "fit_score": 6,
+      "fit_reason": "Executive leader; founder with major donor network; strategic entry point for enterprise-level conversations",
+      "source_query": "hunter:w2026-08-30f:bluestar",
+      "meta": {
+        "tier": "C",
+        "role": "Founder and CEO",
+        "target_org": "Blue Star Families",
+        "evidence_url": "https://www.guidestar.org/profile/80-0369895",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Craig Newmark",
+      "summary": "Blue Star Families — Board Member",
+      "fit_score": 7,
+      "fit_reason": "Founder of Craig Newmark Philanthropies; major philanthropist with institutional giving infrastructure and network",
+      "source_query": "hunter:w2026-08-30f:bluestar",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Blue Star Families",
+        "evidence_url": "https://bluestarfam.org/board-and-advisors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Edward Felsenthal",
+      "summary": "Blue Star Families — Board Member",
+      "fit_score": 6,
+      "fit_reason": "Executive Chairman; former TIME CEO and editor-in-chief; prominent media and business leadership background",
+      "source_query": "hunter:w2026-08-30f:bluestar",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Blue Star Families",
+        "evidence_url": "https://www.manilatimes.net/2026/01/08/tmt-newswire/globenewswire/blue-star-families-welcomes-new-advisory-board-members-to-advance-military-family-initiatives/2255352",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ronald Keohane",
+      "summary": "Blue Star Families — Advisory Board Member",
+      "fit_score": 5,
+      "fit_reason": "Former Assistant Secretary of Defense for Manpower and Reserve Affairs; government relations and defense policy expertise",
+      "source_query": "hunter:w2026-08-30f:bluestar",
+      "meta": {
+        "tier": "C",
+        "role": "Advisory Board Member",
+        "target_org": "Blue Star Families",
+        "evidence_url": "https://www.manilatimes.net/2026/01/08/tmt-newswire/globenewswire/blue-star-families-welcomes-new-advisory-board-members-to-advance-military-family-initiatives/2255352",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gadi Dechter",
+      "summary": "Blue Star Families — Advisory Board Member",
+      "fit_score": 4,
+      "fit_reason": "VP Communications and Government Affairs at Princeton University; institutional relations and external affairs expertise",
+      "source_query": "hunter:w2026-08-30f:bluestar",
+      "meta": {
+        "tier": "C",
+        "role": "Advisory Board Member",
+        "target_org": "Blue Star Families",
+        "evidence_url": "https://www.manilatimes.net/2026/01/08/tmt-newswire/globenewswire/blue-star-families-welcomes-new-advisory-board-members-to-advance-military-family-initiatives/2255352",
+        "confidence": "high"
+      }
+    }
+  ],
+  "negatives": [
+    {
+      "name": "Chief Development Officer",
+      "reason": "platform_not_person",
+      "evidence": "Active job posting on Greenhouse ATS; no named incumbent identified"
+    },
+    {
+      "name": "Senior Director, Development – Northern California",
+      "reason": "platform_not_person",
+      "evidence": "Active job posting ($106K–$146K salary range); no named incumbent identified"
+    },
+    {
+      "name": "Associate Director, Advancement Services",
+      "reason": "platform_not_person",
+      "evidence": "Active job posting for Oregon ($79K–$109K salary range); no named incumbent identified"
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Blue Star Families development director advancement staff",
+      "search_number": 1,
+      "outcome": "Job postings and generic staff descriptions located; no specific development staff names extracted",
+      "people_found": 0,
+      "note": "Results dominated by Greenhouse job board listings; references to generic development roles but no incumbent identification"
+    },
+    {
+      "query": "\"Blue Star Families\" staff executives leadership team",
+      "search_number": 2,
+      "outcome": "Named 8 executives and leadership team members identified with titles",
+      "people_found": 8,
+      "note": "Comprehensive C-suite and executive roster found: CEO, CFO, COO, Chief Transformation Officer, Chief Impact Officer, CMO, Senior VP External Affairs, Executive Director"
+    },
+    {
+      "query": "\"Blue Star Families\" board members trustees directors",
+      "search_number": 3,
+      "outcome": "Named board and advisory board members identified from January 2026 press release",
+      "people_found": 8,
+      "note": "Multiple board/advisory members found; also identified founder CEO Kathy Roth-Douquet"
+    },
+    {
+      "query": "\"Blue Star Families\" \"senior director\" development philanthropy advancement",
+      "search_number": 4,
+      "outcome": "Job descriptions and open position postings found; no current staff names identified",
+      "people_found": 0,
+      "note": "Active recruitment for CDO and Senior Director Development roles; position descriptions detail responsibilities but no incumbent staff names in public results"
+    },
+    {
+      "query": "site:bluestarfam.org staff team members meet the team",
+      "search_number": 5,
+      "outcome": "Site search returned references to team pages but full directory not accessible via search snippets",
+      "people_found": 0,
+      "note": "Wikipedia article and references to \"Meet Our Team\" page found but detailed staff roster not captured"
+    },
+    {
+      "query": "Blue Star Families major gifts director donor relations fundraising",
+      "search_number": 6,
+      "outcome": "Job descriptions and role specifications located; no named staff members identified",
+      "people_found": 0,
+      "note": "Job postings describe major gifts roles managing $25K+ gift portfolios; recruitment active but no incumbent staff names publicly indexed"
+    }
+  ],
+  "research_notes": {
+    "tier_b_development_priority": "Tier B development/advancement positions (CDO, Senior Director Development, Associate Director Advancement Services) are clearly identifiable from active job postings but current staff names in these roles are not publicly listed in web-indexed sources. Organization appears actively recruiting.",
+    "tier_c_board_executive": "5 board/advisory members recorded (at maximum threshold); 8 total executives and leadership staff identified but focused on non-development roles",
+    "public_presence_limitation": "Blue Star Families' public web presence does not appear to include an indexed, detailed staff directory with individual names for development and advancement roles. Primary public information available is executive leadership and board roster."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "wave_id": "w2026-09-10e",
+  "agent": "cmml-low",
+  "target_org": "Christian Missions in Many Lands, Inc.",
+  "slice": "m/1–m/650",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Eleanor Sims",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/732",
+      "fit_reason": "CMML page title is numeric ('Missionary #711'); names 'Eleanor and John Sims' from search snippet tie person to m/732 ID"
+    },
+    {
+      "name": "John Sims",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/732",
+      "fit_reason": "CMML page title is numeric ('Missionary #711'); names 'Eleanor and John Sims' from search snippet tie person to m/732 ID"
+    },
+    {
+      "name": "Floyd Pierce",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/247",
+      "fit_reason": "Full names 'Pierce, Floyd & Helen' appear in CMML page title ('Missionary #227 - Pierce, Floyd & Helen')"
+    },
+    {
+      "name": "Helen Pierce",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/247",
+      "fit_reason": "Full names 'Pierce, Floyd & Helen' appear in CMML page title ('Missionary #227 - Pierce, Floyd & Helen')"
+    },
+    {
+      "name": "Brock Smith",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/866",
+      "fit_reason": "CMML page title is numeric ('Missionary #799'); names 'Brock & Kelly Smith' from search snippet tie person to m/866 ID"
+    },
+    {
+      "name": "Kelly Smith",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/866",
+      "fit_reason": "CMML page title is numeric ('Missionary #799'); names 'Brock & Kelly Smith' from search snippet tie person to m/866 ID"
+    },
+    {
+      "name": "Micah Tuttle",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/294",
+      "fit_reason": "CMML page title is numeric ('Missionary #274'); names 'Micah & Amy Tuttle' from search snippet tie person to m/294 ID"
+    },
+    {
+      "name": "Amy Tuttle",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/294",
+      "fit_reason": "CMML page title is numeric ('Missionary #274'); names 'Micah & Amy Tuttle' from search snippet tie person to m/294 ID"
+    },
+    {
+      "name": "Wilser Cacho-Hansen",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/282",
+      "fit_reason": "CMML page title is numeric ('Missionary #262'); names 'Wilser & Nicole Cacho-Hansen' from search snippet tie person to m/282 ID"
+    },
+    {
+      "name": "Nicole Cacho-Hansen",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/282",
+      "fit_reason": "CMML page title is numeric ('Missionary #262'); names 'Wilser & Nicole Cacho-Hansen' from search snippet tie person to m/282 ID"
+    },
+    {
+      "name": "Ken Hardisty",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/641",
+      "fit_reason": "Full names 'Hardisty, Ken & Joyce' appear in CMML page title ('Missionary #621 - Hardisty, Ken & Joyce')"
+    },
+    {
+      "name": "Joyce Hardisty",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/641",
+      "fit_reason": "Full names 'Hardisty, Ken & Joyce' appear in CMML page title ('Missionary #621 - Hardisty, Ken & Joyce')"
+    },
+    {
+      "name": "Wendy Beidleman",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/105",
+      "fit_reason": "Full name 'Beidleman, Mrs. Wendy (Foskett)' appears in CMML page title ('Missionary #85 - Beidleman, Mrs. Wendy (Foskett)')"
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "site:cmml.us/m/ missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ Zambia missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ Zimbabwe missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ Ireland missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ Japan missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ Brazil missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ Peru missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ Spain missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ Angola missionary", "outcome": "no_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ Malawi missionary", "outcome": "no_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ \"church plant\" missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ \"Bible teaching\" missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ aviation missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ Philippines missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ literacy missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ medical missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ Emmaus missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:cmml.us/m/ France missionary", "outcome": "found_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "Incomplete names from CMML profiles",
+      "finding": "Multiple missionaries found with first names only (e.g., 'Joy and Tim', 'Patrick and Sherry', 'John and Karen', 'Tim and Christiane', 'Gavin and Margaret', 'Phil and Mary', 'Bob') but no surnames visible in search snippets. These do not meet the 'real named humans' criterion and were excluded from people[].",
+      "evidence": "Search results from Zambia, Brazil, Japan, Peru, and Philippines qualifiers returned profiles with incomplete identification",
+      "recommendation": "Consider revisiting full CMML pages directly if surnames can be accessed; otherwise these entries remain incomplete"
+    },
+    {
+      "issue": "CMML numeric page offset pattern",
+      "finding": "CMML profiles show consistent offset between page title numbers ('Missionary #XXX') and URL IDs (m/YYY), with YYY typically ~20 higher than XXX. For example: 'Missionary #380' at m/400, 'Missionary #711' at m/732. This pattern suggests possible profile renumbering, gaps, or intentional ID structure.",
+      "evidence": "Consistent offset observed across all 50+ profiles discovered",
+      "recommendation": "Document offset pattern for future enumeration work; consider whether it indicates true coverage gaps in the ID range"
+    }
+  ]
+}

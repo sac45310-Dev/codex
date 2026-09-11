@@ -1,0 +1,100 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:apnm",
+  "target_org": "Animal Protection New Mexico",
+  "roster_verdict": "rostered",
+  "coverage": [
+    {
+      "query": "Animal Protection New Mexico staff team leadership",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "query": "\"Animal Protection New Mexico\" development advancement fundraising director",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "query": "\"Animal Protection New Mexico\" board trustees members Albuquerque",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "query": "apnm.org staff directory leadership team",
+      "outcome": "found_people",
+      "people_found": 4
+    }
+  ],
+  "people": [
+    {
+      "org_name": "Elizabeth Wolf",
+      "summary": "Animal Protection New Mexico — Chief Development Officer",
+      "fit_score": 5,
+      "fit_reason": "Primary development/fundraising officer responsible for donor relations and fundraising strategy; direct Tier B priority match",
+      "source_query": "hunter:w2026-08-30f:apnm",
+      "meta": {
+        "tier": "B",
+        "role": "Chief Development Officer",
+        "target_org": "Animal Protection New Mexico",
+        "evidence_url": "https://www.signalhire.com/companies/animal-protection-of-new-mexico/employees",
+        "confidence": "HIGH"
+      }
+    },
+    {
+      "org_name": "Krista Maddox",
+      "summary": "Animal Protection New Mexico — Financial Director",
+      "fit_score": 4,
+      "fit_reason": "Manages organizational finances and fundraising infrastructure; Tier B development support role",
+      "source_query": "hunter:w2026-08-30f:apnm",
+      "meta": {
+        "tier": "B",
+        "role": "Financial Director",
+        "target_org": "Animal Protection New Mexico",
+        "evidence_url": "https://www.signalhire.com/companies/animal-protection-of-new-mexico/employees",
+        "confidence": "HIGH"
+      }
+    },
+    {
+      "org_name": "Elisabeth Jennings",
+      "summary": "Animal Protection New Mexico — Executive Director",
+      "fit_score": 5,
+      "fit_reason": "Senior executive overseeing organization strategy, donor relations, and major gift approval; Tier C priority",
+      "source_query": "hunter:w2026-08-30f:apnm",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "Animal Protection New Mexico",
+        "evidence_url": "https://www.charitynavigator.org/ein/850283292",
+        "confidence": "HIGH"
+      }
+    },
+    {
+      "org_name": "Nina Eydelman",
+      "summary": "Animal Protection New Mexico — Chief Program & Policy Officer, Equine & Wildlife Programs",
+      "fit_score": 3,
+      "fit_reason": "Senior program officer with policy authority; Tier C officer-level role",
+      "source_query": "hunter:w2026-08-30f:apnm",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Program & Policy Officer",
+        "target_org": "Animal Protection New Mexico",
+        "evidence_url": "https://www.linkedin.com/in/nina-eydelman-a4454b48/",
+        "confidence": "HIGH"
+      }
+    },
+    {
+      "org_name": "Jessica Johnson Shelton",
+      "summary": "Animal Protection New Mexico — Chief Government Affairs Officer",
+      "fit_score": 3,
+      "fit_reason": "Officer-level government relations and advocacy leadership; Tier C role",
+      "source_query": "hunter:w2026-08-30f:apnm",
+      "meta": {
+        "tier": "C",
+        "role": "Chief Government Affairs Officer",
+        "target_org": "Animal Protection New Mexico",
+        "evidence_url": "https://www.charitynavigator.org/ein/850283292",
+        "confidence": "MEDIUM"
+      }
+    }
+  ]
+}

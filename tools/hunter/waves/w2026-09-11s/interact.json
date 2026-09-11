@@ -1,0 +1,589 @@
+{
+  "wave_id": "w2026-09-11s",
+  "agent": "s-interact",
+  "target_org": "InterAct Ministries",
+  "slice": "all of Alaska and western Canada (village church planting, aviation, camp, Alaska Native ministry, field office and leadership roles)",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "George Richardson",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/richardson-george-judy/",
+      "fit_reason": "Couple page; surname Richardson in slug, title names both George & Judy"
+    },
+    {
+      "name": "Judy Richardson",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/richardson-george-judy/",
+      "fit_reason": "Couple page; surname Richardson in slug, title names both George & Judy"
+    },
+    {
+      "name": "Dennis Richardson",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/richardson-dennis-celesta/",
+      "fit_reason": "Couple page; surname Richardson in slug, title names both Dennis & Celesta; confirmed pattern example"
+    },
+    {
+      "name": "Celesta Richardson",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/richardson-dennis-celesta/",
+      "fit_reason": "Couple page; surname Richardson in slug, title names both Dennis & Celesta; confirmed pattern example"
+    },
+    {
+      "name": "Carrie Curtis",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Aviation Support / Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/curtis-carrie/",
+      "fit_reason": "Single person page; surname Curtis in slug, title names Carrie; Tier A (aviation staff at faith mission raise support)"
+    },
+    {
+      "name": "Jonathan DeVries",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Pilot / Aviation Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/devries-jonathan-amy/",
+      "fit_reason": "Couple page; surname DeVries in slug, title names both Jonathan & Amy"
+    },
+    {
+      "name": "Amy DeVries",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/devries-jonathan-amy/",
+      "fit_reason": "Couple page; surname DeVries in slug, title names both Jonathan & Amy"
+    },
+    {
+      "name": "Jennetta Hughes",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/hughes-jennetta/",
+      "fit_reason": "Single person page; surname Hughes in slug, title names Jennetta"
+    },
+    {
+      "name": "Aaron Dalton",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/dalton-aaron-and-tisha/",
+      "fit_reason": "Couple page; surname Dalton in slug with alternate hyphenation format, title names both Aaron & Tisha"
+    },
+    {
+      "name": "Tisha Dalton",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/dalton-aaron-and-tisha/",
+      "fit_reason": "Couple page; surname Dalton in slug with alternate hyphenation format, title names both Aaron & Tisha"
+    },
+    {
+      "name": "Ron Paull",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Pastor / Rural Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/paull-ron-jean/",
+      "fit_reason": "Couple page; surname Paull in slug, title names both Ron & Jean"
+    },
+    {
+      "name": "Jean Paull",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/paull-ron-jean/",
+      "fit_reason": "Couple page; surname Paull in slug, title names both Ron & Jean"
+    },
+    {
+      "name": "Chad Peterson",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/peterson-chad-andrea/",
+      "fit_reason": "Couple page; surname Peterson in slug, title names both Chad & Andrea"
+    },
+    {
+      "name": "Andrea Peterson",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/peterson-chad-andrea/",
+      "fit_reason": "Couple page; surname Peterson in slug, title names both Chad & Andrea"
+    },
+    {
+      "name": "Glenna Houston",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/houston-glenna/",
+      "fit_reason": "Single person page; surname Houston in slug, title names Glenna"
+    },
+    {
+      "name": "Jim Hamilton",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/hamilton-jim-becky/",
+      "fit_reason": "Couple page; surname Hamilton in slug, title names both Jim & Becky"
+    },
+    {
+      "name": "Becky Hamilton",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/hamilton-jim-becky/",
+      "fit_reason": "Couple page; surname Hamilton in slug, title names both Jim & Becky"
+    },
+    {
+      "name": "Alan Ross",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/ross-alan-linda/",
+      "fit_reason": "Couple page; surname Ross in slug, title names both Alan & Linda; Alutiiq ministry in Alaska"
+    },
+    {
+      "name": "Linda Ross",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/ross-alan-linda/",
+      "fit_reason": "Couple page; surname Ross in slug, title names both Alan & Linda; Alutiiq ministry in Alaska"
+    },
+    {
+      "name": "Joel Sewell",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/category/canada/sewell-joel-and-amanda/",
+      "fit_reason": "Couple page; surname Sewell in slug with alternate hyphenation format, title names both Joel & Amanda"
+    },
+    {
+      "name": "Amanda Sewell",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/category/canada/sewell-joel-and-amanda/",
+      "fit_reason": "Couple page; surname Sewell in slug with alternate hyphenation format, title names both Joel & Amanda"
+    },
+    {
+      "name": "Steve Horsman",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Field Director / Leadership",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/horsman-steve-jill/",
+      "fit_reason": "Couple page; surname Horsman in slug, title names both Steve & Jill; leadership role raises support"
+    },
+    {
+      "name": "Jill Horsman",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Leadership Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/horsman-steve-jill/",
+      "fit_reason": "Couple page; surname Horsman in slug, title names both Steve & Jill; field office staff raise support"
+    },
+    {
+      "name": "Dan Mayerle",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Leadership / Field Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/mayerle-dan-bev/",
+      "fit_reason": "Couple page; surname Mayerle in slug, title names both Dan & Bev"
+    },
+    {
+      "name": "Bev Mayerle",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/mayerle-dan-bev/",
+      "fit_reason": "Couple page; surname Mayerle in slug, title names both Dan & Bev"
+    },
+    {
+      "name": "Dave Hill",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/hill-dave/",
+      "fit_reason": "Single person page; surname Hill in slug, title names Dave; confirmed pattern example (not to be confused with Henry, Dave)"
+    },
+    {
+      "name": "Andy Chinn",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/category/4-canada/chinn-andy-and-jesi/",
+      "fit_reason": "Couple page; surname Chinn in slug with alternate hyphenation format, title names both Andy & Jesi"
+    },
+    {
+      "name": "Jesi Chinn",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/category/4-canada/chinn-andy-and-jesi/",
+      "fit_reason": "Couple page; surname Chinn in slug with alternate hyphenation format, title names both Andy & Jesi"
+    },
+    {
+      "name": "Dave Henry",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/henry-dave/",
+      "fit_reason": "Single person page; surname Henry in slug, title names Dave; Koyukon language ministry; confirmed pattern example"
+    },
+    {
+      "name": "Dave Allen",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/allen-dave-becky/",
+      "fit_reason": "Couple page; surname Allen in slug, title renders Allen, Dave & Becky; confirmed pattern example"
+    },
+    {
+      "name": "Becky Allen",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/allen-dave-becky/",
+      "fit_reason": "Couple page; surname Allen in slug, title renders Allen, Dave & Becky; confirmed pattern example"
+    },
+    {
+      "name": "Dottie Kasten",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/category/canada/kasten-dottie/",
+      "fit_reason": "Single person page; surname Kasten in slug, title names Dottie"
+    },
+    {
+      "name": "Mark Overbeek",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/overbeek-mark-heather/",
+      "fit_reason": "Couple page; surname Overbeek in slug, title names both Mark & Heather; Alaska Kodiak Island ministry"
+    },
+    {
+      "name": "Heather Overbeek",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/overbeek-mark-heather/",
+      "fit_reason": "Couple page; surname Overbeek in slug, title names both Mark & Heather; Alaska Kodiak Island ministry"
+    },
+    {
+      "name": "Josh Beutler",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/category/canada/beutler-josh-and-joylynn/",
+      "fit_reason": "Couple page; surname Beutler in slug with alternate hyphenation format, title names both Josh & Joylynn"
+    },
+    {
+      "name": "Joylynn Beutler",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/category/canada/beutler-josh-and-joylynn/",
+      "fit_reason": "Couple page; surname Beutler in slug with alternate hyphenation format, title names both Josh & Joylynn"
+    },
+    {
+      "name": "Jordan Martin",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/martin-jordan-jessica/",
+      "fit_reason": "Couple page; surname Martin in slug, title names both Jordan & Jessica; Ruby, Alaska church planting"
+    },
+    {
+      "name": "Jessica Martin",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/martin-jordan-jessica/",
+      "fit_reason": "Couple page; surname Martin in slug, title names both Jordan & Jessica; Ruby, Alaska church planting"
+    },
+    {
+      "name": "Toby Curtis",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Ministry Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/curtis-toby-cherie/",
+      "fit_reason": "Couple page; surname Curtis in slug, title names both Toby & Cherie; Alaska Palmer field office"
+    },
+    {
+      "name": "Cherie Curtis",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Ministry Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/curtis-toby-cherie/",
+      "fit_reason": "Couple page; surname Curtis in slug, title names both Toby & Cherie; Alaska Palmer field office"
+    },
+    {
+      "name": "Jon Casey",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/casey-jon-maryanna/",
+      "fit_reason": "Couple page; surname Casey in slug, title names both Jon & MaryAnna"
+    },
+    {
+      "name": "MaryAnna Casey",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/casey-jon-maryanna/",
+      "fit_reason": "Couple page; surname Casey in slug, title names both Jon & MaryAnna"
+    },
+    {
+      "name": "Morgan Serger",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Church Planter / School Principal",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/serger-morgan-krista/",
+      "fit_reason": "Couple page; surname Serger in slug, title names both Morgan & Krista; York Landing, Manitoba Cree ministry"
+    },
+    {
+      "name": "Krista Serger",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/serger-morgan-krista/",
+      "fit_reason": "Couple page; surname Serger in slug, title names both Morgan & Krista; York Landing, Manitoba Cree ministry"
+    },
+    {
+      "name": "Shirley Morgan",
+      "org": "InterAct Ministries",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://interactministries.org/morgan-shirley/",
+      "fit_reason": "Single person page; surname Morgan in slug, title names Shirley"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:interactministries.org/missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org Alaska church planting",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org Alaska aviation pilot",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org \"Alaska Native\" village ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org \"British Columbia\" OR \"Alberta\" Canada",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org camp Tanalian conference grounds staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org field director office manager leadership",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org church planter pastor teacher Alaska -retired",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org translator interpreter language Bible translation",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org Siberia Russia Sakha Tuvan -retired",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org Martin Jordan Ruby Grayling Yukon",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org Kodiak Anchorage Fairbanks village pastor church",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org Curtis aviation support Carrie missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org Stoney Eden Valley Longview Alberta missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org Hughes Ross missionary singles ministry Alaska",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org missionaries Alaska Canada -Allen -Richardson -Curtis -Casey -Henry -Hill -Martin -Overbeek -Dalton",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org Dick Ruth Shuswap Canim Lake British Columbia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:interactministries.org Morgan Krista York Landing Manitoba Cree missionary",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Siberia workers not surfaced in direct person pages",
+      "finding": "Search for Siberia/Sakha/Tuvan ministry returned organizational context and partnerships (Bible translation) but no individual person pages. Mention of 'The Moles' joined Russian team but no citable URL.",
+      "evidence": "Query results mentioned Sakha churches and Tuvan Bible translation partnerships but linked to organizational pages, not individual pages",
+      "recommendation": "Siberia workers may be published with first names only per brief protection rules. No records should be emitted without full names and citable pages. Current state is compliant."
+    },
+    {
+      "issue": "Potential retirees referenced but not examined",
+      "finding": "Multiple search results included links to interactministries.org/retired/ which is a documented retiree trap per brief. No records were extracted from retired pages; the trap was successfully avoided.",
+      "evidence": "Retired path appeared in 7+ search results but was never accessed or cited for any person record",
+      "recommendation": "No action required; retiree trap was correctly avoided."
+    },
+    {
+      "issue": "Thiessen family mentioned in blog article only",
+      "finding": "Roy and Laura Thiessen mentioned in 2016 blog post (interactministries.org/2016/08/26/roy-and-laura-thiessen-canada/) but no individual person page in the standard URL pattern was found.",
+      "evidence": "Search result showed 'Thiessen - Roy and Laura - Canada' linked from /category/canada/ but source was dated blog article, not personal giving page",
+      "recommendation": "Per enumeration rules, source_url must be person's own page, not news/blog. No record emitted. If standard page exists at /thiessen-roy-laura/ or similar, it may have been missed."
+    },
+    {
+      "issue": "Dave Hill spouse Sally mentioned as deceased",
+      "finding": "Search results mention 'Dave Hill and his late wife Sally served with InterAct as church planters.' Sally is deceased.",
+      "evidence": "Search result explicitly states 'late wife Sally' in historical context",
+      "recommendation": "Per enumeration rules, deceased people should not be emitted as prospects. Only Dave Hill was recorded. Sally Hill correctly excluded."
+    },
+    {
+      "issue": "URL pattern variation with -and- found in four records",
+      "finding": "Four couple pages use alternate slug format with hyphenated 'and': /dalton-aaron-and-tisha/, /sewell-joel-and-amanda/, /chinn-andy-and-jesi/, /beutler-josh-and-joylynn/. Standard pattern examples omit 'and'.",
+      "evidence": "Search results consistently returned these URLs with '-and-' preserved; titles confirmed couples (e.g., 'Dalton, Aaron & Tisha')",
+      "recommendation": "Pattern confirmed valid per organization's URL structure. All four couples cited with full details. Slug format variation does not prevent citation."
+    },
+    {
+      "issue": "Henry, Dave's spouse Kay mentioned but no separate page found",
+      "finding": "Dave Henry's wife Kay mentioned in search results as co-translator of Koyukon New Testament but no individual page URL was discovered for her.",
+      "evidence": "Search result description: 'Dave and his wife Kay began their ministry in Alaska by translating portions of the New Testament under Wycliffe with the Koyukon Indians'",
+      "recommendation": "Per enumeration rules requiring named person pages: Kay Henry not emitted without her own URL. Only Dave Henry recorded as single person from that couple."
+    }
+  ]
+}

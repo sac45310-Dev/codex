@@ -1,0 +1,444 @@
+{
+  "wave_id": "w2026-09-07a",
+  "agent": "prospector:campus-youth",
+  "orgs_discovered": [
+    {
+      "org_name": "Cru",
+      "website": "cru.org",
+      "org_type": "agency",
+      "size_estimate": "large",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Campus staff raise full salaries and ministry budgets from individual/church donors; 25,000+ staff in 190+ countries; 101,000+ students reached on 2,300 US campuses"
+    },
+    {
+      "org_name": "Campus Outreach - Atlanta",
+      "website": "coatlanta.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Separately incorporated franchise; launched 1999; serve UGA and Georgia Tech; giving route: coatlanta.org"
+    },
+    {
+      "org_name": "Campus Outreach - Houston",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Franchise city chapter with separate staff and giving model; part of 40-franchise network"
+    },
+    {
+      "org_name": "Campus Outreach - Dallas/Ft. Worth",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Franchise city chapter; part of independently operated network"
+    },
+    {
+      "org_name": "Campus Outreach - Charleston",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Franchise city chapter with separate campus ministry operations"
+    },
+    {
+      "org_name": "Campus Outreach - Charlotte",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Franchise city chapter; part of growing franchise network"
+    },
+    {
+      "org_name": "Campus Outreach - Indianapolis",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Franchise city chapter with separate campus operations"
+    },
+    {
+      "org_name": "Campus Outreach - Minneapolis",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Franchise city chapter; independently operated ministry"
+    },
+    {
+      "org_name": "Campus Outreach - San Diego",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Franchise city chapter with separate giving and staff structure"
+    },
+    {
+      "org_name": "Campus Outreach - Washington D.C.",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Franchise city chapter; part of national franchise system"
+    },
+    {
+      "org_name": "Young Life",
+      "website": "younglife.org",
+      "org_type": "ministry",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "7,000+ local chapters, 60,000 adult volunteers in 100+ countries; regional office structure supports local chapters"
+    },
+    {
+      "org_name": "InterVarsity Christian Fellowship/USA",
+      "website": "intervarsity.org",
+      "org_type": "ministry",
+      "size_estimate": "large",
+      "tier_profile": "AB",
+      "faith_orientation": "christian",
+      "notes": "1,121 chapters on 772 US campuses; regional structure with Assistant Regional Director positions; chapters can receive designated giving; give.intervarsity.org"
+    },
+    {
+      "org_name": "Youth for Christ",
+      "website": "yfc.net",
+      "org_type": "ministry",
+      "size_estimate": "large",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "1,500+ regional chapters worldwide; ALL staff expected to actively fundraise; setting personal funding goals; staff extend donor invitations and recruit from personal networks"
+    },
+    {
+      "org_name": "Youth for Christ - Northern Indiana",
+      "website": null,
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Regional chapter with separate staff operations and fundraising model"
+    },
+    {
+      "org_name": "Coalition for Christian Outreach",
+      "website": "ccojubilee.org",
+      "org_type": "ministry",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "faith_orientation": "christian",
+      "notes": "Pittsburgh HQ (1971); 225 staff on 104 campuses; annual Jubilee conference draws 2,000+ students; 9-year Best Christian Workplace designation"
+    },
+    {
+      "org_name": "The Navigators - Collegiate",
+      "website": "collegiatenavigators.org",
+      "org_type": "ministry",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "New field staff put on 'fast track to fundraising' with training from Ministry Partner Development Team; regional structure (Mid-America Navigators covers Iowa/Nebraska)"
+    },
+    {
+      "org_name": "Mid-America Navigators",
+      "website": "midamericanavs.org",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Regional Navigators entity serving Iowa and Nebraska campus ministries; separate staff and ministry operations"
+    },
+    {
+      "org_name": "Reformed University Fellowship",
+      "website": "ruf.org",
+      "org_type": "ministry",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Presbyterian Church in America ministry; 170+ chapters across 41 states; RUF interns raise funds; also operates RUF International and RUF Global"
+    },
+    {
+      "org_name": "Fellowship of Christian Athletes",
+      "website": "fca.org",
+      "org_type": "ministry",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "47 countries, 13,000 campuses; operates through regional structure (SW Region FCA, Iowa FCA, Pennsylvania FCA, LA); state-level chapters have own operations"
+    },
+    {
+      "org_name": "Iowa FCA",
+      "website": "iowafca.org",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "State regional chapter with separate website and operations"
+    },
+    {
+      "org_name": "Pennsylvania FCA",
+      "website": "pennsylvaniafca.org",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "State regional chapter with separate website and operations"
+    },
+    {
+      "org_name": "SW Region FCA",
+      "website": "swregionfca.org",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Multi-state regional chapter serving Southwest; separate operations and staff"
+    },
+    {
+      "org_name": "Chi Alpha Campus Ministries",
+      "website": "chialpha.com",
+      "org_type": "ministry",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Official campus ministry of Assemblies of God; 300+ campuses; regional structure (Montana, Pacific Northwest, Northern New England, Southern New England district chapters)"
+    },
+    {
+      "org_name": "Chi Alpha - Philly",
+      "website": "xaphilly.org",
+      "org_type": "ministry",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Regional/city chapter with separate website and operations"
+    },
+    {
+      "org_name": "FOCUS",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "catholic",
+      "notes": "Catholic campus ministry; 700+ missionaries required to raise at least $3,260/month personal support; patterned after Cru's missionary model"
+    },
+    {
+      "org_name": "Campus Ministry United",
+      "website": "campusministryunited.com",
+      "org_type": "ministry",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "christian",
+      "notes": "Associated with Restoration Movement (Church of Christ) campus ministry network"
+    },
+    {
+      "org_name": "Cru Inner City - Dallas",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Cru city team reaching Dallas area through inner-city church partnerships; staff fundraise"
+    },
+    {
+      "org_name": "Cru Inner City - Houston",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Cru city team; 700+ city team members nationally; staff raise support"
+    },
+    {
+      "org_name": "Athletes in Action",
+      "website": "athletesinaction.org",
+      "org_type": "ministry",
+      "size_estimate": "large",
+      "tier_profile": "A",
+      "faith_orientation": "christian",
+      "notes": "Sports ministry of Cru; 1,000+ staff worldwide; 50+ years reaching athletes; regional chapters (BC, Saskatchewan mentioned); staff fundraising model"
+    },
+    {
+      "org_name": "St. Paul's Outreach",
+      "website": null,
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "A",
+      "faith_orientation": "catholic",
+      "notes": "Catholic campus ministry competitor to FOCUS; similar staff support-raising model as FOCUS"
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "campus ministry organizations list nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Young Life chapters regional organizations",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Cru campus ministry regional chapters staff support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "InterVarsity Christian Fellowship regional chapters fundraising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Campus Outreach\" city chapters Atlanta Memphis regional",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Athletes in Action regional chapters nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Chi Alpha campus ministry Assemblies of God regional",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Reformed University Fellowship RUF chapters regional nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Coalition for Christian Outreach CCO Pittsburgh campus ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Youth for Christ regional organizations staff fundraising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Fellowship of Christian Athletes\" FCA regional chapters state",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "The Navigators campus ministry regional staff support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "college ministry donor fundraising nonprofit city chapters staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "university ministry organizations \"personal fundraising\" staff nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Cru city teams regional fundraising Dallas Austin Houston",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"student ministries\" nonprofit organization Christian staff fundraising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Urbana missions conference InterVarsity Urbana student missions",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "campus ministry nonprofits list \"staff raise own support\" OR \"personal fundraising\"",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Campus Outreach - Arizona",
+      "reason_code": "already_known",
+      "detail": "Specified as already in database"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Campus Outreach - South Carolina",
+      "reason_code": "already_known",
+      "detail": "Specified as already in database"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Pro Athletes Outreach",
+      "reason_code": "already_known",
+      "detail": "Specified as already in database"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Champions for Christ",
+      "reason_code": "already_known",
+      "detail": "Specified as already in database"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Campus Bible Study (CBS)",
+      "reason_code": "already_known",
+      "detail": "Specified as already in database"
+    },
+    {
+      "entity_kind": "org",
+      "name": "YWAM",
+      "reason_code": "already_known",
+      "detail": "Specified as already in database"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Catholic Campus Ministry Association",
+      "reason_code": "too_institutional",
+      "detail": "Denominational headquarters office; not field-deployment agency"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Urbana",
+      "reason_code": "wrong_type",
+      "detail": "Conference/event, not organization; hosted by InterVarsity"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Student Ministries Inc",
+      "reason_code": "too_small",
+      "detail": "$84k revenue nonprofit; insufficient scale/evidence of staff fundraising model"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Campus Ministry Network Inc",
+      "reason_code": "insufficient_evidence",
+      "detail": "Mentioned in search but no website or details available"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Campus Renewal Ministries",
+      "reason_code": "insufficient_evidence",
+      "detail": "Mentioned in search but no confirming details or separate addressability"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Christian Campus Ministry",
+      "reason_code": "insufficient_evidence",
+      "detail": "Generic name, no specific organization details available"
+    }
+  ],
+  "needs_review": []
+}

@@ -1,0 +1,142 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:liebenzell",
+  "roster_verdict": "rostered",
+  "target_org": "Liebenzell Mission USA",
+  "people": [
+    {
+      "org_name": "Christopher Matthews",
+      "summary": "Liebenzell Mission USA — CEO/General Director",
+      "fit_score": 9,
+      "fit_reason": "Tier B - Executive leadership; CEO/General Director overseeing all operations and strategy for Christian missionary organization",
+      "source_query": "hunter:w2026-08-30a:liebenzell",
+      "meta": {
+        "tier": "B",
+        "role": "CEO/General Director",
+        "target_org": "Liebenzell Mission USA",
+        "evidence_url": "https://lmusa.org/2025/gm-news/rjohnson-new-director/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rob Johnson",
+      "summary": "Liebenzell Mission USA — Director of Global Ministries",
+      "fit_score": 9,
+      "fit_reason": "Tier B - Director-level leadership; coordinates all missionary mobilization, support, and equipping across 13+ mission fields",
+      "source_query": "hunter:w2026-08-30a:liebenzell",
+      "meta": {
+        "tier": "B",
+        "role": "Director of Global Ministries",
+        "target_org": "Liebenzell Mission USA",
+        "evidence_url": "https://lmusa.org/2025/gm-news/rjohnson-new-director/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Hector Garcia",
+      "summary": "Liebenzell Mission USA — Board Member",
+      "fit_score": 8,
+      "fit_reason": "Tier C - Board governance; holds fiduciary and strategic oversight responsibility for organization",
+      "source_query": "hunter:w2026-08-30a:liebenzell",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member",
+        "target_org": "Liebenzell Mission USA",
+        "evidence_url": "https://lmusa.org/tag/board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Steve Stinnette",
+      "summary": "Liebenzell Mission USA — Missions Mobilizer / Leadership Development Coordinator",
+      "fit_score": 8,
+      "fit_reason": "Tier A/B - Missions mobilization and support-raising; currently serving as missions mobilizer and Leadership Development Coordinator for churches in Micronesia",
+      "source_query": "hunter:w2026-08-30a:liebenzell",
+      "meta": {
+        "tier": "A",
+        "role": "Missions Mobilizer / Leadership Development Coordinator",
+        "target_org": "Liebenzell Mission USA",
+        "evidence_url": "https://lmusa.org/give/sa-stinnette/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Anne Stinnette",
+      "summary": "Liebenzell Mission USA — Missions Mobilizer",
+      "fit_score": 8,
+      "fit_reason": "Tier A/B - Missions mobilization; serves alongside spouse as missions mobilizer for support and advocacy",
+      "source_query": "hunter:w2026-08-30a:liebenzell",
+      "meta": {
+        "tier": "A",
+        "role": "Missions Mobilizer",
+        "target_org": "Liebenzell Mission USA",
+        "evidence_url": "https://lmusa.org/give/sa-stinnette/",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Liebenzell Mission USA",
+      "website": "https://lmusa.org/",
+      "org_type": "mission_board",
+      "size_estimate": "small",
+      "tier_profile": "AB",
+      "headcount_est": 25,
+      "faith_orientation": "christian",
+      "evidence": "Founded 1941; 501(c)(3) Christian missionary sending organization supporting 60+ missionaries across 13+ mission fields in global outreach; located in Schooleys Mountain, NJ"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Liebenzell Mission USA staff team members",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Liebenzell Mission USA board members directors",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Liebenzell Mission USA missionaries support-raised",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Liebenzell Mission USA\" \"Schooleys Mountain\" staff leadership",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:lmusa.org staff people leadership team",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Liebenzell USA\" board OR \"board member\" OR \"executive director\"",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Liebenzell Mission USA development advancement donor relations",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Liebenzell Mission USA\" leadership \"give\" OR \"donate\" missionaries",
+      "outcome": "found_people",
+      "people_found": 2
+    }
+  ],
+  "negatives": [],
+  "needs_review": []
+}

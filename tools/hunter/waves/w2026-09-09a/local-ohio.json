@@ -1,0 +1,597 @@
+{
+  "wave_id": "w2026-09-09a",
+  "agent": "local:ohio-valley",
+  "searches_used": 18,
+  "orgs_discovered": [
+    {
+      "org_name": "CityLink Center",
+      "website": "https://www.citylinkcenter.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "faith-based",
+      "city": "Cincinnati",
+      "state": "OH",
+      "notes": "Community development and holistic life change services; integrated path to break free from poverty. 15+ service providers offering training in construction, education, healthcare, technology, culinary, automotive; college degree support; financial counseling."
+    },
+    {
+      "org_name": "Cincinnati Crisis Pregnancy Center",
+      "website": "https://www.pregnancycareofcincinnati.com",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "A",
+      "faith_orientation": "faith-based",
+      "city": "Cincinnati",
+      "state": "OH",
+      "notes": "Crisis pregnancy center relying on donations and volunteer support; likely has support-raised counselor staff model."
+    },
+    {
+      "org_name": "Cincinnati Animal CARE",
+      "website": "https://cincinnatianimalcare.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Cincinnati",
+      "state": "OH",
+      "notes": "No-kill animal shelter; funded entirely by donations and operated by volunteers. Hamilton County animal shelter and stray dog services."
+    },
+    {
+      "org_name": "SPCA Cincinnati",
+      "website": "https://www.spcacincinnati.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Cincinnati",
+      "state": "OH",
+      "notes": "Private animal rescue organization; spends $150+ per adopted pet from donations; individual donor focus."
+    },
+    {
+      "org_name": "Hart Animal Rescue (HART)",
+      "website": "https://www.rescueahart.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "A",
+      "faith_orientation": "secular",
+      "city": "Cincinnati",
+      "state": "OH",
+      "notes": "100% volunteer, non-profit animal rescue; all donations go directly to animal care. Volunteer-run entirely."
+    },
+    {
+      "org_name": "You To The Rescue",
+      "website": "https://youtotherescue.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Cincinnati",
+      "state": "OH",
+      "notes": "Nonprofit upscale resale boutique supporting Cincinnati tri-state no-kill animal shelters."
+    },
+    {
+      "org_name": "Catholic Charities Southwestern Ohio",
+      "website": "https://www.ccswoh.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "catholic",
+      "city": "Cincinnati",
+      "state": "OH",
+      "notes": "Refugee resettlement services; human services. Established 1946. Refugee programs since 1980 from Vietnam to Congo, Bhutan, Syria, Afghanistan."
+    },
+    {
+      "org_name": "Community Refugee and Immigration Services (CRIS)",
+      "website": "https://www.crisohio.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Columbus",
+      "state": "OH",
+      "notes": "Independent nonprofit serving refugee and immigrant populations in central Ohio; resettlement, job preparation, legal services, mentorship."
+    },
+    {
+      "org_name": "Bhutanese Community of Central Ohio (BCCO)",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Columbus",
+      "state": "OH",
+      "notes": "Community-based nonprofit founded 2009, 501(c)(3) since 2012. Post-resettlement services for refugees from Bhutan and other countries; mentoring and leadership."
+    },
+    {
+      "org_name": "The Open Shelter",
+      "website": "https://www.theopenshelter.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Columbus",
+      "state": "OH",
+      "notes": "Advocacy center and day services shelter for homeless and marginally-housed persons. 3,525+ served in 2026 year-to-date."
+    },
+    {
+      "org_name": "Columbus Relief",
+      "website": "https://www.cbusrelief.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "faith-based",
+      "city": "Columbus",
+      "state": "OH",
+      "notes": "Faith-based mission founded 2015; journey into communities of homelessness to bring life-transforming guidance through God's love. Support-raised staff model evident."
+    },
+    {
+      "org_name": "LSS Faith Mission",
+      "website": "https://www.lssnetworkofhope.org/faithmission",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "faith-based",
+      "city": "Columbus",
+      "state": "OH",
+      "notes": "Shelter and supportive services for homeless adults in Columbus and Toledo region."
+    },
+    {
+      "org_name": "Campus Outreach Columbus",
+      "website": "https://www.cocolumbus.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "faith-based",
+      "city": "Columbus",
+      "state": "OH",
+      "notes": "Campus ministry with support-raised staff model. Staff raise their own support from donors, churches, alumni, businesses. Operates at OSU, BGSU, University of Cincinnati, Wittenberg. Northwest Presbyterian Church in Dublin OH supports admin expenses."
+    },
+    {
+      "org_name": "Dress for Success Columbus",
+      "website": "https://www.dfscmh.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Columbus",
+      "state": "OH",
+      "notes": "Empowers women to achieve economic independence; professional attire, career development tools, network of support."
+    },
+    {
+      "org_name": "Pregnancy Decision Health Centers",
+      "website": "https://www.pdhc.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "A",
+      "faith_orientation": "faith-based",
+      "city": "Columbus",
+      "state": "OH",
+      "notes": "Crisis pregnancy center relying on donations and volunteer support."
+    },
+    {
+      "org_name": "Ohio City Incorporated",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Cleveland",
+      "state": "OH",
+      "notes": "Community improvement and neighborhood development in Ohio City, Cleveland. Established 1982."
+    },
+    {
+      "org_name": "Young Women's Christian Association Of Cleveland (YWCA)",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "faith-based",
+      "city": "Cleveland",
+      "state": "OH",
+      "notes": "YWCA Cleveland; tax-exempt since 1942. Community services and women's empowerment."
+    },
+    {
+      "org_name": "Engage Cleveland Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Cleveland",
+      "state": "OH",
+      "notes": "Community improvement and service club. Established 2015."
+    },
+    {
+      "org_name": "Birthright Cleveland",
+      "website": "https://www.birthright.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "A",
+      "faith_orientation": "faith-based",
+      "city": "Cleveland",
+      "state": "OH",
+      "notes": "Crisis pregnancy center; volunteer-staffed. Supports women facing difficult pregnancy situations."
+    },
+    {
+      "org_name": "Cleveland Pregnancy Center",
+      "website": "https://www.clevelandpregnancyhelp.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "A",
+      "faith_orientation": "faith-based",
+      "city": "Cleveland",
+      "state": "OH",
+      "notes": "Crisis pregnancy center; relies on donations and volunteers."
+    },
+    {
+      "org_name": "Faith Wellness & Pregnancy Center",
+      "website": "https://www.freehope.org",
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "A",
+      "faith_orientation": "faith-based",
+      "city": "Cleveland",
+      "state": "OH",
+      "notes": "Crisis pregnancy center; volunteer and donor-supported."
+    },
+    {
+      "org_name": "United Protestant Campus Ministries",
+      "website": "https://www.upcam.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "faith-based",
+      "city": "Cleveland",
+      "state": "OH",
+      "notes": "Progressive, inclusive campus ministry for college students; spiritual growth, support, social justice engagement. Support-raised ministry model."
+    },
+    {
+      "org_name": "Love Akron",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Akron",
+      "state": "OH",
+      "notes": "Community organization in Akron."
+    },
+    {
+      "org_name": "YMCA of Akron",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "faith-based",
+      "city": "Akron",
+      "state": "OH",
+      "notes": "Community health and wellness organization. 2024 revenue: $18.7M; total assets: $41.6M."
+    },
+    {
+      "org_name": "Dress For Success Warren-Youngstown",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Youngstown",
+      "state": "OH",
+      "notes": "Empowers individuals with professional attire and career development. Serves 2,000+ people annually. Location: 1919 E. Midlothian Boulevard in Habitat for Humanity Hub."
+    },
+    {
+      "org_name": "Greater Warren Youngstown Urban League",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Youngstown",
+      "state": "OH",
+      "notes": "Community development and economic opportunity. 2024 revenue: $411k; total assets: $167k."
+    },
+    {
+      "org_name": "Young Men's Christian Association Youngstown",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "faith-based",
+      "city": "Youngstown",
+      "state": "OH",
+      "notes": "Community health and wellness. 2024 revenue: $12.5M; total assets: $42.6M."
+    },
+    {
+      "org_name": "Youngstown Cityscape Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Youngstown",
+      "state": "OH",
+      "notes": "Community improvement organization. 2024 revenue: $1.24M; total assets: $1.99M."
+    },
+    {
+      "org_name": "Inspiring Minds Of Youngstown Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "micro",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Youngstown",
+      "state": "OH",
+      "notes": "Human services organization. 2024 revenue: $200k; total assets: $61.9k."
+    },
+    {
+      "org_name": "YWCA Mahoning Valley",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "faith-based",
+      "city": "Youngstown",
+      "state": "OH",
+      "notes": "Women's community services. YWCA established 1942."
+    },
+    {
+      "org_name": "Toledo Gospel Rescue Mission",
+      "website": "https://www.tgrm.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "faith-based",
+      "city": "Toledo",
+      "state": "OH",
+      "notes": "Shelter, food, and support for homeless. Night shelter for homeless men (sober/cooperative); chapel services, meals, clean beds. Operates Rebekah's Haven for single mothers and children."
+    },
+    {
+      "org_name": "Catholic Charities Diocese Of Toledo",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "catholic",
+      "city": "Toledo",
+      "state": "OH",
+      "notes": "Human services and community support through Catholic Charities."
+    },
+    {
+      "org_name": "United Way Of Greater Toledo",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Toledo",
+      "state": "OH",
+      "notes": "Community philanthropy and grant distribution organization."
+    },
+    {
+      "org_name": "Campus Outreach Cleveland Metro (Cru)",
+      "website": "https://give.cru.org/2272928",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "A",
+      "faith_orientation": "faith-based",
+      "city": "Cleveland",
+      "state": "OH",
+      "notes": "Campus ministry serving 160,000+ college students from Elyria to Youngstown and south to Wooster. Support-raised staff model for campus ministry."
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Cincinnati\" Ohio nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Columbus\" Ohio nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Cleveland\" Ohio nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:causeiq.com nonprofits \"Dayton\" Ohio rescue mission homeless",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:taxexemptworld.com Akron Ohio nonprofit youth mentoring crisis pregnancy",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Akron gives\" nonprofit participating organizations community foundation",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Cincinnati community foundation\" grantees nonprofit giving day",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Akron\" OR \"Canton\" OR \"Youngstown\" Ohio",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Toledo\" OR \"Lima\" Ohio nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Columbus\" OR \"Dayton\" nonprofit \"executive director\" OR \"development director\" Ohio gala fundraiser",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Youngstown\" OR \"Warren\" Ohio nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "campus ministry \"Columbus\" OR \"Cincinnati\" OR \"Cleveland\" Ohio college university support raised",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "crisis pregnancy center \"Cincinnati\" OR \"Columbus\" OR \"Cleveland\" donate nonprofit Ohio",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Citylink Center\" Cincinnati donate website nonprofit Ohio",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "rescue mission homeless \"Dayton\" OR \"Columbus\" OR \"Toledo\" Ohio support raised staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Greater Cincinnati\" OR \"Columbus\" animal rescue shelter nonprofit adoption donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "refugee resettlement \"Columbus\" OR \"Cincinnati\" nonprofit Ohio international",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Dress For Success\" Warren Youngstown Columbus donate website Ohio nonprofit",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "Akron-Canton Regional Foodbank",
+      "reason_code": "already_in_system",
+      "detail": "Skip per instruction"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Greater Cleveland Food Bank",
+      "reason_code": "already_in_system",
+      "detail": "Skip per instruction"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Cincinnati Museum Center",
+      "reason_code": "no_donor_fundraising",
+      "detail": "Museum; primarily publicly funded, not individual donor focus"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Innovation Ohio",
+      "reason_code": "no_donor_fundraising",
+      "detail": "501(c)(4) civic league and social welfare; not 501(c)(3) individual donor model"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Greater Akron Chamber Of Commerce",
+      "reason_code": "too_institutional",
+      "detail": "Business/trade association; not individual donor fundraising"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Akron Canton Barristers Association",
+      "reason_code": "too_institutional",
+      "detail": "Professional legal association; not fundraising model"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Better Business Bureau Of Akron",
+      "reason_code": "too_institutional",
+      "detail": "Business oversight organization; not individual donor fundraising"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Toledo Area Chamber Foundation",
+      "reason_code": "too_institutional",
+      "detail": "Chamber-affiliated foundation; trade association related"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Youngstown Warren Regional Chamber Of Commerce Foundation",
+      "reason_code": "too_institutional",
+      "detail": "Chamber-affiliated foundation; trade association related"
+    },
+    {
+      "entity_kind": "org",
+      "name": "United Way Of Greater Cincinnati",
+      "reason_code": "no_donor_fundraising",
+      "detail": "Federated fundraising organization; routes funds through employer campaigns, not individual donors primarily"
+    },
+    {
+      "entity_kind": "org",
+      "name": "United Way Of Greater Cleveland Fund",
+      "reason_code": "no_donor_fundraising",
+      "detail": "Federated fundraising organization"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Columbus Foundation",
+      "reason_code": "no_donor_fundraising",
+      "detail": "Community foundation; endowment-driven, not individual donor fundraising model"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Greater Cincinnati Foundation",
+      "reason_code": "no_donor_fundraising",
+      "detail": "Community foundation; primarily endowment/donor-advised fund based"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Toledo Community Foundation",
+      "reason_code": "no_donor_fundraising",
+      "detail": "Community foundation; endowment-driven"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Cleveland Foundation",
+      "reason_code": "no_donor_fundraising",
+      "detail": "Community foundation; endowment-driven"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Akron Community Foundation",
+      "reason_code": "no_donor_fundraising",
+      "detail": "Community foundation; endowment-driven, not individual donor funding model"
+    },
+    {
+      "entity_kind": "org",
+      "name": "The University Of Toledo Foundation",
+      "reason_code": "too_institutional",
+      "detail": "University-affiliated foundation; institutional donor base"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Philanthropy Ohio",
+      "reason_code": "too_institutional",
+      "detail": "Membership/professional organization for philanthropists; not individual service provider"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Direction Home Akron Canton Foundation",
+      "reason_code": "no_donor_fundraising",
+      "detail": "Grantmaking foundation; endowment-based"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Experience Columbus Foundation",
+      "reason_code": "no_donor_fundraising",
+      "detail": "Foundation; endowment-driven"
+    }
+  ],
+  "needs_review": []
+}

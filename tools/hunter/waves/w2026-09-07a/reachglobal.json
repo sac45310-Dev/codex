@@ -1,0 +1,300 @@
+{
+  "wave_id": "w2026-09-07a",
+  "agent": "roster:reachglobal",
+  "target_org": "ReachGlobal (Evangelical Free Church of America)",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "name": "Richard Trca",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Missionary",
+      "tier": "A",
+      "fit_score": 9,
+      "confidence": "high",
+      "source_url": "https://give.efca.org/missionaries/ritch-susan-trca",
+      "fit_reason": "ReachGlobal missionary in Czech Republic with personal giving page; church planting and theological education ministry since 1994",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Susan Trca",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Missionary",
+      "tier": "A",
+      "fit_score": 9,
+      "confidence": "high",
+      "source_url": "https://give.efca.org/missionaries/ritch-susan-trca",
+      "fit_reason": "ReachGlobal missionary in Czech Republic with personal giving page; church planting and theological education ministry",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Carlos Block",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Missionary",
+      "tier": "A",
+      "fit_score": 9,
+      "confidence": "high",
+      "source_url": "https://give.efca.org/missionaries/carlos-meredith-block",
+      "fit_reason": "ReachGlobal missionary in Peru with personal giving page; Latin America/Caribbean team, discipleship ministry",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Meredith Block",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Missionary",
+      "tier": "A",
+      "fit_score": 9,
+      "confidence": "high",
+      "source_url": "https://give.efca.org/missionaries/carlos-meredith-block",
+      "fit_reason": "ReachGlobal missionary in Peru with personal giving page; Latin America/Caribbean team, transformational discipleship",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Mike Sprenger",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Missionary",
+      "tier": "A",
+      "fit_score": 9,
+      "confidence": "high",
+      "source_url": "https://give.efca.org/missionaries/michael-and-carol-sprenger-1640",
+      "fit_reason": "ReachGlobal missionary in Asia with personal giving page; member care team, personnel and communications",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Carol Beth Sprenger",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Missionary",
+      "tier": "A",
+      "fit_score": 9,
+      "confidence": "high",
+      "source_url": "https://give.efca.org/missionaries/michael-and-carol-sprenger-1640",
+      "fit_reason": "ReachGlobal missionary in Asia with personal giving page; member care team support",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Anika Abrahamson",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Missionary",
+      "tier": "A",
+      "fit_score": 8,
+      "confidence": "high",
+      "source_url": "https://give.efca.org/missionaries/apex25-asa",
+      "fit_reason": "ReachGlobal missionary in Mexico City with personal giving page; official team member",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Heather Hall",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Missionary",
+      "tier": "A",
+      "fit_score": 8,
+      "confidence": "high",
+      "source_url": "https://give.efca.org/missionaries/heather-hall-2329",
+      "fit_reason": "ReachGlobal missionary in Democratic Republic of Congo with personal giving page; site coordinator for GlobalFingerprints Congo",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Jon Peake",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Africa Division Director of Communications",
+      "tier": "A",
+      "fit_score": 8,
+      "confidence": "high",
+      "source_url": "https://give.efca.org/missionaries/jon-and-alicia-peake-m-2437",
+      "fit_reason": "ReachGlobal leadership/missionary role in Africa with personal giving page; leads Africa Division communications",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Alicia Peake",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Missionary",
+      "tier": "A",
+      "fit_score": 8,
+      "confidence": "high",
+      "source_url": "https://give.efca.org/missionaries/jon-and-alicia-peake-m-2437",
+      "fit_reason": "ReachGlobal missionary in Africa with personal giving page; supporting Jon's communications ministry",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Mark Manning",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Crisis Response Missionary",
+      "tier": "A",
+      "fit_score": 7,
+      "confidence": "medium",
+      "source_url": "https://give.efca.org/missionaries/markkatherine-manning",
+      "fit_reason": "ReachGlobal Crisis Response team member with personal giving page; based in Lake Charles, Louisiana area",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Katie Manning",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Crisis Response Missionary",
+      "tier": "A",
+      "fit_score": 7,
+      "confidence": "medium",
+      "source_url": "https://give.efca.org/missionaries/markkatherine-manning",
+      "fit_reason": "ReachGlobal Crisis Response team member with personal giving page",
+      "meta": {
+        "evidence_basis": "personal_page"
+      }
+    },
+    {
+      "name": "Mike Davis",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Director of Mobilization, ReachGlobal",
+      "tier": "C",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://contacts.efca.org/contacts/recruitment",
+      "fit_reason": "Leadership staff responsible for mobilization of missionaries; identified in EFCA contacts directory",
+      "meta": {
+        "evidence_basis": "staff_directory",
+        "orchestrator_note": "Retiered B->C: leadership role, not development/donor-facing."
+      }
+    },
+    {
+      "name": "Mark Lewis",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Director, ReachGlobal Crisis Response",
+      "tier": "C",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://contacts.efca.org/contacts/mark-lewis",
+      "fit_reason": "Director-level leadership staff for ReachGlobal Crisis Response division; identified in EFCA contacts directory",
+      "meta": {
+        "evidence_basis": "staff_directory",
+        "orchestrator_note": "Retiered B->C: leadership role, not development/donor-facing."
+      }
+    },
+    {
+      "name": "James Petersen",
+      "org": "ReachGlobal (Evangelical Free Church of America)",
+      "role": "Executive Director of IMA Personnel, ReachGlobal",
+      "tier": "C",
+      "fit_score": 6,
+      "confidence": "high",
+      "source_url": "https://contacts.efca.org/contacts/james-petersen",
+      "fit_reason": "Executive-level leadership staff responsible for international missionary personnel; identified in EFCA contacts directory",
+      "meta": {
+        "evidence_basis": "staff_directory",
+        "orchestrator_note": "Retiered B->C: leadership role, not development/donor-facing."
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "ReachGlobal missionaries give.efca.org support our ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"ReachGlobal\" missionary \"prayer letter\" names list",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:reachglobal.ministries.efca.org staff leadership team",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"ReachGlobal\" board director executive leadership names",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:efca.org ReachGlobal director president leadership",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "give.efca.org ReachGlobal missionary individual support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"ReachGlobal\" missionaries Asia Africa Europe Middle East support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.efca.org/missionaries ReachGlobal",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"ReachGlobal\" EFCA development officer advancement donor relations",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.efca.org/missionaries \"ReachGlobal\" Africa",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:contacts.efca.org ReachGlobal staff personnel",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"ReachGlobal\" board member trustee EFCA",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.efca.org/missionaries \"ReachGlobal\" Middle East Europe",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.efca.org/missionaries ReachGlobal Asia Thailand",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"ReachGlobal\" EFCA missionaries \"support\" prayer letter 2024 2025",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"ReachGlobal\" \"executive director\" OR \"vice president\" OR \"president\" EFCA",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:contacts.efca.org \"ReachGlobal\" director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"ReachGlobal\" EFCA \"ministry coordinator\" OR \"team leader\" OR \"field director\"",
+      "outcome": "no_people"
+    }
+  ],
+  "negatives": [],
+  "needs_review": []
+}

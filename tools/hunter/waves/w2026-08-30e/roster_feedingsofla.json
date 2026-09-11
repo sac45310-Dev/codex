@@ -1,0 +1,169 @@
+{
+  "wave_id": "w2026-08-30e",
+  "agent": "roster:feedingsofla",
+  "target_org": "Feeding South Florida",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Allyson Vaulx",
+      "summary": "Feeding South Florida — Assistant Vice President of Philanthropy",
+      "fit_score": 6,
+      "fit_reason": "Tier B development staff. AVP of Philanthropy with 25+ years experience; manages corporate, foundation, and individual donor relationships, major gifts, and annual giving programs.",
+      "source_query": "hunter:w2026-08-30e:feedingsofla",
+      "meta": {
+        "tier": "B",
+        "role": "Assistant Vice President of Philanthropy",
+        "target_org": "Feeding South Florida",
+        "evidence_url": "https://www.zoominfo.com/p/Allyson-Vaulx/7175686962",
+        "email": "avaulx@feedingsouthflorida.org",
+        "linkedin_url": "https://www.linkedin.com/in/allysonvaulx/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Scott T. Parker",
+      "summary": "Feeding South Florida — Board of Directors",
+      "fit_score": 6,
+      "fit_reason": "Tier C board member. EVP and CFO of Ryder System, Inc.; appointed 2020 with major financial/corporate influence in South Florida.",
+      "source_query": "hunter:w2026-08-30e:feedingsofla",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member; EVP/CFO of Ryder System, Inc.",
+        "target_org": "Feeding South Florida",
+        "evidence_url": "https://bocanewsnow.com/2020/11/13/scott-parker-appointed-to-feeding-south-florida-board/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Steve Stowe",
+      "summary": "Feeding South Florida — Board of Directors",
+      "fit_score": 5,
+      "fit_reason": "Tier C board member. Miami HEAT affiliation; appointed 2021 with access to sports/entertainment donor networks.",
+      "source_query": "hunter:w2026-08-30e:feedingsofla",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member; Miami HEAT affiliation",
+        "target_org": "Feeding South Florida",
+        "evidence_url": "https://feedingsouthflorida.org/feeding-south-florida-appoints-steve-stowe-and-ignacio-felix-/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Alan Alvarez",
+      "summary": "Feeding South Florida — Board of Directors",
+      "fit_score": 6,
+      "fit_reason": "Tier C board member. Director of Marlins Foundation with direct philanthropy expertise; appointed 2018.",
+      "source_query": "hunter:w2026-08-30e:feedingsofla",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member; Director of Marlins Foundation",
+        "target_org": "Feeding South Florida",
+        "evidence_url": "https://feedingsouthflorida.org/feeding-south-florida-proudly-appoints-alan-alvarez-director-of-the-marlins-foundation-to-2018-board-of-directors/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Chris Mellgren",
+      "summary": "Feeding South Florida — Board of Directors",
+      "fit_score": 5,
+      "fit_reason": "Tier C board member. CEO of Surfside Coffee Holdings, Inc.; appointed 2017 with local business influence.",
+      "source_query": "hunter:w2026-08-30e:feedingsofla",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member; CEO of Surfside Coffee Holdings, Inc.",
+        "target_org": "Feeding South Florida",
+        "evidence_url": "https://feedingsouthflorida.org/feeding-south-florida-appoints-three-new-members-to-its-board-of-directors/",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Ignacio Felix",
+      "summary": "Feeding South Florida — Board of Directors",
+      "fit_score": 5,
+      "fit_reason": "Tier C board member. McKinsey consultant with high-level business network access; appointed 2021.",
+      "source_query": "hunter:w2026-08-30e:feedingsofla",
+      "meta": {
+        "tier": "C",
+        "role": "Board Member; McKinsey",
+        "target_org": "Feeding South Florida",
+        "evidence_url": "https://feedingsouthflorida.org/feeding-south-florida-appoints-steve-stowe-and-ignacio-felix-/",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Feeding South Florida",
+      "website": "https://feedingsouthflorida.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Pembroke Park, FL-based hunger-relief nonprofit with documented development/advancement infrastructure"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Feeding South Florida development director advancement officer Pembroke Park",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Feeding South Florida\" major gifts donor relations philanthropy staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Feeding South Florida\" annual fund individual giving",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "Feeding South Florida executive team leadership staff Pembroke Park Florida",
+      "outcome": "found_people",
+      "people_found": 5
+    },
+    {
+      "kind": "query",
+      "value": "site:feedingsouthflorida.org leadership team staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:feedingsouthflorida.org board directors members",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "\"Feeding South Florida\" \"Allyson Vaulx\" donor relations",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Feeding South Florida\" board directors Scott Parker Jim Alcock Charlene Marko-Heim",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "person",
+      "name": "Paco Vélez",
+      "reason_code": "already_in_crm",
+      "detail": "CEO, already listed in DonorSend CRM"
+    },
+    {
+      "entity_kind": "person",
+      "name": "Michelle Esposito",
+      "reason_code": "already_in_crm",
+      "detail": "Board Chair, already listed in DonorSend CRM"
+    }
+  ]
+}

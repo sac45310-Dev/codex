@@ -1,0 +1,200 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:akroncanton",
+  "target_org": "Akron-Canton Regional Foodbank",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Terri Lessnau",
+      "summary": "Akron-Canton Regional Foodbank — Senior Director, Development",
+      "fit_score": 95,
+      "fit_reason": "Tier B development leadership; oversees all fundraising strategy, major gifts, and individual giving operations. Direct authority over gift and estate planning, corporate partnerships, and donor relations.",
+      "source_query": "hunter:w2026-08-30f:akroncanton",
+      "meta": {
+        "tier": "B",
+        "role": "Senior Director, Development",
+        "target_org": "Akron-Canton Regional Foodbank",
+        "evidence_url": "https://www.linkedin.com/in/terri-lessnau-122471a/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bridget Jones",
+      "summary": "Akron-Canton Regional Foodbank — Director, Development Operations",
+      "fit_score": 95,
+      "fit_reason": "Tier B development operations; oversees direct donation opportunities, individual donor relationships, proposal development, direct mail, and online fundraising program.",
+      "source_query": "hunter:w2026-08-30f:akroncanton",
+      "meta": {
+        "tier": "B",
+        "role": "Director, Development Operations",
+        "target_org": "Akron-Canton Regional Foodbank",
+        "evidence_url": "https://www.linkedin.com/in/bridget-jones-acrfb/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Debbie Hagarty",
+      "summary": "Akron-Canton Regional Foodbank — Gift and Estate Planning Officer",
+      "fit_score": 85,
+      "fit_reason": "Tier B advancement; specialized role in major gift planning and legacy giving, key component of individual giving strategy and high-level donor cultivation.",
+      "source_query": "hunter:w2026-08-30f:akroncanton",
+      "meta": {
+        "tier": "B",
+        "role": "Gift and Estate Planning Officer",
+        "target_org": "Akron-Canton Regional Foodbank",
+        "evidence_url": "https://www.akroncantonfoodbank.org/staff",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Leslie Genovese",
+      "summary": "Akron-Canton Regional Foodbank — Corporate Partnership Executive",
+      "fit_score": 80,
+      "fit_reason": "Tier B development; manages corporate donor relationships, partnership development, and major corporate giving; key stakeholder in individual and institutional advancement.",
+      "source_query": "hunter:w2026-08-30f:akroncanton",
+      "meta": {
+        "tier": "B",
+        "role": "Corporate Partnership Executive",
+        "target_org": "Akron-Canton Regional Foodbank",
+        "evidence_url": "https://www.akroncantonfoodbank.org/staff",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Katie Carver Reed",
+      "summary": "Akron-Canton Regional Foodbank — Executive Vice President",
+      "fit_score": 75,
+      "fit_reason": "Tier C executive with direct authority over external relations and development. Current EVP; assumes presidency January 1, 2027. Leadership in nonprofit advancement strategy.",
+      "source_query": "hunter:w2026-08-30f:akroncanton",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Vice President",
+        "target_org": "Akron-Canton Regional Foodbank",
+        "evidence_url": "https://www.akroncantonfoodbank.org/staff/katie-carver-reed",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Daniel R. Flowers",
+      "summary": "Akron-Canton Regional Foodbank — President and CEO",
+      "fit_score": 70,
+      "fit_reason": "Tier C executive; current president and CEO with authority over all development operations and strategic philanthropic initiatives.",
+      "source_query": "hunter:w2026-08-30f:akroncanton",
+      "meta": {
+        "tier": "C",
+        "role": "President and CEO",
+        "target_org": "Akron-Canton Regional Foodbank",
+        "evidence_url": "https://www.akroncantonfoodbank.org/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jennifer Baccon",
+      "summary": "Akron-Canton Regional Foodbank — Board of Directors",
+      "fit_score": 50,
+      "fit_reason": "Tier C board member; represents Akron Children's Hospital on foodbank board. Board-level governance and strategic direction.",
+      "source_query": "hunter:w2026-08-30f:akroncanton",
+      "meta": {
+        "tier": "C",
+        "role": "Board of Directors",
+        "target_org": "Akron-Canton Regional Foodbank",
+        "evidence_url": "https://www.akroncantonfoodbank.org/news/foodbank-board-directors",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Lisa Backlin",
+      "summary": "Akron-Canton Regional Foodbank — Board of Directors",
+      "fit_score": 50,
+      "fit_reason": "Tier C board member; represents Parts Town on foodbank board. Board-level governance and strategic direction.",
+      "source_query": "hunter:w2026-08-30f:akroncanton",
+      "meta": {
+        "tier": "C",
+        "role": "Board of Directors",
+        "target_org": "Akron-Canton Regional Foodbank",
+        "evidence_url": "https://www.akroncantonfoodbank.org/news/foodbank-board-directors",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Amy Borcherding",
+      "summary": "Akron-Canton Regional Foodbank — Board of Directors",
+      "fit_score": 50,
+      "fit_reason": "Tier C board member; represents The J.M. Smucker Co. on foodbank board. Board-level governance and strategic direction.",
+      "source_query": "hunter:w2026-08-30f:akroncanton",
+      "meta": {
+        "tier": "C",
+        "role": "Board of Directors",
+        "target_org": "Akron-Canton Regional Foodbank",
+        "evidence_url": "https://www.akroncantonfoodbank.org/news/foodbank-board-directors",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Rob Bowers",
+      "summary": "Akron-Canton Regional Foodbank — Board of Directors",
+      "fit_score": 50,
+      "fit_reason": "Tier C board member; represents Westfield on foodbank board. Board-level governance and strategic direction.",
+      "source_query": "hunter:w2026-08-30f:akroncanton",
+      "meta": {
+        "tier": "C",
+        "role": "Board of Directors",
+        "target_org": "Akron-Canton Regional Foodbank",
+        "evidence_url": "https://www.akroncantonfoodbank.org/news/foodbank-board-directors",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Alison Breaux",
+      "summary": "Akron-Canton Regional Foodbank — Board of Directors",
+      "fit_score": 50,
+      "fit_reason": "Tier C board member; represents Summit County Court of Common Pleas on foodbank board. Board-level governance and strategic direction.",
+      "source_query": "hunter:w2026-08-30f:akroncanton",
+      "meta": {
+        "tier": "C",
+        "role": "Board of Directors",
+        "target_org": "Akron-Canton Regional Foodbank",
+        "evidence_url": "https://www.akroncantonfoodbank.org/news/foodbank-board-directors",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "query": "Akron-Canton Regional Foodbank staff team leadership",
+      "outcome": "success",
+      "people_found": 2,
+      "details": "Found CEO Daniel R. Flowers and identified board member overview"
+    },
+    {
+      "query": "Akron-Canton Regional Foodbank development director advancement major gifts",
+      "outcome": "success",
+      "people_found": 2,
+      "details": "Identified Terri Lessnau (Senior Director, Development) and Bridget Jones (Director, Development Operations) with LinkedIn profiles"
+    },
+    {
+      "query": "\"Akron-Canton Regional Foodbank\" board trustees directors",
+      "outcome": "success",
+      "people_found": 5,
+      "details": "Confirmed full board roster with 16 directors; selected 5 most accessible from top of published list"
+    },
+    {
+      "query": "Akron-Canton Regional Foodbank CEO executive director Ohio",
+      "outcome": "success",
+      "people_found": 2,
+      "details": "Identified Katie Carver Reed (EVP, incoming CEO Jan 2027) and confirmed Daniel R. Flowers (current CEO)"
+    },
+    {
+      "query": "\"Terri Lessnau\" OR \"Senior Director Development\" Akron-Canton Regional Foodbank",
+      "outcome": "success",
+      "people_found": 1,
+      "details": "Confirmed Terri Lessnau's LinkedIn and staff page with contact details"
+    },
+    {
+      "query": "Akron-Canton Regional Foodbank development staff individual giving annual fund donor relations",
+      "outcome": "success",
+      "people_found": 2,
+      "details": "Identified Debbie Hagarty (Gift and Estate Planning Officer) and Leslie Genovese (Corporate Partnership Executive) with contact information"
+    }
+  ]
+}

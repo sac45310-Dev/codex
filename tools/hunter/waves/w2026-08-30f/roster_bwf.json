@@ -1,0 +1,57 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:bwf",
+  "roster_verdict": "exhausted:budget",
+  "target_org": "The Bob Woodruff Foundation",
+  "people": [],
+  "orgs_discovered": [
+    {
+      "org_name": "The Bob Woodruff Foundation",
+      "website": "https://bobwoodrufffoundation.org",
+      "org_type": "nonprofit",
+      "size_estimate": "mid",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Veteran-support nonprofit headquartered in New York NY"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Bob Woodruff Foundation staff leadership development director",
+      "outcome": "offtopic",
+      "people_found": 0,
+      "notes": "Session web search budget exhausted (200/200 calls used)"
+    },
+    {
+      "kind": "query",
+      "value": "\"Bob Woodruff Foundation\" \"major gifts\" OR \"donor relations\" staff",
+      "outcome": "offtopic",
+      "people_found": 0,
+      "notes": "Budget exhausted"
+    },
+    {
+      "kind": "query",
+      "value": "\"Bob Woodruff Foundation\" board of directors trustees",
+      "outcome": "offtopic",
+      "people_found": 0,
+      "notes": "Budget exhausted"
+    },
+    {
+      "kind": "query",
+      "value": "bobwoodrufffoundation.org team leadership about",
+      "outcome": "offtopic",
+      "people_found": 0,
+      "notes": "Budget exhausted"
+    },
+    {
+      "kind": "query",
+      "value": "\"Bob Woodruff Foundation\" advancement \"annual fund\" OR \"individual giving\"",
+      "outcome": "offtopic",
+      "people_found": 0,
+      "notes": "Budget exhausted"
+    }
+  ],
+  "negatives": [],
+  "needs_review": []
+}

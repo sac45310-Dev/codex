@@ -1,0 +1,120 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:sim",
+  "target_org": "SIM USA",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Randy Fairman",
+      "summary": "SIM USA — President/CEO",
+      "fit_score": 9,
+      "fit_reason": "Tier B/C: Executive leadership; CEO/President of SIM USA since March 2020; 20-year naval background with PhD in mechanical engineering; oversees organizational strategy and board governance.",
+      "source_query": "hunter:w2026-08-30a:sim",
+      "meta": {
+        "tier": "B",
+        "role": "CEO/President",
+        "target_org": "SIM USA",
+        "evidence_url": "https://www.linkedin.com/in/randy-fairman-78a5621a8/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mark Azzopardi",
+      "summary": "SIM USA — Support-raised missionary",
+      "fit_score": 8,
+      "fit_reason": "Tier A: SIM mission worker actively raising personal support; published writing on prayer letters and donor engagement for missionary work; builds supporter networks.",
+      "source_query": "hunter:w2026-08-30a:sim",
+      "meta": {
+        "tier": "A",
+        "role": "Mission worker/Missionary",
+        "target_org": "SIM USA",
+        "evidence_url": "https://www.sim.org/stories/mission-worker-mental-health-support/",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "George Salloum",
+      "summary": "SIM USA — Staff member (Charlotte NC)",
+      "fit_score": 5,
+      "fit_reason": "Tier unclear: Confirmed SIM USA Inc. staff in Charlotte, North Carolina office; specific role not publicly detailed; needs review for classification.",
+      "source_query": "hunter:w2026-08-30a:sim",
+      "meta": {
+        "tier": "C",
+        "role": "Staff member",
+        "target_org": "SIM USA",
+        "evidence_url": "https://allpeople.com/george+salloum_sim-usa-inc_15b-us",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "SIM USA",
+      "website": "https://www.simusa.org",
+      "org_type": "agency",
+      "size_estimate": "mid",
+      "tier_profile": "AB",
+      "headcount_est": 4000,
+      "faith_orientation": "christian",
+      "evidence": "Christian missions agency based in Charlotte, NC; recruits, equips, and cares for support-raised missionaries globally; 4,000+ workers active across ~60 countries; founded 1952."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "SIM USA board members directors 2026",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "SIM USA leadership team missionaries fundraising",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"SIM USA\" staff development advancement donor relations",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "SIM International missionaries personal support raising",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "Randy Fairman SIM USA president leadership",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "SIM USA Charlotte North Carolina staff directory team",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"SIM USA\" missionaries stories testimonies raise support",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "SIM International board directors executives names",
+      "outcome": "offtopic",
+      "people_found": 0
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "George Salloum",
+      "org": "SIM USA",
+      "question": "What is George Salloum's specific role at SIM USA? Is he development staff (Tier B), board member (Tier C), or other?",
+      "evidence_url": "https://allpeople.com/george+salloum_sim-usa-inc_15b-us"
+    }
+  ]
+}

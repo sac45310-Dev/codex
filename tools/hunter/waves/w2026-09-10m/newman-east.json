@@ -1,0 +1,278 @@
+{
+  "wave_id": "w2026-09-10m",
+  "agent": "focus-newman-east",
+  "target_org": "FOCUS",
+  "slice": "Northeast and Mid-Atlantic Newman Centers, Catholic campus ministries and diocesan sites",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Seth Larkin",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary",
+      "campus": "University of Maryland, College Park",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/seth-larkin/",
+      "fit_reason": "Tier A; harvested from the Catholic Terps (UMD Catholic Student Center) staff roster where he is listed as 'FOCUS Missionary', then upgraded in stage 2 to his own focus.org giving page. Surname in slug and in title. Catholic Terps roster states no year."
+    },
+    {
+      "name": "Cheyenna Cook",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary",
+      "campus": "University of Maryland, College Park",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/cheyenna-cook/",
+      "fit_reason": "Tier A; harvested from the Catholic Terps staff roster as 'FOCUS Missionary', upgraded in stage 2 to her own focus.org page which states she is serving at the University of Maryland in her second year on mission. Surname in slug and title. Catholic Terps roster states no year."
+    },
+    {
+      "name": "Shane Chilcott",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary Team Director",
+      "campus": "University of Maryland, College Park",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://catholicterps.org/about-us/staff/",
+      "fit_reason": "Tier A; Catholic Terps 'Meet the Staff' roster names him in full as 'FOCUS Missionary Team Director'. Stage-2 batch at site:focus.org/missionaries did not return a personal page for him, so the citation is the roster page, which does not carry his name in the URL. Roster states no year."
+    },
+    {
+      "name": "Maria Corcoran",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary",
+      "campus": "University of Maryland, College Park",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://catholicterps.org/about-us/staff/",
+      "fit_reason": "Tier A; Catholic Terps 'Meet the Staff' roster names her in full as 'FOCUS Missionary'. Stage 2 returned no focus.org personal page, so the citation is the roster page and does not carry her name in the URL. Roster states no year."
+    },
+    {
+      "name": "Maxwell Schwabe",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary",
+      "campus": "University of Pittsburgh",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/maxwell-schwabe/",
+      "fit_reason": "Tier A; harvested from the Pittsburgh Oratory 'Our People' FOCUS team roster (maxwell.schwabe@focus.org), upgraded in stage 2 to his own focus.org giving page. Surname in slug and title. Oratory roster states no year."
+    },
+    {
+      "name": "Madison Fischahs",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary",
+      "campus": "University of Pittsburgh",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/madison-fischahs/",
+      "fit_reason": "Tier A; listed as 'Maddy Fischahs' on the Pittsburgh Oratory roster with madison.fischahs@focus.org; stage 2 found her focus.org page, slug 'madison-fischahs' carrying the legal first name and surname, page title 'Maddy Fischahs'. Slug and roster email agree. Oratory roster states no year."
+    },
+    {
+      "name": "Daniel Tully",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary Team Director",
+      "campus": "University of Pittsburgh",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.thepittsburghoratory.org/ourpeople",
+      "fit_reason": "Tier A; Pittsburgh Oratory 'Our People' page lists 'Dan Tully, Director' with daniel.tully@focus.org, giving the full legal first name. Stage 2 returned no focus.org personal page, so the citation is the roster page and does not carry his name in the URL. Roster states no year."
+    },
+    {
+      "name": "Lillian Bernero",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary",
+      "campus": "University of Pittsburgh",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.thepittsburghoratory.org/ourpeople",
+      "fit_reason": "Tier A; Pittsburgh Oratory 'Our People' page lists 'Lily Bernero' with lillian.bernero@focus.org, giving the full legal first name. Stage 2 returned no personal page; citation is the roster page, which does not carry her name in the URL. Roster states no year."
+    },
+    {
+      "name": "Kyleigh Keane",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary",
+      "campus": "University of Pittsburgh",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.thepittsburghoratory.org/ourpeople",
+      "fit_reason": "Tier A; Pittsburgh Oratory 'Our People' FOCUS team roster names her in full with kyleigh.keane@focus.org. Stage 2 returned no personal page of her own (she is named only as a teammate on Maxwell Schwabe's focus.org page, which is someone else's page and is therefore not cited). Roster page does not carry her name in the URL. Roster states no year."
+    },
+    {
+      "name": "Ava Clare Neugebauer",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary Intern",
+      "campus": "University of Pittsburgh",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.thepittsburghoratory.org/ourpeople",
+      "fit_reason": "Tier A; Pittsburgh Oratory 'Our People' page lists her on the FOCUS team as 'Ava Clare Neugebauer, Intern' with ava.neugebauer@focus.org. Flagged as an intern rather than a full missionary, but she carries a focus.org address and sits on the FOCUS team roster. Stage 2 returned no personal page; roster URL does not carry her name. Roster states no year."
+    },
+    {
+      "name": "James Lutz",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary Team Director",
+      "campus": "Carnegie Mellon University",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.thepittsburghoratory.org/ourpeople",
+      "fit_reason": "Tier A; Pittsburgh Oratory 'Our People' page lists a separate CMU FOCUS team with 'James Lutz, Director' and james.lutz@focus.org. Stage 2 returned no focus.org personal page; roster URL does not carry his name. Roster states no year."
+    },
+    {
+      "name": "Ian McCarron",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary",
+      "campus": "Carnegie Mellon University",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.thepittsburghoratory.org/ourpeople",
+      "fit_reason": "Tier A; Pittsburgh Oratory 'Our People' page lists him on the CMU FOCUS team with ian.mccarron@focus.org. Stage 2 returned no focus.org personal page; roster URL does not carry his name. Roster states no year."
+    },
+    {
+      "name": "Timothy Broderick",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary",
+      "campus": "University of Pennsylvania / Drexel University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/timothy-broderick/",
+      "fit_reason": "Tier A; harvested from the Penn Catholic Newman Center team page (timothy.broderick@focus.org), upgraded in stage 2 to his own focus.org giving page which places him at the University of Pennsylvania. Surname in slug and title. Penn roster states no year."
+    },
+    {
+      "name": "Giulia Mazzarelli",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary Team Director",
+      "campus": "University of Pennsylvania / Drexel University",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://newman.upenn.edu/our-team",
+      "fit_reason": "Tier A; Penn Catholic Newman Center 'Our Team' page names her in full as team director of the five-missionary FOCUS team serving Penn and Drexel. Stage 2 returned no focus.org personal page, so the citation is the team page, which does not carry her name in the URL. Roster states no year. The other four members of her team were not named in any retrievable snippet."
+    },
+    {
+      "name": "John Allen",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary Team Director",
+      "campus": "University of Maine (Newman Center)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://umaine.edu/newman/people/",
+      "fit_reason": "Tier A; University of Maine Newman Center People Directory lists him in full as 'FOCUS Missionary Team Director' with john.allen@focus.org. Stage 2 returned no focus.org personal page. The roster URL does not carry his name, and 'John Allen' is a common name, so this is medium; the focus.org email on the directory is what ties the name to the role. Directory states no year."
+    },
+    {
+      "name": "Gabriel Blank",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary",
+      "campus": "George Washington University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://focus.org/missionaries/gabriel-blank/",
+      "fit_reason": "Tier A; his own focus.org giving page surfaced directly on a DC-area campus-ministry query and states he serves at George Washington University. Surname in slug and title. His three teammates are given on that page as first names only (Catherine, Leo, Tessa) and are deliberately not emitted."
+    },
+    {
+      "name": "Mike Wollen",
+      "org": "FOCUS",
+      "tier": "A",
+      "role": "FOCUS Missionary",
+      "campus": "Temple University",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.facebook.com/100070210784848/videos/-meet-mike-wollen-focus-missionary-at-temple-university-and-learn-how-christ-has/1064921015524243/",
+      "fit_reason": "Tier A; the only citation found is a campus-ministry Facebook video titled 'Meet Mike Wollen, FOCUS Missionary at Temple University', which names him in full and states his role and campus. This is not a roster page and carries no year, so the assignment may be stale; stage 2 found no focus.org personal page under 'Mike Wollen' (a legal-first-name variant such as Michael was not testable within budget). Name does appear in the cited URL slug."
+    }
+  ],
+  "coverage": [
+    {"kind":"query","value":"Boston College OR Providence OR UMass Catholic campus ministry \"FOCUS missionaries\" meet our team 2025-2026","outcome":"no_people"},
+    {"kind":"query","value":"Newman Center \"FOCUS missionaries\" team New Hampshire OR Vermont OR Maine OR Connecticut OR \"Rhode Island\"","outcome":"found_people"},
+    {"kind":"query","value":"umaine.edu/newman people directory FOCUS missionary team director campus minister","outcome":"found_people"},
+    {"kind":"query","value":"newmanumass.org OR \"Newman UMass\" staff \"FOCUS missionary\" team director names","outcome":"no_people"},
+    {"kind":"query","value":"\"FOCUS missionaries\" 2025-2026 team Catholic campus ministry Penn State OR Pittsburgh OR Scranton OR Villanova OR Drexel","outcome":"no_people"},
+    {"kind":"query","value":"\"FOCUS missionaries\" meet the team Newman Center Buffalo OR Rochester OR Syracuse OR Binghamton OR Albany New York","outcome":"offtopic"},
+    {"kind":"query","value":"\"catholicterps\" OR \"Catholic Student Center\" Maryland College Park \"FOCUS missionaries\" staff team","outcome":"found_people"},
+    {"kind":"query","value":"thepittsburghoratory.org staff FOCUS missionary team director Pitt Carnegie Mellon","outcome":"found_people"},
+    {"kind":"query","value":"\"Penn Catholic\" Newman saintsaj.org FOCUS missionaries team staff Penn Drexel names","outcome":"found_people"},
+    {"kind":"query","value":"Rutgers OR Princeton OR \"Seton Hall\" Catholic campus ministry \"FOCUS\" missionary team staff directory New Jersey","outcome":"no_people"},
+    {"kind":"query","value":"shu.edu campus ministry \"Our Team\" FOCUS missionary Seton Hall names missionaries","outcome":"no_people"},
+    {"kind":"query","value":"\"FOCUS missionary\" staff Boston University OR Northeastern OR Harvard OR MIT Catholic center team director","outcome":"no_people"},
+    {"kind":"query","value":"harvardcatholic.org staff FOCUS missionaries names OR nucatholics.sites.northeastern.edu staff FOCUS missionary","outcome":"no_people"},
+    {"kind":"query","value":"\"FOCUS missionaries\" team Catholic University of America OR Georgetown OR \"George Washington\" OR \"University of Delaware\" campus ministry staff names","outcome":"found_people"},
+    {"kind":"query","value":"Villanova OR Temple OR \"Penn State\" OR Duquesne Catholic campus ministry \"FOCUS missionary\" team staff names 2025","outcome":"found_people"},
+    {"kind":"query","value":"UConn OR Yale OR Brown OR \"Providence College\" OR \"Quinnipiac\" Catholic center \"FOCUS missionary\" staff team names","outcome":"no_people"},
+    {"kind":"query","value":"site:focus.org/missionaries \"Shane Chilcott\" OR \"Cheyenna Cook\" OR \"Seth Larkin\" OR \"Maria Corcoran\" OR \"Giulia Mazzarelli\" OR \"Timothy Broderick\" OR \"Mike Wollen\" OR \"John Allen\"","outcome":"found_people"},
+    {"kind":"query","value":"site:focus.org/missionaries \"Daniel Tully\" OR \"Maxwell Schwabe\" OR \"Lillian Bernero\" OR \"Madison Fischahs\" OR \"Kyleigh Keane\" OR \"James Lutz\" OR \"Ian McCarron\" OR \"Ava Neugebauer\"","outcome":"found_people"},
+    {"kind":"site","value":"https://umaine.edu/newman/people/","outcome":"found_people"},
+    {"kind":"site","value":"https://catholicterps.org/about-us/staff/","outcome":"found_people"},
+    {"kind":"site","value":"https://www.thepittsburghoratory.org/ourpeople","outcome":"found_people"},
+    {"kind":"site","value":"https://newman.upenn.edu/our-team","outcome":"found_people"},
+    {"kind":"site","value":"https://www.saintsaj.org/our-team","outcome":"no_people"},
+    {"kind":"site","value":"https://drexelnewman.com/team","outcome":"no_people"},
+    {"kind":"site","value":"https://www.harvardcatholic.org/staff","outcome":"no_people"},
+    {"kind":"site","value":"https://nucatholics.sites.northeastern.edu/staff/","outcome":"offtopic"},
+    {"kind":"site","value":"https://www.newmanumass.org/about","outcome":"no_people"},
+    {"kind":"site","value":"https://www.shu.edu/campus-ministry/focus.html","outcome":"no_people"},
+    {"kind":"site","value":"https://rutgerscatholic.org/staff","outcome":"no_people"},
+    {"kind":"site","value":"https://princetoncatholic.org/about-us/staff/","outcome":"no_people"},
+    {"kind":"site","value":"https://catholic-dominican.providence.edu/campus-ministry/staff/","outcome":"no_people"},
+    {"kind":"site","value":"https://www.stmary-stthomas.community/campus-ministry","outcome":"no_people"},
+    {"kind":"site","value":"http://www.psucatholic.org/about-us/staff/","outcome":"no_people"},
+    {"kind":"site","value":"https://www.villanova.edu/university/mission-ministry/staff-directory.html","outcome":"no_people"},
+    {"kind":"site","value":"https://chaplains.brown.edu/religious-spiritual-communities/christianity","outcome":"no_people"},
+    {"kind":"site","value":"https://www.bostoncatholic.org/college-campus-ministry","outcome":"no_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "First-name-only roster (the brief's named trap) — Harvard Catholic Center",
+      "finding": "The Harvard Catholic Center states it partners with FOCUS and has 'a team of four missionaries'. No names of any of the four appeared in any retrievable snippet of harvardcatholic.org/staff or /meet-our-staff.",
+      "evidence": "https://www.harvardcatholic.org/staff and https://www.harvardcatholic.org/meet-our-staff",
+      "recommendation": "Four confirmed Northeast FOCUS missionaries exist here and are unnamed in search snippets. Worth a page-fetch pass if a future wave has fetching enabled; not recoverable by search snippet."
+    },
+    {
+      "issue": "First-name-only teammates — George Washington University team",
+      "finding": "Gabriel Blank's focus.org page names his teammates as 'Catherine, Leo, and Tessa' — first names only. Not emitted, per the brief's explicit rule and the standing no-first-name-plus-initial rule.",
+      "evidence": "https://focus.org/missionaries/gabriel-blank/",
+      "recommendation": "Three GWU missionaries remain unrecoverable. Do not pair these first names with surnames from any other source."
+    },
+    {
+      "issue": "Unnamed FOCUS cohort — Seton Hall University",
+      "finding": "Seton Hall Campus Ministry states that FOCUS and SPO missionaries live and serve on campus, roughly a dozen young adult missionaries, and that they are 'not directly employed by Seton Hall' but are part of the Discipleship Team. Two searches (shu.edu campus ministry Our Team, and the NJ regional query) returned no individual missionary names.",
+      "evidence": "https://www.shu.edu/campus-ministry/focus.html and https://www.shu.edu/campus-ministry/campus-ministry-staff.html",
+      "recommendation": "Likely the single largest unharvested Northeast FOCUS concentration found this wave. The named staff on the SHU page are priests (Rev. Nicholas C. Sertich, Rev. Nicholas G. Figurelli), who are chaplains and not FOCUS missionaries. Needs a page fetch, and the FOCUS/SPO split must be resolved before any name is emitted."
+    },
+    {
+      "issue": "Wrong-org risk — Northeastern University Catholic Center",
+      "finding": "Two named missionaries surfaced at the Northeastern Catholic Center, but the snippet attributes involvement to Saint Paul's Outreach (SPO), not FOCUS. Both were withheld rather than emitted as FOCUS.",
+      "evidence": "https://nucatholics.sites.northeastern.edu/staff/",
+      "recommendation": "Northeastern appears to be an SPO campus, not a FOCUS campus. A future east-coast wave should treat SPO-staffed Boston centers (Northeastern, and possibly others in the Archdiocese of Boston) as out of scope for FOCUS unless a focus.org email or explicit FOCUS label is visible."
+    },
+    {
+      "issue": "Chaplains and lay campus ministers listed alongside missionaries",
+      "finding": "Several rosters mix FOCUS missionaries with non-FOCUS staff. Withheld as non-FOCUS: Alison Hegarty, Caleb Gaeng, Paige Rienzo, Caitlyn Buttaci, Fr. Joe Cwik (Catholic Terps); Ben DiBello (UMaine, diocesan campus minister on a portlanddiocese.org address); Patrick Travers, Jule Coppa, Michael Gokie (Penn Newman); Fr. Gabriel Gillen O.P. (Providence College — a former FOCUS national chaplain, not a missionary); Jamie Boulding (Princeton Aquinas Institute); Fr. Mike Tabenero (Rutgers); Fr. Justin Bolger O.P. and Christina Germak (Brown-RISD); Sr. Bernadette Agustin (Quinnipiac).",
+      "evidence": "catholicterps.org/about-us/staff/, umaine.edu/newman/people/, newman.upenn.edu/our-team, catholic-dominican.providence.edu/campus-ministry/staff/, princetoncatholic.org/about-us/staff/, rutgerscatholic.org/staff",
+      "recommendation": "Correctly excluded. Recorded so a later wave does not re-harvest them as FOCUS. Note that the reliable discriminator across every one of these pages is a focus.org email address."
+    },
+    {
+      "issue": "Undated citation — Mike Wollen, Temple University",
+      "finding": "Emitted at medium confidence on a Facebook video title. No roster page for Temple's FOCUS team was retrievable, and the post carries no visible year.",
+      "evidence": "Facebook video 'Meet Mike Wollen, FOCUS Missionary at Temple University'",
+      "recommendation": "Re-test as 'Michael Wollen' against site:focus.org/missionaries in a later wave; the legal-first-name variant was not testable within this wave's budget."
+    },
+    {
+      "issue": "Region boundary — Virginia / Diocese of Arlington",
+      "finding": "GMU Catholic Campus Ministry (gmuccm.org/focus-2) surfaced as a live FOCUS roster page but sits in Virginia, which the brief assigns to the focus-newman-south slice even though 'Arlington' appears in this slice's diocesan list.",
+      "evidence": "https://gmuccm.org/focus-2",
+      "recommendation": "Left unharvested to avoid duplicating the south agent. If south did not take it, it is a confirmed live FOCUS roster page and should be picked up next wave."
+    }
+  ]
+}

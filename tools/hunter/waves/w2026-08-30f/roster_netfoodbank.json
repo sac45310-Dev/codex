@@ -1,0 +1,109 @@
+{
+  "wave_id": "w2026-08-30f",
+  "agent": "roster:netfoodbank",
+  "roster_verdict": "exhausted",
+  "target_org": "Second Harvest Food Bank of Northeast Tennessee",
+  "people": [
+    {
+      "org_name": "Kristen Reedy",
+      "org_type": "individual",
+      "state": "TN",
+      "city": "Kingsport",
+      "summary": "Second Harvest Food Bank of Northeast Tennessee — Director, Development",
+      "fit_score": 8,
+      "fit_reason": "Tier B development staff. Director of Development at a secular nonprofit food bank; core development role responsible for fundraising strategy, donor relations, and advancement initiatives.",
+      "source_query": "hunter:w2026-08-30f:netfoodbank",
+      "meta": {
+        "tier": "B",
+        "role": "Director, Development",
+        "target_org": "Second Harvest Food Bank of Northeast Tennessee",
+        "evidence_url": "https://www.zoominfo.com/p/Kristen-Reedy/9804578069",
+        "email": "k***@netfoodbank.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rhonda Chafin",
+      "org_type": "individual",
+      "state": "TN",
+      "city": "Kingsport",
+      "summary": "Second Harvest Food Bank of Northeast Tennessee — Executive Director",
+      "fit_score": 7,
+      "fit_reason": "Tier C executive. CEO of organization since 1993; responsible for overall strategy, Board relations, and major donor cultivation. Secular nonprofit leadership.",
+      "source_query": "hunter:w2026-08-30f:netfoodbank",
+      "meta": {
+        "tier": "C",
+        "role": "Executive Director",
+        "target_org": "Second Harvest Food Bank of Northeast Tennessee",
+        "evidence_url": "https://netfoodbank.org/about/",
+        "email": "rchafin@netfoodbank.org",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Matt Storey",
+      "org_type": "individual",
+      "state": "TN",
+      "summary": "Second Harvest Food Bank of Northeast Tennessee — Board President",
+      "fit_score": 6,
+      "fit_reason": "Tier C board member. Board President provides governance, major gift influence, and community leadership for secular nonprofit food bank.",
+      "source_query": "hunter:w2026-08-30f:netfoodbank",
+      "meta": {
+        "tier": "C",
+        "role": "Board President",
+        "target_org": "Second Harvest Food Bank of Northeast Tennessee",
+        "evidence_url": "https://netfoodbank.org/about/board/",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Second Harvest Food Bank of Northeast Tennessee",
+      "website": "https://netfoodbank.org/",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "evidence": "Eight-county secular hunger-relief nonprofit serving Carter, Greene, Hancock, Hawkins, Johnson, Sullivan, Unicoi, and Washington counties. Founded 1986. EIN 62-1303822."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Second Harvest Food Bank Northeast Tennessee development staff advancement",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Second Harvest Food Bank\" \"Gray Tennessee\" leadership team staff",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "Second Harvest Food Bank netfoodbank.org director development philanthropy",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:netfoodbank.org staff team board members",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Kristen Reedy\" \"Second Harvest\" Northeast Tennessee development",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Second Harvest Food Bank of Northeast Tennessee\" board directors major gifts donor relations",
+      "outcome": "found_people",
+      "people_found": 1
+    }
+  ]
+}

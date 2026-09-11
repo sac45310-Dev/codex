@@ -1,0 +1,144 @@
+{
+  "wave_id": "w2026-08-30a",
+  "agent": "roster:reachbeyond",
+  "roster_verdict": "rostered",
+  "target_org": "Reach Beyond",
+  "people": [
+    {
+      "org_name": "Daniel Enns",
+      "org_type": "individual",
+      "website": "https://reachbeyond.org/leadership",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "summary": "Reach Beyond — President",
+      "fit_score": 9,
+      "fit_reason": "Tier C - President of Reach Beyond; Board member since 2014; leadership of Christian media/missions agency founded in Ecuador",
+      "source_query": "hunter:w2026-08-30a:reachbeyond",
+      "meta": {
+        "tier": "C",
+        "role": "President; Board Member",
+        "target_org": "Reach Beyond",
+        "evidence_url": "https://reachbeyond.org/leadership",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Steve Harling",
+      "org_type": "individual",
+      "website": "https://reachbeyond.org/leadership",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "summary": "Reach Beyond — President",
+      "fit_score": 8,
+      "fit_reason": "Tier C - Named as President of Reach Beyond; 36 years pastoral leadership experience",
+      "source_query": "hunter:w2026-08-30a:reachbeyond",
+      "meta": {
+        "tier": "C",
+        "role": "President",
+        "target_org": "Reach Beyond",
+        "evidence_url": "https://reachbeyond.org/content/news/read/reach-beyond-names-steve-harling-as-new-president",
+        "confidence": "high"
+      }
+    }
+  ],
+  "orgs_discovered": [
+    {
+      "org_name": "Reach Beyond",
+      "website": "https://reachbeyond.org",
+      "org_type": "parachurch",
+      "size_estimate": "small",
+      "tier_profile": "AB",
+      "headcount_est": 50,
+      "faith_orientation": "christian",
+      "evidence": "Christian media and medical missions agency; formerly HCJB Global; headquartered in Colorado Springs, CO; founded 1931 in Ecuador; serves in Latin America, North Africa Middle East, Central Asia, Greece, and other regions"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "\"Reach Beyond\" board directors governance members",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org team members staff leadership",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "\"Reach Beyond\" executive leadership team Colorado Springs",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Reach Beyond\" HCJB mission Ecuador partners ministry",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Reach Beyond\" \"Vice President\" \"Senior Director\" staff",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:reachbeyond.org missionaries \"personal support\" giving",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "\"Reach Beyond\" board members trustees Colorado Springs",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "\"Reach Beyond\" development officer fundraiser donor relations",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Evangeline Enns",
+      "org": "Reach Beyond",
+      "question": "Is Evangeline Enns a current support-raised missionary (Tier A) or former staff member? She served as nurse in Ecuador 1987-1995 with her husband Daniel and currently splits time between Colorado and Arizona.",
+      "evidence_url": "https://reachbeyond.org/leadership"
+    },
+    {
+      "name": "Dave (first name only)",
+      "org": "Reach Beyond",
+      "question": "Full name and contact info needed. Listed as Vice President of Mobilization and Development.",
+      "evidence_url": "https://reachbeyond.org/missionaries/list"
+    },
+    {
+      "name": "Dan (first name only)",
+      "org": "Reach Beyond",
+      "question": "Full name and contact info needed. Listed as VP and Executive Director for Latin America Region.",
+      "evidence_url": "https://reachbeyond.org/missionaries/list"
+    },
+    {
+      "name": "Roger (first name only)",
+      "org": "Reach Beyond",
+      "question": "Full name and contact info needed. Listed as Vice President of International Ministries.",
+      "evidence_url": "https://reachbeyond.org/missionaries/list"
+    },
+    {
+      "name": "Allen (first name only)",
+      "org": "Reach Beyond",
+      "question": "Full name and contact info needed. Listed as director of Radio HCJB2 in Guayaquil, Ecuador; member of Global Media Trainers team.",
+      "evidence_url": "https://reachbeyond.org/missionaries/list"
+    },
+    {
+      "name": "Wayne Pederson",
+      "org": "Reach Beyond",
+      "question": "Current or former president? Search results show Daniel Enns became President in 2020, but Wayne Pederson mentioned as President in some sources.",
+      "evidence_url": "https://www.salary.com/research/company/reach-beyond-salary"
+    }
+  ]
+}

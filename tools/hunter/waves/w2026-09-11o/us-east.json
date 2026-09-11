@@ -1,0 +1,1313 @@
+{
+  "wave_id": "w2026-09-11o",
+  "agent": "cad-us-east",
+  "target_org": "Cadence International",
+  "slice": "Cadence International, eastern US bases",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Bob Ball",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-glenda-ball/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Bragg House Adult Ministry, Fort Bragg NC"
+    },
+    {
+      "name": "Glenda Ball",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-glenda-ball/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Bragg House Adult Ministry, Fort Bragg NC"
+    },
+    {
+      "name": "Jeremy Quattlebaum",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jeremy-and-shawna-quattlebaum/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Ft. Bragg Hospitality House Adult Ministry"
+    },
+    {
+      "name": "Shawna Quattlebaum",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jeremy-and-shawna-quattlebaum/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Ft. Bragg Hospitality House Adult Ministry"
+    },
+    {
+      "name": "Danny Perez",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/danny-and-kathryn-perez/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Eastern USA Field Leaders, Fort Bragg NC"
+    },
+    {
+      "name": "Kathryn Perez",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/danny-and-kathryn-perez/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Eastern USA Field Leaders, Fort Bragg NC"
+    },
+    {
+      "name": "Mark Kohl",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/mark-and-carol-kohl/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Ambassadors, Ellsworth AFB"
+    },
+    {
+      "name": "Carol Kohl",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/mark-and-carol-kohl/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Ambassadors, Ellsworth AFB"
+    },
+    {
+      "name": "David Osborne",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-jennie-osborne/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Associate Field Staff; met as soldiers at Fort Bragg"
+    },
+    {
+      "name": "Jennie Osborne",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-jennie-osborne/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Associate Field Staff; met as soldiers at Fort Bragg"
+    },
+    {
+      "name": "Joseph Vincent",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joseph-and-jill-vincent/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Joseph served with 82nd Airborne at Fort Bragg"
+    },
+    {
+      "name": "Jill Vincent",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joseph-and-jill-vincent/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Joseph served with 82nd Airborne at Fort Bragg"
+    },
+    {
+      "name": "Chris Stephenson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/chris-and-melissa-stephenson/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Lejeune/New River Hospitality House Directors, Camp Lejeune & MCAS New River"
+    },
+    {
+      "name": "Melissa Stephenson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/chris-and-melissa-stephenson/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Lejeune/New River Hospitality House Directors, Camp Lejeune & MCAS New River"
+    },
+    {
+      "name": "Mark Fischer",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/mark-and-mary-fischer/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Ministry history at Norfolk/Virginia Beach and Victory Ranch near Fort Jackson"
+    },
+    {
+      "name": "Mary Fischer",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/mark-and-mary-fischer/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Ministry history at Norfolk/Virginia Beach and Victory Ranch near Fort Jackson"
+    },
+    {
+      "name": "Joe Fletcher",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joe-and-caitlin-fletcher/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Anchor Hospitality House, NAS Oceana, Virginia Beach"
+    },
+    {
+      "name": "Caitlin Fletcher",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joe-and-caitlin-fletcher/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Anchor Hospitality House, NAS Oceana, Virginia Beach"
+    },
+    {
+      "name": "Trevor Claypool",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/trevor-and-jennifer-claypool/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Victory Ranch Directors, Adult Ministry near Fort Jackson SC"
+    },
+    {
+      "name": "Jennifer Claypool",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/trevor-and-jennifer-claypool/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Victory Ranch Directors, Adult Ministry near Fort Jackson SC"
+    },
+    {
+      "name": "Eric Thimell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-janet-thimell/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Victory Ranch leadership, South Carolina Midlands near Fort Jackson"
+    },
+    {
+      "name": "Janet Thimell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-janet-thimell/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Victory Ranch leadership, South Carolina Midlands near Fort Jackson"
+    },
+    {
+      "name": "Bob Miller",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-annie-miller/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Rock's Refuge, Fort Stewart-Hunter Army Airfield GA"
+    },
+    {
+      "name": "Annie Miller",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-annie-miller/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Rock's Refuge, Fort Stewart-Hunter Army Airfield GA"
+    },
+    {
+      "name": "Elliott \"Skip\" Main",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/elliott-skip-and-ruth-main/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Pensacola Hospitality House Adult Ministry, NAS Pensacola FL"
+    },
+    {
+      "name": "Ruth Main",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/elliott-skip-and-ruth-main/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Pensacola Hospitality House Adult Ministry, NAS Pensacola FL"
+    },
+    {
+      "name": "Ben Hallford",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-simi-hallford/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. New Cadence hospitality house near Shaw AFB SC"
+    },
+    {
+      "name": "Simi Hallford",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-simi-hallford/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. New Cadence hospitality house near Shaw AFB SC"
+    },
+    {
+      "name": "Hugh Wilson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/hugh-and-debbie-wilson/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hospitality house at Shaw AFB SC"
+    },
+    {
+      "name": "Debbie Wilson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/hugh-and-debbie-wilson/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hospitality house at Shaw AFB SC"
+    },
+    {
+      "name": "Scott Crawford",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/scott-and-rebecca-crawford/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Jacksonville Cadence House Adult Ministry, FL"
+    },
+    {
+      "name": "Rebecca Crawford",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/scott-and-rebecca-crawford/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Jacksonville Cadence House Adult Ministry, FL"
+    },
+    {
+      "name": "Bill Sperry",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bill-and-dianne-sperry/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Well Hospitality House, Luke AFB AZ"
+    },
+    {
+      "name": "Dianne Sperry",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bill-and-dianne-sperry/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Well Hospitality House, Luke AFB AZ"
+    },
+    {
+      "name": "Dwight Grismore",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dwight-and-letty-grismore/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hospitality house at Wright-Patterson AFB OH"
+    },
+    {
+      "name": "Letty Grismore",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dwight-and-letty-grismore/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hospitality house at Wright-Patterson AFB OH"
+    },
+    {
+      "name": "Peter Kinney",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/peter-and-tanya-kinney/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Dwelling Place Hospitality House, Ellsworth AFB SD"
+    },
+    {
+      "name": "Tanya Kinney",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/peter-and-tanya-kinney/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Dwelling Place Hospitality House, Ellsworth AFB SD"
+    },
+    {
+      "name": "Ben Bloker",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-and-melody-bloker/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Victory Villa Hospitality House, Naval Station Rota, Spain"
+    },
+    {
+      "name": "Melody Bloker",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-and-melody-bloker/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Victory Villa Hospitality House, Naval Station Rota, Spain"
+    },
+    {
+      "name": "Larry Blakely",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/larry-and-bb-blakely/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hospitality house near Joint Base Langley-Eustis VA"
+    },
+    {
+      "name": "BB Blakely",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/larry-and-bb-blakely/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hospitality house near Joint Base Langley-Eustis VA"
+    },
+    {
+      "name": "John Good",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/john-marcie-good/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Home Port Hospitality House, Joint Base Pearl Harbor-Hickam; no-'and' slug variant"
+    },
+    {
+      "name": "Marcie Good",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/john-marcie-good/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Home Port Hospitality House, Joint Base Pearl Harbor-Hickam; no-'and' slug variant"
+    },
+    {
+      "name": "Kenneth Say",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ken-christi-say/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hospitality ministry; slug uses short forms ken-christi, title gives full first names"
+    },
+    {
+      "name": "Christina Say",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ken-christi-say/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hospitality ministry; slug uses short forms ken-christi, title gives full first names"
+    },
+    {
+      "name": "Greg Carlson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/greg-and-heidi-carlson/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hospitality house, Naval Base Kitsap WA"
+    },
+    {
+      "name": "Heidi Carlson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/greg-and-heidi-carlson/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hospitality house, Naval Base Kitsap WA"
+    },
+    {
+      "name": "Isaac Beasley",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/isaac-and-andrea-beasley/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Associate Field Staff, Adult Ministry, USAG Fort Irwin"
+    },
+    {
+      "name": "Andrea Beasley",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/isaac-and-andrea-beasley/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Associate Field Staff, Adult Ministry, USAG Fort Irwin"
+    },
+    {
+      "name": "Jeffrey Walton",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jeffrey-and-candace-walton/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Humphreys Hospitality House Adult Ministry, USAG Humphreys"
+    },
+    {
+      "name": "Candace Walton",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jeffrey-and-candace-walton/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Humphreys Hospitality House Adult Ministry, USAG Humphreys"
+    },
+    {
+      "name": "Eric Bryan",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-jody-bryan/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Cadence Associate Field Staff, Adult Ministry, USAG Stuttgart"
+    },
+    {
+      "name": "Jody Bryan",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-jody-bryan/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Cadence Associate Field Staff, Adult Ministry, USAG Stuttgart"
+    },
+    {
+      "name": "Kevin Scheible",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/kevin-and-sharon-scheible/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Adult Ministry; served Ramstein and Naval Station Rota"
+    },
+    {
+      "name": "Sharon Scheible",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/kevin-and-sharon-scheible/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Adult Ministry; served Ramstein and Naval Station Rota"
+    },
+    {
+      "name": "Daniel Busenbark",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/daniel-and-charlotte-busenbark/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Carson House Adult Ministry, Fort Carson CO"
+    },
+    {
+      "name": "Charlotte Busenbark",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/daniel-and-charlotte-busenbark/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Carson House Adult Ministry, Fort Carson CO"
+    },
+    {
+      "name": "Ed Bissonnette",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ed-and-joy-bissonnette/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Bridge Hospitality House, NAS North Island"
+    },
+    {
+      "name": "Joy Bissonnette",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ed-and-joy-bissonnette/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. The Bridge Hospitality House, NAS North Island"
+    },
+    {
+      "name": "Nate Johnson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/nate-and-louise-johnson/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Navy/Marine base ministry"
+    },
+    {
+      "name": "Louise Johnson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/nate-and-louise-johnson/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Navy/Marine base ministry"
+    },
+    {
+      "name": "David Hutchings",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-andrea-hutchings/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. 13 years ministering to Marines and sailors in Okinawa, Japan"
+    },
+    {
+      "name": "Andrea Hutchings",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-andrea-hutchings/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. 13 years ministering to Marines and sailors in Okinawa, Japan"
+    },
+    {
+      "name": "Darrow Frazier",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/darrow-and-vicki-frazier/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hansen Christian Center Adult Ministry, Camp Hansen"
+    },
+    {
+      "name": "Vicki Frazier",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/darrow-and-vicki-frazier/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Hansen Christian Center Adult Ministry, Camp Hansen"
+    },
+    {
+      "name": "John Zinck",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/john-and-karen-zinck/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Limited-Term Adult Ministry"
+    },
+    {
+      "name": "Karen Zinck",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/john-and-karen-zinck/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Limited-Term Adult Ministry"
+    },
+    {
+      "name": "Ken Wooten",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ken-and-judi-wooten/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Ambassador, Adult Ministry, Fort Hood"
+    },
+    {
+      "name": "Judi Wooten",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ken-and-judi-wooten/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Ambassador, Adult Ministry, Fort Hood"
+    },
+    {
+      "name": "Craig Jentink",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/craig-and-kim-jentink/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Central USA Field Leaders, Adult Ministry"
+    },
+    {
+      "name": "Kim Jentink",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/craig-and-kim-jentink/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Central USA Field Leaders, Adult Ministry"
+    },
+    {
+      "name": "John Gause",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/john-and-doranne-gause/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Limited-Term Adult Ministry"
+    },
+    {
+      "name": "Doranne Gause",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/john-and-doranne-gause/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Limited-Term Adult Ministry"
+    },
+    {
+      "name": "Wes Auldridge",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/wes-and-elaine-auldridge/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Whiteman AFB; Elaine WestPac Assistant Field Leader, Adult Ministry"
+    },
+    {
+      "name": "Elaine Auldridge",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/wes-and-elaine-auldridge/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Whiteman AFB; Elaine WestPac Assistant Field Leader, Adult Ministry"
+    },
+    {
+      "name": "Stanley Arnold",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/stanley-and-beverly-arnold/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Limited-Term Adult Ministry"
+    },
+    {
+      "name": "Beverly Arnold",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/stanley-and-beverly-arnold/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Limited-Term Adult Ministry"
+    },
+    {
+      "name": "Jose Argueta",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jose-susan-argueta/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Adult Ministry; no-'and' slug variant"
+    },
+    {
+      "name": "Susan Argueta",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jose-susan-argueta/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Adult Ministry; no-'and' slug variant"
+    },
+    {
+      "name": "Deric Sneller",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/deric-and-rebecca-sneller/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. House Directors, K-town Hospitality House, Kaiserslautern Germany"
+    },
+    {
+      "name": "Rebecca Sneller",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/deric-and-rebecca-sneller/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. House Directors, K-town Hospitality House, Kaiserslautern Germany"
+    },
+    {
+      "name": "Duncan Forbes",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/duncan-suzanne-forbes/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Military family ministry; no-'and' slug variant"
+    },
+    {
+      "name": "Suzanne Forbes",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/duncan-suzanne-forbes/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Military family ministry; no-'and' slug variant"
+    },
+    {
+      "name": "Anthony Amor",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/anthony-and-jessica-amor/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Sanctuary Springs Hospitality House, Peterson AFB CO"
+    },
+    {
+      "name": "Jessica Amor",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/anthony-and-jessica-amor/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Sanctuary Springs Hospitality House, Peterson AFB CO"
+    },
+    {
+      "name": "Steven Harvell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/steven-and-rachel-harvell/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Kadena AFB chapel support, Okinawa; previously Travis AFB"
+    },
+    {
+      "name": "Rachel Harvell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/steven-and-rachel-harvell/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Kadena AFB chapel support, Okinawa; previously Travis AFB"
+    },
+    {
+      "name": "Zach Brown",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/zach-and-cassandra-brown/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Travis AFB community ministry"
+    },
+    {
+      "name": "Cassandra Brown",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/zach-and-cassandra-brown/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Travis AFB community ministry"
+    },
+    {
+      "name": "Levi Stephens",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/levi-hannah-stephens/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Ministry near Ellsworth AFB SD; no-'and' slug variant"
+    },
+    {
+      "name": "Hannah Stephens",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/levi-hannah-stephens/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Ministry near Ellsworth AFB SD; no-'and' slug variant"
+    },
+    {
+      "name": "David Bruce",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-daniela-bruce/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Associate Field Staff, Cadence hospitality ministry Wiesbaden Germany"
+    },
+    {
+      "name": "Daniela Bruce",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-daniela-bruce/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Associate Field Staff, Cadence hospitality ministry Wiesbaden Germany"
+    },
+    {
+      "name": "Jason Paxton",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jason-laura-paxton/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Adult Ministry; no-'and' slug variant"
+    },
+    {
+      "name": "Laura Paxton",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jason-laura-paxton/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Adult Ministry; no-'and' slug variant"
+    },
+    {
+      "name": "Robert Caudle",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/robert-and-stephanie-caudle/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Associate Field Staff / Student Ministry"
+    },
+    {
+      "name": "Stephanie Caudle",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/robert-and-stephanie-caudle/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Associate Field Staff / Student Ministry"
+    },
+    {
+      "name": "Bob Liercke",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-merleen-liercke/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Associate Field Staff / Student Ministry"
+    },
+    {
+      "name": "Merleen Liercke",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-merleen-liercke/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, surname in slug, title names both spouses. Associate Field Staff / Student Ministry"
+    },
+    {
+      "name": "Tori Randall",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/tori-randall/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Hospitality house ministry, South Carolina"
+    },
+    {
+      "name": "Stan Fisher",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/stan-fisher/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Annapolis MD; teaches history at the U.S. Naval Academy"
+    },
+    {
+      "name": "Melissa Rafferty",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/melissa-rafferty/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Serves at Kadena AFB, Okinawa, Japan"
+    },
+    {
+      "name": "Thomas Scheffel",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/thomas-scheffel/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Cadence missionary"
+    },
+    {
+      "name": "Kathleen (Kailani) Dardis",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/kathleen-kailani-dardis/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Adult Ministry"
+    },
+    {
+      "name": "Andrea Haddock",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/andrea-haddock/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Army post ministry"
+    },
+    {
+      "name": "David Cordell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-cordell/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Army post ministry"
+    },
+    {
+      "name": "Laurel Givry",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/laurel-givry/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Military families at Fort Jackson SC; mentors women, teaches Bible studies"
+    },
+    {
+      "name": "Char Hauser",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/char-hauser/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Marine Corps Base Hawaii, Kaneohe Bay"
+    },
+    {
+      "name": "Stanley Queen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/stanley-queen/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Cadence missionary; USMC Okinawa background"
+    },
+    {
+      "name": "Tom Box",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/tom-box/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Limited-Term Adult Ministry"
+    },
+    {
+      "name": "Sarah Rooney",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/sarah-rooney/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Disciples children and families on Fort Benning GA; with Cadence since 2015"
+    },
+    {
+      "name": "Dan Evans",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dan-evans/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Hill AFB UT"
+    },
+    {
+      "name": "Patrick Odom",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/patrick-odom/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Associate Field Staff, The Peak at Travis AFB"
+    },
+    {
+      "name": "Christine Graham",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/christine-graham/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Associate Field Staff, Homestead Hospitality House, Eagle River AK"
+    },
+    {
+      "name": "Abigail Taylor",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/abigail-taylor/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Student Ministry Intern"
+    },
+    {
+      "name": "Michael Peavey",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/michael-peavey/",
+      "fit_reason": "Tier A (Cadence missionaries raise salary, benefits and ministry expenses); per-person giving page, single-name slug matches result title. Associate Field Staff, Adult Ministry, Commander Fleet Activities Yokosuka"
+    },
+    {
+      "name": "Doris Hyde",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-and-doris-hyde/",
+      "fit_reason": "Tier A; per-person giving page. Slug is /ben-and-doris-hyde/ but the result TITLE reads 'Doris Hyde' alone, so only Doris is emitted; Ben is in needs_review per the standing split-on-title rule."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Fort Bragg\" OR \"Fort Liberty\" OR \"Fayetteville\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Camp Lejeune\" OR \"New River\" OR \"Jacksonville, North Carolina\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Quantico\" OR \"Fort Belvoir\" OR \"Norfolk\" OR \"Virginia Beach\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Fort Campbell\" OR \"Fort Knox\" OR \"Fort Jackson\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Fort Stewart\" OR \"Fort Benning\" OR \"Fort Moore\" OR \"Hunter Army\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Fort Drum\" OR \"West Point\" OR \"Aberdeen\" OR \"Annapolis\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Pensacola\" OR \"Eglin\" OR \"Mayport\" OR \"Jacksonville, Florida\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Wright-Patterson\" OR \"Dover\" OR \"Langley\" OR \"Parris Island\" OR \"Charleston\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"South Carolina\" OR \"Tennessee\" OR \"Kentucky\" hospitality house",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Maryland\" OR \"New York\" OR \"Delaware\" OR \"Pennsylvania\" ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary hospitality house -Ball -Quattlebaum -Perez -Kohl -Osborne -Fischer -Fletcher -Claypool -Thimell -Miller",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary Army post ministry -Hyde -Main -Hallford -Wilson -Randall -Crawford -Fisher -Scheffel -Stephenson -Vincent",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary Navy Marine Corps base ministry -Blakely -Grismore -Sperry -Kinney -Bloker -Good -Say -Carlson -Beasley -Bryan",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Adult Ministry\" -Dardis -Haddock -Busenbark -Cordell -Givry -Walton -Scheible -Miller -Beasley -Bryan -Grismore",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary serving military families -Box -Frazier -Zinck -Wooten -Jentink -Gause -Arnold -Bissonnette -Hauser -Hutchings -Queen -Stephenson",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Air Force Base\" -Sperry -Grismore -Blakely -Auldridge -Wilson -Hallford -Main -Kinney -Say -Carlson -Scheible",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary Virginia OR \"North Carolina\" OR Georgia OR Florida -Ball -Quattlebaum -Perez -Osborne -Fletcher -Blakely -Stephenson -Miller -Rooney -Vincent",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cadence.org/missionary \"Associate Field Staff\" OR \"Student Ministry\" -Sneller -Rooney -Forbes -Evans -Harvell -Brown -Stephens -Odom -Amor -Argueta -Givry -Dardis",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Two-name slug, one-name title",
+      "finding": "https://cadence.org/missionary/ben-and-doris-hyde/ is titled 'Doris Hyde - Cadence International' in search results, though the slug names Ben and Doris.",
+      "evidence": "Search result title 'Doris Hyde - Cadence International' at URL /missionary/ben-and-doris-hyde/; a snippet on the same page references 'Ben (from Annapolis, MD) and Doris (Spencerville, OH)' in past tense about how they met.",
+      "recommendation": "Emitted Doris only. Do NOT add Ben Hyde without a fetch of the live page \u2014 this is the exact pattern where an agency keeps a couple URL after one spouse has died or left. Verify before any outreach."
+    },
+    {
+      "issue": "Published first name is an initialism",
+      "finding": "https://cadence.org/missionary/larry-and-bb-blakely/ titled 'Larry & BB Blakely'.",
+      "evidence": "Slug and title both read 'bb'/'BB'. Surname is fully published and the posting is a US base (Joint Base Langley-Eustis, VA), so this is not sensitive-region anonymization.",
+      "recommendation": "Emitted as-is. Treat 'BB' as the name Cadence publishes; do not expand or guess a longer given name."
+    },
+    {
+      "issue": "Slug short forms vs title full names",
+      "finding": "https://cadence.org/missionary/ken-christi-say/ is titled 'Kenneth & Christina Say'.",
+      "evidence": "Slug uses 'ken-christi'; the result title gives 'Kenneth & Christina'.",
+      "recommendation": "Emitted using the title's full first names with the shared surname from the slug. Flagged so the orchestrator does not read the slug/name mismatch as a bad citation."
+    },
+    {
+      "issue": "Out-of-slice people surfaced by exclusion sweeps",
+      "finding": "Several records emitted here are posted outside the eastern-US slice (e.g. Ellsworth AFB, Luke AFB, Travis AFB, Fort Carson, Fort Irwin, Kitsap, Okinawa, Korea, Germany, Spain, Hawaii, Alaska).",
+      "evidence": "Exclusion sweeps on this domain return roster-wide results rather than geography-filtered ones.",
+      "recommendation": "Emitted per the brief's 'if you find a person, emit them' rule. Expect heavy overlap with cad-europe, cad-pacific, cad-us-west and cad-role; dedupe on source_url plus full name, NEVER on surname (two unrelated Sprague households exist on this domain)."
+    },
+    {
+      "issue": "Eastern bases with no Cadence presence found",
+      "finding": "No /missionary/ page surfaced for Quantico, Fort Belvoir, Fort Drum, West Point, Aberdeen, Dover, Parris Island, Charleston, Fort Campbell, Fort Knox, Eglin, Mayport, or the Naval Academy as a posting (Stan Fisher is at Annapolis but as active-duty faculty).",
+      "evidence": "Query 8 ('Wright-Patterson' OR 'Dover' OR 'Langley' OR 'Parris Island' OR 'Charleston') returned zero cadence.org results; Wright-Patterson and Langley were later found only via exclusion sweeps, which suggests those base names are not indexed as page text.",
+      "recommendation": "Base-name queries are weaker on this domain than exclusion sweeps. A future wave should spend its whole budget on exclusion sweeps rather than on geography."
+    }
+  ]
+}

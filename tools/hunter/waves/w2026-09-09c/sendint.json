@@ -1,0 +1,333 @@
+{
+  "wave_id": "w2026-09-09c",
+  "agent": "roster:send-international",
+  "target_org": "SEND International",
+  "searches_used": 14,
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Andrew Phillips",
+      "summary": "Missionary - SEND International — Serving in Sendai, Japan",
+      "fit_score": 9,
+      "fit_reason": "Individual missionary with personal giving/deputation page; personally raises support for field ministry in Japan",
+      "source_url": "https://www.send.org/give/missionaries/phillips",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Richard Nakamura",
+      "summary": "Missionary - SEND International — Church planting and evangelism, Japan focus",
+      "fit_score": 9,
+      "fit_reason": "Individual missionary with personal giving page; raises support for mature disciple development targeting Japanese communities",
+      "source_url": "https://www.send.org/give/missionaries/nakamura",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Keri Nakamura",
+      "summary": "Missionary - SEND International — Church planting and evangelism, Japan focus",
+      "fit_score": 9,
+      "fit_reason": "Individual missionary with personal giving page; raises support for mature disciple development targeting Japanese communities",
+      "source_url": "https://www.send.org/give/missionaries/nakamura",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Caleb Enns",
+      "summary": "Missionary - SEND International — Church planting, Northern Thailand, Shan people group",
+      "fit_score": 9,
+      "fit_reason": "Individual missionary with personal giving page; raises support for unreached people group ministry",
+      "source_url": "https://www.send.org/give/missionaries/enns",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Raquel Enns",
+      "summary": "Missionary - SEND International — Church planting, Northern Thailand, Shan people group",
+      "fit_score": 9,
+      "fit_reason": "Individual missionary with personal giving page; raises support for unreached people group ministry",
+      "source_url": "https://www.send.org/give/missionaries/enns",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Jeremy Mueller",
+      "summary": "Missionary - SEND International — Field ministry",
+      "fit_score": 8,
+      "fit_reason": "Individual missionary with personal giving page; raises support for field ministry",
+      "source_url": "https://www.send.org/give/missionaries/mueller",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Svatia Mueller",
+      "summary": "Missionary - SEND International — Field ministry",
+      "fit_score": 8,
+      "fit_reason": "Individual missionary with personal giving page; raises support for field ministry",
+      "source_url": "https://www.send.org/give/missionaries/mueller",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Joshua Javery",
+      "summary": "Missionary - SEND International — Church planting, Poland",
+      "fit_score": 9,
+      "fit_reason": "Individual missionary with personal giving page; raises support for church planting ministry in Eastern Europe",
+      "source_url": "https://www.send.org/give/missionaries/javery",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Carolin Javery",
+      "summary": "Missionary - SEND International — Church planting, Poland",
+      "fit_score": 9,
+      "fit_reason": "Individual missionary with personal giving page; raises support for church planting ministry in Eastern Europe",
+      "source_url": "https://www.send.org/give/missionaries/javery",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Kyle Eipperle",
+      "summary": "Missionary - SEND International — Training Ukrainian missionaries, Operation World research",
+      "fit_score": 9,
+      "fit_reason": "Individual missionary with personal giving page; raises support for missionary training and leadership development",
+      "source_url": "https://www.send.org/give/missionaries/eipperle",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Carrie Eipperle",
+      "summary": "Missionary - SEND International — Training Ukrainian missionaries, Operation World research",
+      "fit_score": 9,
+      "fit_reason": "Individual missionary with personal giving page; raises support for missionary training and leadership development",
+      "source_url": "https://www.send.org/give/missionaries/eipperle",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Darwin Stoesz",
+      "summary": "Missionary - SEND International — Leadership and finance ministry, Japan",
+      "fit_score": 8,
+      "fit_reason": "Individual missionary with personal giving page; raises support for financial leadership and church assistance ministry",
+      "source_url": "https://www.send.org/give/missionaries/stoesz",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Karen Stoesz",
+      "summary": "Missionary - SEND International — Leadership and finance ministry, Japan",
+      "fit_score": 8,
+      "fit_reason": "Individual missionary with personal giving page; raises support for financial leadership and church assistance ministry",
+      "source_url": "https://www.send.org/give/missionaries/stoesz",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "John Paetkau",
+      "summary": "Missionary - SEND International — Field ministry",
+      "fit_score": 8,
+      "fit_reason": "Individual missionary with personal giving page; raises support for field ministry",
+      "source_url": "https://www.send.org/give/missionaries/paetkau",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Leanne Paetkau",
+      "summary": "Missionary - SEND International — Field ministry",
+      "fit_score": 8,
+      "fit_reason": "Individual missionary with personal giving page; raises support for field ministry",
+      "source_url": "https://www.send.org/give/missionaries/paetkau",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Doug Harder",
+      "summary": "Missionary - SEND International — Field ministry",
+      "fit_score": 8,
+      "fit_reason": "Individual missionary with personal giving page; raises support for field ministry",
+      "source_url": "https://www.send.org/give/missionaries/harder-1",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    },
+    {
+      "org_name": "Lynn Harder",
+      "summary": "Missionary - SEND International — Field ministry",
+      "fit_score": 8,
+      "fit_reason": "Individual missionary with personal giving page; raises support for field ministry",
+      "source_url": "https://www.send.org/give/missionaries/harder-1",
+      "meta": {
+        "tier": "A",
+        "role": "Missionary",
+        "confidence": "high",
+        "evidence_basis": "personal_page",
+        "target_org": "SEND International"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "SEND International missionary personal giving page support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "sendint.org missionary giving page donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"send.org/missionary\" OR \"give.send.org\" missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"SEND International\" missionary name partner monthly support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:send.org missionary individual giving partner",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "SEND International missionaries Japan Philippines Spain personal support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:send.org/give/missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"send.org/give/missionaries\" missionary support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "SEND International missionaries list personal support pages",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "send.org/give/missionaries smith johnson taylor",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "SEND International \"give/missionaries\" Asia Europe missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"send.org/give/missionaries/\" partner \"monthly\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "SEND International \"andrew phillips\" \"nakamura\" \"enns\" missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "send.org/give/missionaries \"davids\" OR \"scott\" OR \"brown\" OR \"wilson\"",
+      "outcome": "no_people"
+    }
+  ],
+  "negatives": [],
+  "needs_review": [
+    {
+      "kind": "pattern_established",
+      "value": "send.org/give/missionaries/<last-name>",
+      "description": "SEND International uses consistent URL pattern for individual/couple missionary giving pages. This pattern can be mined for additional missionaries beyond those discovered in this wave."
+    },
+    {
+      "kind": "partial_name",
+      "value": "Hershberger (first name unknown)",
+      "url": "https://send.org/give/missionaries/hershberger",
+      "note": "Found in search results but first name not identified. Requires verification."
+    }
+  ]
+}

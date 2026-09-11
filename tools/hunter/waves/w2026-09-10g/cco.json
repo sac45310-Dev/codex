@@ -1,0 +1,1082 @@
+{
+  "wave_id": "w2026-09-10g",
+  "agent": "cco",
+  "target_org": "Coalition for Christian Outreach",
+  "slice": "ccojubilee.org staff and campus pages",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "R. York Moore",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CEO, President, and National Evangelist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/rymoore",
+      "fit_reason": "Slug carries surname Moore, title provides full first and middle names"
+    },
+    {
+      "name": "Ammiel Francis",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Systems Administrator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/ammiel-francis",
+      "fit_reason": "Full name in slug, title confirms full name"
+    },
+    {
+      "name": "Jennifer Burkholder",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "National Director of Strategic Partnerships",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jburkholder",
+      "fit_reason": "Slug carries surname Burkholder, title provides full first name Jennifer"
+    },
+    {
+      "name": "Jessica Bonzo",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Human Resources Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jbonzo",
+      "fit_reason": "Slug carries surname Bonzo, title provides full first name Jessica"
+    },
+    {
+      "name": "Deb Gephardt",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Office Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/dgephardt",
+      "fit_reason": "Slug carries surname Gephardt, title provides full first name Deb"
+    },
+    {
+      "name": "Sean Purcell",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Education and Design Specialist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/spurcell",
+      "fit_reason": "Slug carries surname Purcell, title provides full first name Sean"
+    },
+    {
+      "name": "Kelly Willard",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Ministry Supervisor at Robert Morris University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kwillard",
+      "fit_reason": "Slug carries surname Willard, title provides full first name Kelly"
+    },
+    {
+      "name": "Shannon Coelho",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campaign Manager, Advancement Department",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/scoelho",
+      "fit_reason": "Slug carries surname Coelho, title provides full first name Shannon"
+    },
+    {
+      "name": "Raquel Pace",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/rpace",
+      "fit_reason": "Slug carries surname Pace, title provides full first name Raquel"
+    },
+    {
+      "name": "Landon Adams",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Volunteer at Ohio State University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/ladams",
+      "fit_reason": "Slug carries surname Adams, title provides full first name Landon"
+    },
+    {
+      "name": "Ana Wakeman",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Associate at Penn State University Park",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/awakeman",
+      "fit_reason": "Slug carries surname Wakeman, title provides full first name Ana"
+    },
+    {
+      "name": "Michael Swanson",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "National Director of Staff Development",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/mswanson",
+      "fit_reason": "Slug carries surname Swanson, title provides full first name Michael"
+    },
+    {
+      "name": "Bill Saxton",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Associate at Penn State University Park",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/billsaxton",
+      "fit_reason": "Slug carries surname Saxton, title provides full first name Bill"
+    },
+    {
+      "name": "Ted Schumacher",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Kent State University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/tschumacher",
+      "fit_reason": "Slug carries surname Schumacher, title provides full first name Ted"
+    },
+    {
+      "name": "Sam Levy",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Area Director, Philadelphia",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/slevy",
+      "fit_reason": "Slug carries surname Levy, title provides full first name Sam"
+    },
+    {
+      "name": "Ray Wiesen",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Penn State Abington",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/rwiesen",
+      "fit_reason": "Slug carries surname Wiesen, title provides full first name Ray"
+    },
+    {
+      "name": "Will Gigante",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Penn State University Park",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/wgigante",
+      "fit_reason": "Slug carries surname Gigante, title provides full first name Will"
+    },
+    {
+      "name": "Nancy Bower",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/nbower",
+      "fit_reason": "Slug carries surname Bower, title provides full first name Nancy"
+    },
+    {
+      "name": "Dave Tanis",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/dtanis",
+      "fit_reason": "Slug carries surname Tanis, title provides full first name Dave"
+    },
+    {
+      "name": "Emily Blaker",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/eblaker",
+      "fit_reason": "Slug carries surname Blaker, title provides full first name Emily"
+    },
+    {
+      "name": "Ryan Ruffing",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Volunteer at Boston College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/rruffing",
+      "fit_reason": "Slug carries surname Ruffing, title provides full first name Ryan"
+    },
+    {
+      "name": "Garrett Rice",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Boston College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/grice",
+      "fit_reason": "Slug carries surname Rice, title provides full first name Garrett"
+    },
+    {
+      "name": "Tim Bogertman",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Associate in Boston",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/tbogertman",
+      "fit_reason": "Slug carries surname Bogertman, title provides full first name Tim"
+    },
+    {
+      "name": "Megan Gongola",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/mgongola",
+      "fit_reason": "Slug carries surname Gongola, title provides full first name Megan"
+    },
+    {
+      "name": "John Myers",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jmyers",
+      "fit_reason": "Slug carries surname Myers, title provides full first name John"
+    },
+    {
+      "name": "Gary Buffington",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/gbuffington",
+      "fit_reason": "Slug carries surname Buffington, title provides full first name Gary"
+    },
+    {
+      "name": "Jeremy Stoltzfus",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jstoltzfus",
+      "fit_reason": "Slug carries surname Stoltzfus, title provides full first name Jeremy"
+    },
+    {
+      "name": "Paul Harbison",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/pharbison",
+      "fit_reason": "Slug carries surname Harbison, title provides full first name Paul"
+    },
+    {
+      "name": "Andrew Kalthoff",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/akalthoff",
+      "fit_reason": "Slug carries surname Kalthoff, title provides full first name Andrew"
+    },
+    {
+      "name": "Michael Mattes",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Ohio State University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/mmattes",
+      "fit_reason": "Slug carries surname Mattes, title provides full first name Michael"
+    },
+    {
+      "name": "Jason Stone",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Associate at Ohio State University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jstone",
+      "fit_reason": "Slug carries surname Stone, title provides full first name Jason"
+    },
+    {
+      "name": "Brandie Daniels-Anderson",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Associate at Ohio State University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/bdaniels-anderson",
+      "fit_reason": "Slug carries surname, title provides full first name Brandie with compound last name"
+    },
+    {
+      "name": "Khadija Adams",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Associate at Ohio State University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kadams",
+      "fit_reason": "Slug carries surname Adams, title provides full first name Khadija"
+    },
+    {
+      "name": "Lauren Alexander",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Ohio State University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/lalexander",
+      "fit_reason": "Slug carries surname Alexander, title provides full first name Lauren"
+    },
+    {
+      "name": "Bob Robinson",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Kent State University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/brobinson",
+      "fit_reason": "Slug carries surname Robinson, title provides full first name Bob"
+    },
+    {
+      "name": "Ryan Carlson",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Area Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/rcarlson",
+      "fit_reason": "Slug carries surname Carlson, title provides full first name Ryan"
+    },
+    {
+      "name": "William Hayes",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/whayes",
+      "fit_reason": "Slug carries surname Hayes, title provides full first name William"
+    },
+    {
+      "name": "Tyler Charles",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Area Director, Midwest",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/tcharles",
+      "fit_reason": "Slug carries surname Charles, title provides full first name Tyler"
+    },
+    {
+      "name": "Andy Moore",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at University of Pittsburgh",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/amoore",
+      "fit_reason": "Slug carries surname Moore, title provides full first name Andy"
+    },
+    {
+      "name": "Timothy Feyrer",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/tfeyrer",
+      "fit_reason": "Slug carries surname Feyrer, title provides full first name Timothy"
+    },
+    {
+      "name": "Jennifer Merrill",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Volunteer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jmerrill",
+      "fit_reason": "Slug carries surname Merrill, title provides full first name Jennifer"
+    },
+    {
+      "name": "Will Clark",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/wclark",
+      "fit_reason": "Slug carries surname Clark, title provides full first name Will"
+    },
+    {
+      "name": "Rick Whitlock",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/rwhitlock",
+      "fit_reason": "Slug carries surname Whitlock, title provides full first name Rick"
+    },
+    {
+      "name": "Stephanie Repp",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/frepp",
+      "fit_reason": "Slug carries surname Repp, title provides full name Stephanie with nickname Frankie"
+    },
+    {
+      "name": "Katherine Staronka",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Fellow at Indiana University of Pennsylvania",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kstaronka",
+      "fit_reason": "Slug carries surname Staronka, title provides full first name Katherine"
+    },
+    {
+      "name": "Joshua Scruggs",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jscruggs",
+      "fit_reason": "Slug carries surname Scruggs, title provides full first name Joshua"
+    },
+    {
+      "name": "Peter Chace",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Duquesne University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/pchace",
+      "fit_reason": "Slug carries surname Chace, title provides full first name Peter"
+    },
+    {
+      "name": "Connor Hoffman",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Fellow at Duquesne University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/choffman",
+      "fit_reason": "Slug carries surname Hoffman, title provides full first name Connor"
+    },
+    {
+      "name": "Christine Rue",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Executive Vice President of Mission Health",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/crue",
+      "fit_reason": "Slug carries surname Rue, title provides full first name Christine"
+    },
+    {
+      "name": "Araca Miller",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Duquesne and University of Pittsburgh Law Schools",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/amiller",
+      "fit_reason": "Slug carries surname Miller, title provides full first name Araca"
+    },
+    {
+      "name": "Li Dong",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/ldong",
+      "fit_reason": "Slug carries surname Dong, title provides nickname Dolly and full first name Li"
+    },
+    {
+      "name": "Becky Case",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Director of Center of Student Engagement",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/bcase",
+      "fit_reason": "Slug carries surname Case, title provides full first name Becky"
+    },
+    {
+      "name": "Tim Bonomo",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Associate at Geneva College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/tbonomo",
+      "fit_reason": "Slug carries surname Bonomo, title provides full first name Tim"
+    },
+    {
+      "name": "John Wilhelm",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Director of Campus Ministry at Geneva College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jwilhelm",
+      "fit_reason": "Slug carries surname Wilhelm, title provides full first name John"
+    },
+    {
+      "name": "Caleb Musselman",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Geneva College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/cmusselman",
+      "fit_reason": "Slug carries surname Musselman, title provides full first name Caleb"
+    },
+    {
+      "name": "Justin Harbison",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jharbison",
+      "fit_reason": "Slug carries surname Harbison, title provides full first name Justin"
+    },
+    {
+      "name": "Scott Evans",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Shippensburg University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/sevans",
+      "fit_reason": "Slug carries surname Evans, title provides full first name Scott"
+    },
+    {
+      "name": "Shelly Riemersma",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Spiritual Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/sriemersma",
+      "fit_reason": "Slug carries surname Riemersma, title provides full first name Shelly"
+    },
+    {
+      "name": "John Cavallaro",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jcavallaro",
+      "fit_reason": "Slug carries surname Cavallaro, title provides full first name John"
+    },
+    {
+      "name": "Kris Herman",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Kent State University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kherman",
+      "fit_reason": "Slug carries surname Herman, title provides full first name Kris"
+    },
+    {
+      "name": "Nicole Schumacher",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Kent State University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/nschumacher",
+      "fit_reason": "Slug carries surname Schumacher, title provides full first name Nicole"
+    },
+    {
+      "name": "Kyle Schumacher",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Kent State University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kschumacher",
+      "fit_reason": "Slug carries surname Schumacher, title provides full first name Kyle"
+    },
+    {
+      "name": "Brandon Fine",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/bfine",
+      "fit_reason": "Slug carries surname Fine, title provides full first name Brandon"
+    },
+    {
+      "name": "Joshua Hayes",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Coordinator at Slippery Rock University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jhayes",
+      "fit_reason": "Slug carries surname Hayes, title provides full first name Joshua"
+    },
+    {
+      "name": "Heather Strong Moore",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Slippery Rock University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/hmoore",
+      "fit_reason": "Slug carries surname Moore, title provides full name Heather Strong Moore"
+    },
+    {
+      "name": "Brendon Hall",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Grove City and Slippery Rock",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/bhall",
+      "fit_reason": "Slug carries surname Hall, title provides full first name Brendon"
+    },
+    {
+      "name": "Mitch Hill",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/mhill",
+      "fit_reason": "Slug carries surname Hill, title provides full first name Mitch"
+    },
+    {
+      "name": "Daniel Snoke",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Grove City College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/dsnoke",
+      "fit_reason": "Slug carries surname Snoke, title provides full first name Daniel"
+    },
+    {
+      "name": "Lindsey Scalera",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/lscalera",
+      "fit_reason": "Slug carries surname Scalera, title provides full first name Lindsey"
+    },
+    {
+      "name": "Eliana Rivas",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/erivas",
+      "fit_reason": "Slug carries surname Rivas, title provides full first name Eliana"
+    },
+    {
+      "name": "Mark Steffey",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/msteffey",
+      "fit_reason": "Slug carries surname Steffey, title provides full first name Mark"
+    },
+    {
+      "name": "Carter Shearer",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Marketing & Graphic Designer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/cshearer",
+      "fit_reason": "Slug carries surname Shearer, title provides full first name Carter"
+    },
+    {
+      "name": "Josh Thompson",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member at Grove City",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jthompson",
+      "fit_reason": "Slug carries surname Thompson, title provides full first name Josh"
+    },
+    {
+      "name": "Krystal Gwynn",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kgwynn",
+      "fit_reason": "Slug carries surname Gwynn, title provides full first name Krystal"
+    },
+    {
+      "name": "Beth Walker",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member at Grove City",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/bwalker",
+      "fit_reason": "Slug carries surname Walker, title provides full first name Beth"
+    },
+    {
+      "name": "Gus Goggin",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/ggoggin",
+      "fit_reason": "Slug carries surname Goggin, title provides full first name Gus"
+    },
+    {
+      "name": "Philip Schiavoni",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Area Director, Mid-Atlantic",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/pschiavoni",
+      "fit_reason": "Slug carries surname Schiavoni, title provides full first name Philip"
+    },
+    {
+      "name": "Jesús Origel",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Area Director, Southwest Pennsylvania",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jorigel",
+      "fit_reason": "Slug carries surname Origel, title provides full first name Jesús"
+    },
+    {
+      "name": "Kenny Campbell",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "National Director of Campus Ministry Resources",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/kcampbell",
+      "fit_reason": "Slug carries surname Campbell, title provides full first name Kenny"
+    },
+    {
+      "name": "Celeste Carl",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Fellow",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/ccarl",
+      "fit_reason": "Slug carries surname Carl, title provides full first name Celeste"
+    },
+    {
+      "name": "Ariana Suggs",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Fellow",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/asuggs",
+      "fit_reason": "Slug carries surname Suggs, title provides full first name Ariana"
+    },
+    {
+      "name": "Jordan Greynolds",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Fellow",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jgreynolds",
+      "fit_reason": "Slug carries surname Greynolds, title provides full first name Jordan"
+    },
+    {
+      "name": "Boaz Moser",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Fellow",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/bmoser",
+      "fit_reason": "Slug carries surname Moser, title provides full first name Boaz"
+    },
+    {
+      "name": "Micah Beideman",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Robert Morris University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/mbeideman",
+      "fit_reason": "Slug carries surname Beideman, title provides full first name Micah"
+    },
+    {
+      "name": "Becky Vargo",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/bvargo",
+      "fit_reason": "Slug carries surname Vargo, title provides full first name Becky"
+    },
+    {
+      "name": "Ivan Strong Moore",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Indiana University of Pennsylvania",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/imoore",
+      "fit_reason": "Slug carries surname Moore, title provides full name Ivan Strong Moore"
+    },
+    {
+      "name": "Dustin Sutherland",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/dsutherland",
+      "fit_reason": "Slug carries surname Sutherland, title provides full first name Dustin"
+    },
+    {
+      "name": "Gabriel Morris",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/gmorris",
+      "fit_reason": "Slug carries surname Morris, title provides full first name Gabriel"
+    },
+    {
+      "name": "Joe Toren",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jtoren",
+      "fit_reason": "Slug carries surname Toren, title provides full first name Joe"
+    },
+    {
+      "name": "Antonio Morton",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Volunteer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/amorton",
+      "fit_reason": "Slug carries surname Morton, title provides full first name Antonio"
+    },
+    {
+      "name": "Jason Pagel",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Shippensburg University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/jpagel",
+      "fit_reason": "Slug carries surname Pagel, title provides full first name Jason"
+    },
+    {
+      "name": "Sara Willis",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Campus Minister at Shippensburg University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/swillis",
+      "fit_reason": "Slug carries surname Willis, title provides full first name Sara"
+    },
+    {
+      "name": "Paul Miller",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/pmiller",
+      "fit_reason": "Slug carries surname Miller, title provides full first name Paul"
+    },
+    {
+      "name": "Nate Tyger",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/ntyger",
+      "fit_reason": "Slug carries surname Tyger, title provides full first name Nate"
+    },
+    {
+      "name": "Ginger Weeber",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "Staff Member",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/gweeber",
+      "fit_reason": "Slug carries surname Weeber, title provides full first name Ginger"
+    },
+    {
+      "name": "Brandon Rathbun",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Volunteer at Lycoming College and Penn College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/brathbun",
+      "fit_reason": "Slug carries surname Rathbun, title provides full first name Brandon"
+    },
+    {
+      "name": "Dan Riethmuller",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Volunteer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/driethmuller",
+      "fit_reason": "Slug carries surname Riethmuller, title provides full first name Dan"
+    },
+    {
+      "name": "Leanne Torres",
+      "org": "Coalition for Christian Outreach",
+      "tier": "A",
+      "role": "CCO Volunteer at Anderson University",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://ccojubilee.org/staff/ltorres",
+      "fit_reason": "Slug carries surname Torres, title provides full first name Leanne"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/our-team",
+      "outcome": "no_people_in_snippet"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/campus-detail Pittsburgh",
+      "outcome": "found_pages_not_staff"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Penn State",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Boston College",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Ohio State",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff West Virginia University",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Duquesne",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Geneva College",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Kent State",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Slippery Rock",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Temple Drexel",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Grove City",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff director area ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff fellow",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Indiana University Pittsburgh Robert Morris",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff Shippensburg Millersville",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:ccojubilee.org/staff -fellow -graduate volunteer",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}

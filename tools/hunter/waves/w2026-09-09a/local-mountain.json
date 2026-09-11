@@ -1,0 +1,556 @@
+{
+  "wave_id": "w2026-09-09a",
+  "agent": "local:mountain-west",
+  "searches_used": 18,
+  "orgs_discovered": [
+    {
+      "org_name": "Mosaic International Ministries",
+      "website": "https://www.mosaicinternational.org",
+      "org_type": "agency",
+      "size_estimate": "medium",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "notes": "International mission organization with support-raised staff model. Visible 'partners' language on website indicating partnership/supporter team recruitment."
+    },
+    {
+      "org_name": "International Students, Inc. (ISI)",
+      "website": "https://www.internationalstudents.org",
+      "org_type": "agency",
+      "size_estimate": "medium",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "notes": "Recruits and trains support partners (families, individuals) for international student ministry. Volunteer-based support-raising model. 'Join my support team' language evident."
+    },
+    {
+      "org_name": "Reach Beyond (World Radio Missionary Fellowship)",
+      "website": "https://www.reachbeyond.org",
+      "org_type": "agency",
+      "size_estimate": "large",
+      "tier_profile": "A",
+      "faith_orientation": "Christian",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "notes": "Historic mission agency founded 1931, based in Colorado Springs. Mission support/partnership model typical of sending organizations. 4-star Charity Navigator rating."
+    },
+    {
+      "org_name": "Terradez Ministries",
+      "website": "https://www.terradez.com",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "notes": "Christian ministry organization, primarily online/digital ministry to believers. Based in Colorado Springs."
+    },
+    {
+      "org_name": "Crossfire Ministries",
+      "website": "https://www.crossfireministries.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "notes": "Faith-based nonprofit offering no-cost groceries, clothing, and community support. Individual donor model."
+    },
+    {
+      "org_name": "Anam Cara Ministries",
+      "website": "https://www.anamcara.com",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "notes": "Spiritual formation and healing ministry focused on accompanying others in their faith journey."
+    },
+    {
+      "org_name": "Springs Rescue Mission",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "notes": "Rescue mission serving Colorado Springs area, found on ProPublica nonprofit database."
+    },
+    {
+      "org_name": "Colorado Horse Rescue",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "notes": "Animal rescue nonprofit specializing in horse rescue and welfare."
+    },
+    {
+      "org_name": "Colorado Canine Rescue",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "notes": "Animal rescue nonprofit focused on canine rescue and adoption."
+    },
+    {
+      "org_name": "Colorado Animal Rescue Express",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "notes": "Animal rescue nonprofit providing emergency animal assistance."
+    },
+    {
+      "org_name": "Save Our Youth Mentoring",
+      "website": "https://www.saveouryouth.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Denver",
+      "state": "CO",
+      "notes": "One-to-one youth mentoring program founded 1994, employs Mentoring Specialists. Individual donor support model."
+    },
+    {
+      "org_name": "Big Brothers Big Sisters of Colorado",
+      "website": "https://www.biglittlecolorado.org",
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Denver",
+      "state": "CO",
+      "notes": "Operating since 1918, one-to-one youth mentoring across Denver Metro and Pikes Peak regions."
+    },
+    {
+      "org_name": "Denver Youth Program",
+      "website": "https://www.denveryouthprogram.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Denver",
+      "state": "CO",
+      "notes": "Multiple programs impacting youth: mentorship, entrepreneur support, clinical services, peer support."
+    },
+    {
+      "org_name": "MENTOR Colorado",
+      "website": "https://www.comentoring.org",
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Denver",
+      "state": "CO",
+      "notes": "Capacity building and support organization for mentoring programs across Colorado."
+    },
+    {
+      "org_name": "Denver Rescue Mission",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "large",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Denver",
+      "state": "CO",
+      "notes": "Major rescue mission serving Denver area, well-established nonprofit with extensive individual donor base."
+    },
+    {
+      "org_name": "Downtown Rescue Mission Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Denver",
+      "state": "CO",
+      "notes": "Housing and shelter nonprofit serving homeless population in downtown Denver area."
+    },
+    {
+      "org_name": "Colorado Coalition For The Homeless",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Denver",
+      "state": "CO",
+      "notes": "Homeless services nonprofit serving Colorado coalition area, extensive individual donor support."
+    },
+    {
+      "org_name": "Pass The Salt Ministries Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "notes": "Faith-based nonprofit ministry serving Salt Lake City area."
+    },
+    {
+      "org_name": "Catholic Community Services of Utah",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "notes": "Catholic social services nonprofit providing community support and aid."
+    },
+    {
+      "org_name": "Effective Altruism Salt Lake City",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "notes": "Community-focused nonprofit aligned with effective altruism principles."
+    },
+    {
+      "org_name": "Phoenix Ministries 3 Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Phoenix",
+      "state": "AZ",
+      "notes": "Christian ministry nonprofit based in Phoenix."
+    },
+    {
+      "org_name": "Phoenix Ministries Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Phoenix",
+      "state": "AZ",
+      "notes": "Christian ministry nonprofit serving Phoenix area."
+    },
+    {
+      "org_name": "Arizona Animal Rescue Mission Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Phoenix",
+      "state": "AZ",
+      "notes": "Animal rescue nonprofit providing animal protection and welfare services."
+    },
+    {
+      "org_name": "Arizona Poodle Rescue Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Phoenix",
+      "state": "AZ",
+      "notes": "Specialty animal rescue nonprofit focused on poodle rescue and placement."
+    },
+    {
+      "org_name": "Central Arizona Animal Rescue Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Phoenix",
+      "state": "AZ",
+      "notes": "Animal protection and welfare nonprofit serving central Arizona."
+    },
+    {
+      "org_name": "Arizona Youth & Family Services Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Phoenix",
+      "state": "AZ",
+      "notes": "Youth and family services nonprofit focused on children and family support."
+    },
+    {
+      "org_name": "Gap Ministries",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Tucson",
+      "state": "AZ",
+      "notes": "Christian ministry nonprofit, human services focused (group home/residential services)."
+    },
+    {
+      "org_name": "Ask Ministries",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Tucson",
+      "state": "AZ",
+      "notes": "Christian ministry nonprofit based in Tucson, spiritual development focus."
+    },
+    {
+      "org_name": "Living Word Ministries International Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Tucson",
+      "state": "AZ",
+      "notes": "International Christian ministry nonprofit, long-standing since 1989."
+    },
+    {
+      "org_name": "Tucson Refugee Ministry",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "secular",
+      "city": "Tucson",
+      "state": "AZ",
+      "notes": "Immigrant and refugee services nonprofit, multi-ethnic community focus."
+    },
+    {
+      "org_name": "Alongside Ministries Albuquerque Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Albuquerque",
+      "state": "NM",
+      "notes": "Christian nonprofit focused on family services and adolescent parents."
+    },
+    {
+      "org_name": "South Albuquerque Cooperative Ministry",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "small",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Albuquerque",
+      "state": "NM",
+      "notes": "Cooperative Christian ministry serving south Albuquerque area."
+    },
+    {
+      "org_name": "Catholic Charities Of Idaho Inc",
+      "website": null,
+      "org_type": "nonprofit",
+      "size_estimate": "medium",
+      "tier_profile": "B",
+      "faith_orientation": "Christian",
+      "city": "Boise",
+      "state": "ID",
+      "notes": "Catholic social services nonprofit with long history, established 1946."
+    }
+  ],
+  "people": [],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "Colorado Springs ministry \"support raising\" staff parachurch",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Colorado Springs\" ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Colorado Springs parachurch organizations campus ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Denver Colorado nonprofit rescue mission homeless",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits \"Salt Lake City\" Utah nonprofit ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Phoenix Arizona nonprofit ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Tucson Arizona nonprofit ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Albuquerque New Mexico nonprofit ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Boise Idaho nonprofit ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Mosaic International Ministries\" Colorado Springs website donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Terradez Ministries\" Colorado Springs website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "International Students Inc ISI Colorado Springs website",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Denver youth mentoring nonprofit \"support raising\" staff Colorado",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Colorado Springs animal rescue youth mentoring nonprofit",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Crossfire Ministries\" \"Anam Cara Ministries\" Colorado Springs website donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:projects.propublica.org/nonprofits Phoenix Arizona animal rescue youth",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Save Our Youth\" Denver \"internationalstudents.org\" Colorado nonprofit support raising",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "Reach Beyond \"World Radio Missionary Fellowship\" Colorado Springs website",
+      "outcome": "found_people"
+    }
+  ],
+  "negatives": [
+    {
+      "entity_kind": "org",
+      "name": "The Navigators",
+      "reason_code": "already_in_system",
+      "detail": "Large parachurch organization, already known DonorSend prospect"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Young Life",
+      "reason_code": "already_in_system",
+      "detail": "Large youth ministry parachurch, already known DonorSend prospect"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Compassion International",
+      "reason_code": "already_in_system",
+      "detail": "Major international development nonprofit, already in system"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Focus on the Family",
+      "reason_code": "already_in_system",
+      "detail": "Large parachurch organization based in Colorado Springs, already known"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Gospel Rescue Mission Tucson",
+      "reason_code": "already_in_system",
+      "detail": "Rescue mission in territory, already in system"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Animal Protection New Mexico",
+      "reason_code": "already_in_system",
+      "detail": "Animal protection nonprofit, already in system"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Christian Health Service Corps",
+      "reason_code": "already_in_system",
+      "detail": "Support-raised staff org, already in system"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Fellowship Bible Church Of Colorado Springs",
+      "reason_code": "kill_test_individual_church",
+      "detail": "Individual local church, excluded per kill test"
+    },
+    {
+      "entity_kind": "org",
+      "name": "First Evangelical Free Church Of Colorado Springs",
+      "reason_code": "kill_test_individual_church",
+      "detail": "Individual local church, excluded per kill test"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Colorado Springs Christian Schools",
+      "reason_code": "kill_test_school",
+      "detail": "School organization, excluded per kill test"
+    },
+    {
+      "entity_kind": "org",
+      "name": "First Presbyterian Church Of Colorado Springs Foundation",
+      "reason_code": "kill_test_individual_church",
+      "detail": "Church-based foundation, excluded per kill test"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Albuquerque Chamber Of Commerce",
+      "reason_code": "kill_test_trade_association",
+      "detail": "Chamber of commerce, excluded per kill test"
+    },
+    {
+      "entity_kind": "org",
+      "name": "University Of Utah Research Foundation",
+      "reason_code": "kill_test_institution",
+      "detail": "University-based organization, excluded per kill test"
+    },
+    {
+      "entity_kind": "org",
+      "name": "Catholic Community Foundation For The Diocese Of Phoenix",
+      "reason_code": "kill_test_institutional",
+      "detail": "Diocesan foundation, too institutional"
+    },
+    {
+      "entity_kind": "org",
+      "name": "David C Cook Books",
+      "reason_code": "kill_test_publisher",
+      "detail": "Religious publisher/vendor, excluded per kill test"
+    }
+  ],
+  "needs_review": []
+}

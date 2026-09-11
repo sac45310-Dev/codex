@@ -1,0 +1,382 @@
+{
+  "wave_id": "w2026-09-10e",
+  "agent": "cmml-high",
+  "target_org": "Christian Missions in Many Lands, Inc.",
+  "slice": "m/651–m/1400",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Eleanor Sims",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/732",
+      "fit_reason": "Name appears in search snippet tied to ID; confirmed live profile"
+    },
+    {
+      "name": "John Sims",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/732",
+      "fit_reason": "Couple entry; name appears in search snippet tied to ID; confirmed live profile"
+    },
+    {
+      "name": "Nathan Cedarland",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/950",
+      "fit_reason": "Opaque numeric ID (m/950); person name appears in search snippet tied to this ID"
+    },
+    {
+      "name": "Julissa Cedarland",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/950",
+      "fit_reason": "Couple entry; opaque numeric ID; person name appears in search snippet"
+    },
+    {
+      "name": "Dale Hamilton",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/1288",
+      "fit_reason": "Name appears in page title; couple entry"
+    },
+    {
+      "name": "Chris Hamilton",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/1288",
+      "fit_reason": "Name appears in page title; couple entry"
+    },
+    {
+      "name": "John Kinlaw",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/907",
+      "fit_reason": "Name appears in page title; confirmed live profile"
+    },
+    {
+      "name": "Jennifer Kinlaw",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/907",
+      "fit_reason": "Couple entry; name appears in page title; confirmed live profile"
+    },
+    {
+      "name": "Steven Anderson",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/1277",
+      "fit_reason": "Name appears in page title; couple entry"
+    },
+    {
+      "name": "Stephannie Anderson",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/1277",
+      "fit_reason": "Couple entry; name appears in page title"
+    },
+    {
+      "name": "Jeremy Bassett",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/848",
+      "fit_reason": "Name appears in page title; couple entry"
+    },
+    {
+      "name": "Sonja Bassett",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/848",
+      "fit_reason": "Couple entry; name appears in page title"
+    },
+    {
+      "name": "Daniel Eakins",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/844",
+      "fit_reason": "Name appears in page title; couple entry"
+    },
+    {
+      "name": "Georgiana Eakins",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/844",
+      "fit_reason": "Couple entry; name appears in page title"
+    },
+    {
+      "name": "John Dobrovat",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/882",
+      "fit_reason": "Name appears in page title; couple entry"
+    },
+    {
+      "name": "Mariana Dobrovat",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/882",
+      "fit_reason": "Couple entry; name appears in page title"
+    },
+    {
+      "name": "Bradley Sturm",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/714",
+      "fit_reason": "Name appears in page title; couple entry"
+    },
+    {
+      "name": "Lindsay Sturm",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/714",
+      "fit_reason": "Couple entry; name appears in page title"
+    },
+    {
+      "name": "Nathan Loudon",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/906",
+      "fit_reason": "Name appears in page title; couple entry"
+    },
+    {
+      "name": "Chisengo Loudon",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/906",
+      "fit_reason": "Couple entry; name appears in page title"
+    },
+    {
+      "name": "Wilser Cacho-Hansen",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/840",
+      "fit_reason": "Name appears in page title; couple entry"
+    },
+    {
+      "name": "Nicole Cacho-Hansen",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/840",
+      "fit_reason": "Couple entry; name appears in page title"
+    },
+    {
+      "name": "Joey Speichinger",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/862",
+      "fit_reason": "Opaque numeric ID (m/862); person name appears in search snippet (Missionary #796)"
+    },
+    {
+      "name": "Kaitlin Speichinger",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/862",
+      "fit_reason": "Couple entry; opaque numeric ID; person name appears in search snippet"
+    },
+    {
+      "name": "Josiah Musumali",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/892",
+      "fit_reason": "Name appears in page title; couple entry"
+    },
+    {
+      "name": "Ruth Musumali",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/892",
+      "fit_reason": "Couple entry; name appears in page title"
+    },
+    {
+      "name": "Peter Cerqueira",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/797",
+      "fit_reason": "Name appears in page title; couple entry"
+    },
+    {
+      "name": "Nelly Cerqueira",
+      "org": "Christian Missions in Many Lands, Inc.",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.cmml.us/m/797",
+      "fit_reason": "Couple entry; name appears in page title"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m Mexico missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m \"church planting\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m Guatemala",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m \"Bible translation\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m Kenya Tanzania",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m Thailand India Taiwan",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m JAARS aviation pilot",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m Argentina Uruguay Chile",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m \"prison ministry\" youth",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m publishing literature teaching",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m Italy Romania Germany Europe",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m Honduras \"Costa Rica\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m Mozambique \"South Africa\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m/1 \"missionary\"",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m evangelism discipleship -Colvin -Howland",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m medical nurse health ministry -Hamilton",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m Panama Zambia Zimbabwe -Fleming",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cmml.us/m education leadership training -Bristow -Zito -Papworth",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}

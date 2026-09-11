@@ -1,0 +1,325 @@
+{
+  "wave_id": "w2026-09-10i",
+  "agent": "ruf-names-k",
+  "target_org": "Reformed University Fellowship",
+  "slice": "personal giving slugs, first names K-Z",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Kate Rogge",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/kate.rogge",
+      "fit_reason": "Surname 'rogge' in slug, full name 'Kate Rogge' in title, Texas RUF team member"
+    },
+    {
+      "name": "Mary Neill Lucas",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/maryneill.lucas",
+      "fit_reason": "Surname 'lucas' in slug, full name 'Mary Neill Lucas' in title, RUF Intern following father's path"
+    },
+    {
+      "name": "Micah Coleman",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/Micah.coleman",
+      "fit_reason": "Surname 'coleman' in slug, full name 'Micah Coleman' in title"
+    },
+    {
+      "name": "Olivia Bedenbaugh",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/olivia.bedenbaugh",
+      "fit_reason": "Surname 'bedenbaugh' in slug, full name 'Olivia Bedenbaugh' in title, Belhaven University campus staff after internship"
+    },
+    {
+      "name": "Nathan Daly",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/nathan.daly",
+      "fit_reason": "Surname 'daly' in slug, full name 'Nathan Daly' in title, RUF Intern"
+    },
+    {
+      "name": "Peyton Gunter",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/peytongunter",
+      "fit_reason": "Name 'Peyton Gunter' in slug and title as personal page"
+    },
+    {
+      "name": "Ruth Duncan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ruth.duncan",
+      "fit_reason": "Surname 'duncan' in slug, full name 'Ruth Duncan' in title, RUF campus minister"
+    },
+    {
+      "name": "Ruth Wilmot",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ruth.wilmot",
+      "fit_reason": "Surname 'wilmot' in slug, full name 'Ruth Wilmot' in title, RUF campus minister at UMBC"
+    },
+    {
+      "name": "Ryan Mahajan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/ryan.mahajan",
+      "fit_reason": "Surname 'mahajan' in slug, full name 'Ryan Mahajan' in title, RUF Intern"
+    },
+    {
+      "name": "Mark McDonnell",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/mmcdonnell",
+      "fit_reason": "Surname-containing slug 'mmcdonnell', full name 'Mark McDonnell' in title"
+    },
+    {
+      "name": "Margaret Wingo",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/margaret.wingo",
+      "fit_reason": "Surname 'wingo' in slug, full name 'Margaret Wingo' in title, Mississippi College graduate, RUF Intern"
+    },
+    {
+      "name": "Victoria Noonan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/victoria.noonan",
+      "fit_reason": "Surname 'noonan' in slug, full name 'Victoria Noonan' in title, RUF campus staff"
+    },
+    {
+      "name": "Robert Kullberg",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://givetoruf.org/donate/robert.kullberg",
+      "fit_reason": "Surname 'kullberg' in slug, full name 'Robert Kullberg' in title, University of Tulsa graduate, RUF Intern"
+    },
+    {
+      "name": "Marcus Nobles",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/alam",
+      "fit_reason": "Campus code slug 'alam' (University of Alabama Mobile) with 'Marcus Nobles' in title; page belongs to campus ministry, not individual"
+    },
+    {
+      "name": "Michael Goodlin",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/lehigh",
+      "fit_reason": "Campus code slug 'lehigh' (Lehigh University) with 'Michael Goodlin' in title; page belongs to campus ministry, not individual"
+    },
+    {
+      "name": "Nathan Dicks",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/bu",
+      "fit_reason": "Campus code slug 'bu' (Boston University) with 'Nathan Dicks' in title; page belongs to campus ministry, not individual"
+    },
+    {
+      "name": "Peter Scheidt",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/mines",
+      "fit_reason": "Campus code slug 'mines' (Colorado School of Mines) with 'Peter Scheidt' in title; page belongs to campus ministry, not individual"
+    },
+    {
+      "name": "Ryan Dougan",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/ut-austin",
+      "fit_reason": "Campus code slug 'ut-austin' (University of Texas at Austin) with 'Ryan Dougan' in title; page belongs to campus ministry, not individual"
+    },
+    {
+      "name": "Lucas Tanner",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/fgcu",
+      "fit_reason": "Campus code slug 'fgcu' (Florida Gulf Coast University) with 'Lucas Tanner' in title; page belongs to campus ministry, not individual"
+    },
+    {
+      "name": "Seth Gurley",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/cofc",
+      "fit_reason": "Campus code slug 'cofc' (College of Charleston) with 'Seth Gurley' in title; page belongs to campus ministry, not individual"
+    },
+    {
+      "name": "Paul Schuler",
+      "org": "Reformed University Fellowship",
+      "tier": "A",
+      "role": "Area Staff",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://givetoruf.org/donate/berkeleyrufi",
+      "fit_reason": "Campus code slug 'berkeleyrufi' with 'Paul Schuler' in title; page belongs to campus ministry, not individual"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "\"Kara\" OR \"Kate\" OR \"Katherine\" OR \"Kathryn\" OR \"Kayla\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Keith\" OR \"Kelly\" OR \"Kelsey\" OR \"Kevin\" OR \"Kyle\" RUF intern site:givetoruf.org/donate",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Leah\" OR \"Levi\" OR \"Lindsey\" OR \"Logan\" OR \"Lucas\" RUF campus staff site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Lydia\" OR \"Mackenzie\" OR \"Maggie\" OR \"Mallory\" OR \"Marcus\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Margaret\" OR \"Mark\" OR \"Marissa\" OR \"Mason\" OR \"Meredith\" RUF campus minister site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Micah\" OR \"Michael\" OR \"Miriam\" OR \"Morgan\" OR \"Naomi\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Natalie\" OR \"Nathan\" OR \"Nicole\" OR \"Nora\" OR \"Olivia\" RUF campus staff site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Owen\" OR \"Patrick\" OR \"Paul\" OR \"Peter\" OR \"Peyton\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Phoebe\" OR \"Philip\" OR \"Priscilla\" OR \"Rachel\" OR \"Reagan\" RUF intern site:givetoruf.org/donate",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Rebecca\" OR \"Rebekah\" OR \"Reid\" OR \"Robert\" OR \"Ruth\" RUF campus minister site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Ryan\" OR \"Sadie\" OR \"Savannah\" OR \"Scott\" OR \"Seth\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Shelby\" OR \"Silas\" OR \"Sophia\" OR \"Spencer\" OR \"Stephen\" RUF campus staff site:givetoruf.org/donate",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Sydney\" OR \"Taylor\" OR \"Thomas\" OR \"Timothy\" OR \"Trevor\" RUF intern site:givetoruf.org/donate",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Tyler\" OR \"Virginia\" OR \"Wesley\" OR \"Zach\" RUF area coordinator site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Kevin\" OR \"Kelly\" OR \"Kelsey\" RUF area coordinator site:givetoruf.org/donate",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Patrick\" OR \"Paul\" OR \"Robert\" OR \"Reid\" RUF intern site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Seth\" OR \"Scott\" OR \"Shelby\" RUF campus minister site:givetoruf.org/donate",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Levi\" OR \"Logan\" OR \"Lucas\" OR \"Michael\" RUF campus staff site:givetoruf.org/donate -\"Michael Goodlin\"",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Kelsey as married name variant",
+      "finding": "Search 2 found Kelsey mentioned on campus ministry pages (Millersville and Auburn), but Kelsey appeared only as a spouse within ministry pages, not with her own personal giving slug",
+      "evidence": "Campus ministry pages at givetoruf.org/donate/millersville and givetoruf.org/donate/auburn mention Kelsey but do not have Kelsey-specific URLs",
+      "recommendation": "Kelsey may have personal support-raising responsibilities as an intern spouse. If her own page exists, a direct personal-name search might locate it (e.g., 'Kelsey <surname>' if surname known)"
+    },
+    {
+      "issue": "Leah Jardin mentioned but not cited",
+      "finding": "Search 3 found Leah mentioned as James Jardin's wife and co-worker at campus ministry, but no personal page for Leah was found in this slice",
+      "evidence": "James Jardin page at givetoruf.org/donate/uah mentions Leah as spouse and ministry partner",
+      "recommendation": "If Leah Jardin has support-raising responsibilities as Tier A staff, her personal page may exist but was not found in this search slice. Future searches might target her surname directly"
+    }
+  ]
+}
