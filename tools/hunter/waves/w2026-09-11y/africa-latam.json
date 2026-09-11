@@ -1,0 +1,499 @@
+{
+  "wave_id": "w2026-09-11y",
+  "agent": "y-africa-latam",
+  "target_org": "Encompass World Partners",
+  "slice": "Central African Republic, Chad, Kenya, Nigeria, Burundi, Rwanda, Togo, Niger, Cameroon, DRC, Mexico, Brazil, Argentina, Peru, Dominican Republic, Guatemala",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Randy Clark",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/randy-and-susan-clark-3096",
+      "fit_reason": "Couple page; split on title 'Randy & Susan Clark'; both names in slug; Central African Republic field"
+    },
+    {
+      "name": "Susan Clark",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/randy-and-susan-clark-3096",
+      "fit_reason": "Couple page; split on title 'Randy & Susan Clark'; both names in slug; Central African Republic field"
+    },
+    {
+      "name": "Thierry Mirone",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/thierryandvalerie",
+      "fit_reason": "Couple page; split on title 'Thierry & Valérie Mirone'; slug carries no surname but title does; Central African Republic field"
+    },
+    {
+      "name": "Valérie Mirone",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/thierryandvalerie",
+      "fit_reason": "Couple page; split on title 'Thierry & Valérie Mirone'; slug carries no surname but title does; Central African Republic field"
+    },
+    {
+      "name": "Mike Yoder",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Executive Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mike-and-letitia",
+      "fit_reason": "Couple page; split on title 'Mike & Letitia Yoder'; slug carries no surname but title does; career: served as missionaries in Berlin from 1997"
+    },
+    {
+      "name": "Letitia Yoder",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mike-and-letitia",
+      "fit_reason": "Couple page; split on title 'Mike & Letitia Yoder'; slug carries no surname but title does; career: served as missionaries in Berlin from 1997"
+    },
+    {
+      "name": "Matt Higby",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mattandmai",
+      "fit_reason": "Couple page; split on title 'Matt & Mai Higby'; slug carries no surname but title does; Nigeria and Argentina fields"
+    },
+    {
+      "name": "Mai Higby",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mattandmai",
+      "fit_reason": "Couple page; split on title 'Matt & Mai Higby'; slug carries no surname but title does; Nigeria and Argentina fields"
+    },
+    {
+      "name": "Etienne Patin",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/etienne-and-myriam",
+      "fit_reason": "Couple page; split on title 'Etienne & Myriam Patin'; slug carries no surname but title does; multiple fields including DRC"
+    },
+    {
+      "name": "Myriam Patin",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "School Nurse",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/etienne-and-myriam",
+      "fit_reason": "Couple page; split on title 'Etienne & Myriam Patin'; serves as school nurse; multiple fields including DRC"
+    },
+    {
+      "name": "Greg Burgess",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/gregandsandrine",
+      "fit_reason": "Couple page; split on title 'Greg & Sandrine Burgess'; slug carries no surname but title does; Kenya field"
+    },
+    {
+      "name": "Sandrine Burgess",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/gregandsandrine",
+      "fit_reason": "Couple page; split on title 'Greg & Sandrine Burgess'; slug carries no surname but title does; Kenya field"
+    },
+    {
+      "name": "Will Ferguson",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/will-and-emma",
+      "fit_reason": "Couple page; split on title 'Will and Emma Ferguson'; six-year assignment to Japan, also Argentina and Chile field"
+    },
+    {
+      "name": "Emma Ferguson",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/will-and-emma",
+      "fit_reason": "Couple page; split on title 'Will and Emma Ferguson'; six-year assignment to Japan, also Argentina and Chile field"
+    },
+    {
+      "name": "Steve Kern",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/steveandceleste",
+      "fit_reason": "Couple page; split on title 'Steve & Celeste Kern'; slug carries no surname but title does; Mexico and Argentina fields"
+    },
+    {
+      "name": "Celeste Kern",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/steveandceleste",
+      "fit_reason": "Couple page; split on title 'Steve & Celeste Kern'; slug carries no surname but title does; Mexico and Argentina fields"
+    },
+    {
+      "name": "Gary McCaman",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/garyandlinda",
+      "fit_reason": "Couple page; split on title 'Gary & Linda McCaman'; slug carries no surname but title does; Dominican Republic field"
+    },
+    {
+      "name": "Linda McCaman",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/garyandlinda",
+      "fit_reason": "Couple page; split on title 'Gary & Linda McCaman'; slug carries no surname but title does; Dominican Republic field"
+    },
+    {
+      "name": "Jason C.",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/jasonandchristy",
+      "fit_reason": "Couple page; split on title 'Jason & Christy C.'; Cameroon field; founder and director of Grace Brethren Bible Institute of Cameroon"
+    },
+    {
+      "name": "Christy C.",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "School Principal",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/jasonandchristy",
+      "fit_reason": "Couple page; split on title 'Jason & Christy C.'; Cameroon field; principal of Greenhouse School (missionary kids school)"
+    },
+    {
+      "name": "Ted Offutt",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/tedandkaylin",
+      "fit_reason": "Couple page; split on title 'Ted & Kaylin Offutt'; slug carries no surname but title does; Burundi field"
+    },
+    {
+      "name": "Kaylin Offutt",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/tedandkaylin",
+      "fit_reason": "Couple page; split on title 'Ted & Kaylin Offutt'; slug carries no surname but title does; Burundi field"
+    },
+    {
+      "name": "Kyler Malarae",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/kylerandclaire",
+      "fit_reason": "Couple page; split on title 'Kyler & Claire Malarae'; slug carries no surname but title does; Burundi field"
+    },
+    {
+      "name": "Claire Malarae",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/kylerandclaire",
+      "fit_reason": "Couple page; split on title 'Kyler & Claire Malarae'; slug carries no surname but title does; Burundi field"
+    },
+    {
+      "name": "Tom Barlow",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/tomandmaryann",
+      "fit_reason": "Couple page; split on title showing both; slug 'tomandmaryann' combined with title data; Brazil field"
+    },
+    {
+      "name": "MaryAnn Barlow",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/tomandmaryann",
+      "fit_reason": "Couple page; split on title showing both; slug 'tomandmaryann' combined with title; Brazil field"
+    },
+    {
+      "name": "Kya Bolding",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/kya-bolding-3057",
+      "fit_reason": "Slug carries first name and number; name in title; multiple slice fields including Kenya, Nigeria, Mexico, Guatemala"
+    },
+    {
+      "name": "Elise Klawitter",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/eliseklawitter",
+      "fit_reason": "Slug carries full name; name in title; DRC field"
+    },
+    {
+      "name": "April McKee",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Events Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/april",
+      "fit_reason": "Slug shows first name, title shows full name; coordinates church-planting teams; DRC field"
+    },
+    {
+      "name": "Denver Murray",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/denvermurray",
+      "fit_reason": "Slug carries full name; name in title; Mexico field"
+    },
+    {
+      "name": "Brian Baughman",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/brian",
+      "fit_reason": "Slug shows first name, title shows full name; Central African Republic and Argentina fields; Spanish language missionary"
+    },
+    {
+      "name": "Junko Saito",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/junko",
+      "fit_reason": "Slug shows first name, title shows full name; Nigeria and Dominican Republic fields"
+    },
+    {
+      "name": "Joan Justiniano",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/ralphandjoan",
+      "fit_reason": "Slug names ralphandjoan, title only shows Joan Justiniano; split on title; Rwanda field"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Central African Republic",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Nigeria",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Kenya",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person DRC",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Chad",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Rwanda",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Brazil",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Mexico",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Argentina",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Peru",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Dominican Republic",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Cameroon",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Burundi",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Togo",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Niger",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Guatemala",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person \"church planter\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person medical -Saito -Clark -Higby",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "trip_participant",
+      "finding": "Malachi Saunders #321",
+      "evidence": "Search result title and context from brief: 'served twice' - episodic short-term trips",
+      "recommendation": "Do not emit as career prospect. Short-term trip participant does not manage ongoing personal donor base. Flag for review only."
+    },
+    {
+      "issue": "trip_participant",
+      "finding": "Charity Reist #3641",
+      "evidence": "Search result and brief context: 'going to France in May and June 2026' - two-month short-term trip",
+      "recommendation": "Do not emit as career prospect. Short-term trip participant raises money for one trip only. Flag for review only."
+    },
+    {
+      "issue": "anonymized_worker",
+      "finding": "E. & S. N. #3515",
+      "evidence": "Initials-only page title with member number only; slug is initials /esn; Encompass works Central Asia, sensitive region",
+      "recommendation": "Per TRAP 2, never emit initials-only or withheld-surname entries. Do not resolve name from other sources. Sensitive region protection rule. Keep in needs_review only."
+    },
+    {
+      "issue": "ambiguous_couple_split",
+      "finding": "Ralph (from slug ralphandjoan #185)",
+      "evidence": "Slug 'ralphandjoan' indicates couple; title only shows 'Joan Justiniano #185'; cannot confirm Ralph's current status from available evidence",
+      "recommendation": "Do not emit Ralph. Joan emitted separately. Ralph may be deceased or separated per couple-split rules; cannot confirm without page content."
+    },
+    {
+      "issue": "retired_non_prospect",
+      "finding": "Diana Davis #56",
+      "evidence": "Search result mentioned retired worker receiving medical expense support through Encompass retirement benefits program",
+      "recommendation": "Do not emit as prospect. Retirees are supported by fund, not raising support themselves; fail Tier A test."
+    },
+    {
+      "issue": "retired_non_prospect",
+      "finding": "Vicki DeArmey #60",
+      "evidence": "Search result explicitly identified as retired staff member receiving medical expense support",
+      "recommendation": "Do not emit as prospect. Retired workers are not seeking personal support; fail Tier A criteria."
+    },
+    {
+      "issue": "retired_non_prospect",
+      "finding": "Eddie & Linda Mensinger #241",
+      "evidence": "Search result explicitly identified as retired couple receiving medical expense support through retirement benefits",
+      "recommendation": "Do not emit as prospects. Retired couple does not raise personal support."
+    },
+    {
+      "issue": "retired_non_prospect",
+      "finding": "Tom Julien #444",
+      "evidence": "Search result explicitly identified as retired worker receiving medical expense assistance",
+      "recommendation": "Do not emit as prospect. Retired worker does not raise personal support."
+    },
+    {
+      "issue": "ambiguous_surname",
+      "finding": "Betsy #20",
+      "evidence": "Title shows only 'Betsy #20' - first name only, no surname visible",
+      "recommendation": "Cannot determine if single name or withheld surname. Inferred from context that this may be anonymization case or incomplete record."
+    },
+    {
+      "issue": "partial_surname",
+      "finding": "Roy & Holly A. #8",
+      "evidence": "Title shows 'Roy & Holly A.' - surname abbreviated or withheld as single letter",
+      "recommendation": "Partial/abbreviated surname may indicate sensitive region anonymization or incomplete data. Flag for review."
+    },
+    {
+      "issue": "initials_in_slug",
+      "finding": "JB Brown #33",
+      "evidence": "Slug 'jb-brown-33' - first name shown as initials only; surname Brown clear",
+      "recommendation": "First name represented only as initials. May indicate anonymization or shortened name. Uncertain if 'JB' is full name representation."
+    }
+  ]
+}
