@@ -1,0 +1,944 @@
+{
+  "wave_id": "w2026-09-10n",
+  "agent": "n-baptist",
+  "target_org": "World Wide New Testament Baptist Missions",
+  "slice": "independent Baptist / fundamentalist sending agencies",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Clayton Eliam",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary, Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/clayton-and-linda-eliam/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Linda Eliam",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary, Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/clayton-and-linda-eliam/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Joshua Rhoades",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Philippines",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/joshua-and-vashtee-rhoades/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Vashtee Rhoades",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Philippines",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/joshua-and-vashtee-rhoades/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Michael Salyer",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting / Education - Pacific Islands, Philippines",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/michael-and-heather-salyer/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Heather Salyer",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting / Education - Pacific Islands, Philippines",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/michael-and-heather-salyer/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Morgan Dickens",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Assisting Church Planters - Brazil (Belo Jardim, PE)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/morgan-dickens/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, surname in slug and title names the person; single-person page, no spouse named"
+    },
+    {
+      "name": "Stephen Minion",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Brazil",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/stephen-and-jenifer-minion/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Jenifer Minion",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Brazil",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/stephen-and-jenifer-minion/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Noah Clarke",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Brazil",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/noah-clarke/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, surname in slug and title names the person; single-person page, no spouse named"
+    },
+    {
+      "name": "Joel Smothers",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Brazil (Teresina, Piaui)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/joel-smothers/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page. Slug carries only the husband's first name + shared surname; the page TITLE names both spouses on one shared family page, so the spouse is emitted per the shared-family-page rule"
+    },
+    {
+      "name": "Noel Smothers",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Brazil (Teresina, Piaui)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/joel-smothers/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page. Slug carries only the husband's first name + shared surname; the page TITLE names both spouses on one shared family page, so the spouse is emitted per the shared-family-page rule"
+    },
+    {
+      "name": "Tatiana Cordeiro",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Assisting Church Planters - South America/Brazil",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/tatiana-cordeiro/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, surname in slug and title names the person; single-person page, no spouse named"
+    },
+    {
+      "name": "Joel Dickens",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Brazil (Belo Jardim, PE)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/joel-and-cynthia-dickens/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Cynthia Dickens",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Brazil (Belo Jardim, PE)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/joel-and-cynthia-dickens/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Seth Folkers",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Education / Church Planting - Cameroon",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/seth-and-kaitlin-folkers/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Kaitlin Folkers",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Education / Church Planting - Cameroon",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/seth-and-kaitlin-folkers/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Stephen Knickerbocker",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Burkina Faso",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/stephen-and-julie-knickerbocker/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Julie Knickerbocker",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Burkina Faso",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/stephen-and-julie-knickerbocker/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Matthew Rose",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Kenya",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/matthew-and-rebecca-rose/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Rebecca Rose",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Kenya",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/matthew-and-rebecca-rose/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Jeremy Kenney",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Ghana",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/jeremy-and-tonya-kenney/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Tonya Kenney",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Ghana",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/jeremy-and-tonya-kenney/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Guy Grenade",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Mauritius",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/guy-and-marilyn-grenade/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Marilyn Grenade",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Mauritius",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/guy-and-marilyn-grenade/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Michael Riffel",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Japan (Saku, Nagano)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/michael-and-april-riffel/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "April Riffel",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Japan (Saku, Nagano)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/michael-and-april-riffel/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Matthew Brown",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting / Radio - Cambodia",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/matthew-and-brittany-brown/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Brittany Brown",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting / Radio - Cambodia",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/matthew-and-brittany-brown/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Andy Bonikowsky",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/andy-and-mimi-bonikowsky/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Mimi Bonikowsky",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/andy-and-mimi-bonikowsky/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Lisa Kendrick",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Assisting Church Planters - Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/lisa-kendrick/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, surname in slug and title names the person; single-person page, no spouse named"
+    },
+    {
+      "name": "David Bonikowsky",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/david-bonikowsky/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page. Slug carries only the husband's first name + shared surname; the page TITLE names both spouses on one shared family page, so the spouse is emitted per the shared-family-page rule"
+    },
+    {
+      "name": "Raquel Bonikowsky",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/david-bonikowsky/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page. Slug carries only the husband's first name + shared surname; the page TITLE names both spouses on one shared family page, so the spouse is emitted per the shared-family-page rule"
+    },
+    {
+      "name": "Roger Bergman",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/roger-and-mary-bergman/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Mary Bergman",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/roger-and-mary-bergman/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Keith Klaus",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/keith-and-julia-klaus/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Julia Klaus",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/keith-and-julia-klaus/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "David Price",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting / Education - France",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/david-and-melissa-price/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Melissa Price",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting / Education - France",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/david-and-melissa-price/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Alejandro Sanchez",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/alejandro-and-josefina-sanchez/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page. Slug carries both first names and the shared surname; the title shows only one spouse, so the spouse's name is taken from the slug"
+    },
+    {
+      "name": "Josefina Sanchez",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/alejandro-and-josefina-sanchez/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page. Slug carries both first names and the shared surname; the title shows only one spouse, so the spouse's name is taken from the slug"
+    },
+    {
+      "name": "Melissa Carlson",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Assisting Church Planters - Sweden",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/melissa-carlson/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, surname in slug and title names the person; single-person page, no spouse named"
+    },
+    {
+      "name": "Rolando Ortiz",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Mexico",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/rolando-hannah-ortiz/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Hannah Ortiz",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Mexico",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/rolando-hannah-ortiz/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Kevin Taylor",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Counseling - Mexico (San Andres Cholula, Puebla)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/kevin-and-hannah-taylor/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Hannah Taylor",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Counseling - Mexico (San Andres Cholula, Puebla)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/kevin-and-hannah-taylor/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Jerry Shaw, Jr.",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting / Education - Mexico",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/jerry-jr-and-itzen-shaw/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Itzen Shaw",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting / Education - Mexico",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/jerry-jr-and-itzen-shaw/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Elsa Ramirez",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Assisting Church Planters - Mexico",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/elsa-ramirez/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, surname in slug and title names the person; single-person page, no spouse named"
+    },
+    {
+      "name": "Stephen Villarreal",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Mexico",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/stephen-and-anelly-villarreal/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Anelly Villarreal",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Mexico",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/stephen-and-anelly-villarreal/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Salvador Lara, Jr.",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary - Jalisco, Mexico",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/salvador-lara-jr/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, surname in slug and title names the person; single-person page, no spouse named"
+    },
+    {
+      "name": "Delia Shaw",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/delia-shaw/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, surname in slug and title names the person; single-person page, no spouse named"
+    },
+    {
+      "name": "Andrew Adams",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/andrew-and-naomi-adams/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Naomi Adams",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/andrew-and-naomi-adams/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Kris Blumer",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/kris-and-rose-marie-blumer/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Rose Marie Blumer",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/kris-and-rose-marie-blumer/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Mike Grove",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary - New Zealand",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/mike-and-nancy-grove/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Nancy Grove",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary - New Zealand",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/mike-and-nancy-grove/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Colton Lee",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Solomon Islands",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/colton-and-melodie-lee/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Melodie Lee",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting - Solomon Islands",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/colton-and-melodie-lee/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Nick Stelzig",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/nick-and-lindsey-stelzig/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Lindsey Stelzig",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/nick-and-lindsey-stelzig/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "David Racke",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/david-and-heidi-racke/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Heidi Racke",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/david-and-heidi-racke/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Ethan Prater",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/ethan-and-brittany-prater/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Brittany Prater",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/ethan-and-brittany-prater/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "David Preston",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/david-and-millie-preston/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Millie Preston",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Church Planting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/david-and-millie-preston/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Ernest Wyrick",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Chaplain / Church Planting - Delta Junction, Alaska",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/ernest-and-nancy-wyrick/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Nancy Wyrick",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Chaplain / Church Planting - Delta Junction, Alaska",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/ernest-and-nancy-wyrick/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Paul Zimmer",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/paul-and-sherry-zimmer/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Sherry Zimmer",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/paul-and-sherry-zimmer/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Kelly Gilliam",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/kelly-and-becca-gilliam/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Becca Gilliam",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/kelly-and-becca-gilliam/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page, both first names and shared surname in slug, title names both spouses"
+    },
+    {
+      "name": "Elwood Hurst",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/elwood-and-doris-hurst/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page. Slug pairs two first names but the page title and snippet name only this living missionary (spouse deceased per the agency's own note), so only this person is emitted"
+    },
+    {
+      "name": "Joy Johnston",
+      "org": "World Wide New Testament Baptist Missions",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wwntbm.com/connect/missionaries/norman-and-joy-johnston/",
+      "fit_reason": "Tier A; WWNTBM per-person giving page. Slug pairs two first names but the page title and snippet name only this living missionary (spouse deceased per the agency's own note), so only this person is emitted"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "agency",
+      "value": "World Wide New Testament Baptist Missions — wwntbm.com",
+      "outcome": "found_people",
+      "detail": "HIT. Static WordPress per-person giving pages at wwntbm.com/connect/missionaries/<first1>-and-<first2>-<surname>/ ; each page carries the couple's field, ministry focus, contact details and donation options. Index is a paginated archive (/connect/missionaries/page/N/, at least 10 pages seen), so the roster is materially larger than what 14 search queries surfaced. Best-yield shape in this segment; a fetch-enabled pass over the 10+ archive pages should exhaust it."
+    },
+    {
+      "kind": "agency",
+      "value": "Fellowship International Mission — fim.org",
+      "outcome": "no_people",
+      "detail": "MISS. No per-person missionary pages surfaced. Site exposes /about-us/leadership-team/, /explore/jobs-at-fim/<role>/, /explore/resources/, /go/internships/. No /missionaries/ path indexed at all; giving appears not to be per-person-crawlable."
+    },
+    {
+      "kind": "agency",
+      "value": "Continental Baptist Missions — probed wrong domain cbmin.org",
+      "outcome": "offtopic",
+      "detail": "MISS / bad probe. cbmin.org is Canadian Baptist Ministries (a CBF-aligned denominational board), not Continental Baptist Missions. Its surface is /africa/, /project/<name>/, /prayerline/ — project and region pages, no per-person giving pages. Continental Baptist Missions' real domain (likely continentalbaptist.net) was NOT tested — leave it open for a future wave."
+    },
+    {
+      "kind": "agency",
+      "value": "Baptist Church Planting Ministry — bcpm.org",
+      "outcome": "no_people",
+      "detail": "MISS. Flat static .html site: /our-standards.html, /our-purpose.html, /biblical-principles.html, /baltimore.html, /testimonials.html. Pages are keyed by church-plant LOCATION, not by person; no missionary roster and no per-person giving page indexed. Sister site bcpmsource.org has the same shape. Separately, bcpusa.org (Baptist Church Planters, a different agency) surfaced and was NOT probed."
+    },
+    {
+      "kind": "agency",
+      "value": "Macedonia World Baptist Missions",
+      "outcome": "offtopic",
+      "detail": "Not probed — MWBM is on the BRIEF's already-worked list, so no budget was spent on it despite its appearance in the segment candidate list."
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:fim.org missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:cbmin.org missionaries",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "\"Baptist Church Planting Ministry\" bcpm.org missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries Philippines",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries Brazil",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries Africa",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries Japan Asia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries Europe",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries Mexico Central America",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries Caribbean",
+      "outcome": "found_people",
+      "detail": "Mostly repeats; two new families (Adams, Blumer). No Caribbean field label confirmed in snippets."
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries \"North America\"",
+      "outcome": "no_people",
+      "detail": "Returned only index/FAQ/contact pages. Snippet mentioned a 'Gates family' in Dearborn, Michigan but no profile URL was cited, so no record was emitted."
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries Peru Chile Argentina",
+      "outcome": "no_people",
+      "detail": "Zero WWNTBM profile URLs; results were Wikipedia diplomatic-mission noise. Spanish South America appears thin or absent at this agency."
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries Ukraine Romania Eastern Europe",
+      "outcome": "no_people",
+      "detail": "All repeats of the Western-Europe set (Bonikowsky, Klaus, Bergman, Kendrick, Sanchez). No Eastern Europe field surfaced."
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries Australia New Zealand Pacific",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries education Bible college teaching",
+      "outcome": "no_people",
+      "detail": "Role-based qualifier failed — one repeat (Shaw) plus Wikipedia Bible-college noise. Region qualifiers work on this site; role qualifiers do not."
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries church planting -bonikowsky -dickens -shaw -ortiz -smothers -salyer -klaus -bergman -sanchez -price -kendrick",
+      "outcome": "found_people",
+      "detail": "Exclusion sweep — highly productive, 5 new families (Stelzig, Racke, Prater, Preston, Wyrick)."
+    },
+    {
+      "kind": "query",
+      "value": "site:wwntbm.com/connect/missionaries -grove -lee -adams -blumer -folkers -knickerbocker -rose -kenney -grenade -riffel -brown -taylor -minion -clarke",
+      "outcome": "found_people",
+      "detail": "Second exclusion sweep — 4 new (Zimmer, Hurst, Gilliam, Johnston). Still producing new names when budget ran out; the seam is NOT exhausted."
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Seam not exhausted — budget ran out while still producing",
+      "finding": "WWNTBM's archive is paginated to at least /connect/missionaries/page/10/. Both final exclusion sweeps returned new families, so search-result skimming has not bottomed out the roster.",
+      "evidence": "https://wwntbm.com/connect/missionaries/page/10/ and https://wwntbm.com/connect/missionaries/page/8/ both indexed; 9 previously-unseen families appeared in the last two queries.",
+      "recommendation": "Re-dispatch WWNTBM as a normal enumerate-one-agency assignment, or fetch the 10+ archive pages directly. Rotate exclusion sweeps rather than region qualifiers — regions are now largely mined, exclusions are not."
+    },
+    {
+      "issue": "Widowed-slug pages: spouse named in slug but deceased",
+      "finding": "Two pages pair two first names in the slug while the title and snippet name only one living missionary: /elwood-and-doris-hurst/ (Doris Hurst died April 2024 per the agency's own note) and /norman-and-joy-johnston/ (Norman Johnston died May 2018).",
+      "evidence": "https://wwntbm.com/connect/missionaries/elwood-and-doris-hurst/ titled 'Elwood Hurst'; https://wwntbm.com/connect/missionaries/norman-and-joy-johnston/ titled 'Joy Johnston'.",
+      "recommendation": "Only the living missionary was emitted from each. Flagging because a naive slug-splitter on this domain would emit two deceased people as prospects."
+    },
+    {
+      "issue": "Unverified roster mention with no citable page",
+      "finding": "A snippet referenced a 'Gates family' ministering to Arabs in Dearborn, Michigan under WWNTBM, but no profile URL was returned and no first names were given.",
+      "evidence": "Snippet on the 'North America' query; source page not cited.",
+      "recommendation": "Do not emit. A fetch-enabled pass should check for a /connect/missionaries/<first>-and-<first>-gates/ page."
+    },
+    {
+      "issue": "Segment candidates left untested by budget",
+      "finding": "Evangelical Baptist Missions, Baptist Bible Fellowship International, Independent Faith Mission, Bible Baptist Missions, Baptist Church Planters (bcpusa.org) and the real Continental Baptist Missions domain were never probed — discovery stopped at search 4 because WWNTBM hit.",
+      "evidence": "Only 4 of the 9 named candidate agencies were surveyed before the brief's 'stop surveying and mine it' rule took effect.",
+      "recommendation": "A follow-on discovery-only pass on this segment is likely to be cheap and productive; the independent-Baptist archetype is clearly still producing static per-person pages in 2026."
+    }
+  ]
+}

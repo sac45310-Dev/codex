@@ -79,6 +79,15 @@ per domain.
   both surnamed Losinger, sharing one `source_url`. This is where the volume
   is: at Baptist Mid-Missions 116 pages carried 206 adults, so half that
   agency's yield lived in the second name on a page.
+- **A two-name slug can outlive one of the two people.** Agencies keep the
+  URL and quietly rewrite the page when a missionary dies:
+  `wwntbm.com/connect/missionaries/elwood-and-doris-hurst/` is titled
+  "Elwood Hurst" because Doris died in 2024, and `/norman-and-joy-johnston/`
+  is titled "Joy Johnston" for the same reason. **Split couples on the
+  TITLE, not on the slug.** If the slug names two people and the title names
+  one, emit the one — and put the other in `needs_review` rather than
+  guessing. Emitting a deceased person as a sales prospect is the worst
+  error in this pipeline, and the slug alone will walk you into it.
 - **A one-name slug can still be a couple page — read the TITLE.** FOCUS
   serves `focus.org/missionaries/david-hickson` under the title *"David and
   Linda Hickson Family"*. Judging by the slug alone loses the spouse silently,
