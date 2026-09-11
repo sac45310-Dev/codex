@@ -1,0 +1,83 @@
+{
+  "wave_id": "w2026-09-11u",
+  "agent": "u-langs",
+  "target_org": "Wycliffe Bible Translators",
+  "slice": "LANGUAGE AND PEOPLE-GROUP NAMES",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Bob Busenitz",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/797465",
+      "fit_reason": "Opaque numeric ID slug (797465); title clearly names both spouses as working on Balantak translation since 1980, completed New Testament 2010"
+    },
+    {
+      "name": "Marilyn Busenitz",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/797465",
+      "fit_reason": "Spouse on shared profile; opaque numeric ID slug"
+    },
+    {
+      "name": "Meinardo Hernandez",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Meinardo-Julie",
+      "fit_reason": "Surname absent from slug (Meinardo-Julie) but title clearly shows 'Meinardo & Julie Hernandez'; matches high-confidence pattern documented for O'Leary (zakandlaura) and Pitcher (hamelitz) cases where surname omitted from URL but present in title"
+    },
+    {
+      "name": "Julie Hernandez",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Meinardo-Julie",
+      "fit_reason": "Surname absent from slug but title shows 'Meinardo & Julie Hernandez' on shared Guivini Zapotec translation page"
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "site:wycliffe.org/partner Gbari", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Lelemi", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Dizi", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Balantak", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Kagayanen", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Koluwawa", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Urim", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Leipon", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner \"Mek Kosarek\"", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Supyire", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Jarawara", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Domung", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Gumuz", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Mbugwe", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Zapotec", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Chocoan", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Aymara", "outcome": "no_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Bantu", "outcome": "no_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "No direct partner page citation available",
+      "finding": "Pirkko Luoma listed as working remotely from Finland on Urim language translation project in Papua New Guinea",
+      "evidence": "Mentioned in text snippet from Urim search results as co-worker of 'Paula' but no direct wycliffe.org/partner URL or slug provided",
+      "recommendation": "Attempt direct search for Pirkko Luoma or check Urim project partner page if accessible; if Luoma is SIL/Wycliffe staff, should have direct profile"
+    },
+    {
+      "issue": "First name only, surname withheld",
+      "finding": "Individual named Paula works on Urim language translation project in Papua New Guinea",
+      "evidence": "Mentioned in search snippet from Urim query: 'Paula works in Papua New Guinea in the Urim language Bible translation project'",
+      "recommendation": "Per security protocol: do not emit; first-name-only entries indicate deliberate surname withholding. Do not resolve from elsewhere."
+    }
+  ]
+}

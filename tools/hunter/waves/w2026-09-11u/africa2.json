@@ -1,0 +1,152 @@
+{
+  "wave_id": "w2026-09-11u",
+  "agent": "u-africa2",
+  "target_org": "Wycliffe Bible Translators",
+  "slice": "African countries not covered by wave t: Niger, Togo, Benin, Liberia, Sierra Leone, Guinea, Guinea-Bissau, Gambia, Madagascar, Zambia, Malawi, Botswana, Namibia, South Africa, Rwanda, Burundi, South Sudan, Sudan, Eritrea, Central African Republic, Congo-Brazzaville, Angola",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Jim Winters",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Field Leadership, Language Project Management",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wycliffe.org/partner/jpw1990",
+      "fit_reason": "Slug is initials + year code (jpw1990); title names Jim & Petey Winters; shared couple page; field leadership and language project management for Senegal, Gambia, Guinea-Bissau"
+    },
+    {
+      "name": "Petey Winters",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Spouse",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wycliffe.org/partner/jpw1990",
+      "fit_reason": "Spouse on shared couple page with Jim Winters; named in title on personal_page"
+    },
+    {
+      "name": "David Frank",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translation Consultant",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/dlfrank",
+      "fit_reason": "Slug dlfrank contains initials and partial surname; title names David & Lynn Frank; served as Bible translation consultant in Guinea-Bissau"
+    },
+    {
+      "name": "Lynn Frank",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Spouse",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/dlfrank",
+      "fit_reason": "Spouse on shared couple page with David Frank; named in title on personal_page"
+    },
+    {
+      "name": "Leoma Gilley",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/092AA5",
+      "fit_reason": "Hex ID slug (092AA5) with opaque numeric identifier; title identifies as Leoma Gilley; author of book about 20+ years Sudan work"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Niger",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Togo",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Benin",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Liberia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"Sierra Leone\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Guinea",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"Guinea-Bissau\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Gambia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Madagascar",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Zambia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Malawi",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Botswana",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Namibia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"South Africa\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Rwanda",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Burundi",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"South Sudan\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Sudan",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": []
+}

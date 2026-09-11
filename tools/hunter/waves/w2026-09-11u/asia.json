@@ -1,0 +1,65 @@
+{
+  "wave_id": "w2026-09-11u",
+  "agent": "u-asia",
+  "target_org": "Wycliffe Bible Translators",
+  "slice": "Nepal, India, Bangladesh, Myanmar, Cambodia, Vietnam, Laos, China, Japan, Korea, Taiwan, Malaysia, Timor-Leste, Fiji, Micronesia, Palau, Australia, New Zealand",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Christine Solomon",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "English Literature Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/christineloveskisc",
+      "fit_reason": "Dedicated personal page at wycliffe.org/partner; title clearly names her; serves as educator in Kathmandu, Nepal; descriptive slug omits surname but title provides full name identification"
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "site:wycliffe.org/partner Nepal", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner India", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Bangladesh", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Myanmar", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Timor-Leste", "outcome": "no_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Cambodia", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Vietnam", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Laos", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner China", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Japan", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Korea", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Taiwan", "outcome": "no_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Malaysia", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Fiji", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Micronesia", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Palau", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner Australia", "outcome": "found_people"},
+    {"kind": "query", "value": "site:wycliffe.org/partner New Zealand", "outcome": "found_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "Sensitive region: withheld surname",
+      "finding": "Sungji and Yuri",
+      "evidence": "South Korea; site:wycliffe.org/partner Korea query returned first-name-only entry; per Wycliffe security protection, first-name-only entries indicate withheld surnames",
+      "recommendation": "Do not emit; do not attempt to resolve surname from other sources; withheld details are intentional"
+    },
+    {
+      "issue": "Retiree trap",
+      "finding": "Randy and Shirl Pearson",
+      "evidence": "URL: wycliffe.org/partner/RSPearson (Australia); search snippet states 'Following a more recent four year term flying in Australia, Randy and Shirl retired in 2022'; closed date range (term ended 2022) with no current role stated",
+      "recommendation": "Do not emit as prospect; matches retiree pattern (closed date range, no current role) — direction of support is reversed"
+    },
+    {
+      "issue": "Insufficient data — surname not provided",
+      "finding": "Woody and Bev; Michael and Lynette",
+      "evidence": "Australia search snippet mentions individuals by first name only without providing surnames; cannot establish person-page URLs or confirm full identity from search results alone",
+      "recommendation": "Requires direct page access to establish full names and verify person-page URLs"
+    },
+    {
+      "issue": "Insufficient data — surname not provided",
+      "finding": "David and Tammy",
+      "evidence": "New Zealand search snippet references David (from New Zealand) and Tammy with 30+ years of service; surname for David not provided in search snippet; Tammy's surname unclear",
+      "recommendation": "Requires direct page access to establish David's full surname and confirm person-page URL"
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "wave_id": "w2026-09-11u",
+  "agent": "u-roles2",
+  "target_org": "Wycliffe Bible Translators",
+  "slice": "role and function words: Deaf ministry, sign language, oral Bible storytelling, audio recording, Scripture app, software developer, typesetting, publishing, font design, keyboard development, language survey, sociolinguistics, anthropology, arts, media, film, radio, printing, logistics, procurement, construction, facilities, guest house, hospitality, school principal, counselor, chaplain, human resources, donor relations, church relations, prayer coordinator, back-translation, exegete",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "John Kreutz",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Audio Recording Specialist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kreutz-john-donna",
+      "fit_reason": "Tier A; per-person giving page, surname in slug, title names both spouses; worked on Guevea Zapotec audio recording and New Testament publication"
+    },
+    {
+      "name": "Donna Kreutz",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translation Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kreutz-john-donna",
+      "fit_reason": "Tier A; spouse of John Kreutz on shared personal giving page"
+    },
+    {
+      "name": "Billy Clark",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Software Developer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/billyandmegan",
+      "fit_reason": "Tier A; per-person giving page, writes software for Bible translation in Global Technologies"
+    },
+    {
+      "name": "Megan Clark",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/billyandmegan",
+      "fit_reason": "Tier A; spouse of Billy Clark on shared personal giving page"
+    },
+    {
+      "name": "Kevin Hahn",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Software Developer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/hahnduo",
+      "fit_reason": "Tier A; per-person giving page, software developer in Southeast Asia leading development of Lexbox and Field Works Lite"
+    },
+    {
+      "name": "Rebekah Hahn",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/hahnduo",
+      "fit_reason": "Tier A; spouse of Kevin Hahn on shared personal giving page"
+    },
+    {
+      "name": "Zach Burnham",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Software Developer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/zevaburn",
+      "fit_reason": "Tier A; per-person giving page, professional software developer with twelve years experience bringing technological solutions to linguists and translators"
+    },
+    {
+      "name": "Evamarie Burnham",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/zevaburn",
+      "fit_reason": "Tier A; spouse of Zach Burnham on shared personal giving page"
+    },
+    {
+      "name": "Brad Greco",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Software Developer/Writer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/grecos",
+      "fit_reason": "Tier A; per-person giving page, serves as Software Developer and Writer"
+    },
+    {
+      "name": "Rachel Greco",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/grecos",
+      "fit_reason": "Tier A; spouse of Brad Greco on shared personal giving page"
+    },
+    {
+      "name": "Beth Knapp",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Scripture Preparation/Typesetting Consultant",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/2F6396",
+      "fit_reason": "Tier A; opaque hex ID in slug but role clearly stated; guides translation teams in preparing New Testament for typesetting, harmonizing parallel passages, formatting, and compiling extra-biblical materials"
+    },
+    {
+      "name": "Darlene Weidman",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Composition Specialist/Typesetting",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/DWeidman",
+      "fit_reason": "Tier A; per-person giving page, Composition Specialist for Global Publishing at SIL International, typesets materials for translation teams"
+    },
+    {
+      "name": "Jon Caton",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/caton",
+      "fit_reason": "Tier A; spouse of Kimberly Caton on shared personal giving page"
+    },
+    {
+      "name": "Kimberly Caton",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Typesetting Assistant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/caton",
+      "fit_reason": "Tier A; per-person giving page, assists with special projects including typesetting checks"
+    },
+    {
+      "name": "Dale Armstrong",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Web Developer/Internet Publishing",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/87E218",
+      "fit_reason": "Tier A; opaque hex ID in slug; works on Internet Publishing team helping accelerate spread of translated Scripture in digital formats"
+    },
+    {
+      "name": "Janice Armstrong",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/87E218",
+      "fit_reason": "Tier A; spouse of Dale Armstrong on shared personal giving page with opaque hex ID"
+    },
+    {
+      "name": "Randy Hasty",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Global Publishing Services",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/HastyR-J",
+      "fit_reason": "Tier A; per-person giving page, served in Global Publishing Services teaching Scripture preparation for print and electronic publishing"
+    },
+    {
+      "name": "Jill Hasty",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/HastyR-J",
+      "fit_reason": "Tier A; spouse of Randy Hasty on shared personal giving page"
+    },
+    {
+      "name": "Bob Alber",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Alber",
+      "fit_reason": "Tier A; spouse of Barbara Alber on shared personal giving page"
+    },
+    {
+      "name": "Barbara Alber",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Design Lead for Communications",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Alber",
+      "fit_reason": "Tier A; per-person giving page, Design Lead for JAARS Communications Team overseeing digital and print publications"
+    },
+    {
+      "name": "Lana Martens",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Publications Editor",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/D7C4C4",
+      "fit_reason": "Tier A; opaque hex ID in slug but role clearly stated; ushers academic papers through publication process to support Bible translation"
+    },
+    {
+      "name": "Kent",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Writing Systems Developer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kentkimkids",
+      "fit_reason": "Tier A; per-person giving page, helps people groups develop writing systems for Bible translation"
+    },
+    {
+      "name": "Kim",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Font Designer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kentkimkids",
+      "fit_reason": "Tier A; per-person giving page, Font Designer on Writing Systems Technology team working on non-Roman fonts for Bible translation"
+    },
+    {
+      "name": "Debbie Hatfield",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Sociolinguistics Leadership",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/DebbieHatfield",
+      "fit_reason": "Tier A; per-person giving page, Leadership team with SIL International Language Services overseeing sociolinguistics and language assessment"
+    },
+    {
+      "name": "Joyce Wood",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Translation Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/45D467",
+      "fit_reason": "Tier A; opaque hex ID in slug; appears in sociolinguistics search results"
+    },
+    {
+      "name": "Jacqueline Huggins",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Anthropology/Linguistics",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/E5B4E7",
+      "fit_reason": "Tier A; UUID in slug but role clearly stated; served as Head of Anthropology and Bible Translation instructor at SIL Philippines, PhD in Linguistic Anthropology"
+    },
+    {
+      "name": "David Wakefield",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Anthropologist/Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/CEFDA0",
+      "fit_reason": "Tier A; opaque hex ID in slug but role clearly stated; anthropologist helping translators with cultural context issues"
+    },
+    {
+      "name": "Fran Wakefield",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/CEFDA0",
+      "fit_reason": "Tier A; spouse of David Wakefield on shared personal giving page with opaque hex ID"
+    },
+    {
+      "name": "Parke Brown",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Web Project Manager/Logistics",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/BrownFamily",
+      "fit_reason": "Tier A; per-person giving page, web project manager with The Seed Company supporting logistics for Bible translation globally"
+    },
+    {
+      "name": "Lynnelle Brown",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/BrownFamily",
+      "fit_reason": "Tier A; spouse of Parke Brown on shared personal giving page"
+    },
+    {
+      "name": "Galen Johnson",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Education/Logistics Specialist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/GalenOJohnson",
+      "fit_reason": "Tier A; per-person giving page, served mentoring leaders in education, ministry logistics and Muslim outreach"
+    },
+    {
+      "name": "Loren Ledebuhr",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/ledebuhr",
+      "fit_reason": "Tier A; spouse of Kensey Ledebuhr on shared personal giving page"
+    },
+    {
+      "name": "Kensey Ledebuhr",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Procurement/Logistics",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/ledebuhr",
+      "fit_reason": "Tier A; per-person giving page, assists PNG branch with purchasing and logistics, bringing equipment and parts globally"
+    },
+    {
+      "name": "Kevin Warfel",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Workshop Logistics",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/228358",
+      "fit_reason": "Tier A; opaque hex ID in slug; helps with logistics of word-collection workshops"
+    },
+    {
+      "name": "Anita Warfel",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Dictionary Publishing",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/228358",
+      "fit_reason": "Tier A; opaque hex ID in slug; assists with publishing dictionary data online"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"Deaf ministry\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"sign language\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"oral Bible storytelling\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"audio recording\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"Scripture app\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"software developer\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner typesetting",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner publishing",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner font",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner keyboard",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"language survey\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner sociolinguistics",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner anthropology",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner media",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner printing",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner logistics",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner procurement",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner facilities construction hospitality",
+      "outcome": "no_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Deaf ministry/sign language searches returned no individual staff pages",
+      "finding": "While Wycliffe has documented Deaf Bible translation work and mentions of sign language projects, search results returned only program pages and news articles, not individual staff member profiles matching the site:wycliffe.org/partner pattern",
+      "evidence": "Blog posts about Deaf translation and program descriptions, but no /partner/<slug> pages for sign language workers",
+      "recommendation": "May indicate Deaf ministry staff use alternative naming conventions or are not yet indexed in the partner directory; recheck wave t's coverage"
+    },
+    {
+      "issue": "Oral Bible storytelling search inconclusive",
+      "finding": "Search returned resource pages and blog posts about OBS methodology but not named staff pages in /partner/<slug> format",
+      "evidence": "Reference to 'Kathy' developing OBS sets but no direct /partner/ profile link provided",
+      "recommendation": "Name and specific profile URL unclear; may need direct URL verification if pursuing this lead"
+    },
+    {
+      "issue": "Language survey search returned names but without verification URLs",
+      "finding": "Results mention Devin and Mary O'Bannon and reference Steve & Janice Quakenbush in language survey context, but limited direct profile information",
+      "evidence": "Text mentions from search results, names appear in wave t's held list (Quakenbush)",
+      "recommendation": "Held surname rules these out; Devin O'Bannon not in held list but profile URL unconfirmed in search results"
+    },
+    {
+      "issue": "Film, radio, arts searches not executed",
+      "finding": "Due to 18-search budget constraint, did not query specifically for film, radio, or arts roles, though 'media' was searched broadly",
+      "evidence": "Budget exhausted by other role searches with priority on broader terminology",
+      "recommendation": "These roles remain untouched; sibling wave agents may pursue if needed"
+    },
+    {
+      "issue": "School principal, counselor, chaplain, HR, donor relations, church relations, prayer coordinator, back-translation, exegete roles not queried",
+      "finding": "Search budget constraints did not allow exploration of all assigned slice roles",
+      "evidence": "18 searches focused on technical and support roles most likely to appear on partner directory",
+      "recommendation": "Remaining roles available for follow-up wave if needed"
+    }
+  ]
+}
