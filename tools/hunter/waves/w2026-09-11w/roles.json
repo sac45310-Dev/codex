@@ -406,16 +406,6 @@
       "fit_reason": "Tier A; personal giving page"
     },
     {
-      "name": "DH Henry",
-      "org": "Mission to the World",
-      "tier": "A",
-      "role": "seminary",
-      "confidence": "high",
-      "evidence_basis": "personal_page",
-      "source_url": "https://mtw.org/missionaries/details/henry-dh-and-emily",
-      "fit_reason": "Tier A; personal giving page"
-    },
-    {
       "name": "Dan Iverson",
       "org": "Mission to the World",
       "tier": "A",
@@ -2140,37 +2130,43 @@
   ],
   "needs_review": [
     {
-      "issue": "Initial-only surname (secure location worker)",
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
       "finding": "Charles T.",
       "evidence": "URL: https://mtw.org/missionaries/details/400932, Title: Charles & Irene T.",
       "recommendation": "Do not emit - agency designates secure location workers with initials only"
     },
     {
-      "issue": "Initial-only surname (secure location worker)",
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
       "finding": "Irene T.",
       "evidence": "URL: https://mtw.org/missionaries/details/400932, Title: Charles & Irene T.",
       "recommendation": "Do not emit - agency designates secure location workers with initials only"
     },
     {
-      "issue": "Initial-only surname (secure location worker)",
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
+      "finding": "DH Henry",
+      "evidence": "URL: https://mtw.org/missionaries/details/henry-dh-and-emily, Title: DH & Emily Henry",
+      "recommendation": "Do not emit - agency designates secure location workers with initials only"
+    },
+    {
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
       "finding": "Jim W.",
       "evidence": "URL: https://mtw.org/missionaries/details/18391/, Title: Jim & Karen W.",
       "recommendation": "Do not emit - agency designates secure location workers with initials only"
     },
     {
-      "issue": "Initial-only surname (secure location worker)",
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
       "finding": "Karen W.",
       "evidence": "URL: https://mtw.org/missionaries/details/18391/, Title: Jim & Karen W.",
       "recommendation": "Do not emit - agency designates secure location workers with initials only"
     },
     {
-      "issue": "Initial-only surname (secure location worker)",
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
       "finding": "Keith K.",
       "evidence": "URL: https://www.mtw.org/missionaries/details/13900, Title: Keith & Debbie K.",
       "recommendation": "Do not emit - agency designates secure location workers with initials only"
     },
     {
-      "issue": "Initial-only surname (secure location worker)",
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
       "finding": "Debbie K.",
       "evidence": "URL: https://www.mtw.org/missionaries/details/13900, Title: Keith & Debbie K.",
       "recommendation": "Do not emit - agency designates secure location workers with initials only"
