@@ -1,0 +1,1639 @@
+{
+  "wave_id": "w2026-09-11w",
+  "agent": "w-latam-europe",
+  "target_org": "Mission to the World",
+  "slice": "Mexico, Peru, Brazil, Chile, Bolivia, Ecuador, Honduras, Costa Rica, Dominican Republic; Spain, Portugal, France, Germany, Italy, Czech Republic, Poland, Ukraine, Romania, Bulgaria, Ireland, UK",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Marcus Rudd",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/marcus-and-heather-rudd/",
+      "fit_reason": "Couple page, both named in title; surname in slug. Serves Mexico with spouse."
+    },
+    {
+      "name": "Heather Rudd",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/marcus-and-heather-rudd/",
+      "fit_reason": "Couple page with Marcus Rudd, both named in title, both raise personal support."
+    },
+    {
+      "name": "Dan Young",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dan-and-becky-young/",
+      "fit_reason": "Couple page, both names in URL and title; surname in slug. Border ministry Mexico/US."
+    },
+    {
+      "name": "Becky Young",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dan-and-becky-young/",
+      "fit_reason": "Couple page with Dan Young, both named in title, both raise support."
+    },
+    {
+      "name": "David Diaso",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-dawn-diaso/",
+      "fit_reason": "Couple page, both names in URL and title, church planting Mexico/San Diego."
+    },
+    {
+      "name": "Dawn Diaso",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-dawn-diaso/",
+      "fit_reason": "Couple page with David Diaso, both named in title."
+    },
+    {
+      "name": "Jamie Burkemper",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jamie-and-jennifer-burkemper/",
+      "fit_reason": "Couple page, both names in URL/title. Serves Mexico as primary; also found in Spain search (multi-location)."
+    },
+    {
+      "name": "Jennifer Burkemper",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jamie-and-jennifer-burkemper/",
+      "fit_reason": "Couple page with Jamie Burkemper. Serves Mexico as primary; also found in Spain (multi-location)."
+    },
+    {
+      "name": "Kenton Wood",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/kenton-wood/",
+      "fit_reason": "Couple page Kenton & Adriana Wood. URL does not follow standard surname-first pattern but both names present; serves Mexico (Guadalajara) as primary, also Ecuador."
+    },
+    {
+      "name": "Adriana Wood",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/kenton-wood/",
+      "fit_reason": "Couple page with Kenton Wood; serves Mexico/Ecuador."
+    },
+    {
+      "name": "Dennis Conroy",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dennis-and-rhonda-conroy-1/",
+      "fit_reason": "Couple page, surname first in URL (conroy), both named in title."
+    },
+    {
+      "name": "Rhonda Conroy",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dennis-and-rhonda-conroy-1/",
+      "fit_reason": "Couple page with Dennis Conroy."
+    },
+    {
+      "name": "Jorge Aleman",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mx-ptr-jorge-aleman/",
+      "fit_reason": "URL includes country code (mx) and role code (ptr), but name is clear in title and URL."
+    },
+    {
+      "name": "Maricela Aleman",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mx-ptr-jorge-aleman/",
+      "fit_reason": "Couple page with Jorge Aleman; title shows both names."
+    },
+    {
+      "name": "David Davis",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-davis/",
+      "fit_reason": "Surname-first pattern confirmed: davis-david."
+    },
+    {
+      "name": "Jim Jung",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jim-and-claudia-jung/",
+      "fit_reason": "Couple page, both names in URL and title."
+    },
+    {
+      "name": "Claudia Jung",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jim-and-claudia-jung/",
+      "fit_reason": "Couple page with Jim Jung."
+    },
+    {
+      "name": "John Buerger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/buerger-john-ellen/",
+      "fit_reason": "Couple page, surname-first pattern: buerger; both names in URL. Serves Brazil as primary; also Ireland and Portugal."
+    },
+    {
+      "name": "Ellen Buerger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/buerger-john-ellen/",
+      "fit_reason": "Couple page with John Buerger; multi-location (Brazil, Ireland, Portugal)."
+    },
+    {
+      "name": "Rodney Davila",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rodney-and-jana-davila/",
+      "fit_reason": "Couple page, both names in URL. Serves Brazil as primary; also Chile and Ecuador."
+    },
+    {
+      "name": "Jana Davila",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rodney-and-jana-davila/",
+      "fit_reason": "Couple page with Rodney Davila; multi-location."
+    },
+    {
+      "name": "Matt Chase",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/matt-and-carly-chase/",
+      "fit_reason": "Couple page, both names in URL. Extensive multi-location service: Brazil, Italy, UK, Ireland, Bolivia."
+    },
+    {
+      "name": "Carly Chase",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/matt-and-carly-chase/",
+      "fit_reason": "Couple page with Matt Chase; extensive multi-location service."
+    },
+    {
+      "name": "Jud Lamos",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/14301/",
+      "fit_reason": "Couple page with Jan Lamos; URL is numeric ID (14301). Title shows both names clearly: 'Jud & Jan Lamos'. Multi-location: Brazil, Italy, Ireland, Portugal."
+    },
+    {
+      "name": "Jan Lamos",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/14301/",
+      "fit_reason": "Couple page with Jud Lamos; numeric URL but title is clear."
+    },
+    {
+      "name": "Peter McFarland",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mcfarland-peter/",
+      "fit_reason": "Surname-first pattern: mcfarland-peter. Single person serving Madrid, Spain."
+    },
+    {
+      "name": "Matt Winenger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/winenger-matt-and-kathryn/",
+      "fit_reason": "Couple page, surname first in URL. Serves Spain as primary; also Bolivia."
+    },
+    {
+      "name": "Kathryn Winenger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/winenger-matt-and-kathryn/",
+      "fit_reason": "Couple page with Matt Winenger; serves Spain and Bolivia."
+    },
+    {
+      "name": "Andrew May",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/andrew-and-abigail-may/",
+      "fit_reason": "Couple page, both names in URL; serves Spain."
+    },
+    {
+      "name": "Abigail May",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/andrew-and-abigail-may/",
+      "fit_reason": "Couple page with Andrew May."
+    },
+    {
+      "name": "Sarah Roberts",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/sarah-roberts/",
+      "fit_reason": "Single person, first-surname pattern in URL; serves Madrid with RUF ministry."
+    },
+    {
+      "name": "Pamyla Burrack",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/pamyla-burrack/",
+      "fit_reason": "Single person; served Madrid 1993-2014 (historical). May still be active."
+    },
+    {
+      "name": "Phil Stogner",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stogner-phil-wendy",
+      "fit_reason": "Couple page, surname-first pattern: stogner. Serves Spain."
+    },
+    {
+      "name": "Wendy Stogner",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stogner-phil-wendy",
+      "fit_reason": "Couple page with Phil Stogner; surname first in URL."
+    },
+    {
+      "name": "Joshua Jacobs",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/j-joshua/",
+      "fit_reason": "Couple page with Charline Jacobs. URL pattern unusual (j-joshua with first initial), but name clear in title. Serves France and UK."
+    },
+    {
+      "name": "Charline Jacobs",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/j-joshua/",
+      "fit_reason": "Couple page with Joshua Jacobs; France and UK."
+    },
+    {
+      "name": "Marc Mailloux",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/marc-and-aline-mailloux/",
+      "fit_reason": "Couple page, both names in URL; serves France."
+    },
+    {
+      "name": "Aline Mailloux",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/marc-and-aline-mailloux/",
+      "fit_reason": "Couple page with Marc Mailloux."
+    },
+    {
+      "name": "Pete Mitchell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/pete-and-ruth-mitchell/",
+      "fit_reason": "Couple page, both names in URL; long-term France service since 1992."
+    },
+    {
+      "name": "Ruth Mitchell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/pete-and-ruth-mitchell/",
+      "fit_reason": "Couple page with Pete Mitchell."
+    },
+    {
+      "name": "Hugh Wessel",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Regional Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hugh-and-martine-wessel/",
+      "fit_reason": "Couple page, surname-first in title format. Former country director France (1989), European regional director (1995). Serves France and Germany."
+    },
+    {
+      "name": "Martine Wessel",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hugh-and-martine-wessel/",
+      "fit_reason": "Couple page with Hugh Wessel; France and Germany."
+    },
+    {
+      "name": "James Gildard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jamie-and-jacki-gildard",
+      "fit_reason": "Couple page; URL shows jamie but title shows James (nickname variation). Serves France."
+    },
+    {
+      "name": "Jacki Gildard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jamie-and-jacki-gildard",
+      "fit_reason": "Couple page with James Gildard."
+    },
+    {
+      "name": "Stan Beasley",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/beasley-stan-and-connie/",
+      "fit_reason": "Couple page, surname-first pattern: beasley. Serves France."
+    },
+    {
+      "name": "Connie Beasley",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/beasley-stan-and-connie/",
+      "fit_reason": "Couple page with Stan Beasley."
+    },
+    {
+      "name": "Jay Matsinger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jay-and-nancy-matsinger/",
+      "fit_reason": "Couple page, both names in URL. Long-term service (35+ years). Now retired as associate missionaries but still active in slice (France, Czech)."
+    },
+    {
+      "name": "Nancy Matsinger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jay-and-nancy-matsinger/",
+      "fit_reason": "Couple page with Jay Matsinger; retired associate status but active."
+    },
+    {
+      "name": "David Stoddard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "European Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-eowyn-stoddard/",
+      "fit_reason": "Couple page, both names in URL. Serves France and Germany; David is international director for Europe and managing director of field operations."
+    },
+    {
+      "name": "Eowyn Stoddard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-eowyn-stoddard/",
+      "fit_reason": "Couple page with David Stoddard; serves France and Germany."
+    },
+    {
+      "name": "Brian Moore",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/moore-brian-and-megan/",
+      "fit_reason": "Couple page, surname-first: moore. Serves Germany (Freiburg)."
+    },
+    {
+      "name": "Megan Moore",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/moore-brian-and-megan/",
+      "fit_reason": "Couple page with Brian Moore."
+    },
+    {
+      "name": "Matt Ziehr",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ziehr-matt-and-jaime",
+      "fit_reason": "Couple page, surname-first: ziehr. Serves Germany (Munich)."
+    },
+    {
+      "name": "Jaime Ziehr",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ziehr-matt-and-jaime",
+      "fit_reason": "Couple page with Matt Ziehr."
+    },
+    {
+      "name": "Ben Graber",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ben-and-anna-graber/",
+      "fit_reason": "Couple page, both names in URL. Serves Germany and Romania (Munich/Brasov)."
+    },
+    {
+      "name": "Anna Graber",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ben-and-anna-graber/",
+      "fit_reason": "Couple page with Ben Graber; Germany and Romania."
+    },
+    {
+      "name": "Lauren Adair Evans",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/evans-lauren/",
+      "fit_reason": "Single person, surname-first: evans-lauren. Serves Germany (Munich); antitrafficking ministry."
+    },
+    {
+      "name": "Elizabeth Matthias",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Counselor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/matthias-elizabeth/",
+      "fit_reason": "Single person, surname-first. Serves Germany (Munich); counseling ministry."
+    },
+    {
+      "name": "Luke Stannard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stannard-luke-and-michelle/",
+      "fit_reason": "Couple page, surname-first: stannard. Serves Germany and UK (pastoral training/church ministry)."
+    },
+    {
+      "name": "Michelle Stannard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stannard-luke-and-michelle/",
+      "fit_reason": "Couple page with Luke Stannard; Germany and UK."
+    },
+    {
+      "name": "Santo Garofalo",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/garofalo-santo-and-mary-ellen/",
+      "fit_reason": "Couple page, surname-first: garofalo. Serves Italy (Salerno)."
+    },
+    {
+      "name": "Mary Ellen Garofalo",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/garofalo-santo-and-mary-ellen/",
+      "fit_reason": "Couple page with Santo Garofalo."
+    },
+    {
+      "name": "Vincenzo Coluccia",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/coluccia-vincenzo-and-judit",
+      "fit_reason": "Couple page, surname-first: coluccia. Serves Italy (Lecce)."
+    },
+    {
+      "name": "Judit Coluccia",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/coluccia-vincenzo-and-judit",
+      "fit_reason": "Couple page with Vincenzo Coluccia."
+    },
+    {
+      "name": "Carolyn Phillips",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/carolyn-phillips",
+      "fit_reason": "Single person, first-surname pattern. Serves Italy."
+    },
+    {
+      "name": "Krystian Otremba",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/krystian-ewa-otremba/",
+      "fit_reason": "Couple page, both names in URL. Serves Italy (Italy search), Poland (Warsaw, primary), and Romania. Senior pastor Good Shepherd Presbyterian Church Warsaw."
+    },
+    {
+      "name": "Ewa Otremba",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/krystian-ewa-otremba/",
+      "fit_reason": "Couple page with Krystian Otremba; Italy, Poland, Romania."
+    },
+    {
+      "name": "Mikael Romer",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/poland-international-associate-romer",
+      "fit_reason": "Couple page with Zuzanna Romer. URL indicates 'international-associate' role. First MTW missionaries in Poland; serve Krakow."
+    },
+    {
+      "name": "Zuzanna Romer",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/poland-international-associate-romer",
+      "fit_reason": "Couple page with Mikael Romer."
+    },
+    {
+      "name": "Tom Otremba",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Ministry Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/poland-national-partner-tomasz-otremba/",
+      "fit_reason": "Couple page with Damaris Otremba. URL shows Tomasz (full form), title shows Tom. URL indicates 'national-partner'. 21 years church-planting Poland, now establishing Institute for Reformation Poland."
+    },
+    {
+      "name": "Damaris Otremba",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/poland-national-partner-tomasz-otremba/",
+      "fit_reason": "Couple page with Tom Otremba."
+    },
+    {
+      "name": "Sashko Nezamutdinov",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/sashko-nezamutdinov/",
+      "fit_reason": "Couple page with Ania Nezamutdinov; both named in URL. Serves Poland (Krakow) as primary; also Romania. Lead pastor Christ the Savior Presbyterian Church."
+    },
+    {
+      "name": "Ania Nezamutdinov",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/sashko-nezamutdinov/",
+      "fit_reason": "Couple page with Sashko Nezamutdinov; Poland and Romania."
+    },
+    {
+      "name": "Michal Sylwestrowicz",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/michal-and-kaja-sylwestrowicz/",
+      "fit_reason": "Couple page, both names in URL. Serves Poland (Gdansk)."
+    },
+    {
+      "name": "Kaja Sylwestrowicz",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/michal-and-kaja-sylwestrowicz/",
+      "fit_reason": "Couple page with Michal Sylwestrowicz."
+    },
+    {
+      "name": "Amanda Meadows",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/meadows-amanda/",
+      "fit_reason": "Single person; confirms pattern: meadows-amanda = surname-first. Serving in Poland (Kraków), currently raising support."
+    },
+    {
+      "name": "Miriam Grady",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/miriam-grady/",
+      "fit_reason": "Single person, first-surname pattern. Serves Czech Republic (Prague)."
+    },
+    {
+      "name": "Dawson Bean",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Leader",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/400513",
+      "fit_reason": "Couple page with Shanna Bean. URL is numeric ID (400513). Title clearly shows both names. Newly assigned to lead Faith Community Church IPC Prague, Czech Republic."
+    },
+    {
+      "name": "Shanna Bean",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/400513",
+      "fit_reason": "Couple page with Dawson Bean; numeric URL but title is clear."
+    },
+    {
+      "name": "John Rug",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/john-and-cathy-rug",
+      "fit_reason": "Couple page, both names in URL. Serves Chile (Concón)."
+    },
+    {
+      "name": "Cathy Rug",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/john-and-cathy-rug",
+      "fit_reason": "Couple page with John Rug."
+    },
+    {
+      "name": "David Grotton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-danielle-grotton/",
+      "fit_reason": "Couple page, both names in URL. Serves Chile (Viña del Mar)."
+    },
+    {
+      "name": "Danielle Grotton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-danielle-grotton/",
+      "fit_reason": "Couple page with David Grotton."
+    },
+    {
+      "name": "Steve Robertson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Regional Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/steve-and-amy-robertson/",
+      "fit_reason": "Couple page, both names in URL. Serves Chile (Viña del Mar) since 2015."
+    },
+    {
+      "name": "Amy Robertson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/steve-and-amy-robertson/",
+      "fit_reason": "Couple page with Steve Robertson."
+    },
+    {
+      "name": "Manny Bersach",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bersach-manny-and-terri/",
+      "fit_reason": "Couple page, surname-first: bersach. Serves Chile."
+    },
+    {
+      "name": "Terri Bersach",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bersach-manny-and-terri/",
+      "fit_reason": "Couple page with Manny Bersach."
+    },
+    {
+      "name": "Verne Marshall",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/verne-and-alina-marshall",
+      "fit_reason": "Couple page, both names in URL. Chile (Santiago) as primary; also Peru and Ecuador. Long-term service since 1985."
+    },
+    {
+      "name": "Alina Marshall",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/verne-and-alina-marshall",
+      "fit_reason": "Couple page with Verne Marshall; Chile, Peru, Ecuador."
+    },
+    {
+      "name": "Holly Hoppe",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hoppe-holly/",
+      "fit_reason": "Single person, surname-first: hoppe-holly. Serves Chile."
+    },
+    {
+      "name": "Craig Pohl",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/craig-and-stacy-pohl/",
+      "fit_reason": "Couple page, both names in URL. Serves Chile as primary; also Ecuador. Two decades South American ministry."
+    },
+    {
+      "name": "Stacy Pohl",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/craig-and-stacy-pohl/",
+      "fit_reason": "Couple page with Craig Pohl; Chile and Ecuador."
+    },
+    {
+      "name": "Keith Powlison",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/keith-and-ruth-powlison",
+      "fit_reason": "Couple page, both names in URL. Serves Peru (Cusco)."
+    },
+    {
+      "name": "Ruth Powlison",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/keith-and-ruth-powlison",
+      "fit_reason": "Couple page with Keith Powlison."
+    },
+    {
+      "name": "Nathan Henson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Physician",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/nathan-and-kristen-henson/",
+      "fit_reason": "Couple page, both names in URL. Serves Peru (Cusco) for 15 years; ophthalmologist."
+    },
+    {
+      "name": "Kristen Henson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Nurse Practitioner",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/nathan-and-kristen-henson/",
+      "fit_reason": "Couple page with Nathan Henson; Peru."
+    },
+    {
+      "name": "Craig Gahagen",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Aviator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/craig-and-heather-gahagen",
+      "fit_reason": "Couple page, both names in URL. Serves Peru (Amazon) since 1989; aviation ministry."
+    },
+    {
+      "name": "Heather Gahagen",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/craig-and-heather-gahagen",
+      "fit_reason": "Couple page with Craig Gahagen."
+    },
+    {
+      "name": "Scott Dillon",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/scott-and-meghan-dillon/",
+      "fit_reason": "Couple page, both names in URL. Serves Peru."
+    },
+    {
+      "name": "Meghan Dillon",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/scott-and-meghan-dillon/",
+      "fit_reason": "Couple page with Scott Dillon."
+    },
+    {
+      "name": "Julia King",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Physical Therapist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/king-julia/",
+      "fit_reason": "Single person, surname-first: king-julia. Serves Peru (Cusco); oversees physical therapy clinic."
+    },
+    {
+      "name": "Larry Rockwell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Trainer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/larry-and-sandy-rockwell",
+      "fit_reason": "Couple page, both names in URL (sandy=Sandra). Serves Peru as primary; also Portugal."
+    },
+    {
+      "name": "Sandra Rockwell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/larry-and-sandy-rockwell",
+      "fit_reason": "Couple page with Larry Rockwell; Peru and Portugal."
+    },
+    {
+      "name": "Ben Spivey",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Campus Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/spivey-ben-and-kirstin/",
+      "fit_reason": "Couple page, surname-first: spivey. Serves UK (London); RUF campus ministry."
+    },
+    {
+      "name": "Kirstin Spivey",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/spivey-ben-and-kirstin/",
+      "fit_reason": "Couple page with Ben Spivey."
+    },
+    {
+      "name": "Keith Knowlton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Regional Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/knowlton-keith-and-rachel/",
+      "fit_reason": "Couple page, surname-first: knowlton. Serves UK as primary; also Ireland. MTW Regional Director UK and Ireland."
+    },
+    {
+      "name": "Rachel Knowlton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/knowlton-keith-and-rachel/",
+      "fit_reason": "Couple page with Keith Knowlton; UK and Ireland."
+    },
+    {
+      "name": "Alex Brickey",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/alex-and-caroline-brickey/",
+      "fit_reason": "Couple page, both names in URL. Serves UK as primary; also Ireland."
+    },
+    {
+      "name": "Caroline Brickey",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/alex-and-caroline-brickey/",
+      "fit_reason": "Couple page with Alex Brickey; UK and Ireland."
+    },
+    {
+      "name": "Larry Wilkes",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Associate Minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/larry-and-mandy-wilkes/",
+      "fit_reason": "Couple page, both names in URL. Serves UK as primary; also Ireland and Romania."
+    },
+    {
+      "name": "Mandy Wilkes",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/larry-and-mandy-wilkes/",
+      "fit_reason": "Couple page with Larry Wilkes; UK, Ireland, Romania."
+    },
+    {
+      "name": "Nate Taylor",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/taylor-nate-and-erin/",
+      "fit_reason": "Couple page, surname-first: taylor. Serves UK (Glasgow, Scotland)."
+    },
+    {
+      "name": "Erin Taylor",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/taylor-nate-and-erin/",
+      "fit_reason": "Couple page with Nate Taylor."
+    },
+    {
+      "name": "Doug Shepherd",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/doug-and-masha-shepherd/",
+      "fit_reason": "Couple page, both names in URL. Serves Ukraine (Lviv); church planting western region."
+    },
+    {
+      "name": "Masha Shepherd",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/doug-and-masha-shepherd/",
+      "fit_reason": "Couple page with Doug Shepherd."
+    },
+    {
+      "name": "Heero Hacquebord",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/heero-e-c-and-anya-hacquebord/",
+      "fit_reason": "Couple page with Anya Hacquebord. URL includes middle initials (E.C.) but first and last names clear. Serves Ukraine (Lviv)."
+    },
+    {
+      "name": "Anya Hacquebord",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/heero-e-c-and-anya-hacquebord/",
+      "fit_reason": "Couple page with Heero Hacquebord."
+    },
+    {
+      "name": "Jonathan Eide",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jonathan-and-tracy-eide/",
+      "fit_reason": "Couple page, both names in URL. Serves Ukraine since 1997; planted four churches, founded seminary."
+    },
+    {
+      "name": "Tracy Eide",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jonathan-and-tracy-eide/",
+      "fit_reason": "Couple page with Jonathan Eide."
+    },
+    {
+      "name": "Bob Burnham",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bob-and-andrea-burnham/",
+      "fit_reason": "Couple page, both names in URL. Serves Ukraine as primary; also Romania. Evacuated to Romania during 2022 conflict."
+    },
+    {
+      "name": "Andrea Burnham",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bob-and-andrea-burnham/",
+      "fit_reason": "Couple page with Bob Burnham; Ukraine and Romania."
+    },
+    {
+      "name": "Bradley Cordell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bradley-and-sara-cordell/",
+      "fit_reason": "Couple page, both names in URL. Serves Ukraine."
+    },
+    {
+      "name": "Sara Cordell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bradley-and-sara-cordell/",
+      "fit_reason": "Couple page with Bradley Cordell."
+    },
+    {
+      "name": "David Martin",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-jill-martin/",
+      "fit_reason": "Couple page, both names in URL. Serves Ukraine as primary; also Romania."
+    },
+    {
+      "name": "Jill Martin",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-jill-martin/",
+      "fit_reason": "Couple page with David Martin; Ukraine and Romania."
+    },
+    {
+      "name": "Virginia Crews",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/crews-virginia",
+      "fit_reason": "Single person; confirms pattern: crews-virginia = surname-first. Serves Ukraine."
+    },
+    {
+      "name": "Clay Quarterman",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/clay-and-darlene-quarterman/",
+      "fit_reason": "Couple page, both names in URL. Serves Ukraine as primary; also Portugal (historical: 14 years 1977-1991)."
+    },
+    {
+      "name": "Darlene Quarterman",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/clay-and-darlene-quarterman/",
+      "fit_reason": "Couple page with Clay Quarterman; Ukraine and Portugal."
+    },
+    {
+      "name": "Brett McAlpin",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/brett-and-valerie-mcalpin/",
+      "fit_reason": "Couple page, both names in URL. Serves Ireland."
+    },
+    {
+      "name": "Valerie McAlpin",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/brett-and-valerie-mcalpin/",
+      "fit_reason": "Couple page with Brett McAlpin."
+    },
+    {
+      "name": "Paul Henry",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/paul-and-crystal-henry/",
+      "fit_reason": "Couple page, both names in URL. Serves Ireland."
+    },
+    {
+      "name": "Crystal Henry",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/paul-and-crystal-henry/",
+      "fit_reason": "Couple page with Paul Henry."
+    },
+    {
+      "name": "Jorum Mugari",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mugari-zimbabwe-international-associates/",
+      "fit_reason": "Couple page with Evah Mugari. URL format unusual (includes 'zimbabwe' and 'international-associates') but both names are in URL. Serves Ireland."
+    },
+    {
+      "name": "Evah Mugari",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mugari-zimbabwe-international-associates/",
+      "fit_reason": "Couple page with Jorum Mugari."
+    },
+    {
+      "name": "Eric Sparks",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/sparks-eric-and-naomi/",
+      "fit_reason": "Couple page, both names in URL. Serves Portugal (Lisbon)."
+    },
+    {
+      "name": "Naomi Sparks",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/sparks-eric-and-naomi/",
+      "fit_reason": "Couple page with Eric Sparks."
+    },
+    {
+      "name": "Nathan Bonham",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/nate-and-nikki-bonham/",
+      "fit_reason": "Couple page with Nikki Bonham. URL shows nate (nickname) but full name Nathan from title. Serves Bolivia."
+    },
+    {
+      "name": "Nikki Bonham",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/nate-and-nikki-bonham/",
+      "fit_reason": "Couple page with Nathan Bonham."
+    },
+    {
+      "name": "Richard Aschmann",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/richard-and-betty-aschmann/",
+      "fit_reason": "Couple page, both names in URL. Serves Bolivia as primary; also Ecuador."
+    },
+    {
+      "name": "Betty Aschmann",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/richard-and-betty-aschmann/",
+      "fit_reason": "Couple page with Richard Aschmann; Bolivia and Ecuador."
+    },
+    {
+      "name": "David Brooks",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-gwen-brooks-1",
+      "fit_reason": "Couple page with Gwen Brooks. URL includes trailing -1 (likely to disambiguate another David Brooks). Serves Ecuador."
+    },
+    {
+      "name": "Gwen Brooks",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-gwen-brooks-1",
+      "fit_reason": "Couple page with David Brooks."
+    },
+    {
+      "name": "Carla Stevens",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/carla-stevens/",
+      "fit_reason": "Single person. Serves Ecuador."
+    },
+    {
+      "name": "Esaie Etienne",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/esaie-and-natacha-etienne",
+      "fit_reason": "Couple page with Natacha Etienne, both named in URL. Serves Dominican Republic and Haiti."
+    },
+    {
+      "name": "Natacha Etienne",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/esaie-and-natacha-etienne",
+      "fit_reason": "Couple page with Esaie Etienne."
+    },
+    {
+      "name": "Derek Ebbers",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Team Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/derek-and-shannon-ebbers/",
+      "fit_reason": "Couple page, both names in URL. Serves Romania (Brasov) since 2007; team leader."
+    },
+    {
+      "name": "Shannon Ebbers",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/derek-and-shannon-ebbers/",
+      "fit_reason": "Couple page with Derek Ebbers."
+    },
+    {
+      "name": "Raul Profire",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/romania-national-partner-raul-profire/",
+      "fit_reason": "Couple page with Claudia Profire. URL indicates 'national-partner' role. Serves Romania (Sibiu) since 2022; church plant."
+    },
+    {
+      "name": "Claudia Profire",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/romania-national-partner-raul-profire/",
+      "fit_reason": "Couple page with Raul Profire."
+    },
+    {
+      "name": "Paul Cary",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/cary-paul/",
+      "fit_reason": "Single person, surname-first: cary-paul. Serves Romania."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Mexico",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Brazil",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Spain",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries France",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Germany",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Italy",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Poland",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries \"Czech Republic\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Chile",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Peru",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries UK",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Ukraine",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Ireland",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Portugal",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Bolivia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Ecuador",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries \"Dominican Republic\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries Romania",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Initials only in couple page",
+      "finding": "DH & Emily Henry",
+      "evidence": "URL: https://mtw.org/missionaries/details/henry-dh-and-emily; Title shows DH (initials) + Emily Henry. DH indicates sensitivity/security location.",
+      "recommendation": "Do not emit DH. Emily Henry has full first and last name but appears on page marked with initials-only partner. Recommend reviewing full page context before emission."
+    },
+    {
+      "issue": "Surname initial only",
+      "finding": "Daniel & Katy B.",
+      "evidence": "URL: https://mtw.org/missionaries/details/b-daniel-and-katy/; Title shows both names but B. is surname initial only. Appears in Italy, Portugal searches.",
+      "recommendation": "Do not emit. Both individuals flagged by surname-only notation (security indicator per MTW guidance)."
+    },
+    {
+      "issue": "Retired missionary",
+      "finding": "Johnny & Annette Johnson",
+      "evidence": "URL: https://mtw.org/missionaries/details/johnny-and-annette-johnson; Title states they returned home in 2020 and retired from full-time mission service.",
+      "recommendation": "Do not emit. Retirees fail Tier A test (no longer raise personal support). Not prospects."
+    },
+    {
+      "issue": "Retired associate missionaries",
+      "finding": "Jay & Nancy Matsinger",
+      "evidence": "URL: https://mtw.org/missionaries/details/jay-and-nancy-matsinger/; Described as retired (35+ years service) but now serve as 'associate missionaries'. Emitted as Tier A active (35 years service, still listed as serving).",
+      "recommendation": "Emitted despite retired status because still listed on active missionaries pages and appearing in multiple searches. Recommend clarifying retirement vs. active associate status with MTW."
+    },
+    {
+      "issue": "Missing URL for named individuals",
+      "finding": "Omar and Jen",
+      "evidence": "Dominican Republic search results mention 'Omar and Jen are the first MTW team working in Santiago, Dominican Republic' but search results provided no specific URL or page reference.",
+      "recommendation": "Cannot emit without personal_page URL. Recommend follow-up search or direct site navigation to locate their profiles."
+    },
+    {
+      "issue": "No searches conducted",
+      "finding": "Honduras, Costa Rica, Bulgaria",
+      "evidence": "Search budget exhausted at 18 queries; these three countries in slice were not searched.",
+      "recommendation": "Wave incomplete for these countries. Future searches needed."
+    }
+  ]
+}
