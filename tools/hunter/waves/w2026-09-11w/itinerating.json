@@ -1,0 +1,1475 @@
+{
+  "wave_id": "w2026-09-11w",
+  "agent": "w-itinerating",
+  "target_org": "Mission to the World",
+  "slice": "itinerating and support-raising missionaries. Work mtw.org/missionaries/itinerating-missionaries/ hard, plus qualifiers \"raising support\", \"partnership development\", \"preparing to serve\", \"newly appointed\", \"support team\", \"joining the team\"",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Linda Karner",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/linda-karner",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern, raising support for Japan service"
+    },
+    {
+      "name": "Amanda Meadows",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/meadows-amanda/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern, raising support to return to Poland"
+    },
+    {
+      "name": "Tim Hart",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hart-tim-and-beverly/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Beverly Hart; raising support for Bahamas"
+    },
+    {
+      "name": "Beverly Hart",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hart-tim-and-beverly/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Tim Hart; raising support for Bahamas"
+    },
+    {
+      "name": "Angel Velez",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/velez-angel-and-wally/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Wally Velez; support raising"
+    },
+    {
+      "name": "Wally Velez",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/velez-angel-and-wally/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Angel Velez; support raising"
+    },
+    {
+      "name": "David Choi",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/choi-david",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Julie Choi"
+    },
+    {
+      "name": "Julie Choi",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/choi-david",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with David Choi"
+    },
+    {
+      "name": "Eric Larsen",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/eric-and-rebecca-larsen/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Rebecca Larsen"
+    },
+    {
+      "name": "Rebecca Larsen",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/eric-and-rebecca-larsen/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Eric Larsen"
+    },
+    {
+      "name": "Shannon DeBoer",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/deboer-shannon/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; serves with MTW team in Nagoya, Japan"
+    },
+    {
+      "name": "Titus Bagby",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/titus-and-crystal-bagby/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Crystal Bagby"
+    },
+    {
+      "name": "Crystal Bagby",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/titus-and-crystal-bagby/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Titus Bagby"
+    },
+    {
+      "name": "Jon Pfeil",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jonathan-and-sarah-pfeil/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Sarah Pfeil; slug carries Jonathan, title shows Jon"
+    },
+    {
+      "name": "Sarah Pfeil",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jonathan-and-sarah-pfeil/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Jon Pfeil"
+    },
+    {
+      "name": "Kirk van der Swaagh",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/van-der-swaagh-kirk-and-barbara/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Barbara van der Swaagh"
+    },
+    {
+      "name": "Barbara van der Swaagh",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/van-der-swaagh-kirk-and-barbara/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Kirk van der Swaagh"
+    },
+    {
+      "name": "Bradley Cordell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Director of Ministry Partner Development",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bradley-and-sara-cordell/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Sara Cordell; partnership development leadership"
+    },
+    {
+      "name": "Sara Cordell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bradley-and-sara-cordell/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Bradley Cordell; partnership development"
+    },
+    {
+      "name": "Luke Stannard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stannard-luke-and-michelle/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Michelle Stannard"
+    },
+    {
+      "name": "Michelle Stannard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stannard-luke-and-michelle/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Luke Stannard"
+    },
+    {
+      "name": "David Brooks",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-gwen-brooks-1",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Gwen Brooks; leadership and Bible translation"
+    },
+    {
+      "name": "Gwen Brooks",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-gwen-brooks-1",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with David Brooks; partnership development"
+    },
+    {
+      "name": "Rodney Davila",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rodney-and-jana-davila/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Jana Davila"
+    },
+    {
+      "name": "Jana Davila",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rodney-and-jana-davila/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Rodney Davila"
+    },
+    {
+      "name": "Scott Dillon",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/scott-and-meghan-dillon/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Meghan Dillon"
+    },
+    {
+      "name": "Meghan Dillon",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/scott-and-meghan-dillon/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Scott Dillon"
+    },
+    {
+      "name": "Nate Taylor",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/taylor-nate-and-erin/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Erin Taylor; partnership development in Scotland"
+    },
+    {
+      "name": "Erin Taylor",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/taylor-nate-and-erin/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Nate Taylor; partnership development in Scotland"
+    },
+    {
+      "name": "Jorge Aleman",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Director of Church Planting Center",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mx-ptr-jorge-aleman/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Maricela Aleman; slug has country prefix pattern; partnership development in Mexico"
+    },
+    {
+      "name": "Maricela Aleman",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mx-ptr-jorge-aleman/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Jorge Aleman; partnership development in Mexico"
+    },
+    {
+      "name": "Coby McGinty",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/coby-and-pamela-mcginty/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Pamela McGinty"
+    },
+    {
+      "name": "Pamela McGinty",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/coby-and-pamela-mcginty/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Coby McGinty"
+    },
+    {
+      "name": "Bridget Bloxom",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bloxom-bridget/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; preparing to serve in Scotland"
+    },
+    {
+      "name": "Trey Adams",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.mtw.org/missionaries/details/trey-and-kiki-adams",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Kiki Adams; preparing to serve in Thailand"
+    },
+    {
+      "name": "Kiki Adams",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.mtw.org/missionaries/details/trey-and-kiki-adams",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Trey Adams; preparing to serve in Thailand"
+    },
+    {
+      "name": "Heidi Hill",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hill-heidi/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; joining the team in Japan"
+    },
+    {
+      "name": "Tim Mills",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/tim-and-rhianna-mills",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Rhianna Mills; church planting in Thailand"
+    },
+    {
+      "name": "Rhianna Mills",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/tim-and-rhianna-mills",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Tim Mills; church planting in Thailand"
+    },
+    {
+      "name": "Noah Stephens",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.mtw.org/missionaries/details/stephens-noah-and-karleigh",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Karleigh Stephens; serving in Thailand"
+    },
+    {
+      "name": "Karleigh Stephens",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.mtw.org/missionaries/details/stephens-noah-and-karleigh",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Noah Stephens; serving in Thailand"
+    },
+    {
+      "name": "Samuel In",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/in-samuel",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; serving in Thailand 2025"
+    },
+    {
+      "name": "Carter McWhorter",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mcwhorter-charles-and-caroline/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Caroline McWhorter; slug shows Charles, title shows Carter; joining church-planting team Thailand"
+    },
+    {
+      "name": "Caroline McWhorter",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mcwhorter-charles-and-caroline/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Carter McWhorter; joining church-planting team Thailand"
+    },
+    {
+      "name": "Sam Cromley",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/cromley-sam-and-madison/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Madison Cromley; moving to Bangkok Thailand"
+    },
+    {
+      "name": "Madison Cromley",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/cromley-sam-and-madison/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Sam Cromley; moving to Bangkok Thailand"
+    },
+    {
+      "name": "Chris Claburn",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/claburn-chris/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; serving with church-planting team Bangkok Thailand"
+    },
+    {
+      "name": "Darren Terpstra",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/darren-and-allison-terpstra/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Allison Terpstra; joining church-planting team Bangkok Thailand"
+    },
+    {
+      "name": "Allison Terpstra",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/darren-and-allison-terpstra/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Darren Terpstra; joining church-planting team Bangkok Thailand"
+    },
+    {
+      "name": "Paul Henry",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/paul-and-crystal-henry/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Crystal Henry"
+    },
+    {
+      "name": "Crystal Henry",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/paul-and-crystal-henry/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Paul Henry"
+    },
+    {
+      "name": "Manny Bersach",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bersach-manny-and-terri/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Terri Bersach"
+    },
+    {
+      "name": "Terri Bersach",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bersach-manny-and-terri/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Manny Bersach"
+    },
+    {
+      "name": "Masakuni Hotta",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Global Partner",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hotta-masakuni/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; MTW global partner in Nagoya Japan"
+    },
+    {
+      "name": "Mark Bocanegra",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mark-and-megumi-bocanegra-1/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Megumi Bocanegra; church planting in Chiba Japan"
+    },
+    {
+      "name": "Megumi Bocanegra",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mark-and-megumi-bocanegra-1/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Mark Bocanegra; church planting in Chiba Japan"
+    },
+    {
+      "name": "Brett Rayl",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/brett-and-taylor-rayl/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Taylor Rayl; serving in Nagoya Japan since 2012"
+    },
+    {
+      "name": "Taylor Rayl",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/brett-and-taylor-rayl/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Brett Rayl; serving in Nagoya Japan since 2012"
+    },
+    {
+      "name": "Roger Lowther",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/roger-and-abi-lowther/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Abi Lowther; leading Community Arts team Japan"
+    },
+    {
+      "name": "Abi Lowther",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/roger-and-abi-lowther/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Roger Lowther; Community Arts ministry Japan"
+    },
+    {
+      "name": "Matt Chase",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/matt-and-carly-chase/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Carly Chase; church planting in Chiba City Japan"
+    },
+    {
+      "name": "Carly Chase",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/matt-and-carly-chase/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Matt Chase; church planting in Chiba City Japan"
+    },
+    {
+      "name": "Joe Congdon",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter and Team Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/joe-and-felicity-congdon/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Felicity Congdon; church planter and team leader Tokyo City Team"
+    },
+    {
+      "name": "Felicity Congdon",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/joe-and-felicity-congdon/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Joe Congdon; serving in Japan since 2015"
+    },
+    {
+      "name": "Jeff Saunders",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jeff-and-katie-saunders/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Katie Saunders; church planting and university ministry Tokyo"
+    },
+    {
+      "name": "Katie Saunders",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jeff-and-katie-saunders/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Jeff Saunders; church planting and university ministry Tokyo"
+    },
+    {
+      "name": "Melanie Johnson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/melanie-johnson",
+      "fit_reason": "Tier A; per-person giving page; served on MTW internship in Japan"
+    },
+    {
+      "name": "Jonas Davison",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/davison-jonas-christina/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Christina Davison; returned to Tokyo 2019"
+    },
+    {
+      "name": "Christina Davison",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/davison-jonas-christina/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Jonas Davison; returned to Tokyo 2019"
+    },
+    {
+      "name": "Shohei Ueki",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ueki-shohei/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Sawako Ueki; plant Bay Light Church Tokyo Bay Area"
+    },
+    {
+      "name": "Sawako Ueki",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ueki-shohei/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Shohei Ueki; plant Bay Light Church Tokyo Bay Area"
+    },
+    {
+      "name": "Marcus Rudd",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/marcus-and-heather-rudd/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Heather Rudd; serving in Reynosa Mexico"
+    },
+    {
+      "name": "Heather Rudd",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/marcus-and-heather-rudd/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Marcus Rudd; serving in Reynosa Mexico"
+    },
+    {
+      "name": "Dan Young",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dan-and-becky-young/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Becky Young; U.S./Mexico border ministry since 1990"
+    },
+    {
+      "name": "Becky Young",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dan-and-becky-young/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Dan Young; U.S./Mexico border ministry since 1990"
+    },
+    {
+      "name": "Dennis Conroy",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dennis-and-rhonda-conroy-1/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Rhonda Conroy; serving in Mexico"
+    },
+    {
+      "name": "Rhonda Conroy",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dennis-and-rhonda-conroy-1/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Dennis Conroy; serving in Mexico"
+    },
+    {
+      "name": "David Diaso",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-dawn-diaso/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Dawn Diaso; church planting San Diego-Tijuana border"
+    },
+    {
+      "name": "Dawn Diaso",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-dawn-diaso/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with David Diaso; church planting San Diego-Tijuana border"
+    },
+    {
+      "name": "DH Henry",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/henry-dh-and-emily",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Emily Henry; DH appears to be initials or nickname"
+    },
+    {
+      "name": "Emily Henry",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/henry-dh-and-emily",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with DH Henry"
+    },
+    {
+      "name": "Jamie Burkemper",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jamie-and-jennifer-burkemper/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Jennifer Burkemper; serving in Juarez Mexico"
+    },
+    {
+      "name": "Jennifer Burkemper",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jamie-and-jennifer-burkemper/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Jamie Burkemper; serving in Juarez Mexico"
+    },
+    {
+      "name": "Ellen Barnett",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ellen-barnett/",
+      "fit_reason": "Tier A; per-person giving page; serving in Acapulco Mexico since 1975"
+    },
+    {
+      "name": "Kenton Wood",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/kenton-wood/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Adriana Wood; slug shows only one name; established churches and ministry centers in Guadalajara since 1997"
+    },
+    {
+      "name": "Adriana Wood",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/kenton-wood/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Kenton Wood; ministry in Guadalajara Mexico"
+    },
+    {
+      "name": "Tim Holliday",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/tim-and-kristy-holliday/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Kristy Holliday; serving in Reynosa Mexico"
+    },
+    {
+      "name": "Kristy Holliday",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/tim-and-kristy-holliday/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Tim Holliday; serving in Reynosa Mexico"
+    },
+    {
+      "name": "Josh Johnson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/johnson-josh-and-elizabeth/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Elizabeth Johnson; church planting in Tegucigalpa Honduras"
+    },
+    {
+      "name": "Elizabeth Johnson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/johnson-josh-and-elizabeth/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Josh Johnson; church planting in Honduras"
+    },
+    {
+      "name": "Phil Stogner",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Trainer and Coach for Church Planters",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stogner-phil-wendy",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Wendy Stogner; church planting trainer with 34+ years experience"
+    },
+    {
+      "name": "Wendy Stogner",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stogner-phil-wendy",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Phil Stogner; church planting support"
+    },
+    {
+      "name": "David Rogers",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rogers-david-and-kelly/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Kelly Rogers"
+    },
+    {
+      "name": "Kelly Rogers",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rogers-david-and-kelly/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with David Rogers"
+    },
+    {
+      "name": "Nathan Bonham",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Pastor and Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/nate-and-nikki-bonham/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Nikki Bonham; pastor and church planter in Colombia; theological education and biblical counseling"
+    },
+    {
+      "name": "Nikki Bonham",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/nate-and-nikki-bonham/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Nathan Bonham"
+    },
+    {
+      "name": "Rob Ilderton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Pastor, Church Planter, and Team Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rob-and-jenny-ilderton/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Jenny Ilderton; pastor and church planter Grace Church London; team leader for MTW"
+    },
+    {
+      "name": "Jenny Ilderton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rob-and-jenny-ilderton/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Rob Ilderton"
+    },
+    {
+      "name": "Richard Bailey",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Pastor and Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/richard-and-tc-bailey/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Teresa Bailey; pastor/church planter Redeemer Presbyterian Church Perth; tc may be initials for Teresa"
+    },
+    {
+      "name": "Teresa Bailey",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/richard-and-tc-bailey/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Richard Bailey"
+    },
+    {
+      "name": "Luke Smith",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/luke-and-sokha-smith/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Sokha Smith; village church planting, student outreach, translation in Cambodia"
+    },
+    {
+      "name": "Sokha Smith",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/luke-and-sokha-smith/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Luke Smith; countryside ministry Cambodia"
+    },
+    {
+      "name": "Mikael Romer",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "International Associate",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/poland-international-associate-romer",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Zuzanna Romer; country prefix in slug; first MTW missionary in Poland, Krakow"
+    },
+    {
+      "name": "Zuzanna Romer",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/poland-international-associate-romer",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Mikael Romer; first MTW missionaries in Poland"
+    },
+    {
+      "name": "Krystian Otremba",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Senior Pastor and Church Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/krystian-ewa-otremba/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Ewa Otremba; senior pastor Good Shepherd Presbyterian Church Warsaw; helping establish Poland's first Reformed seminary"
+    },
+    {
+      "name": "Ewa Otremba",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/krystian-ewa-otremba/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Krystian Otremba; Reformed seminary development Poland"
+    },
+    {
+      "name": "Tom Otremba",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "National Partner",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/poland-national-partner-tomasz-otremba/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Damaris Otremba; country prefix in slug; slug shows Tomasz, title shows Tom; establishing Institute for Reformation Poland"
+    },
+    {
+      "name": "Damaris Otremba",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/poland-national-partner-tomasz-otremba/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Tom Otremba; Institute for Reformation Poland development"
+    },
+    {
+      "name": "Sashko Nezamutdinov",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Lead Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/sashko-nezamutdinov/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Ania Nezamutdinov; slug shows one name; lead pastor Christ the Savior Presbyterian Church Krakow"
+    },
+    {
+      "name": "Ania Nezamutdinov",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/sashko-nezamutdinov/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Sashko Nezamutdinov; ministry in Krakow Poland"
+    },
+    {
+      "name": "Michal Sylwestrowicz",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/michal-and-kaja-sylwestrowicz/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Kaja Sylwestrowicz; Presbyterian church plant Gdansk Poland"
+    },
+    {
+      "name": "Kaja Sylwestrowicz",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/michal-and-kaja-sylwestrowicz/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Michal Sylwestrowicz; church planting Gdansk Poland"
+    },
+    {
+      "name": "Joel Spence",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/spence-joel/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; called to remain in Poland as missionary; humanitarian aid and mission work"
+    },
+    {
+      "name": "Yurii Boiko",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Pastor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/yuri-boiko-pastor-for-ukrainians-1/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Olha Boiko; role prefix in slug; pastor for Ukrainian ministry"
+    },
+    {
+      "name": "Olha Boiko",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/yuri-boiko-pastor-for-ukrainians-1/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Yurii Boiko"
+    },
+    {
+      "name": "Carla Stevens",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/carla-stevens/",
+      "fit_reason": "Tier A; per-person giving page; served in Ecuador and called to strengthen Presbyterian Church Christian school program Belize"
+    },
+    {
+      "name": "Richard Aschmann",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/richard-and-betty-aschmann/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Betty Aschmann; Bible translation, leadership training, church planting among Quichua Indians Ecuador"
+    },
+    {
+      "name": "Betty Aschmann",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/richard-and-betty-aschmann/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Richard Aschmann; Bible translation ministry Ecuador"
+    },
+    {
+      "name": "Larry Rockwell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/larry-and-sandy-rockwell",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Sandra Rockwell"
+    },
+    {
+      "name": "Sandra Rockwell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/larry-and-sandy-rockwell",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Larry Rockwell"
+    },
+    {
+      "name": "Craig Pohl",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/craig-and-stacy-pohl/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Stacy Pohl; two decades ministry in South America Ecuador and Chile; now serving in Japan"
+    },
+    {
+      "name": "Stacy Pohl",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/craig-and-stacy-pohl/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Craig Pohl; South America ministry; now serving in Japan"
+    },
+    {
+      "name": "John Buerger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/buerger-john-ellen/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Ellen Buerger"
+    },
+    {
+      "name": "Ellen Buerger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/buerger-john-ellen/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with John Buerger"
+    },
+    {
+      "name": "Keith Knowlton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/knowlton-keith-and-rachel/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Rachel Knowlton; serving in Edinburgh Scotland since 2020"
+    },
+    {
+      "name": "Rachel Knowlton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/knowlton-keith-and-rachel/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Keith Knowlton; partnering with Free Church of Scotland Scotland"
+    },
+    {
+      "name": "Brian Roby",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/roby-brian-and-sheryl",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Sheryl Roby; serving Free Church of Scotland in Elgin Scotland"
+    },
+    {
+      "name": "Sheryl Roby",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/roby-brian-and-sheryl",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Brian Roby; serving in Elgin Scotland"
+    },
+    {
+      "name": "Robbie Sweet",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/robbie-and-lydia-sweet/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Lydia Sweet; youth work and training in Glasgow Scotland"
+    },
+    {
+      "name": "Lydia Sweet",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/robbie-and-lydia-sweet/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Robbie Sweet; youth work Glasgow Scotland"
+    },
+    {
+      "name": "Kelsey Cawthorn",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.mtw.org/missionaries/details/cawthorn-kelsey",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; women's ministry and church planting in Glasgow Scotland with Free Church of Scotland"
+    },
+    {
+      "name": "Donny Harwood",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/harwood-donny-and-courtney/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Courtney Harwood; strengthen existing Free Church congregation and plant new churches Glasgow Scotland"
+    },
+    {
+      "name": "Courtney Harwood",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/harwood-donny-and-courtney/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Donny Harwood; church strengthening and planting Scotland"
+    },
+    {
+      "name": "Paul Cary",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/cary-paul/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; church planting team at Cornerstone Edinburgh Scotland"
+    },
+    {
+      "name": "Ryan Swanson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/swanson-ryan-and-kristina/",
+      "fit_reason": "Tier A; per-person giving page, SURNAME-first slug pattern; shared couple page with Kristina Swanson; called to Dornoch Free Church Scottish Highlands"
+    },
+    {
+      "name": "Kristina Swanson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/swanson-ryan-and-kristina/",
+      "fit_reason": "Tier A; per-person giving page; shared couple page with Ryan Swanson; serving in Scottish Highlands"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/details raising support",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries partnership development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries \"preparing to serve\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries \"newly appointed\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries \"support team\"",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries \"joining the team\"",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/itinerating-missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries itinerating Brazil",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/details Thailand",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/details Japan",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/details Mexico",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/details \"church planter\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/details \"newly serving\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/details \"first term\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/details \"support raising\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/details Poland",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/details Ecuador",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries/details Scotland",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Numeric ID slug - ambiguous person identification",
+      "finding": "Charles & Irene T. (slug: 400932)",
+      "evidence": "Page identified by numeric ID rather than surname; title contains initials only (Irene T.) which violates MTW's sensitivity protection for anonymized workers",
+      "recommendation": "Do not emit; route to needs_review. Per enumeration guide, numeric ID slugs are medium confidence. Title shows initials 'T.' which may indicate sensitive location worker or anonymized identity."
+    },
+    {
+      "issue": "Initials-only surname indicator - sensitive location or anonymized",
+      "finding": "Daniel & Katy B. (slug: b-daniel-and-katy)",
+      "evidence": "Slug begins with 'B.' which appears to be initials; MTW states that workers in secure locations may be anonymized with initials only or without surname",
+      "recommendation": "Do not emit; route to needs_review. Per MTW protection policy, any entry with initials only or missing surname goes to needs_review per agency explicit guidance."
+    }
+  ]
+}
