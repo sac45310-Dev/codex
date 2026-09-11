@@ -1,0 +1,1047 @@
+{
+  "wave_id": "w2026-09-11x",
+  "agent": "x-everynation",
+  "target_org": "Every Nation",
+  "slice": "the whole agency. CONTINUATION chosen deliberately: wave r found 40 people from only 9 queries (4.4 per query) with split budget across organisations. Every Nation states 324 cross-cultural missionaries plus campus staff across 1,405 campuses; 40 is a fraction. Full budget on this one org.",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Rissa Llanto",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/rissa-llanto",
+      "fit_reason": "Per-person giving page; surname in slug; title names person"
+    },
+    {
+      "name": "Hermanus Bosman Griesel",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/hermanus-bosman-griesel",
+      "fit_reason": "Per-person giving page; both given name and surname in slug"
+    },
+    {
+      "name": "Kori Alimaza",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kori-alimaza",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Tarn Liu",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/tarn-marisa-liu",
+      "fit_reason": "Couple page split on title; Tarn Liu named in title 'Tarn & Marisa Liu'; first name in slug"
+    },
+    {
+      "name": "Marisa Liu",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/tarn-marisa-liu",
+      "fit_reason": "Couple page split on title 'Tarn & Marisa Liu'; spouse of Tarn; both on shared family mission page"
+    },
+    {
+      "name": "Joice Villamor",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/joice-villamor",
+      "fit_reason": "Per-person giving page; surname in slug; title 'Villamor, Joice'"
+    },
+    {
+      "name": "Yujiro Takagi",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/yujiko-takagi",
+      "fit_reason": "SLUG TYPO: URL /yujiko-takagi but title 'Yujiro and Natsuko Takagi'; split on authoritative title; first name in title matches intent"
+    },
+    {
+      "name": "Natsuko Takagi",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/yujiko-takagi",
+      "fit_reason": "SLUG TYPO: URL /yujiko-takagi but title 'Yujiro and Natsuko Takagi'; couple split on title; surname in URL; title authoritative"
+    },
+    {
+      "name": "Agust Olafsson",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/agust-olafsson",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Skek Hosoi",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/skek-hosoi",
+      "fit_reason": "Per-person giving page; title 'Hosoi, Skek'; both names in URL slug"
+    },
+    {
+      "name": "Mark Gonzaga",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/mark-gonzaga",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Lyka Cabilogan",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/lyka-cabilogan",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Robert Gonzalez",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/robert-and-joanne-gonzalez",
+      "fit_reason": "Couple page split on title 'Robert and Joanne Gonzalez'; first name in slug and title"
+    },
+    {
+      "name": "Joanne Gonzalez",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/robert-and-joanne-gonzalez",
+      "fit_reason": "Couple page split on title 'Robert and Joanne Gonzalez'; spouse; both on shared family mission page"
+    },
+    {
+      "name": "Shaun Castro",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/shaun-castro",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Princess Joy Navarro",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/princess-joy-navarro",
+      "fit_reason": "Per-person giving page; first name and surname in slug and title"
+    },
+    {
+      "name": "Henry Romero",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/henry-romero",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Bianca Eason",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/bianca-eason",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Santiago Del Rey",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/santiago-del-rey",
+      "fit_reason": "Per-person giving page; given name and surname in slug and title"
+    },
+    {
+      "name": "Mario Jimenez",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/katie-jimenez",
+      "fit_reason": "Couple page split on title 'Mario and Katie Jimenez'; first name in title; URL carries spouse's first name"
+    },
+    {
+      "name": "Katie Jimenez",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/katie-jimenez",
+      "fit_reason": "Couple page split on title 'Mario and Katie Jimenez'; surname in slug; both on shared family mission page"
+    },
+    {
+      "name": "Nelson Garza",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/nelson-garza",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Ross Middleton",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/ross-middleton",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Julio Ceron",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/julio-and-sylvia-ceron",
+      "fit_reason": "Couple page split on title 'Ceron, Julio'; first name in slug and title; title form is surname-first"
+    },
+    {
+      "name": "Sylvia Ceron",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/julio-and-sylvia-ceron",
+      "fit_reason": "Couple page split on title showing couple name; first name in slug; both on shared family mission page"
+    },
+    {
+      "name": "Carlin Kreider",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/carlin-kreider",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Dan Duran",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kristin-and-dan-duran",
+      "fit_reason": "Couple page split on title 'Dan and Kristin Duran'; first name in slug and title"
+    },
+    {
+      "name": "Kristin Duran",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kristin-and-dan-duran",
+      "fit_reason": "Couple page split on title 'Dan and Kristin Duran'; surname in slug; both on shared family mission page"
+    },
+    {
+      "name": "Akkey Sakamoto",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/akkey-sakamoto",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Jonathan Zee",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Discipleship ministry leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jonathan-zee",
+      "fit_reason": "Couple page split on title 'Jonathan and Marika Zee'; first name in slug and title"
+    },
+    {
+      "name": "Marika Zee",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Discipleship ministry leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jonathan-zee",
+      "fit_reason": "Couple page split on title 'Jonathan and Marika Zee'; first name in title; both on shared family mission page"
+    },
+    {
+      "name": "Mona Ruth Christenson",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/mona-ruth-christenson",
+      "fit_reason": "Per-person giving page; title 'Christenson, Mona Ruth'; first and surname in slug"
+    },
+    {
+      "name": "Alan Sue",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/alan-sue",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Carlos Fabregas",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/carlos-fabregas",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Marichie Barbasa",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/barbasa-marichie",
+      "fit_reason": "Per-person giving page; title 'Marichie Barbasa'; first and surname in slug"
+    },
+    {
+      "name": "Lee Anne Aganos",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/lee-anne-aganos",
+      "fit_reason": "Per-person giving page; given name and surname in slug and title"
+    },
+    {
+      "name": "Reese Noyes",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/reese-noyes",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Gilbert Naron",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/gilbertnaron",
+      "fit_reason": "Per-person giving page; first and surname in slug (no hyphen) and title"
+    },
+    {
+      "name": "Morgan Estes",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/morgan-estes",
+      "fit_reason": "Per-person giving page; title 'Estes, Morgan'; first and surname in slug"
+    },
+    {
+      "name": "Jeanne Tai",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jeanne-and-brian-tai",
+      "fit_reason": "Couple page split on title 'Tai, Jeanne'; first name in slug and title"
+    },
+    {
+      "name": "Brian Tai",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jeanne-and-brian-tai",
+      "fit_reason": "Couple page split on title; first name in slug and title 'Tai, Jeanne' and 'Tai'; both on shared family mission page"
+    },
+    {
+      "name": "Ashley Alexander",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/ashley-alexander",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Ariana Gonzalez",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/ariana-gonzalez",
+      "fit_reason": "Per-person giving page; title 'Gonzalez, Ariana'; first and surname in slug"
+    },
+    {
+      "name": "Javed Kamruddin",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/javed-kamruddin",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Alexus Wyrick",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/alexus-wyrick",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Pedro Alonso",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/pedro_alonso",
+      "fit_reason": "Couple page split on title 'Pedro and Natalie Alonso'; first name in slug and title"
+    },
+    {
+      "name": "Natalie Alonso",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/pedro_alonso",
+      "fit_reason": "Couple page split on title 'Pedro and Natalie Alonso'; first name in title; both on shared family mission page"
+    },
+    {
+      "name": "Joseph Penrod",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/joseph-and-kaitlin-penrod",
+      "fit_reason": "Couple page split on title 'Joseph and Kaitlin Penrod'; first name in slug and title"
+    },
+    {
+      "name": "Kaitlin Penrod",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/joseph-and-kaitlin-penrod",
+      "fit_reason": "Couple page split on title 'Joseph and Kaitlin Penrod'; first name in title; both on shared family mission page"
+    },
+    {
+      "name": "Euan McCrindle",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/euan-and-romona-mccrindle",
+      "fit_reason": "Couple page split on title 'Euan and Romona McCrindle'; first name in slug and title"
+    },
+    {
+      "name": "Romona McCrindle",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/euan-and-romona-mccrindle",
+      "fit_reason": "Couple page split on title 'Euan and Romona McCrindle'; first name in title; both on shared family mission page"
+    },
+    {
+      "name": "Kaitlyn Corley",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kaitlyn-corley",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Sarah Baker",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/sarah-baker",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Lauren Jackson",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/lauren-jackson",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "DeNail Sparks",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/denail-sparks",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Malcolm Laws",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/malcolm-laws",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Olajide Pariola",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/olajide-pariola",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Baby Bato",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/baby-bato",
+      "fit_reason": "Per-person giving page; first name and surname in slug and title"
+    },
+    {
+      "name": "John Saison",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/john-saison",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Tyler Osborne",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/tyler-osborne",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "T'eam Oosthuizen",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Healthcare professional missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/olivia-team-oosthuizen",
+      "fit_reason": "Couple page split on title 'T'eam and Olivia Oosthuizen'; first name in slug and title"
+    },
+    {
+      "name": "Olivia Oosthuizen",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Healthcare professional missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/olivia-team-oosthuizen",
+      "fit_reason": "Couple page split on title 'T'eam and Olivia Oosthuizen'; surname in slug; both on shared family mission page"
+    },
+    {
+      "name": "Kei Omo",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kei-omo",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Kristina Peterson",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kristina-peterson",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Chad-Ryan Udani",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/chad-ryan-udani",
+      "fit_reason": "Per-person giving page; given name and surname in slug and title"
+    },
+    {
+      "name": "Jonathan Polus",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jonathan-and-kaylin-polus",
+      "fit_reason": "Couple page split on title; first name in slug and title 'Jonathan Polus'"
+    },
+    {
+      "name": "Kaylin Polus",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jonathan-and-kaylin-polus",
+      "fit_reason": "Couple page split on title; first name in slug and title 'Jonathan and Kaylin Polus'; both on shared family mission page"
+    },
+    {
+      "name": "Heather Ettleman",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/heather-ettleman",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Jarrett Suniula",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jarrett-and-nicole-suniula",
+      "fit_reason": "Couple page split on title 'Jarrett and Nicole Suniula'; first name in slug and title"
+    },
+    {
+      "name": "Nicole Suniula",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jarrett-and-nicole-suniula",
+      "fit_reason": "Couple page split on title 'Jarrett and Nicole Suniula'; first name in title; both on shared family mission page"
+    },
+    {
+      "name": "Shayne Tauaefa",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/shayne-tauaefa",
+      "fit_reason": "Per-person giving page; title 'Tauaefa, Shayne'; first and surname in slug"
+    },
+    {
+      "name": "Jonathan Cothron",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jonathan-cothron",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Vincent Garbutt",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/vincentgarbutt",
+      "fit_reason": "Per-person giving page; first and surname in slug (no hyphen) and title"
+    },
+    {
+      "name": "Ashley Dew",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/ashley-dew",
+      "fit_reason": "Couple page split on title 'Dew, Ashley and Ben'; first name in slug and title"
+    },
+    {
+      "name": "Ben Dew",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/ashley-dew",
+      "fit_reason": "Couple page split on title 'Dew, Ashley and Ben'; first name in title; both on shared family mission page"
+    },
+    {
+      "name": "Devon Patterson",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/devon-patterson",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Matthew Schumann",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/matthew-schumann",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Sarah Cummings",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/sarah-cummings",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "William Galloway",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/william-galloway",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Bria Lacour",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/bria-lacour",
+      "fit_reason": "Per-person giving page; title 'Lacour, Bria'; first and surname in slug"
+    },
+    {
+      "name": "Kyla Gibbs",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kyla-gibbs",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Vanessa Torrie",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/vanessa-torrie",
+      "fit_reason": "Per-person giving page; title 'Torrie, Vanessa'; first and surname in slug"
+    },
+    {
+      "name": "Addison Pate",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/addison-pate",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Logan Taylor",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/logan-taylor",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Jessica Ruiz",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jessica-ruiz",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Thompson Parrish",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/thompson-parrish",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Carmela Anaen",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/carmela-anaen",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Bryce Baliko",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/bryce-baliko",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Andrew Ambrose",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/andrew-ambrose",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Fernando Cunanan",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/fernando-cunanan",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Nadeem Boggerty",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/nadeem-boggerty",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Kennedy Smith",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus minister",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kennedy-smith",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Thomas Breckwoldt",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/thomas-breckwoldt",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Shadrick Bell",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/shadrick-and-caresse-bell",
+      "fit_reason": "Couple page split on title; first name in slug and title 'Bell, Shadrick'"
+    },
+    {
+      "name": "Caresse Bell",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/shadrick-and-caresse-bell",
+      "fit_reason": "Couple page split on title 'Shadrick and Caresse Bell'; first name in slug; both on shared family mission page"
+    },
+    {
+      "name": "Barry Lee",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/barry-lee",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Kevin McKenzie",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/kevin-mckenzie",
+      "fit_reason": "Per-person giving page; first and surname in slug and title"
+    },
+    {
+      "name": "Jonathan Soliman",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jonathan-gigi-soliman",
+      "fit_reason": "Couple page split on title 'Gigi and Jonathan Soliman'; first name in slug and title"
+    },
+    {
+      "name": "Gigi Soliman",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/donate/jonathan-gigi-soliman",
+      "fit_reason": "Couple page split on title 'Gigi and Jonathan Soliman'; first name in title; both on shared family mission page"
+    },
+    {
+      "name": "Alyssa VanderVeen",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Campus ministry intern",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/category/missionaries/alyssa-vanderveen",
+      "fit_reason": "Per-person giving page in secondary missionaries category; first and surname in slug and title"
+    },
+    {
+      "name": "Beatrice Austin",
+      "org": "Every Nation",
+      "tier": "A",
+      "role": "Cross-cultural missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.everynation.org/category/missionaries/austin-beatrice",
+      "fit_reason": "Per-person giving page in secondary missionaries category; title 'Austin, Beatrice'; first and surname in slug"
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "site:give.everynation.org/donate cross-cultural missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate Philippines campus missionary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate Costa Rica church planter", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate Japan missionary -Llanto -Takagi -Alimaza -Liu -Bosman", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate Thailand campus missionary -Hosoi -Cabilogan -Castro", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate Scotland UK campus ministry -Navarro -Romero -Eason", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate Germany ministry -Garza -Middleton -Kreider", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate Kenya cross-cultural -Llanto -Cabilogan -Aganos", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate South Africa ministry -Pariola -Bato", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate Brazil church -Osborne -Saison", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate Mexico campus -Peterson -Omo", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate Indonesia ministry -Ettleman -Polus", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate \"campus missionary\" university -Tauaefa -Suniula", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate campus ministry intern -Cothron -Garbutt -Cummings -Galloway", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate worship discipleship -Baliko -Anaen -Parrish -Taylor -Torrie -Gibbs", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate church planter -Breckwoldt -Smith -Boggerty -Cunanan -Ambrose -Ruiz -Pate", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/donate cross-cultural -McKenzie -Lee -Bell -Breckwoldt -Cunanan -Ambrose -Boggerty -Smith", "outcome": "found_people"},
+    {"kind": "query", "value": "site:give.everynation.org/category/missionaries -Soliman -Olafsson", "outcome": "found_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "Numeric ID with initials only",
+      "finding": "URL: https://give.everynation.org/donate/bm236, Title: 'M., B. & M. 400010236'",
+      "evidence": "Opaque numeric ID (400010236) combined with surname withheld (initials only: M., B. & M.). This matches the pattern of sensitive-region workers described in enumeration guidelines.",
+      "recommendation": "Route to needs_review per sensitive-region protection rule: if a page withholds a surname, uses initials only, or sits under a sensitive/creative-access category, do not emit. These people are unnamed on purpose and publishing them undoes protection their agency put there deliberately."
+    }
+  ]
+}

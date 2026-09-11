@@ -1,0 +1,317 @@
+{
+  "wave_id": "w2026-09-11x",
+  "agent": "x-bcp",
+  "target_org": "Baptist Church Planters",
+  "slice": "BOTH surfaces: give.bcpusa.org/missionary and bcpusa.org/wpfc_person",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Chip Wood",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Youth Ministry Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/chip-wood/",
+      "fit_reason": "Couple page; title names both; splitting on title (Chip is primary role holder); named slug carries both names"
+    },
+    {
+      "name": "Karen Wood",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Youth Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/chip-wood/",
+      "fit_reason": "Couple page; title names both; splitting on title; shares support-raising status on joint page"
+    },
+    {
+      "name": "Ulysses Bestey",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/ulysses-augustine-bestey/",
+      "fit_reason": "Couple page; title shows both names; named slug carries both; splitting on title"
+    },
+    {
+      "name": "Augustine Bestey",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/ulysses-augustine-bestey/",
+      "fit_reason": "Couple page; title shows both names; splitting on title; shares support-raising status"
+    },
+    {
+      "name": "Wayne Dale",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/wayne-shanna-dale/",
+      "fit_reason": "Couple page; title names both; named slug carries both; splitting on title"
+    },
+    {
+      "name": "Shanna Dale",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/wayne-shanna-dale/",
+      "fit_reason": "Couple page; title names both; splitting on title; shares support-raising status"
+    },
+    {
+      "name": "John Williams",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/john-and-willie-mae-williams/",
+      "fit_reason": "Couple page; title names both; named slug carries both; splitting on title"
+    },
+    {
+      "name": "Willie Mae Williams",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/john-and-willie-mae-williams/",
+      "fit_reason": "Couple page; title names both; splitting on title; shares support-raising status"
+    },
+    {
+      "name": "Rob Worthington",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/rob-and-beth-worthington/",
+      "fit_reason": "Couple page; title names both; named slug carries both; splitting on title"
+    },
+    {
+      "name": "Beth Worthington",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/rob-and-beth-worthington/",
+      "fit_reason": "Couple page; title names both; splitting on title; shares support-raising status"
+    },
+    {
+      "name": "Brent Howard",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/brent-and-michele-howard/",
+      "fit_reason": "Couple page; title names both; named slug carries both; splitting on title"
+    },
+    {
+      "name": "Michele Howard",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/brent-and-michele-howard/",
+      "fit_reason": "Couple page; title names both; splitting on title; shares support-raising status"
+    },
+    {
+      "name": "Sheryl Ridley",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Ministry Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/sheryl-ridley/",
+      "fit_reason": "Single-name page on wpfc_person surface; named slug"
+    },
+    {
+      "name": "LeRoy Randolph",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/leroy-and-lorraine-randolph/",
+      "fit_reason": "Couple page; title names both; named slug carries both; splitting on title"
+    },
+    {
+      "name": "Lorraine Randolph",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/leroy-and-lorraine-randolph/",
+      "fit_reason": "Couple page; title names both; splitting on title; shares support-raising status"
+    },
+    {
+      "name": "Jon Jenks",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Vice President of Training",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.bcpusa.org/missionary/jon-and-jeniffer-jenks",
+      "fit_reason": "Couple page on giving surface; title names both; named slug carries both; splitting on title"
+    },
+    {
+      "name": "Jeniffer Jenks",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.bcpusa.org/missionary/jon-and-jeniffer-jenks",
+      "fit_reason": "Couple page on giving surface; title names both; splitting on title; shares support-raising status"
+    },
+    {
+      "name": "Tim Weeks",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Facilitation Director",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/3578/",
+      "fit_reason": "Opaque numeric slug /3578/; title names both spouses; splitting on title; medium confidence per rule for numeric IDs"
+    },
+    {
+      "name": "Marsha Weeks",
+      "org": "Baptist Church Planters",
+      "tier": "A",
+      "role": "Church Facilitation",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bcpusa.org/wpfc_person/3578/",
+      "fit_reason": "Opaque numeric slug /3578/; title names both; splitting on title; shares support-raising status; medium confidence"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:give.bcpusa.org/missionary (pattern confirmation)",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org \"youth\" -Weeks -Wilmeth -Owen -Kinney -Mitchell",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org seminary -Wood -Taylor -Peck -Stevenson -Basinger",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.bcpusa.org/missionary Georgia -Wood -Taylor -Peck -Stevenson -Basinger",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org wpfc_person Texas",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org wpfc_person interim",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.bcpusa.org/missionary camp",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org wpfc_person assistant",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org/ministry-partners",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org Spanish church planter",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.bcpusa.org/missionary \"North Carolina\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org wpfc_person Kentucky",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.bcpusa.org/missionary Virginia -Owen -Kinney -Mitchell",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org wpfc_person urban",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org wpfc_person Tennessee",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org/wpfc_person/ -3578 -4665 -2283 numeric patterns",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:give.bcpusa.org/missionary director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bcpusa.org/category/staff-bio",
+      "outcome": "no_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Retiree trap - Steve Little",
+      "finding": "Steve Little listed as retired president of BCP (2014-2020 tenure); currently serving as interim at church in NY and Retiree Coordinator",
+      "evidence": "Search result from query 6 (interim) indicated Steve retired from presidency in 2020 and moved to NY for interim service",
+      "recommendation": "withhold; this appears to be retiree category, supported BY fund rather than raising personal support"
+    },
+    {
+      "issue": "Name variance on couple page",
+      "finding": "Eric Wilmeth appears with both 'Jacy' and 'Amy' in results across different URLs: /eric-wilmeth/, /eric-and-jacy-wilmeth/, /eric-and-amy-wilmeth/",
+      "evidence": "Search results from queries 5, 6, 14 show spouse name as both 'Jacy' and 'Amy' for same person",
+      "recommendation": "needs_review; cannot determine correct spouse name from search results alone; may indicate page updates or data inconsistency"
+    },
+    {
+      "issue": "Incomplete Spanish-language records",
+      "finding": "Query 10 (Spanish) returned mentions of Miguel and Ana (Colombian church planters in Waterloo, IA / Seminole, FL) with no surname for Ana, and Miguel & Annie Quintana (Seminole, FL) where Quintana is in exclusion list",
+      "evidence": "Search snippets did not provide individual page URLs or complete name information for Colombian couple",
+      "recommendation": "needs_review; cannot emit without full names and direct page URLs; would need separate targeted search"
+    },
+    {
+      "issue": "Unpaid council members - watch for in wcpc_person pages",
+      "finding": "Brief warns of unpaid council members on give.bcpusa.org surface as retiree trap; not explicitly identified in search results",
+      "evidence": "Agency surface mixing active missionaries, retirees, and council members on same platform",
+      "recommendation": "flag pages without clear support-raising language for manual review; check page content for volunteer/council/unpaid markers"
+    }
+  ]
+}

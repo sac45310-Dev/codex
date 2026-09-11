@@ -1,0 +1,383 @@
+{
+  "wave_id": "w2026-09-11x",
+  "agent": "x-bio",
+  "target_org": "Baptist International Outreach",
+  "slice": "Baptist International Outreach (biomissions.org) as primary. Bible Baptist Mission (biblebaptistmission.org) as secondary if needed.",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "David Peach",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://biomissions.org/david-and-stephanie-peach/",
+      "fit_reason": "Per-person page found in search results; surname appears in URL slug; couple page; title names both David and Stephanie"
+    },
+    {
+      "name": "Stephanie Peach",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://biomissions.org/david-and-stephanie-peach/",
+      "fit_reason": "Shared couple page with David Peach; title names Stephanie as part of 'David and Stephanie Peach'"
+    },
+    {
+      "name": "Paulo Tavares",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "http://biomissions.org/tag/tavares/",
+      "fit_reason": "Tavares archive page found; prayer letter entries indicate active missionary status; surname in URL"
+    },
+    {
+      "name": "Kevin Trout",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "Mentioned as serving in Philippines at Teachers Village in search results; couple with Joann"
+    },
+    {
+      "name": "Joann Trout",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "Couple with Kevin Trout; serving in Philippines at Teachers Village"
+    },
+    {
+      "name": "Joyce Vick",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://biomissions.org/joyces-kids/vicktory/",
+      "fit_reason": "Mentioned as running VICKtory School for the Deaf; snippet indicates Missionary Joyce Vick as teacher; personal URL slug not found in search results"
+    },
+    {
+      "name": "Joel Desir",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://biomissions.org/joel-desir-november-2019-prayer-letter/",
+      "fit_reason": "Multiple prayer letter pages found; November 2019 and December 2018 prayer letters; active missionary with personal pages"
+    },
+    {
+      "name": "David Cross",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://biomissions.org/david-cross-gods-man/",
+      "fit_reason": "Page title 'David Cross: God's Man' found; surname in URL; unclear if current active missionary or historical figure"
+    },
+    {
+      "name": "Frank Laurent",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "http://biomissions.org/frank-laurent/",
+      "fit_reason": "Page title found; surname in URL; limited context about current status"
+    },
+    {
+      "name": "Bizuayehu Assefa",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Evangelist",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "Mentioned in search snippet as doing extensive evangelistic work among the Deaf of Ethiopia; first name Bizuayehu, surname Assefa; no direct personal page URL found in results"
+    },
+    {
+      "name": "Wale Orekan",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "Nigeria search snippet mentions Wale and Janna Orekan in Satellite Town, Lagos; no direct personal URL in results"
+    },
+    {
+      "name": "Janna Orekan",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "Nigeria search mentions Janna with Wale Orekan in Satellite Town, Lagos; couple"
+    },
+    {
+      "name": "Lonnie Blount",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "http://biomissions.org/lonnie-blount-march-2014-prayer-letter/",
+      "fit_reason": "Prayer letter page found in Cambodia search; March 2014 prayer letter indicates active missionary status"
+    },
+    {
+      "name": "Ron Smith",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "Cambodia search mentions Ron and Sara Smith working with Vietnamese and Cambodians; based in Phnom Penh"
+    },
+    {
+      "name": "Sara Smith",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "Couple with Ron Smith in Cambodia; working with Vietnamese and Cambodians"
+    },
+    {
+      "name": "Emmanuel Nzolo",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "South Africa search mentions Emmanuel and Ida Nzolo in Rustenburg; no direct personal URL slug found in results"
+    },
+    {
+      "name": "Ida Nzolo",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "Couple with Emmanuel Nzolo in Rustenburg, South Africa"
+    },
+    {
+      "name": "Chris Radebaugh",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "South Africa search mentions Chris and Lucinda Radebaugh working with the deaf in South Africa, based in Halfway House; no direct personal URL slug found"
+    },
+    {
+      "name": "Lucinda Radebaugh",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "Couple with Chris Radebaugh; working with the deaf in South Africa, Halfway House"
+    },
+    {
+      "name": "Emmett Manley",
+      "org": "Baptist International Outreach",
+      "tier": "B",
+      "role": "Medical Doctor",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "http://biomissions.org/dr-emmett-manley-winning-the-war-with-worry/",
+      "fit_reason": "Page found with 'Dr. Emmett Manley'; described as medical doctor serving BIO missionaries; appears to be support role rather than field missionary"
+    },
+    {
+      "name": "Garvin Dykes",
+      "org": "Baptist International Outreach",
+      "tier": "B",
+      "role": "Author/Speaker",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "http://biomissions.org/author/gdykes/",
+      "fit_reason": "Dr. Garvin Dykes listed as author on BIO website; appears to be organizational role; no field missionary confirmation"
+    },
+    {
+      "name": "Melissa Daniels",
+      "org": "Baptist International Outreach",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "low",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://biomissions.org/missionaries/",
+      "fit_reason": "Brazil search snippet mentions 'Melissa Daniels and Josh are missionaries working down in Brazil'; last name verified but limited context; paired with Josh whose surname was not found"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:biomissions.org missionaries",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "notes": "Confirmation search; found pattern with David and Stephanie Peach personal page"
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org India missionary",
+      "outcome": "no_people",
+      "org_target": "Baptist International Outreach"
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org Brazil",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "people_mentioned": ["Tavares", "Melissa Daniels"]
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org Thailand",
+      "outcome": "no_people",
+      "org_target": "Baptist International Outreach"
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org Argentina",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "people_mentioned": ["David Peach", "Stephanie Peach"]
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org Colombia",
+      "outcome": "no_people",
+      "org_target": "Baptist International Outreach"
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org pastor missionary",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "people_mentioned": ["Garvin Dykes", "Fred Andrews"]
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org Ghana",
+      "outcome": "no_people",
+      "org_target": "Baptist International Outreach"
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org teacher missionary",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "people_mentioned": ["Kevin Trout", "Joann Trout", "Joyce Vick", "Joel Desir"]
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org evangelist",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "people_mentioned": ["David Cross", "Frank Laurent", "Bizuayehu Assefa"]
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org translator",
+      "outcome": "no_people",
+      "org_target": "Baptist International Outreach"
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org Nigeria",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "people_mentioned": ["Wale Orekan", "Janna Orekan"]
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org Indonesia",
+      "outcome": "no_people",
+      "org_target": "Baptist International Outreach"
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org Vietnam",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "people_mentioned": ["Somon"]
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org Russia",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "people_mentioned": ["Richard Vick (deceased)", "Joel Desir"]
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org Cambodia",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "people_mentioned": ["Lonnie Blount", "Ron Smith", "Sara Smith"]
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org \"South Africa\"",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "people_mentioned": ["Emmanuel Nzolo", "Ida Nzolo", "Chris Radebaugh", "Lucinda Radebaugh"]
+    },
+    {
+      "kind": "query",
+      "value": "site:biomissions.org medical",
+      "outcome": "found_people",
+      "org_target": "Baptist International Outreach",
+      "people_mentioned": ["Emmett Manley"]
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Deceased missionary",
+      "finding": "Richard Vick",
+      "evidence": "Search result titled 'Dr. Richard Vick With the Lord' at http://biomissions.org/dr-richard-vick-with-the-lord/",
+      "recommendation": "Do not emit as active prospect; 'With the Lord' indicates deceased"
+    },
+    {
+      "issue": "First name only",
+      "finding": "Somon",
+      "evidence": "Vietnam search result mentions 'Somon' working with Vietnamese and Cambodians; only single name provided in snippet",
+      "recommendation": "Insufficient to emit; no surname confirmed in search results; verify if this is a national worker vs American missionary"
+    },
+    {
+      "issue": "Last name not found",
+      "finding": "Josh",
+      "evidence": "Brazil search snippet: 'Melissa Daniels and Josh are missionaries working down in Brazil' - no surname provided",
+      "recommendation": "Cannot emit without surname; needs_review pending identification"
+    },
+    {
+      "issue": "Possible historical/organizational figure",
+      "finding": "David Cross",
+      "evidence": "Page titled 'David Cross: God's Man' found; no specific location or current activity statement in search results",
+      "recommendation": "Grade medium confidence; verify current status as active missionary vs historical figure"
+    },
+    {
+      "issue": "Limited confirmation of current missionary status",
+      "finding": "Frank Laurent",
+      "evidence": "Page exists at http://biomissions.org/frank-laurent/ but search snippet provides no context about location, role, or current activity",
+      "recommendation": "Grade medium confidence pending verification of active status"
+    }
+  ]
+}
