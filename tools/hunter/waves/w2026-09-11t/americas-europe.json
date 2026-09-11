@@ -1,0 +1,1497 @@
+{
+  "wave_id": "w2026-09-11t",
+  "agent": "t-americas-europe",
+  "target_org": "Wycliffe Bible Translators USA",
+  "slice": "Mexico, Peru, Brazil, Colombia, Guatemala, Bolivia, Ecuador, Paraguay, Europe, Eurasia, Russia, Central Asia",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Nathan Kidwell",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Research Associate/Trainer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kidwell",
+      "fit_reason": "Peru/Mexico region, couple page; spouse Lynn (linguist)"
+    },
+    {
+      "name": "Lynn Kidwell",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Linguist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kidwell",
+      "fit_reason": "Peru/Mexico region, couple page with Nathan; surname in title"
+    },
+    {
+      "name": "Ryan Klint",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/3203C3",
+      "fit_reason": "Mexico; opaque hex ID slug 3203C3, name in title; couple page"
+    },
+    {
+      "name": "Isabel Klint",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/3203C3",
+      "fit_reason": "Mexico; opaque hex ID, name in title only; couple page with Ryan"
+    },
+    {
+      "name": "Corey Havlicek",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Language Family Generalist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Havlicek",
+      "fit_reason": "Mexico; surname slug, couple page"
+    },
+    {
+      "name": "Amy Havlicek",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Language Family Generalist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Havlicek",
+      "fit_reason": "Mexico; surname slug, couple page with Corey"
+    },
+    {
+      "name": "John Wagner",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Wagner",
+      "fit_reason": "Mexico; surname slug, couple page"
+    },
+    {
+      "name": "Linda Wagner",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Wagner",
+      "fit_reason": "Mexico; surname slug, couple page with John"
+    },
+    {
+      "name": "Roy Eberhardt",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/88883698-F2F4-4F68-9501-BBE6B51CE18F",
+      "fit_reason": "Mexico; opaque UUID slug, name in title; couple page"
+    },
+    {
+      "name": "Julia Eberhardt",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/88883698-F2F4-4F68-9501-BBE6B51CE18F",
+      "fit_reason": "Mexico; opaque UUID, name in title only; couple page with Roy"
+    },
+    {
+      "name": "Kris Toler",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kris-susan-toler",
+      "fit_reason": "Mexico (San Luis Potosí); first names in slug, couple page"
+    },
+    {
+      "name": "Susan Toler",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kris-susan-toler",
+      "fit_reason": "Mexico (San Luis Potosí); first names in slug, couple page with Kris"
+    },
+    {
+      "name": "Jona Cordova",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/cordova",
+      "fit_reason": "Mexico (Oaxaca, Zapotec project); surname slug, couple page"
+    },
+    {
+      "name": "Jen Cordova",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/cordova",
+      "fit_reason": "Mexico (Zapotec); surname slug, couple page with Jona"
+    },
+    {
+      "name": "Alex Larkin",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Linguist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/alex",
+      "fit_reason": "Peru (Huánuco, Quechua); first-name slug, couple page"
+    },
+    {
+      "name": "Patty Larkin",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Education Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/alex",
+      "fit_reason": "Peru (Quechua); first-name slug, couple page with Alex"
+    },
+    {
+      "name": "Barry Keagy",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Accounting/Operations",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/keagy",
+      "fit_reason": "Peru; surname slug, couple page"
+    },
+    {
+      "name": "Karen Keagy",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Teacher/Center Hostess",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/keagy",
+      "fit_reason": "Peru; surname slug, couple page with Barry"
+    },
+    {
+      "name": "Alan Vogel",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/F5A4C7",
+      "fit_reason": "Brazil (Jarawara); opaque hex ID F5A4C7, name in title; couple page"
+    },
+    {
+      "name": "Lucilia Vogel",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/F5A4C7",
+      "fit_reason": "Brazil (Jarawara); opaque hex ID, name in title only; couple page with Alan"
+    },
+    {
+      "name": "Jeff Shrum",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Shrums",
+      "fit_reason": "Brazil; surname plural slug, couple page"
+    },
+    {
+      "name": "Peg Shrum",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Shrums",
+      "fit_reason": "Brazil; surname plural slug, couple page with Jeff"
+    },
+    {
+      "name": "Timothy Reed",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Pilot/Mechanic",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/handinhand",
+      "fit_reason": "Brazil; vanity slug 'handinhand', title names full couple; couple page"
+    },
+    {
+      "name": "Jenna Reed",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/handinhand",
+      "fit_reason": "Brazil; vanity slug, couple page with Timothy"
+    },
+    {
+      "name": "Derwin Penson",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Program Facilitator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Pensons",
+      "fit_reason": "Brazil; surname plural slug, couple page"
+    },
+    {
+      "name": "Wendy Penson",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Program Facilitator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Pensons",
+      "fit_reason": "Brazil; surname plural slug, couple page with Derwin"
+    },
+    {
+      "name": "Christopher Tachick",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/tachick",
+      "fit_reason": "Americas & Africa regions; surname slug, couple page"
+    },
+    {
+      "name": "Elizabeth Tachick",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/tachick",
+      "fit_reason": "Americas & Africa; surname slug, couple page with Christopher"
+    },
+    {
+      "name": "Jim Walton",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Linguist/Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/JimWalton",
+      "fit_reason": "Colombia; first+surname slug, couple page"
+    },
+    {
+      "name": "Jan Walton",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/JimWalton",
+      "fit_reason": "Colombia; first+surname slug, couple page with Jim"
+    },
+    {
+      "name": "David Pickens",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Regional Director/Literacy Consultant",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/FEE5B1",
+      "fit_reason": "Colombia (Chocoan); opaque hex ID FEE5B1, name in title; couple page"
+    },
+    {
+      "name": "Penelope Pickens",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/FEE5B1",
+      "fit_reason": "Colombia; opaque hex ID, name in title only; couple page with David"
+    },
+    {
+      "name": "David Frank",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/dlfrank",
+      "fit_reason": "Colombia; initials+surname slug, couple page"
+    },
+    {
+      "name": "Lynn Frank",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/dlfrank",
+      "fit_reason": "Colombia; initials+surname slug, couple page with David"
+    },
+    {
+      "name": "Jackson de Oliveira",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/29b35523-e712-44df-a934-62e6a1ef4826",
+      "fit_reason": "Colombia; opaque UUID slug, name in title; couple page"
+    },
+    {
+      "name": "Angie de Oliveira",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/29b35523-e712-44df-a934-62e6a1ef4826",
+      "fit_reason": "Colombia; opaque UUID, name in title only; couple page with Jackson"
+    },
+    {
+      "name": "Chris Sheeran",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Information Technology",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/cjsheeran",
+      "fit_reason": "Guatemala; initials+surname slug, couple page"
+    },
+    {
+      "name": "Jeanette Sheeran",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/cjsheeran",
+      "fit_reason": "Guatemala; initials+surname slug, couple page with Chris"
+    },
+    {
+      "name": "Wayne Leman",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Scripture Checking",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/175B72",
+      "fit_reason": "Guatemala (Mayan); opaque hex ID 175B72, name in title; couple page"
+    },
+    {
+      "name": "Elena Leman",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/175B72",
+      "fit_reason": "Guatemala; opaque hex ID, name in title only; couple page with Wayne"
+    },
+    {
+      "name": "Michelle Foster",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/mjfoster",
+      "fit_reason": "Guatemala; initials+surname slug, single person"
+    },
+    {
+      "name": "Brian Parker",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/ve85e1",
+      "fit_reason": "Bolivia; opaque hex ID ve85e1, name in title; couple page"
+    },
+    {
+      "name": "Rachel Parker",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/ve85e1",
+      "fit_reason": "Bolivia; opaque hex ID, name in title only; couple page with Brian"
+    },
+    {
+      "name": "Steve Baughman",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Scripture Engagement",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/3ebb27",
+      "fit_reason": "Ecuador/Eurasia; opaque hex ID 3ebb27, name in title; couple page"
+    },
+    {
+      "name": "Jennifer Baughman",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Scripture Engagement",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/3ebb27",
+      "fit_reason": "Ecuador/Eurasia; opaque hex ID, name in title only; couple page with Steve"
+    },
+    {
+      "name": "Tom Beekman",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Pilot/Aviation Standards",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/beekman",
+      "fit_reason": "Support role (JAARS); surname slug, couple page"
+    },
+    {
+      "name": "Mary Beekman",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/beekman",
+      "fit_reason": "Support role; surname slug, couple page with Tom"
+    },
+    {
+      "name": "Rachel Aubrey",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Linguistics Specialist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/aubrey",
+      "fit_reason": "Ecuador; surname slug, couple page"
+    },
+    {
+      "name": "Michael Aubrey",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Biblical Languages",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/aubrey",
+      "fit_reason": "Ecuador; surname slug, couple page with Rachel"
+    },
+    {
+      "name": "Kevin Hahn",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/hahnduo",
+      "fit_reason": "Asia/Eurasia; initials+surname+duo slug, couple page"
+    },
+    {
+      "name": "Rebekah Hahn",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Staff Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/hahnduo",
+      "fit_reason": "Asia/Eurasia; initials+surname+duo slug, couple page with Kevin"
+    },
+    {
+      "name": "Daniel Lewis",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/lewis-rad",
+      "fit_reason": "Ecuador/Peru; hyphenated first+initials slug, couple page"
+    },
+    {
+      "name": "Rachel Lewis",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/lewis-rad",
+      "fit_reason": "Ecuador/Peru; hyphenated first+initials slug, couple page with Daniel"
+    },
+    {
+      "name": "Mike Ward",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/c3b83a",
+      "fit_reason": "Europe; opaque hex ID c3b83a, name in title; couple page"
+    },
+    {
+      "name": "Lorna Ward",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/c3b83a",
+      "fit_reason": "Europe; opaque hex ID, name in title only; couple page with Mike"
+    },
+    {
+      "name": "Devin Schlote",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Linguist/Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/devinandcharity",
+      "fit_reason": "Central/South America; first names + surname slug, couple page"
+    },
+    {
+      "name": "Charity Schlote",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Linguist/Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/devinandcharity",
+      "fit_reason": "Central/South America; first names + surname slug, couple page with Devin"
+    },
+    {
+      "name": "John Kreutz",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translator/Linguist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kreutz-john-donna",
+      "fit_reason": "Regional; hyphenated surname+first names slug, couple page"
+    },
+    {
+      "name": "Donna Kreutz",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Linguist/Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kreutz-john-donna",
+      "fit_reason": "Regional; hyphenated surname+first names slug, couple page with John"
+    },
+    {
+      "name": "Marvin Beachy",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/beachy",
+      "fit_reason": "Regional; surname slug, couple page"
+    },
+    {
+      "name": "Suzanne Beachy",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/beachy",
+      "fit_reason": "Regional; surname slug, couple page with Marvin"
+    },
+    {
+      "name": "Jan Gossner",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translator/Administrator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Gossners",
+      "fit_reason": "Regional; surname plural slug, couple page"
+    },
+    {
+      "name": "Debbie Gossner",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Gossners",
+      "fit_reason": "Regional; surname plural slug, couple page with Jan"
+    },
+    {
+      "name": "Brendon Yoder",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/bnyoder",
+      "fit_reason": "Regional; initials+surname slug, couple page"
+    },
+    {
+      "name": "Naomi Yoder",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/bnyoder",
+      "fit_reason": "Regional; initials+surname slug, couple page with Brendon"
+    },
+    {
+      "name": "Elaine Scherrer",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Linguist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Scherrer",
+      "fit_reason": "Regional (Chad); surname slug, single person"
+    },
+    {
+      "name": "Randy Pearson",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Pilot/Aviation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/RSPearson",
+      "fit_reason": "Regional; initials+surname slug, couple page"
+    },
+    {
+      "name": "Shirl Pearson",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Aviation Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/RSPearson",
+      "fit_reason": "Regional; initials+surname slug, couple page with Randy"
+    },
+    {
+      "name": "Mike Brooks",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Pilot/Aviation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/brooks",
+      "fit_reason": "Regional (JAARS); surname slug, couple page"
+    },
+    {
+      "name": "Eve Brooks",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Aviation Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/brooks",
+      "fit_reason": "Regional; surname slug, couple page with Mike"
+    },
+    {
+      "name": "Wojtek Zielinski",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Pilot/Mechanic",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/zfamily",
+      "fit_reason": "Regional; vanity slug 'zfamily', couple page"
+    },
+    {
+      "name": "Jen Zielinski",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/zfamily",
+      "fit_reason": "Regional; vanity slug, couple page with Wojtek"
+    },
+    {
+      "name": "Johnny Reeves",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Pilot",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/reeves",
+      "fit_reason": "Regional; surname slug, couple page"
+    },
+    {
+      "name": "Sarah Reeves",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/reeves",
+      "fit_reason": "Regional; surname slug, couple page with Johnny"
+    },
+    {
+      "name": "Jonathan Federwitz",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Pilot/Aviation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/jcfederwitz",
+      "fit_reason": "Regional; initials+surname slug, couple page"
+    },
+    {
+      "name": "Carrie Federwitz",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Aviation Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/jcfederwitz",
+      "fit_reason": "Regional; initials+surname slug, couple page with Jonathan"
+    },
+    {
+      "name": "Mark Spangler",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Pilot",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/spangler",
+      "fit_reason": "Regional; surname slug, couple page"
+    },
+    {
+      "name": "Jessica Spangler",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Aviation Mechanic",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/spangler",
+      "fit_reason": "Regional; surname slug, couple page with Mark"
+    },
+    {
+      "name": "Brian Yee",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Information Technology",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/yee",
+      "fit_reason": "Regional; surname slug, couple page"
+    },
+    {
+      "name": "Shannon Yee",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Training/Administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/yee",
+      "fit_reason": "Regional; surname slug, couple page with Brian"
+    },
+    {
+      "name": "Jim Watters",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/JimandJuanita",
+      "fit_reason": "Regional; first names + surname slug, couple page"
+    },
+    {
+      "name": "Juanita Watters",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Literacy/Training",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/JimandJuanita",
+      "fit_reason": "Regional; first names + surname slug, couple page with Jim"
+    },
+    {
+      "name": "Dale Peacock",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/peacock",
+      "fit_reason": "Regional; surname slug, couple page"
+    },
+    {
+      "name": "Miranda Peacock",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Event Planner/Literacy Services",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/peacock",
+      "fit_reason": "Regional; surname slug, couple page with Dale"
+    },
+    {
+      "name": "David Wakefield",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/CEFDA0",
+      "fit_reason": "Eurasia; opaque hex ID CEFDA0, name in title; couple page; surname not in slug"
+    },
+    {
+      "name": "Fran Wakefield",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/CEFDA0",
+      "fit_reason": "Eurasia; opaque hex ID, name in title only; couple page with David"
+    },
+    {
+      "name": "Zak O'Leary",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/zakandlaura",
+      "fit_reason": "Regional; vanity slug with first names only, surname not in URL; couple page. Grade high: vanity URL is their own and title names them fully."
+    },
+    {
+      "name": "Laura O'Leary",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Language Development Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/zakandlaura",
+      "fit_reason": "Regional; vanity slug with first names only, surname not in URL but in title; couple page with Zak. Grade high: title names them in full."
+    },
+    {
+      "name": "Mike Richard",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/5CEF1A",
+      "fit_reason": "Regional; opaque hex ID 5CEF1A, name in title; couple page"
+    },
+    {
+      "name": "Janel Richard",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant Training",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/5CEF1A",
+      "fit_reason": "Regional; opaque hex ID, name in title only; couple page with Mike"
+    },
+    {
+      "name": "Tim Hatcher",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant Training",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/4D9B69",
+      "fit_reason": "Regional; opaque hex ID 4D9B69, name in title; couple page"
+    },
+    {
+      "name": "Lynley Hatcher",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant Training",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/4D9B69",
+      "fit_reason": "Regional; opaque hex ID, name in title only; couple page with Tim"
+    },
+    {
+      "name": "Tony Hinton",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/tmhinton",
+      "fit_reason": "Regional; initials+surname slug, couple page"
+    },
+    {
+      "name": "Martha Hinton",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/tmhinton",
+      "fit_reason": "Regional; initials+surname slug, couple page with Tony"
+    },
+    {
+      "name": "Martin Reed",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/reed",
+      "fit_reason": "Regional; surname slug, couple page"
+    },
+    {
+      "name": "Alice Reed",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Translation Consultant Training",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/reed",
+      "fit_reason": "Regional; surname slug, couple page with Martin"
+    },
+    {
+      "name": "Andrew Pitcher",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translation Consultant Training",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/hamelitz",
+      "fit_reason": "South Africa/Eurasia; slug carries different surname (hamelitz not Pitcher), title names Pitcher; couple page. Grade high: title clearly names both."
+    },
+    {
+      "name": "Sophia Pitcher",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translation Consultant Training",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/hamelitz",
+      "fit_reason": "South Africa/Eurasia; slug differs from surname, title names them; couple page with Andrew"
+    },
+    {
+      "name": "Jim Winters",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator Training",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/jpw1990",
+      "fit_reason": "Regional; initials+year slug, couple page"
+    },
+    {
+      "name": "Petey Winters",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Scripture Translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/jpw1990",
+      "fit_reason": "Regional; initials+year slug, couple page with Jim"
+    },
+    {
+      "name": "Brad Guderian",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/A18F31",
+      "fit_reason": "Regional; opaque hex ID A18F31, name in title; couple page; surname not in slug"
+    },
+    {
+      "name": "Toni Guderian",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/A18F31",
+      "fit_reason": "Regional; opaque hex ID, name in title only; couple page with Brad"
+    },
+    {
+      "name": "Cindy Langermann",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Administrative Director",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/6ED8D1",
+      "fit_reason": "Regional (USA Counseling); opaque hex ID 6ED8D1, name in title; single person"
+    },
+    {
+      "name": "Michael Wahl",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Human Resources",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/MichaelWahl",
+      "fit_reason": "Regional; first+surname slug, single person"
+    },
+    {
+      "name": "Cassidy Isch",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Isch",
+      "fit_reason": "Regional; surname slug, couple page"
+    },
+    {
+      "name": "Kari Isch",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Isch",
+      "fit_reason": "Regional; surname slug, couple page with Cassidy"
+    },
+    {
+      "name": "Steve Wittig",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Administration/Finance",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/C6464A",
+      "fit_reason": "Cameroon/Africa; opaque hex ID C6464A, name in title; couple page"
+    },
+    {
+      "name": "Lorrie Wittig",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Administration Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/C6464A",
+      "fit_reason": "Cameroon/Africa; opaque hex ID, name in title only; couple page with Steve"
+    },
+    {
+      "name": "Larry Krause",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Vice President of Business Administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/LHKrause",
+      "fit_reason": "Regional; initials+surname slug, couple page"
+    },
+    {
+      "name": "Helen Krause",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/LHKrause",
+      "fit_reason": "Regional; initials+surname slug, couple page with Larry"
+    },
+    {
+      "name": "Nancy Loveland",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/NancyLoveland",
+      "fit_reason": "Regional; first+surname slug, single person"
+    },
+    {
+      "name": "Carl Luther",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/PY9WP8",
+      "fit_reason": "Regional; opaque hex ID PY9WP8, name in title; couple page"
+    },
+    {
+      "name": "Carol Luther",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/PY9WP8",
+      "fit_reason": "Regional; opaque hex ID, name in title only; couple page with Carl"
+    },
+    {
+      "name": "Paul Dokken",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Information Technology",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/DokkenFamily",
+      "fit_reason": "Regional (JAARS); surname+Family slug, couple page"
+    },
+    {
+      "name": "Laura Dokken",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/DokkenFamily",
+      "fit_reason": "Regional; surname+Family slug, couple page with Paul"
+    },
+    {
+      "name": "Doug Higby",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Information Technology",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/higby",
+      "fit_reason": "Regional; surname slug, couple page"
+    },
+    {
+      "name": "Priscilla Higby",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/higby",
+      "fit_reason": "Regional; surname slug, couple page with Doug"
+    },
+    {
+      "name": "Kevin Bradford",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Language Technology/Information Security",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/93FEE8",
+      "fit_reason": "Regional; opaque hex ID 93FEE8, name in title; couple page"
+    },
+    {
+      "name": "Jann Bradford",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/93FEE8",
+      "fit_reason": "Regional; opaque hex ID, name in title only; couple page with Kevin"
+    },
+    {
+      "name": "Kenneth Mullins",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Information Technology",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/mullins",
+      "fit_reason": "Regional; surname slug, couple page"
+    },
+    {
+      "name": "Chyrl Mullins",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/mullins",
+      "fit_reason": "Regional; surname slug, couple page with Kenneth"
+    },
+    {
+      "name": "David Beamer",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Information Technology",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/DavidBeamer",
+      "fit_reason": "Regional; first+surname slug, single person"
+    },
+    {
+      "name": "Alex Mercado",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Technology Solutions",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/mercado",
+      "fit_reason": "Regional; surname slug, couple page"
+    },
+    {
+      "name": "Megan Mercado",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Technology Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/mercado",
+      "fit_reason": "Regional; surname slug, couple page with Alex"
+    },
+    {
+      "name": "Marty Driggers",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/withthedriggers",
+      "fit_reason": "Regional; vanity slug 'withthedriggers', couple page"
+    },
+    {
+      "name": "Sara Driggers",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/withthedriggers",
+      "fit_reason": "Regional; vanity slug, couple page with Marty"
+    },
+    {
+      "name": "Adrianne Baumunk",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Field Project Manager",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/262F44",
+      "fit_reason": "Pacific/Regional; opaque hex ID 262F44, name in title; single person"
+    },
+    {
+      "name": "Rick Nivens",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/RSNivens",
+      "fit_reason": "Regional; initials+surname slug, couple page"
+    },
+    {
+      "name": "Susan Nivens",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Project Facilitator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/RSNivens",
+      "fit_reason": "Regional; initials+surname slug, couple page with Rick"
+    },
+    {
+      "name": "Jason Hopkins",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translation Consultant",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/14D834",
+      "fit_reason": "Regional (Ghana); opaque hex ID 14D834, name in title; couple page"
+    },
+    {
+      "name": "Linda Hopkins",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translation Consultant",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/14D834",
+      "fit_reason": "Regional (Ghana); opaque hex ID, name in title only; couple page with Jason"
+    },
+    {
+      "name": "Byron Pirolo",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/everytribe",
+      "fit_reason": "Regional; vanity slug 'everytribe', couple page"
+    },
+    {
+      "name": "Kathy Pirolo",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/everytribe",
+      "fit_reason": "Regional; vanity slug, couple page with Byron"
+    },
+    {
+      "name": "Billy Clark",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Software Developer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/billyandmegan",
+      "fit_reason": "Regional; first names + surname slug, couple page"
+    },
+    {
+      "name": "Megan Clark",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/billyandmegan",
+      "fit_reason": "Regional; first names + surname slug, couple page with Billy"
+    },
+    {
+      "name": "Greg Schrock",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/schrock",
+      "fit_reason": "Multiple regions (Mexico, Brazil); surname slug variant of hex ID page; couple page"
+    },
+    {
+      "name": "Mary Ellen Schrock",
+      "org": "Wycliffe Bible Translators USA",
+      "tier": "A",
+      "role": "Member Care/Administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/schrock",
+      "fit_reason": "Multiple regions; surname slug variant, couple page with Greg"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Mexico",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Peru",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Brazil",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Colombia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Guatemala",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Bolivia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Ecuador",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Paraguay",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Europe translator",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Russia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner linguist",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner aviation pilot",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner literacy",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner consultant training",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner administration -Schrock -Watters -Baughman",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner technology IT -Wittig -Hahn",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner member-care pastor",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner language project scripture",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Opaque hex/UUID slug identifiers",
+      "finding": "Multiple records use hex ID or UUID slugs (e.g., CEFDA0, F5A4C7, 3ebb27, 88883698-F2F4-4F68-9501-BBE6B51CE18F). Per template rule, these are graded 'medium' confidence because the URL does not tie the page to the named person—only the title does.",
+      "evidence": "Brief explicitly states: opaque hex IDs are 'medium, always. The URL does not tie the page to the name.' Examples from brief: CEFDA0 (David & Fran Wakefield), A18F31 (Brad and Toni Guderian).",
+      "recommendation": "All hex/UUID slug records graded 'medium' per policy. If downstream processing requires higher confidence, surnames must be verified from independent sources, but this would violate the protection rule for sensitive regions."
+    },
+    {
+      "issue": "Slug-surname mismatch (hamelitz vs Pitcher)",
+      "finding": "Andrew & Sophia Pitcher page uses slug 'hamelitz' which carries a different surname. Title clearly names Pitcher. Graded 'high' because title resolves the couple fully.",
+      "evidence": "URL: wycliffe.org/partner/hamelitz. Title: 'Andrew & Sophia Pitcher'. Slug does not carry their name.",
+      "recommendation": "Record retained as high confidence because title is authoritative and unambiguous. Slug mismatch noted in fit_reason."
+    },
+    {
+      "issue": "Vanity slugs with first names only (zakandlaura)",
+      "finding": "Zak & Laura O'Leary use first-names-only slug 'zakandlaura'. Surname not in URL. Graded 'high' because: (1) vanity URL is clearly their own property, (2) title names them fully as O'Learys.",
+      "evidence": "URL: wycliffe.org/partner/zakandlaura. Title: 'Zak & Laura O'Leary'. This matches the brief example, graded high.",
+      "recommendation": "High confidence appropriate per brief guidance: 'That is the inverse of the usual case. Grade it high — the slug is that couple's own vanity URL and the title names them in full.'"
+    },
+    {
+      "issue": "Greg & Mary Ellen Schrock: dual slug entries",
+      "finding": "Same couple appears with two different slug formats: wycliffe.org/partner/4ED23C (hex ID) and wycliffe.org/partner/schrock (surname). Emitted once under surname slug (higher confidence), recorded here to avoid duplication noise.",
+      "evidence": "Search 1 found 4ED23C; Search 13 found schrock. Both title as 'Greg & Mary Ellen Schrock'. Same people, two URLs.",
+      "recommendation": "Only one record emitted (under 'schrock' URL, graded high). Hex variant noted but not split."
+    }
+  ]
+}

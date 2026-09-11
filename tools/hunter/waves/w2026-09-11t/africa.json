@@ -1,0 +1,987 @@
+{
+  "wave_id": "w2026-09-11t",
+  "agent": "t-africa",
+  "target_org": "Wycliffe Bible Translators",
+  "slice": "Africa: Nigeria, Kenya, Cameroon, Chad, Tanzania, Uganda, DRC, Ghana, Senegal, Ethiopia, Burkina Faso, Mali, Ivory Coast, Mozambique",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "John Ramsey",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Field Coordinator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/38EBB4",
+      "fit_reason": "Opaque hex ID in slug; title confirms 'John & Shevawn Ramsey' serving Nigeria; field coordinator role; couple split on title"
+    },
+    {
+      "name": "Shevawn Ramsey",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/38EBB4",
+      "fit_reason": "Spouse on shared couple page; title names both; opaque hex ID makes medium confidence"
+    },
+    {
+      "name": "Pat Rosendall",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/D26D32",
+      "fit_reason": "Opaque hex ID; title 'Pat & Heidi Rosendall'; served 30+ years in Nigeria supporting 100+ translation projects; couple split on title"
+    },
+    {
+      "name": "Heidi Rosendall",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/D26D32",
+      "fit_reason": "Spouse on shared couple page; title names both; 30+ years Nigeria service"
+    },
+    {
+      "name": "Zach Yoder",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wycliffe.org/partner/yoder",
+      "fit_reason": "Surname in slug; title 'Zach & Christy Yoder'; working Nigeria and Cameroon since 2007; couple split on title"
+    },
+    {
+      "name": "Christy Yoder",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Scripture Engagement",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wycliffe.org/partner/yoder",
+      "fit_reason": "Surname in slug (shared with spouse); title names both; helping 100+ projects annually in Nigeria/Cameroon"
+    },
+    {
+      "name": "Ryan Buttacavoli",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Linguist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/ryanb",
+      "fit_reason": "First name + surname in slug; serves Nigeria as linguist/translator; partnering with churches on Scripture translation"
+    },
+    {
+      "name": "David Heath",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/D73DB8",
+      "fit_reason": "Opaque hex ID; title 'David & Carleen Heath'; serving Nigeria; couple split on title"
+    },
+    {
+      "name": "Carleen Heath",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/D73DB8",
+      "fit_reason": "Spouse on shared couple page; opaque hex ID makes medium confidence"
+    },
+    {
+      "name": "John Sacson",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/sacsons",
+      "fit_reason": "Surname in slug (sacsons); title 'John & Iris Sacson'; Nigeria service; couple split on title"
+    },
+    {
+      "name": "Iris Sacson",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/sacsons",
+      "fit_reason": "Spouse sharing surname in slug; title names both; Nigeria service"
+    },
+    {
+      "name": "Mark Gaddis",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/F2036D08-8A15-400B-9E14-3D5B36AA4A40",
+      "fit_reason": "UUID in slug; title 'Mark & Pamela Gaddis'; Nigeria service with completed New Testament translations; couple split on title"
+    },
+    {
+      "name": "Pamela Gaddis",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/F2036D08-8A15-400B-9E14-3D5B36AA4A40",
+      "fit_reason": "UUID slug makes medium confidence; title names both spouses; Nigeria translation work"
+    },
+    {
+      "name": "Chris Winkler",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wycliffe.org/partner/thosewinklers",
+      "fit_reason": "Descriptive slug 'thosewinklers'; title 'Chris and Christie Winkler'; Nigeria service; couple split on title"
+    },
+    {
+      "name": "Christie Winkler",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wycliffe.org/partner/thosewinklers",
+      "fit_reason": "Spouse on shared couple page with descriptive slug"
+    },
+    {
+      "name": "Robert Carlson",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Linguist",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/DA223B",
+      "fit_reason": "Opaque hex ID; title 'Robert & Joyce Carlson'; moved to Kenya 2005 to teach at Africa International University; began Supyire (Mali) work 1980; couple split on title"
+    },
+    {
+      "name": "Joyce Carlson",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Linguist",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/DA223B",
+      "fit_reason": "Spouse sharing work in Kenya and Mali; opaque hex makes medium confidence"
+    },
+    {
+      "name": "Alex Mercado",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Program Manager",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/mercado",
+      "fit_reason": "Surname in slug; title 'Alex & Megan Mercado'; Kenya and South Africa base implementing language programs; couple split on title"
+    },
+    {
+      "name": "Megan Mercado",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Program Manager",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/mercado",
+      "fit_reason": "Surname in slug (shared); title names both; Kenya/South Africa minority language programs"
+    },
+    {
+      "name": "Mike Brooks",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/brooks",
+      "fit_reason": "Surname in slug; title 'Mike & Eve Brooks'; 34 years service including Kenya and Indonesia; retired status flagged; couple split on title"
+    },
+    {
+      "name": "Eve Brooks",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/brooks",
+      "fit_reason": "Surname in slug (shared); title names both; 34 years service including Kenya"
+    },
+    {
+      "name": "Chris Gassler",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Ethnomusicologist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/gassler",
+      "fit_reason": "Surname in slug; title 'Chris & Lori Gassler'; Cameroon ethnomusicology/arts work; couple split on title"
+    },
+    {
+      "name": "Lori Gassler",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Ethnomusicologist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/gassler",
+      "fit_reason": "Surname in slug (shared); title names both; Cameroon service"
+    },
+    {
+      "name": "Tony Westrate",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Chaplain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/westrate",
+      "fit_reason": "Surname in slug; title 'Tony & Allison Westrate'; Cameroon, SIL Chaplain and Associate HR Director; couple split on title"
+    },
+    {
+      "name": "Allison Westrate",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/westrate",
+      "fit_reason": "Surname in slug (shared); title names both; Cameroon, teaching at Rain Forest International School"
+    },
+    {
+      "name": "Brian Parker",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Translation Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/ve85e1",
+      "fit_reason": "Opaque hex ID; title 'Brian & Rachel Parker'; Central African Republic and Cameroon Bible translation support; couple split on title"
+    },
+    {
+      "name": "Rachel Parker",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Translation Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/ve85e1",
+      "fit_reason": "Opaque hex ID; title names both; CAR and Cameroon service"
+    },
+    {
+      "name": "Brian Yee",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Language Services",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/yee",
+      "fit_reason": "Surname in slug; title 'Brian & Shannon Yee'; Cameroon language services and technology; couple split on title"
+    },
+    {
+      "name": "Shannon Yee",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Technology",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/yee",
+      "fit_reason": "Surname in slug (shared); title names both; Cameroon technology support"
+    },
+    {
+      "name": "Steve Wittig",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Finance",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wycliffe.org/partner/C6464A",
+      "fit_reason": "Opaque hex ID; title 'Steve and Lorrie Wittig'; Cameroon branch administration, Finance Office Manager; couple split on title"
+    },
+    {
+      "name": "Lorrie Wittig",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Human Resources",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wycliffe.org/partner/C6464A",
+      "fit_reason": "Opaque hex ID; title names both; Cameroon Human Resources"
+    },
+    {
+      "name": "Michelle Haupt",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Scripture Engagement",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/9A39CA",
+      "fit_reason": "Opaque hex ID; title 'Michelle Haupt'; Tanzania Scripture Engagement role; appears to be single based on snippet"
+    },
+    {
+      "name": "Fred Vinton",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Scripture Engagement",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/fredkarenvinton",
+      "fit_reason": "First-first-surname in slug; title 'Fred & Karen Vinton'; Tanzania Scripture Engagement specialist; couple split on title"
+    },
+    {
+      "name": "Karen Vinton",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translation Consultant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/fredkarenvinton",
+      "fit_reason": "First name in slug; title names both; Tanzania Bible translation consultant checking local-language translations"
+    },
+    {
+      "name": "Ben Savaiko",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Operations",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/savaikos",
+      "fit_reason": "Surname in slug; title 'Ben, Rose, Judah and Ivy Savaiko'; moved Dodoma Tanzania 2013 for Operations; children mentioned (Judah, Ivy) not emitted; couple split on title"
+    },
+    {
+      "name": "Rose Savaiko",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Translation Advisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/savaikos",
+      "fit_reason": "Surname in slug (shared); title names both adults; Mbugwe people Translation Advisor role"
+    },
+    {
+      "name": "Johnny Walker",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Project Manager",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/388CA8",
+      "fit_reason": "Opaque hex ID; title 'Johnny & Ellen Walker'; based Kigali Rwanda with Mara Cluster Project in Musoma Tanzania; couple split on title"
+    },
+    {
+      "name": "Ellen Walker",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Project Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/388CA8",
+      "fit_reason": "Opaque hex ID; title names both; Tanzania Mara Cluster Project work"
+    },
+    {
+      "name": "Andy Ring",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Ring",
+      "fit_reason": "Surname in slug; title 'Andy & Kate Ring'; Ghana Bible translator, completed Lelemi New Testament 1996, full Bible 2014; couple split on title"
+    },
+    {
+      "name": "Kate Ring",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Ring",
+      "fit_reason": "Surname in slug (shared); title names both; Ghana Lelemi Bible translation work"
+    },
+    {
+      "name": "Keith Bitikofer",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Operations Manager",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/D4BB23",
+      "fit_reason": "Opaque hex ID; title 'Keith & Christine Bitikofer'; previously Musoma Tanzania Operations Manager at Mara Cluster; couple split on title"
+    },
+    {
+      "name": "Christine Bitikofer",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/D4BB23",
+      "fit_reason": "Opaque hex ID; title names both; Tanzania service"
+    },
+    {
+      "name": "Waller Tabb",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Translation Checker",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/tabb",
+      "fit_reason": "Surname in slug; title 'Waller & Mary Tabb'; remote work since 2007 with Uganda and Tanzania translation teams; couple split on title"
+    },
+    {
+      "name": "Mary Tabb",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/tabb",
+      "fit_reason": "Surname in slug (shared); title names both; Uganda and Tanzania support work"
+    },
+    {
+      "name": "Christopher Tachick",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translation Consultant",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/tachick",
+      "fit_reason": "Surname in slug; title 'Christopher & Elizabeth Tachick'; Africa and Asia translation consultant checking Scripture drafts, 27+ language communities in 6 countries; couple split on title"
+    },
+    {
+      "name": "Elizabeth Tachick",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Translation Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/tachick",
+      "fit_reason": "Surname in slug (shared); title names both; Africa and Asia service"
+    },
+    {
+      "name": "Marty Driggers",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Services",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/withthedriggers",
+      "fit_reason": "Descriptive slug 'withthedriggers'; title 'Marty & Sara Driggers'; Uganda and multiple African countries; couple split on title"
+    },
+    {
+      "name": "Sara Driggers",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Services",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/withthedriggers",
+      "fit_reason": "Descriptive slug; title names both; East Africa service"
+    },
+    {
+      "name": "Galen Johnson",
+      "org": "Wycliffe Bible Translators / SEED COMPANY",
+      "tier": "A",
+      "role": "Field Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/GalenOJohnson",
+      "fit_reason": "First-initial-surname in slug; title 'Galen Johnson'; field coordinator for CAR and DRC; prior service Zaire, CAR, Burkina Faso in education/logistics/outreach; single"
+    },
+    {
+      "name": "Kent Kim",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Writing Systems",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kentkimkids",
+      "fit_reason": "First-first-kids in slug; title 'Kent & Kim'; DRC Bible translation since 2003, writing systems development; slug mentions kids (not emitted); couple split on title"
+    },
+    {
+      "name": "Kim Kim",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Font Designer",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/kentkimkids",
+      "fit_reason": "First name in slug; title names both as couple; Font Designer on Writing Systems Technology team; DRC and Cameroon service"
+    },
+    {
+      "name": "Jason Hopkins",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Sign Language Translation Consultant",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/14D834",
+      "fit_reason": "Opaque hex ID; title 'Jason & Linda Hopkins'; Ghana Deaf work through GILLBT; couple split on title"
+    },
+    {
+      "name": "Linda Hopkins",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Sign Language Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/14D834",
+      "fit_reason": "Opaque hex ID; title names both; Ghana Deaf/sign language service"
+    },
+    {
+      "name": "Todd Sasnett",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/95EB07",
+      "fit_reason": "Opaque hex ID; title 'Todd & Kerri Sasnett'; Ghana service 6 months 2007; couple split on title"
+    },
+    {
+      "name": "Kerri Sasnett",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/95EB07",
+      "fit_reason": "Opaque hex ID; title names both; Ghana service"
+    },
+    {
+      "name": "Debbie Hatfield",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/DebbieHatfield",
+      "fit_reason": "First-surname in slug; title 'Debbie Hatfield'; 1990-2019 service in Cameroon, Benin, Togo, Ghana; appears single based on snippet"
+    },
+    {
+      "name": "Travis Williamson",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Linguistic Advisor",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/TAW05",
+      "fit_reason": "Initials in slug (TAW05); title 'Travis & Andrea Williamson'; Ethiopia decade-long work with Gumuz people; couple split on title"
+    },
+    {
+      "name": "Andrea Williamson",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Linguistic Advisor",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/TAW05",
+      "fit_reason": "Initials in slug; title names both; Ethiopia Gumuz New Testament translation team work"
+    },
+    {
+      "name": "Daniel Lewis",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/lewis-rad",
+      "fit_reason": "Surname-initials in slug; title 'Daniel & Rachel Lewis'; Ethiopia five-year service, now Indonesia since 2022; couple split on title"
+    },
+    {
+      "name": "Rachel Lewis",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/lewis-rad",
+      "fit_reason": "Initials in slug; title names both; Ethiopia and now Indonesia service"
+    },
+    {
+      "name": "Meaghan Smith",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Exegetical Advisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/meaghansmith",
+      "fit_reason": "First-surname in slug; title 'Meaghan Smith'; 10 years Ethiopia experience, exegetical advisor for southwestern Ethiopia translation projects; appears single based on snippet"
+    },
+    {
+      "name": "Marvin Beachy",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Linguist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/beachy",
+      "fit_reason": "Surname in slug; title 'Marvin & Suzanne Beachy'; Ethiopia 1995 arrival, Dizi language writing system development; couple split on title"
+    },
+    {
+      "name": "Suzanne Beachy",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Linguist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/beachy",
+      "fit_reason": "Surname in slug (shared); title names both; Ethiopia Dizi language work"
+    },
+    {
+      "name": "Jamie Rench",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Exegetical Advisor",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/jamierench",
+      "fit_reason": "First-surname in slug; title 'Jamie Rench'; Senegal exegetical advisor for Bible translation; appears single based on snippet"
+    },
+    {
+      "name": "Jim Winters",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Field Leadership",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wycliffe.org/partner/jpw1990",
+      "fit_reason": "Initials-year in slug; title 'Jim & Petey Winters'; 20+ years West Africa including Senegal, Gambia, Guinea-Bissau field leadership; couple split on title"
+    },
+    {
+      "name": "Petey Winters",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translation",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://wycliffe.org/partner/jpw1990",
+      "fit_reason": "Initials-year in slug; title names both; 20+ years West Africa Bible translation work"
+    },
+    {
+      "name": "Jim Park",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/6C749C",
+      "fit_reason": "Opaque hex ID; title 'Jim and Sarah Park'; 25+ years Wycliffe service in Burkina Faso, Niger, Cameroon, now CAR support; couple split on title"
+    },
+    {
+      "name": "Sarah Park",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/6C749C",
+      "fit_reason": "Opaque hex ID; title names both; 25+ years Burkina Faso, Niger, Cameroon, CAR service"
+    },
+    {
+      "name": "Paul Gross",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Paul-Sonja-Gross",
+      "fit_reason": "First-first-surname in slug; title 'Paul & Sonja Gross'; Burkina Faso 1995-2008 in support roles, now Orlando headquarters; couple split on title"
+    },
+    {
+      "name": "Sonja Gross",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Paul-Sonja-Gross",
+      "fit_reason": "First name in slug; title names both; Burkina Faso 1995-2008 support work"
+    },
+    {
+      "name": "Bob Creson",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Director",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/B11B2D",
+      "fit_reason": "Opaque hex ID; title 'Bob & Dallas Creson'; Cameroon and Chad, SIL Director 1989-1994; couple split on title"
+    },
+    {
+      "name": "Dallas Creson",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/B11B2D",
+      "fit_reason": "Opaque hex ID; title names both; Cameroon and Chad work"
+    },
+    {
+      "name": "Elaine Scherrer",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Linguist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/Scherrer",
+      "fit_reason": "Surname in slug; title 'Elaine Marie Scherrer'; Chad linguist after Cameroon work, Linguistic Coordinator; appears single based on snippet"
+    },
+    {
+      "name": "Nancy Loveland",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Literacy Administrator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/NancyLoveland",
+      "fit_reason": "First-surname in slug; title 'Nancy Loveland'; Peru and Mozambique literacy/administration since mid-1980s; appears single based on snippet"
+    },
+    {
+      "name": "Jackson de Oliveira",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/29b35523-e712-44df-a934-62e6a1ef4826",
+      "fit_reason": "UUID in slug; title 'Jackson and Angie de Oliveira'; Mozambique service; couple split on title"
+    },
+    {
+      "name": "Angie de Oliveira",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/29b35523-e712-44df-a934-62e6a1ef4826",
+      "fit_reason": "UUID in slug; title names both; Mozambique service"
+    },
+    {
+      "name": "Tom Beekman",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/beekman",
+      "fit_reason": "Surname in slug; title 'Tom & Mary Beekman'; Mozambique service; couple split on title"
+    },
+    {
+      "name": "Mary Beekman",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Bible Translator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/beekman",
+      "fit_reason": "Surname in slug (shared); title names both; Mozambique service"
+    },
+    {
+      "name": "Robert Hale",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Field Coordinator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/5F7D79",
+      "fit_reason": "Opaque hex ID; title 'Robert and Debbie Hale'; 11 years Cote d'Ivoire/Mali SIL work, now Senior Field Coordinator Francophone Africa; couple split on title"
+    },
+    {
+      "name": "Debbie Hale",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Field Support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/5F7D79",
+      "fit_reason": "Opaque hex ID; title names both; Mali and Ivory Coast work"
+    },
+    {
+      "name": "Rodney Davis",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "IT Manager",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/RodJulieDavis",
+      "fit_reason": "First-first-surname in slug; title 'Rodney & Julie Davis'; Mali Information Technology Center Manager; couple split on title"
+    },
+    {
+      "name": "Julie Davis",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Personnel Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/RodJulieDavis",
+      "fit_reason": "First name in slug; title names both; Mali Personnel Director"
+    },
+    {
+      "name": "Rachel Aubrey",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Linguist",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/aubrey",
+      "fit_reason": "Surname in slug; title 'Rachel and Michael Aubrey'; Africa linguist work; couple split on title"
+    },
+    {
+      "name": "Michael Aubrey",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/aubrey",
+      "fit_reason": "Surname in slug (shared); title names both; Africa service"
+    },
+    {
+      "name": "Mike Ward",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Language Surveyor",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/c3b83a",
+      "fit_reason": "Opaque hex ID; snippet mentions language surveyor 14 years in Niger, PNG, Nigeria; couple split on title"
+    },
+    {
+      "name": "Lorna Ward",
+      "org": "Wycliffe Bible Translators",
+      "tier": "A",
+      "role": "Support Staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.wycliffe.org/partner/c3b83a",
+      "fit_reason": "Opaque hex ID; title names both"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Nigeria",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Kenya",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Cameroon",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Tanzania",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Uganda",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner DRC Congo",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Ghana",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Ethiopia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Senegal",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Burkina",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner linguist Nigeria -Buttacavoli -Yoder -Ramsey -Rosendall",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Swahili Tanzania Kenya",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Mali Ivory Coast Mozambique Chad",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Chad",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Mozambique",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Mali",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner Ivory Coast Cote Ivoire",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:wycliffe.org/partner \"translation consultant\" OR \"scripture engagement\" Africa",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Withheld surname - first name only in directory",
+      "finding": "Orchestrator noted 'Jim and Dorothea' from northern Kenya in directory snippets but no surname; no /partner/ page found",
+      "evidence": "Directory mention, no dedicated page URL",
+      "recommendation": "Do not emit. Protection rule applied — Wycliffe states some missionaries withhold details for security in sensitive regions. First-name-only entries are withheld surnames, never resolved from other sources."
+    },
+    {
+      "issue": "Children in slug",
+      "finding": "Kent & Kim slug is 'kentkimkids' explicitly including reference to children in URL",
+      "evidence": "Slug: kentkimkids; title: 'Kent & Kim'; snippet mentions DRC, Cameroon, writing systems work",
+      "recommendation": "Emit couple (Kent and Kim) as adults only; slug reference to children does not override filtering them from output. Children not added as records."
+    },
+    {
+      "issue": "Surname not in slug - Ivory Coast",
+      "finding": "Dave and Karen mentioned as doing Cote d'Ivoire/Mali language work but no /partner/ page URL confirmed via search",
+      "evidence": "Search result snippet mentions 'Dave and Karen' but no working partner URL found",
+      "recommendation": "Search did not locate dedicated /partner/ page. If more information becomes available, cite the page URL not the search result. Cannot emit without personal page citation."
+    },
+    {
+      "issue": "Initials-only slug",
+      "finding": "Travis & Andrea Williamson use 'TAW05' (initials + number); within opaque ID guidance",
+      "evidence": "Slug: TAW05; title clearly 'Travis & Andrea Williamson'",
+      "recommendation": "Graded medium per opaque ID rule; title resolves names completely. Consider for high confidence if Ethiopia work context is sufficient, but initials treatment kept it medium."
+    }
+  ]
+}
