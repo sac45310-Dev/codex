@@ -1,0 +1,778 @@
+{
+  "wave_id": "w2026-09-11q",
+  "agent": "q-baptist-d",
+  "target_org": "multiple (free discovery - independent Baptist / fundamentalist sending agencies)",
+  "slice": "free discovery across independent Baptist and fundamentalist sending agencies",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Alice Burge",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/gene-alice-burge/",
+      "fit_reason": "Tier A; BMFP per-missionary page. Slug names two but page TITLE is 'BURGE, ALICE' only and the page text refers to her husband Dr. Gene Burge in the past tense as former president - split on the title, Gene not emitted (see needs_review)."
+    },
+    {
+      "name": "Jonathan Lyons",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/jonathan-rachelle-lyons/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Rachelle Lyons",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/jonathan-rachelle-lyons/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Travis Sharpe",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/travis-april-sharpe/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "April Sharpe",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/travis-april-sharpe/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Jason Thomas",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/jason-ellen-thomas/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Ellen Thomas",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/jason-ellen-thomas/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Matt Quitter",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/matt-diadem-quitter/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Diadem Quitter",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/matt-diadem-quitter/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Jorge Buitrago",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/buitrago-jorge-yulie/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Yulie Buitrago",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/buitrago-jorge-yulie/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Georges Aquise",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/georges-roselene-aquise/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Roselene Aquise",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/georges-roselene-aquise/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Matthew Emigh",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/emigh-matthew-amanda/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Amanda Emigh",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/emigh-matthew-amanda/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Cody Crevar",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/crevar-cody-amy/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Amy Crevar",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/crevar-cody-amy/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Julie Alexander",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/julie-alexander/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Brian Thiessen",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/brian-cindy-thiessen/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Cindy Thiessen",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/brian-cindy-thiessen/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Jared Gastrock",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/jared-laura-gastrock/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Laura Gastrock",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/jared-laura-gastrock/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Brent George",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/brent-sara-george/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Sara George",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/brent-sara-george/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "John Radank",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/radank-john-rose/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Rose Radank",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/radank-john-rose/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Sandra Cepec",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/sandra-cepec/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Craig Mason",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/mason-craig-tammy/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title 'MASON, CRAIG & TAMMY'. Listed as pre-field administrators - a support-function ROLE at a faith mission, still personally support-raised, so Tier A."
+    },
+    {
+      "name": "Tammy Mason",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/mason-craig-tammy/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title 'MASON, CRAIG & TAMMY'. Listed as pre-field administrators - a support-function ROLE at a faith mission, still personally support-raised, so Tier A."
+    },
+    {
+      "name": "Patricia Catrow",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/catrow-patricia/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Nathan Sears",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/nathan-megumi-sears/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Megumi Sears",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/nathan-megumi-sears/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Rob Dodson",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/dodson-rob-lynnell/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Lynnell Dodson",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/dodson-rob-lynnell/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Duey Whitfield",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/duey-melissa-whitfield/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Melissa Whitfield",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/duey-melissa-whitfield/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Max Alderman",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/alderman-max-rhonda/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Rhonda Alderman",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/alderman-max-rhonda/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Gary Heppen",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/gary-claudia-heppen/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Claudia Heppen",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/gary-claudia-heppen/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Lawrence Evans",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/lawrence-evans/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Patrick Weimer",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/patrick-victoria-weimer/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Victoria Weimer",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/patrick-victoria-weimer/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Corre Meyer",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/corre-claudia-meyer/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Claudia Meyer",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/corre-claudia-meyer/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Dwayne Spear",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/dwayne-dianna-spear/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Dianna Spear",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/dwayne-dianna-spear/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Gib Wood",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/gib-kathy-wood/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Kathy Wood",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/gib-kathy-wood/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Jim Moore",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/moore-jim-bonnie/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Bonnie Moore",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/moore-jim-bonnie/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Bruce Rosko",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/bruce-sue-rosko/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Sue Rosko",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/bruce-sue-rosko/",
+      "fit_reason": "Tier A; BMFP per-missionary page, title names the person and the slug carries their first name plus the shared surname. Couple split on the page title, not the slug."
+    },
+    {
+      "name": "Adrain Hernandez",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/adrain-maurisa-hernandez/",
+      "fit_reason": "Tier A; BMFP per-missionary page, both first names and the shared surname in the slug, but the indexed page TITLE is the generic site boilerplate 'BAPTIST MISSIONS TO FORGOTTEN PEOPLES - MISSIONARIES' rather than a name, so the title could not confirm the couple - graded medium, flagged in needs_review."
+    },
+    {
+      "name": "Maurisa Hernandez",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/adrain-maurisa-hernandez/",
+      "fit_reason": "Tier A; BMFP per-missionary page, both first names and the shared surname in the slug, but the indexed page TITLE is the generic site boilerplate 'BAPTIST MISSIONS TO FORGOTTEN PEOPLES - MISSIONARIES' rather than a name, so the title could not confirm the couple - graded medium, flagged in needs_review."
+    },
+    {
+      "name": "William Weimer",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/weimer-william-phyllis/",
+      "fit_reason": "Tier A; BMFP per-missionary page, both first names and the shared surname in the slug, but the indexed page TITLE is the generic site boilerplate 'BAPTIST MISSIONS TO FORGOTTEN PEOPLES - MISSIONARIES' rather than a name, so the title could not confirm the couple - graded medium, flagged in needs_review."
+    },
+    {
+      "name": "Phyllis Weimer",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/weimer-william-phyllis/",
+      "fit_reason": "Tier A; BMFP per-missionary page, both first names and the shared surname in the slug, but the indexed page TITLE is the generic site boilerplate 'BAPTIST MISSIONS TO FORGOTTEN PEOPLES - MISSIONARIES' rather than a name, so the title could not confirm the couple - graded medium, flagged in needs_review."
+    },
+    {
+      "name": "Mike Teague",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/mike-leah-teague/",
+      "fit_reason": "Tier A; BMFP per-missionary page, both first names and the shared surname in the slug, but the indexed page TITLE is the generic site boilerplate 'BAPTIST MISSIONS TO FORGOTTEN PEOPLES - MISSIONARIES' rather than a name, so the title could not confirm the couple - graded medium, flagged in needs_review."
+    },
+    {
+      "name": "Leah Teague",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/mike-leah-teague/",
+      "fit_reason": "Tier A; BMFP per-missionary page, both first names and the shared surname in the slug, but the indexed page TITLE is the generic site boilerplate 'BAPTIST MISSIONS TO FORGOTTEN PEOPLES - MISSIONARIES' rather than a name, so the title could not confirm the couple - graded medium, flagged in needs_review."
+    },
+    {
+      "name": "Eli Guiltner",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/eli-katie-guiltner/",
+      "fit_reason": "Tier A; BMFP per-missionary page, both first names and the shared surname in the slug, but the indexed page TITLE is the generic site boilerplate 'BAPTIST MISSIONS TO FORGOTTEN PEOPLES - MISSIONARIES' rather than a name, so the title could not confirm the couple - graded medium, flagged in needs_review."
+    },
+    {
+      "name": "Katie Guiltner",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/eli-katie-guiltner/",
+      "fit_reason": "Tier A; BMFP per-missionary page, both first names and the shared surname in the slug, but the indexed page TITLE is the generic site boilerplate 'BAPTIST MISSIONS TO FORGOTTEN PEOPLES - MISSIONARIES' rather than a name, so the title could not confirm the couple - graded medium, flagged in needs_review."
+    },
+    {
+      "name": "Steven Aldridge",
+      "org": "Prayer Baptist Missions International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://prayerbaptistmissions.com/my-profile/pbmi/stevealdridge/",
+      "fit_reason": "Tier A; PBMI is an independent Baptist sending agency whose missionaries raise their own support. Only one PBMI member profile is indexed; the slug 'stevealdridge' carries his name but the page TITLE is the generic 'My Profile - Prayer Baptist Missions International' and the rest of the directory is behind a missionary login, so no support ask is visible on the indexed surface. Graded medium."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "\"independent Baptist\" mission agency \"our missionaries\" deputation prayer card sending board",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Philippines OR Mexico OR Africa OR Asia missionary family",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ -lyons -thomas -burge -quitter -sharpe -hernandez -weimer church planting",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ -lyons -thomas -burge -quitter -sharpe -buitrago -aquise -emigh -crevar -alexander -thiessen ministry serving",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ -lyons -radank -cepec -mason -catrow -sears -dodson -george -gastrock -teague missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ -burge -whitfield -alderman -heppen -crevar -evans -lyons -sears -mason -radank prayer letter",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Romania OR Liberia OR Japan OR Spain OR Ukraine OR Brazil OR India serving Lord",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ -george -meyer -spear -alexander -lyons -teague -weimer -guiltner -thomas deaf OR prison OR military OR camp OR aviation",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ -quitter -dodson -catrow -wood -moore -rosko -radank -gastrock -lyons -crevar Native OR homeless OR youth OR Appalachia OR jail",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:prayerbaptistmissions.com missionaries",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:prayerbaptistmissions.com/my-profile/pbmi/",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:beaconibm.com missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "\"Baptist\" mission agency website \"/missionaries/\" independent fundamental sending agency list of mission boards",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "site:visionbaptistmissions.com missionaries",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:visionmissions.com/missionaries/ family serving",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ -lyons -burge -thomas -sharpe -quitter -george -radank -crevar -emigh -alderman surrendered called to missions",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "agency",
+      "value": "Baptist Missions to Forgotten Peoples (bmfp.org) - HIT. Static WordPress-style site, one page per missionary unit at bmfp.org/missionaries/<slug>/. Slug shape is inconsistent (<first>-<first>-<surname> and <surname>-<first>-<first> both occur) but always carries the surname. Page titles are 'SURNAME, FIRST & FIRST'. Mined.",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "agency",
+      "value": "Prayer Baptist Missions International (prayerbaptistmissions.com) - PARTIAL. Per-person profiles exist at /my-profile/pbmi/<namesmashed>/ but the directory sits behind /missionary-login/ and only one profile is indexed. Worth a logged-out fetch pass to see whether a public roster exists.",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "agency",
+      "value": "Beacon Int'l Baptist Mission (beaconibm.com) - MISS. Only About/Beliefs/Give/Get-Involved/Contact pages indexed; no missionary roster and no per-person path. Site states plainly that no BIBM missionary receives an agency salary and each family raises support from independent Baptist churches (org_policy), but it names nobody. Candidate for a fetch pass, not for search.",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "agency",
+      "value": "Vision Baptist Missions - MISS on this surface. visionbaptistmissions.com redirects/resolves to visionmissions.com; /missionaries there is a single navigation hub page (Foreign / Stateside / Helps pathways) with no indexed per-person child pages. A third-party page, dearvisionbaptist.com/current-list-of-vbm-missionaries/, appears to carry a name list - worth a fetch pass, but it is not the agency's own surface.",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "agency",
+      "value": "Independent Baptist Fellowship International (ibfi.us) - not probed, already worked per BRIEF. Noted only because discovery search kept surfacing it.",
+      "outcome": "offtopic"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Possible memorial rewrite - second name on slug omitted from title",
+      "finding": "bmfp.org/missionaries/gene-alice-burge/ is titled 'BURGE, ALICE' and the indexed text reads 'her husband, Dr. Gene Burge, was president of BMFP' - past tense.",
+      "evidence": "https://bmfp.org/missionaries/gene-alice-burge/ ; title 'BURGE, ALICE - BMFP'",
+      "recommendation": "Alice Burge emitted alone. Do NOT add Gene Burge from the slug; confirm status before any outreach, and suppress the household from any couple-addressed send."
+    },
+    {
+      "issue": "Four BMFP pages return the generic site title instead of a name title, so the couple could not be confirmed on the title as the standing rule requires",
+      "finding": "bmfp.org/missionaries/adrain-maurisa-hernandez/, /weimer-william-phyllis/, /mike-leah-teague/ and /eli-katie-guiltner/ all index under 'BAPTIST MISSIONS TO FORGOTTEN PEOPLES - MISSIONARIES'. Both first names and the surname are in each slug, but nothing in the title corroborates that both people are still on the page.",
+      "evidence": "Four URLs above; titles identical and generic across all four.",
+      "recommendation": "Emitted at medium confidence. Fetch each page and confirm both spouses before promoting to high or contacting - this is the exact shape a memorial rewrite hides behind on this domain."
+    },
+    {
+      "issue": "Two BMFP surnames appear on distinct pages and may be one extended family or two units",
+      "finding": "/weimer-william-phyllis/ and /patrick-victoria-weimer/ are separate pages with the same surname.",
+      "evidence": "https://bmfp.org/missionaries/weimer-william-phyllis/ and https://bmfp.org/missionaries/patrick-victoria-weimer/",
+      "recommendation": "Treat as two separate support-raising units unless a fetch pass shows otherwise; do not merge or dedupe on surname."
+    },
+    {
+      "issue": "PBMI roster is login-gated",
+      "finding": "prayerbaptistmissions.com exposes /missionary-login/ and a single indexed member profile; the rest of the roster is not reachable from search.",
+      "evidence": "https://prayerbaptistmissions.com/missionary-login/ ; https://prayerbaptistmissions.com/my-profile/pbmi/stevealdridge/",
+      "recommendation": "Queue for a fetch pass against the public missionary index (if one exists) rather than re-spending search budget. Do not attempt to access gated profiles."
+    },
+    {
+      "issue": "Third-party roster page for Vision Baptist Missions",
+      "finding": "dearvisionbaptist.com/current-list-of-vbm-missionaries/ is titled as a current list of VBM missionaries but is not the agency's own site.",
+      "evidence": "https://www.dearvisionbaptist.com/current-list-of-vbm-missionaries/",
+      "recommendation": "Fetch pass to see whether VBM has a real per-person surface elsewhere. Do not emit people from a third-party list without the agency's own page."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "wave_id": "w2026-09-11r",
+  "agent": "r-chi-alpha",
+  "target_org": "Chi Alpha Campus Ministries",
+  "slice": "Chi Alpha Campus Ministries, federated district and campus sites",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Blane Young",
+      "org": "Chi Alpha Campus Ministries",
+      "tier": "A",
+      "role": "Director, American University Chi Alpha (DC)",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "http://www.auchialpha.org/staff",
+      "fit_reason": "Tier A; auchialpha.org/give states Chi Alpha staff 'are each responsible for support-raising their salaries from personal contacts'. Name is not in the URL slug (flat Squarespace-style /staff roster) but the roster page names him in full with his role as Director since Fall 2014; high on name+role certainty, not on a per-person giving slug."
+    },
+    {
+      "name": "Glen Davis",
+      "org": "Chi Alpha Campus Ministries",
+      "tier": "A",
+      "role": "Chi Alpha campus missionary (personal support site)",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://glenandpaula.com/wordpress/giving",
+      "fit_reason": "Tier A; personal missionary giving page carrying his own support ask, surfaced on a Chi Alpha campus-missionary giving search. Domain slug carries first names only; page title 'Giving - Glen Davis' names him in full, so the surname comes from the title. Spouse named only in the domain, not the title, so she is in needs_review per the split-on-title rule."
+    },
+    {
+      "name": "Stefanie Chappell",
+      "org": "Chi Alpha Campus Ministries",
+      "tier": "A",
+      "role": "Director of Missionary Formation, Chi Alpha national (previously campus staff in CA, MO, Washington DC)",
+      "confidence": "high",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.linkedin.com/in/stefanie-chappell-2165a9126/",
+      "fit_reason": "Tier A; Chi Alpha national/home-office staff are AG U.S. Missionaries who raise personal support, so a home-office role does not tier her down. Slug carries the full name and the title names her and her Chi Alpha role. Citation is LinkedIn, not a Chi Alpha org page - no chialpha.com per-person page was found for her."
+    },
+    {
+      "name": "Jonathan Lytle",
+      "org": "Chi Alpha Campus Ministries",
+      "tier": "A",
+      "role": "Regional Director, Pacific Northwest Chi Alpha district",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://pnwxa.org/staff/",
+      "fit_reason": "Tier A; PNW Chi Alpha district staff are AG U.S. Missionaries who do MPD (the district publishes its own /MPD and STORM support-raising resources). Medium because the district staff roster is a flat page - his name is not in the URL, so the citation names him but does not key to him."
+    },
+    {
+      "name": "Joshua Ernst",
+      "org": "Chi Alpha Campus Ministries",
+      "tier": "A",
+      "role": "District Chi Alpha Director, Wisconsin / Northern Michigan district",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.chialpha.org/about-us",
+      "fit_reason": "Tier A; described as an ordained pastor and nationally-appointed U.S. missionary with Chi Alpha, and AG U.S. missionaries raise their own support. Medium because the district about page is flat - the name is not in the URL. Couple split into two records sharing this URL; both are named in the page text as district directors."
+    },
+    {
+      "name": "Heather Ernst",
+      "org": "Chi Alpha Campus Ministries",
+      "tier": "A",
+      "role": "District Chi Alpha Director, Wisconsin / Northern Michigan district",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://www.chialpha.org/about-us",
+      "fit_reason": "Tier A; named alongside Joshua Ernst as nationally-appointed U.S. missionaries and district Chi Alpha directors, i.e. co-appointed rather than a non-staff spouse. Medium for the same reason - flat about page, name not in the URL."
+    },
+    {
+      "name": "E. Scott Martin",
+      "org": "Chi Alpha Campus Ministries",
+      "tier": "A",
+      "role": "Senior National Chi Alpha Director (national leadership; see needs_review on possible succession)",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://chialpha.com/about/national-leadership/",
+      "fit_reason": "Tier A; Chi Alpha national leadership are AG U.S. Missionaries on personal support. Medium: flat national-leadership roster, name not in the URL, and a separate AG U.S. Missions article indicates Alex Rodriguez has been appointed senior director, so the role label on this record may be stale."
+    },
+    {
+      "name": "Belkis Lehmann",
+      "org": "Chi Alpha Campus Ministries",
+      "tier": "A",
+      "role": "Diversity Director, Chi Alpha national leadership",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://chialpha.com/about/national-leadership/",
+      "fit_reason": "Tier A; national leadership role at an AG U.S. Missions ministry where staff raise personal support. Medium: name is not in the URL, and she is named on the national leadership roster - the parallel page https://chialpha.com/get-involved/diversity/leadership/ may be the page that actually carries her bio, so the exact page should be confirmed on a fetch pass."
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "Chi Alpha campus missionary \"give\" support page \"chialpha\"", "outcome": "offtopic"},
+    {"kind": "query", "value": "\"Chi Alpha\" district staff \"campus missionary\" give support", "outcome": "found_people"},
+    {"kind": "query", "value": "Alabama Chi Alpha staff missionary support (allowed_domains alabamachialpha.com)", "outcome": "no_people"},
+    {"kind": "query", "value": "giving.ag.org Chi Alpha campus missionary donate", "outcome": "found_people"},
+    {"kind": "query", "value": "Chi Alpha staff give support missionary (allowed_domains pnwxa.org)", "outcome": "no_people"},
+    {"kind": "query", "value": "\"Chi Alpha\" staff \"give to\" missionary page university (allowed_domains auchialpha.org, eiuchialpha.org)", "outcome": "found_people"},
+    {"kind": "query", "value": "\"chialpha\" OR \"xa\" campus ministry staff page \"our staff\" director missionary university (allowed_domains chialpha.org)", "outcome": "found_people"},
+    {"kind": "query", "value": "giving.ag.org donate missionary account personal support page URL", "outcome": "no_people"},
+    {"kind": "query", "value": "\"giving.ag.org\" Chi Alpha campus missionary support link give", "outcome": "no_people"},
+    {"kind": "query", "value": "Chi Alpha campus ministry \"meet our staff\" campus missionary \"support\" site staff/ (allowed_domains texaschialpha.com, txchialpha.org, ohiochialpha.org, michiganchialpha.org, gachialpha.org, flchialpha.org)", "outcome": "no_people"},
+    {"kind": "query", "value": "Chi Alpha missionary profile campus (allowed_domains usmissions.ag.org)", "outcome": "no_people"},
+    {"kind": "query", "value": "Pacific Northwest Chi Alpha staff director names (allowed_domains pnwxa.org)", "outcome": "found_people"},
+    {"kind": "query", "value": "UA Chi Alpha who we are staff team director names Tuscaloosa (allowed_domains alabamachialpha.com)", "outcome": "no_people"},
+    {"kind": "query", "value": "American University Chi Alpha staff team names director (allowed_domains auchialpha.org)", "outcome": "found_people"},
+    {"kind": "query", "value": "Chi Alpha national leadership team names senior director (allowed_domains chialpha.com)", "outcome": "found_people"},
+    {"kind": "query", "value": "DC Chi Alpha staff campus missionaries names director George Washington Georgetown", "outcome": "no_people"},
+    {"kind": "query", "value": "\"Chi Alpha\" national leadership operations director \"people and health\" diversity director name (allowed_domains chialpha.com)", "outcome": "found_people"},
+    {"kind": "query", "value": "Missouri State Chi Alpha staff campus missionary names director support", "outcome": "found_people"},
+
+    {"kind": "pattern", "value": "AG U.S. Missions per-missionary giving surface EXISTS and is national: https://usmissions.ag.org/MissionaryLocator/USMissionaryResult?Account=<numeric account id> (live examples seen: Account=2687374, Account=2871937, Account=2A40652). AG documentation confirms 'Account Holders can grab the URL from their giving page to share a direct link to give to their account.' This is a QUERY-STRING + OPAQUE NUMERIC ID form, so per the wave rules it is NOT a hit and no record here is graded on it - but it is the single highest-value structural find for Chi Alpha and the whole AG U.S. Missions family (Chi Alpha, Youth Alive, MAPS, Intercultural Ministries). It needs a fetch pass or an account-id enumeration pass, not a search pass.", "outcome": "found_people"},
+    {"kind": "pattern", "value": "Chi Alpha campus sites cluster on two repeatable domain shapes: (a) <campus/state>chialpha.com/.org - alabamachialpha.com, auchialpha.org, eiuchialpha.org, dcchialpha.com, chialpha.org (Wisconsin/N-Michigan district); (b) <campus>xa.com / xa<campus> - mostatexa.com (Missouri State), mizzouxa.com (Mizzou), semoxa.com (SE Missouri State), pnwxa.org (Pacific Northwest district).", "outcome": "found_people"},
+    {"kind": "pattern", "value": "Campus/district staff rosters live at a FLAT, repeatable path - /staff, /our-staff, /our-staff-2, /who-we-are, /about-us - never at a per-person slug. Confirmed instances: auchialpha.org/staff, pnwxa.org/staff/, mostatexa.com/our-staff, mizzouxa.com/our-staff, semoxa.com/our-staff-2/, chialpha.org/about-us, alabamachialpha.com/who-we-are. Giving is likewise flat: /give, /giving, /donate-1. NO Chi Alpha local was found serving org.org/staff/<first>-<last> or give.org/<first>-<last>. The federation's repeatable pattern is a roster page per local, not a page per person - so the whole federation is a staff_directory/medium harvest by search, and only a fetch pass over these flat roster URLs converts it to volume.", "outcome": "found_people"},
+    {"kind": "site", "value": "chialpha.com (national) - orientation only, as briefed. Has /about/national-leadership/, /staff/coaching/coaches/, /staff/healthy-leaders/ roster pages naming national staff. No per-person surface. Giving routes to the National Chi Alpha Ministry Center and to giving.ag.org.", "outcome": "found_people"},
+    {"kind": "site", "value": "directory.chialpha.com - a Chi Alpha chapter directory exists at this subdomain (landing seen: /Directory/BlankPage). It appears to be an app-rendered chapter locator, not a person index, and did not expose indexable per-chapter URLs to search. Worth one fetch-pass probe to see if it enumerates the federation's local sites - that list would seed a full local-site sweep.", "outcome": "no_people"},
+    {"kind": "site", "value": "alabamachialpha.com (Univ. of Alabama) - explicitly states 'All Alabama Chi Alpha staff are U.S. Missionaries who are independently funded by the financial contributions of individuals, churches and businesses' and that each is AG-ordained. Strong Tier A org_policy evidence for the whole federation, but its /who-we-are roster did not surface staff names to search. Prime fetch-pass target.", "outcome": "no_people"},
+    {"kind": "site", "value": "auchialpha.org (American University, DC) - MINED. /staff roster and /give page. /give states staff 'are each responsible for support-raising their salaries from personal contacts'. Roster names Blane Young (Director) in full; two further staff are published with FIRST NAMES ONLY (Natalie, Jolene), which is a recurring Chi Alpha roster habit and caps yield from these pages.", "outcome": "found_people"},
+    {"kind": "site", "value": "dcchialpha.com - DC Chi Alpha (serves American Univ. and Georgetown, ~1,500 students). Has campus-scoped giving pages /go-page-gu and /go-page-au, but these are MISSION-TEAM giving pages keyed to campus, not to person. No staff names surfaced.", "outcome": "no_people"},
+    {"kind": "site", "value": "pnwxa.org - Pacific Northwest Chi Alpha district. Rich staff-support infrastructure (/MPD, /CMIT, /LIGHT, /resources/storm/ - STORM is their donor-development tracker), confirming district staff do MPD. /staff/ is a flat roster; only Jonathan Lytle (Regional Director) surfaced by name.", "outcome": "found_people"},
+    {"kind": "site", "value": "chialpha.org - Wisconsin / Northern Michigan district (WINM Chi Alpha). Flat Wix-style site: /about-us, /our-mission, /locations, /contact-us. /locations may enumerate the district's campus chapters and is worth a fetch pass. Named Joshua and Heather Ernst as district directors. NOTE: the bare domain chialpha.org also serves unrelated spam paths (e.g. /category/asyali-sikis) - treat non-www paths on this domain with care.", "outcome": "found_people"},
+    {"kind": "site", "value": "mostatexa.com/our-staff (Missouri State), mizzouxa.com/our-staff, semoxa.com/our-staff-2/ - three Missouri campus rosters confirmed to exist. mostatexa.com publishes staff with FIRST NAMES ONLY (Kara, Missions Director; Andrew and Kristi, International Life Directors), so no emittable records. Fetch pass needed for mizzouxa and semoxa.", "outcome": "no_people"},
+    {"kind": "site", "value": "eiuchialpha.org (Eastern Illinois) - /donate-1 states staff are required to raise their own personal monthly support and directs donors to www.giving.ag.org (search-by-name), i.e. the local site deliberately has no per-person giving page. This is the federation's standard handoff and is the structural reason Chi Alpha was deferred.", "outcome": "no_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "The federation's per-person giving surface is national, but query-string and numeric-ID keyed",
+      "finding": "Chi Alpha locals do not host per-person giving pages. They uniformly hand donors to giving.ag.org / usmissions.ag.org and tell them to search the missionary's name. AG U.S. Missions does issue each missionary a shareable personal giving URL of the form https://usmissions.ag.org/MissionaryLocator/USMissionaryResult?Account=<id>.",
+      "evidence": "Live examples in search results: Account=2687374, Account=2871937, Account=2A40652. AG giving help PDF (usmissions.ag.org/-/media/USMissionsV2/Districts/Giving-Helps2024.pdf) states account holders can grab the URL from their giving page to share a direct give link. eiuchialpha.org/donate-1 and pnwxa.org/giving/ both route donors this way.",
+      "recommendation": "This is the whole-federation unlock and it is a fetch/enumeration job, not a search job. Two options: (1) fetch the MissionaryLocator search endpoint filtered to Chi Alpha and harvest name+account pairs, which would cover every Chi Alpha campus missionary nationally in one pass and also unlock the other AG U.S. Missions ministries; (2) if the locator is filterable by ministry, treat account ids as the person key and grade medium per the numeric-ID rule unless the response body carries the name. Do NOT re-run this as a search-only wave - three of my searches confirmed search cannot see inside it."
+    },
+    {
+      "issue": "Chi Alpha rosters routinely publish staff under first names only",
+      "finding": "auchialpha.org/staff carries 'Natalie' and 'Jolene' with bios but no surnames; mostatexa.com/our-staff carries 'Kara' (Missions Director) and 'Andrew and Kristi' (International Life Directors) with no surnames.",
+      "evidence": "Search summaries of http://www.auchialpha.org/staff and https://www.mostatexa.com/our-staff.",
+      "recommendation": "Not emitted - first-name-only is a hard exclusion. These are not anonymized-for-safety cases (no sensitive-region signal), just informal campus-ministry roster style, so a fetch pass may recover surnames from email addresses or bio text on the same pages."
+    },
+    {
+      "issue": "Possible succession conflict on the Chi Alpha national senior director role",
+      "finding": "chialpha.com/about/national-leadership/ names E. Scott Martin as Senior National Chi Alpha Director, while an AG U.S. Missions page states that long-time Chi Alpha missionary Alex Rodriguez has been appointed senior director of Chi Alpha Campus Ministries, U.S.A.",
+      "evidence": "https://chialpha.com/about/national-leadership/ vs. https://usmissions.ag.org/ministries/chialpha and a related AG story page.",
+      "recommendation": "Verify which is current before outreach. Alex Rodriguez is NOT emitted as a record because I could not tie him to a specific page that is about him - only to a ministry overview page. Emit him once a page naming him is confirmed."
+    },
+    {
+      "issue": "Spouse named in a personal-site domain but not in the page title",
+      "finding": "The personal support site glenandpaula.com carries the giving page cited for Glen Davis; the domain names a second person by first name only ('paula') and the page title names only Glen Davis.",
+      "evidence": "https://glenandpaula.com/wordpress/giving, titled 'Giving - Glen Davis'.",
+      "recommendation": "Per the split-on-title rule, the spouse is not emitted. A fetch of the site's about page would likely confirm her full name and whether she is co-appointed."
+    },
+    {
+      "issue": "Spouse mentioned in a staff bio without an independent staff listing",
+      "finding": "The AU Chi Alpha staff bio for Blane Young mentions he completed the DC Chi Alpha CMIT program with his wife Hannah.",
+      "evidence": "http://www.auchialpha.org/staff",
+      "recommendation": "Not emitted. The page names her only as his wife in a historical clause, not as current staff with her own role, so I cannot tell whether she is a co-appointed campus missionary or not on staff. Confirm on a fetch pass."
+    },
+    {
+      "issue": "directory.chialpha.com may be the key to enumerating the whole federation",
+      "finding": "A Chi Alpha directory subdomain exists but returned only an app shell path (/Directory/BlankPage) to search, exposing no chapter URLs.",
+      "evidence": "https://directory.chialpha.com/Directory/BlankPage",
+      "recommendation": "Fetch it. If it enumerates the 300+ campus chapters and their local site URLs, it converts this federation from a guess-the-subdomain problem into a list, and the flat /staff and /our-staff paths documented in coverage[] can then be walked mechanically."
+    }
+  ]
+}
