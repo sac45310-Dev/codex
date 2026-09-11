@@ -1,0 +1,989 @@
+{
+  "wave_id": "w2026-09-11o",
+  "agent": "cad-europe",
+  "target_org": "Cadence International",
+  "slice": "Cadence International, European bases",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Dick Reynolds",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dick-and-maryetta-reynolds/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "MaryEtta Reynolds",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dick-and-maryetta-reynolds/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Steven Harvell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/steven-and-rachel-harvell/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Rachel Harvell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/steven-and-rachel-harvell/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Stanley Arnold",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/stanley-and-beverly-arnold/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Beverly Arnold",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/stanley-and-beverly-arnold/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "David Bruce",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, USAG Wiesbaden, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-daniela-bruce/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Daniela Bruce",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, USAG Wiesbaden, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-daniela-bruce/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Hugh Wilson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/hugh-and-debbie-wilson/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Debbie Wilson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/hugh-and-debbie-wilson/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Eric Bryan",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-jody-bryan/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Jody Bryan",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-jody-bryan/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Elliott \"Skip\" Main",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/elliott-skip-and-ruth-main/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Ruth Main",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/elliott-skip-and-ruth-main/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Scott Crawford",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/scott-and-rebecca-crawford/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Rebecca Crawford",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/scott-and-rebecca-crawford/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Chris Burgess",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Limited Term Adult Ministry, Kaiserslautern Military Community, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/chris-and-emily-burgess/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Emily Burgess",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Limited Term Adult Ministry, Kaiserslautern Military Community, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/chris-and-emily-burgess/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Phil Byrd",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/phil-tammie-byrd/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Tammie Byrd",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/phil-tammie-byrd/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Ed Bissonnette",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ed-and-joy-bissonnette/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Joy Bissonnette",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ed-and-joy-bissonnette/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Robin Windisch",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Adult Ministry, The Festaburg, Baumholder/Frauenberg, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/robin-and-linda-windisch/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Linda Windisch",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Adult Ministry, The Festaburg, Baumholder/Frauenberg, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/robin-and-linda-windisch/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Eric Thimell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-janet-thimell/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Janet Thimell",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/eric-and-janet-thimell/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Dwight Grismore",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Netherlands tri-border community",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dwight-and-letty-grismore/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Letty Grismore",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Netherlands tri-border community",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dwight-and-letty-grismore/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "David Hutchings",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-andrea-hutchings/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Andrea Hutchings",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-andrea-hutchings/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Deric Sneller",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "House Directors, K-town Hospitality House, Kaiserslautern, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/deric-and-rebecca-sneller/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Rebecca Sneller",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "House Directors, K-town Hospitality House, Kaiserslautern, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/deric-and-rebecca-sneller/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Bob Liercke",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-merleen-liercke/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Merleen Liercke",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-merleen-liercke/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Nate Johnson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/nate-and-louise-johnson/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Louise Johnson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/nate-and-louise-johnson/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Bob Miller",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-annie-miller/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Annie Miller",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/bob-and-annie-miller/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Mark Kohl",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/mark-and-carol-kohl/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Carol Kohl",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/mark-and-carol-kohl/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Darrow Frazier",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/darrow-and-vicki-frazier/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Vicki Frazier",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/darrow-and-vicki-frazier/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Danny Perez",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/danny-and-kathryn-perez/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Kathryn Perez",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/danny-and-kathryn-perez/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Joel Jessen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Gateway Hospitality House, Ramstein/KMC, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joel-and-rebecca-jessen/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Rebecca Jessen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Gateway Hospitality House, Ramstein/KMC, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joel-and-rebecca-jessen/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Lou Rozmiarek",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/lou-and-cathy-rozmiarek/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Cathy Rozmiarek",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/lou-and-cathy-rozmiarek/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Matt Huisjen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Directors, The Vilseck House, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/matt-and-tina-huisjen/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Tina Huisjen",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Directors, The Vilseck House, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/matt-and-tina-huisjen/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Chris Stephenson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality House Directors, Wiesbaden, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/chris-and-melissa-stephenson/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Melissa Stephenson",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality House Directors, Wiesbaden, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/chris-and-melissa-stephenson/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Jeffrey Walton",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality House Directors",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jeffrey-and-candace-walton/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Candace Walton",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality House Directors",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jeffrey-and-candace-walton/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Joseph Vincent",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "House Directors, The Hangar, Landscheid/Spangdahlem, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joseph-and-jill-vincent/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Jill Vincent",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "House Directors, The Hangar, Landscheid/Spangdahlem, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/joseph-and-jill-vincent/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Wes Auldridge",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality House Directors, Baumholder Germany and RAF Lakenheath England",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/wes-and-elaine-auldridge/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Elaine Auldridge",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Hospitality House Directors, Baumholder Germany and RAF Lakenheath England",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/wes-and-elaine-auldridge/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Paul Bradley",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadence Student Ministries, England and Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/paul-and-sandra-bradley/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Sandra Bradley",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Cadence Student Ministries, England and Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/paul-and-sandra-bradley/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Ben Bloker",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Directors, Victory Villa Hospitality House, Rota, Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-and-melody-bloker/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Melody Bloker",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Directors, Victory Villa Hospitality House, Rota, Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-and-melody-bloker/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Jose Argueta",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jose-susan-argueta/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Susan Argueta",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jose-susan-argueta/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Robert Caudle",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/robert-and-stephanie-caudle/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Stephanie Caudle",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/robert-and-stephanie-caudle/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Peter Kinney",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/peter-and-tanya-kinney/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Tanya Kinney",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/peter-and-tanya-kinney/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "David Schroeder",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-joyce-schroeder/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Joyce Schroeder",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/david-and-joyce-schroeder/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Dennis Kelly",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dennis-and-brandy-kelly/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Brandy Kelly",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dennis-and-brandy-kelly/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); per-person giving page; surname and this person's first name both in slug; result title names both spouses"
+    },
+    {
+      "name": "Jonathan Bratcher",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "SkillBridge Intern, The Hangar, Spangdahlem Air Base, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jonathan-bratcher/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); own per-person giving page; full name in slug and result title names only this person"
+    },
+    {
+      "name": "Cassandra Domio",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/cassandra-domio/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); own per-person giving page; full name in slug and result title names only this person"
+    },
+    {
+      "name": "Tori Randall",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary, Victory Villa, Rota, Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/tori-randall/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); own per-person giving page; full name in slug and result title names only this person"
+    },
+    {
+      "name": "Ralph Camp",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ralph-camp/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); own per-person giving page; full name in slug and result title names only this person"
+    },
+    {
+      "name": "Lexy Krogman",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Adult Ministry, The Hangar Hospitality House, Landscheid, Germany",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/lexy-krogman/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); own per-person giving page; full name in slug and result title names only this person"
+    },
+    {
+      "name": "Jerri Kayll",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary; past Admin Assistant, Europe Field Office",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/jerri-kayll/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); own per-person giving page; full name in slug and result title names only this person"
+    },
+    {
+      "name": "Anna Tamblyn",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Newly appointed missionary; previously Victory Villa, Rota, Spain",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/anna-tamblyn/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); own per-person giving page; full name in slug and result title names only this person"
+    },
+    {
+      "name": "Stan Fisher",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/stan-fisher/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); own per-person giving page; full name in slug and result title names only this person"
+    },
+    {
+      "name": "Brent Millican",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/brent-millican/",
+      "fit_reason": "Tier A (Cadence: all /missionary/ staff raise salary and expenses); own per-person giving page; full name in slug and result title names only this person"
+    },
+    {
+      "name": "Margaret Patty",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary; Europe field leadership",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/dick-and-margaret-patty/",
+      "fit_reason": "Tier A; per-person giving page. Slug names two people (dick-and-margaret-patty) but the page TITLE is 'Margaret Patty' alone, so only she is emitted; Dick Patty routed to needs_review per the two-name-slug-outliving-one-person rule. Her first name and surname are both in the slug."
+    },
+    {
+      "name": "Doris Hyde",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/ben-and-doris-hyde/",
+      "fit_reason": "Tier A; per-person giving page. Slug names two people (ben-and-doris-hyde) but the page TITLE is 'Doris Hyde' alone, so only she is emitted; Ben Hyde routed to needs_review. Her first name and surname are both in the slug."
+    },
+    {
+      "name": "Duncan Sprague",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Pastor of Alumni / Director of Alumni, Cadence",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/sprague/",
+      "fit_reason": "Tier A; per-person giving page. Rare surname-only slug variant: slug carries the surname and the page title 'Duncan & Angie Sprague' names both, so name is taken from slug+title together. NOTE: a second, unrelated Sprague household exists at /missionary/benjamin-sprague/ \u2014 do not dedupe Cadence people on surname."
+    },
+    {
+      "name": "Angie Sprague",
+      "org": "Cadence International",
+      "tier": "A",
+      "role": "Pastor of Alumni / Director of Alumni, Cadence",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://cadence.org/missionary/sprague/",
+      "fit_reason": "Tier A; per-person giving page. Rare surname-only slug variant: slug carries the surname and the page title 'Duncan & Angie Sprague' names both, so name is taken from slug+title together. NOTE: a second, unrelated Sprague household exists at /missionary/benjamin-sprague/ \u2014 do not dedupe Cadence people on surname."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary Kaiserslautern Ramstein hospitality house",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary Vilseck Grafenwoehr Ansbach Germany",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary Wiesbaden Spangdahlem Baumholder Stuttgart",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org missionary Vicenza Aviano Naples Sigonella Italy",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org missionary Rota Spain Naval Station hospitality",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org missionary RAF Lakenheath Mildenhall Alconbury England",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org missionary Belgium Netherlands Brussels SHAPE Turkey Incirlik Greece",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org missionary Landscheid \"The Hangar\" Spangdahlem Air Base staff",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary Germany military hospitality house -Jessen -Rozmiarek -Huisjen -Stephenson -Walton -Bruce -Vincent -Auldridge -Krogman -Bratcher",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary Europe overseas -Bloker -Randall -Main -Camp -Crawford -Bradley -Wilson -Bryan -Domio -Burgess -Byrd -Bissonnette",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org missionary \"Brunssum\" Netherlands hospitality house directors",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary Sneller Kaiserslautern directors Tamblyn",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary Italy Vicenza Aviano -Wilson -Bryan -Domio -Vincent -Sprague -Windisch -Thimell -Patty -Kayll -Grismore -Hutchings",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary \"Germany\" -Jessen -Sneller -Huisjen -Vincent -Bruce -Stephenson -Windisch -Rozmiarek -Walton -Kinney -Arnold -Reynolds -Harvell",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary Europe Germany England Spain -Johnson -Miller -Kohl -Frazier -Perez -Liercke -Fisher -Millican -Hyde -Burgess -Bradley -Schroeder -Krogman",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary Ramstein Wiesbaden Baumholder Festaburg adult ministry -Bruce -Jessen -Sneller -Rozmiarek -Auldridge -Bratcher -Vincent -Windisch",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary \"Europe\" field leaders area director Naples Sigonella Navy -Patty -Thimell -Kayll -Grismore -Sprague -Hutchings -Camp -Main -Crawford -Randall -Tamblyn",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "cadence.org/missionary hospitality house Germany England -Bradley -Johnson -Miller -Kohl -Frazier -Perez -Jessen -Sneller -Huisjen -Windisch -Bloker -Auldridge -Caudle -Kelly -Vincent",
+      "outcome": "no_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Two-name slug, one-name title \u2014 spouse withheld",
+      "finding": "Dick Patty",
+      "evidence": "https://cadence.org/missionary/dick-and-margaret-patty/ \u2014 slug names Dick and Margaret; the page title returned by search is 'Margaret Patty' alone. Snippet elsewhere says 'Dick & Margaret Patty led the Europe field for thirteen years'.",
+      "recommendation": "Do not emit Dick Patty until the live page is fetched. Per the standing rule this title shape is the signature of a page rewritten after a death."
+    },
+    {
+      "issue": "Two-name slug, one-name title \u2014 spouse withheld",
+      "finding": "Ben Hyde",
+      "evidence": "https://cadence.org/missionary/ben-and-doris-hyde/ \u2014 slug names Ben and Doris; the page title returned by search is 'Doris Hyde' alone.",
+      "recommendation": "Do not emit Ben Hyde until the live page is fetched."
+    },
+    {
+      "issue": "Conflicting titles across two URL shapes for the same household",
+      "finding": "Betty Camp",
+      "evidence": "https://cadence.org/missionary/ralph-camp/ is titled 'Ralph Camp' (one name), while a legacy-shaped URL https://cadence.org/missionaryPage/camp is titled 'Ralph & Betty Camp'. The current /missionary/ page names Ralph only.",
+      "recommendation": "Emit Ralph Camp only (done). Fetch /missionary/ralph-camp/ before adding Betty Camp; the legacy page may be stale."
+    },
+    {
+      "issue": "Named in a directory snippet but no personal page URL observed",
+      "finding": "Jonathan Tamblyn",
+      "evidence": "Search snippet: 'Anna Tamblyn and Jonathan Tamblyn are both listed in Cadence's directories in Adult Ministry roles.' No /missionary/ URL for Jonathan Tamblyn appeared in any result. Anna Tamblyn's own page (https://cadence.org/missionary/anna-tamblyn/) is separate and does not name him.",
+      "recommendation": "Search 'cadence.org/missionary jonathan-tamblyn' in a later wave, or fetch the missionary directory. Do not attach him to Anna's URL."
+    },
+    {
+      "issue": "Ministry with no staff page surfaced \u2014 likely unmined people",
+      "finding": "The GK-Brunssum Hospitality House (Netherlands) and the Grafenwoehr Hospitality House (Germany)",
+      "evidence": "https://cadence.org/ministry/the-gk-brunssum-hospitality-house/ and https://cadence.org/ministry/grafenwoehr-hospitality-house/ both surfaced; the Graf house snippet says it is 'pausing its ministry and temporarily closing its doors because they do not currently have staff'.",
+      "recommendation": "Brunssum staff were never named in any search result \u2014 worth one targeted query next wave. Grafenwoehr is genuinely vacant, so expect no people there."
+    },
+    {
+      "issue": "Geography in my slice returned no distinct people",
+      "finding": "Stuttgart, Ansbach, Mildenhall, Alconbury, Sigonella, Belgium/SHAPE, Turkey, Greece",
+      "evidence": "Queries 2, 3, 6 and 7 in coverage[] named these directly; every /missionary/ URL returned was tied by snippet to a different location (Kaiserslautern, Vilseck, Spangdahlem, Baumholder, Wiesbaden, Rota, Lakenheath).",
+      "recommendation": "Cadence appears to have no current presence at these installations, or the pages do not name the installation. Treat as low-yield ground; do not re-buy."
+    }
+  ]
+}
