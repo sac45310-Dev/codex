@@ -1,0 +1,675 @@
+{
+  "wave_id": "w2026-09-11z",
+  "agent": "z-east",
+  "target_org": "Africa Inland Mission",
+  "slice": "Kenya, Uganda, Tanzania (AIM's historic core), plus Rift Valley Academy, Africa International University, Tumaini Counseling Center, Kijabe",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Colin McDougall",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Discipleship and church planting",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1043880",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Rebecca McDougall",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Discipleship and church planting",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1043880",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Paul Makau",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Theological educator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/102093",
+      "fit_reason": "Couple on shared page at Africa International University; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Elizabeth Makau",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Theological educator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/102093",
+      "fit_reason": "Couple on shared page at Africa International University; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Shara Tanner",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/157620",
+      "fit_reason": "Opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Russell Smith",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Dorm parent/teacher at Rift Valley Academy",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/120320",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Nicole Smith",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Dorm parent/teacher at Rift Valley Academy",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/120320",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Andrew Andersen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Disciple maker and church planter",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1011150",
+      "fit_reason": "Couple on shared page; active assignment began 2015; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Margaret Andersen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Disciple maker and church planter",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1011150",
+      "fit_reason": "Couple on shared page; active assignment began 2015; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Roger Brown",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Counselor at Tumaini Counseling Center",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1019270",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Shirley Brown",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Counselor at Tumaini Counseling Center",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1019270",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Paul Tanner",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "AIM Air aviation, unreached people group work",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1057500",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Virginia Tanner",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "AIM Air aviation, unreached people group work",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1057500",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Nathan Hunter",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Rift Valley Academy",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/181475",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Nicole Hunter",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Rift Valley Academy",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/181475",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Edward Andersen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1011180",
+      "fit_reason": "Couple on shared page in Kenya; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Rachel Andersen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1011180",
+      "fit_reason": "Couple on shared page in Kenya; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Mark Shaw",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Theological educator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1053900",
+      "fit_reason": "Couple on shared page; equipping church leaders through theological education; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Lois Shaw",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Theological educator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1053900",
+      "fit_reason": "Couple on shared page; equipping church leaders through theological education; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Robert Kulp",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "AIM Air pilot",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/138660",
+      "fit_reason": "Couple on shared page planning Nairobi service; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Sarah Kulp",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "AIM Air pilot spouse",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/138660",
+      "fit_reason": "Couple on shared page planning Nairobi service; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Evan Young",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "AIM Air aviation",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1062070",
+      "fit_reason": "Couple on shared page in Nairobi; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Kristal Young",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "AIM Air aviation",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1062070",
+      "fit_reason": "Couple on shared page in Nairobi; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Daniel Miller",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "AIM Air avionics and aircraft maintenance",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1044410",
+      "fit_reason": "Couple on shared page in Nairobi; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Anna Miller",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "AIM Air support",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1044410",
+      "fit_reason": "Couple on shared page in Nairobi; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Andrew Robertson",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1051440",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Cari Robertson",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1051440",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Jonathan Mirich",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1080822",
+      "fit_reason": "Couple on shared page serving in East Africa; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Shannon Mirich",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1080822",
+      "fit_reason": "Couple on shared page serving in East Africa; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Eric Hansen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Teacher at Rift Valley Academy",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/181448",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Katie Hansen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Teacher at Rift Valley Academy",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/181448",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Timothy Carroll",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Member care and pastoral counseling",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1019970",
+      "fit_reason": "Couple on shared page; member care, teaching at RVA, short-term placement; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Jennifer Carroll",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Member care and pastoral counseling",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1019970",
+      "fit_reason": "Couple on shared page; member care, teaching at RVA, short-term placement; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Jim Simmons",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Teacher and pastor trainer",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/154060",
+      "fit_reason": "Couple on shared page in Tanzania; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Susan Simmons",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Teacher and pastor trainer",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/154060",
+      "fit_reason": "Couple on shared page in Tanzania; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Justin Raymer",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1050420",
+      "fit_reason": "Couple on shared page; previously served among Alagwa in Tanzania; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Kristen Raymer",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1050420",
+      "fit_reason": "Couple on shared page; previously served among Alagwa in Tanzania; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Taylor Hemphill",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Rift Valley Academy staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1032710",
+      "fit_reason": "Couple on shared page at Rift Valley Academy, Kijabe; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Ashley Hemphill",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Rift Valley Academy staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1032710",
+      "fit_reason": "Couple on shared page at Rift Valley Academy, Kijabe; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Matthew Hansen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Dorm parent, teacher, mentor at Rift Valley Academy",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1032110",
+      "fit_reason": "Couple on shared page at Rift Valley Academy; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Eva Hansen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Dorm parent, teacher, mentor at Rift Valley Academy",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1032110",
+      "fit_reason": "Couple on shared page at Rift Valley Academy; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Brian Wagner",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Rift Valley Academy staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1059440",
+      "fit_reason": "Couple on shared page at Rift Valley Academy, Kijabe; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Melissa Wagner",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Rift Valley Academy staff",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1059440",
+      "fit_reason": "Couple on shared page at Rift Valley Academy, Kijabe; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Paul Hupp",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Physician assistant at Rift Valley Academy health clinic",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/131300",
+      "fit_reason": "Couple on shared page at Rift Valley Academy, Kijabe; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Deborah Hupp",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Registered nurse at Rift Valley Academy health clinic",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/131300",
+      "fit_reason": "Couple on shared page at Rift Valley Academy, Kijabe; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Jordan Bracy",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1018470",
+      "fit_reason": "Couple on shared page in Tanzania region; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Laura Bracy",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1018470",
+      "fit_reason": "Couple on shared page in Tanzania region; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Shaggy White",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1045080",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Lauren White",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1045080",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "P. Rodney Kraybill",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Short-term placement coordinator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1038220",
+      "fit_reason": "Couple on shared page; member care and short-term missions placement; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Lori Kraybill",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Short-term placement coordinator",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1038220",
+      "fit_reason": "Couple on shared page; member care and short-term missions placement; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Jamie Viands",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1056620",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Kim Viands",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1056620",
+      "fit_reason": "Couple on shared page; opaque numeric ID requires medium confidence"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Kenya missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Uganda missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Tanzania missionary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org \"Rift Valley Academy\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org \"Africa International University\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org \"Tumaini Counseling Center\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Kijabe",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Kingsbury",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org \"Samuel Kingsbury\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org teacher Kenya Uganda Tanzania",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org healthcare nurse Kenya Uganda Tanzania",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org aviation pilot AIM Air Kenya Uganda Tanzania",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org \"church planter\" OR \"disciple maker\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Kenya -Andersen -McDougall -Shaw -Kulp -Young -Miller",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Uganda -Robertson -Shabangi -Mirich -Hansen -Carroll -Brown -Makau -Tanner",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Tanzania -Andersen -Tanner -McDougall -Raymer -Simmons -Mirich -Robertson -Shabangi",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org \"member care\" OR \"short-term\" Kenya Uganda Tanzania",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org administrator \"theological educator\" Kenya Uganda Tanzania",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Retiree - page title explicitly marked",
+      "finding": "Stephen and Debbie Wolcott",
+      "evidence": "Title: \"Retiree - Stephen and Debbie Wolcott\" at /missionary/1061450",
+      "recommendation": "Do not emit. Retirees are supported BY the fund rather than raising support, failing Tier A test entirely. Per BRIEF instructions, any title beginning 'Retiree' must be excluded."
+    },
+    {
+      "issue": "Retiree - page title explicitly marked",
+      "finding": "Fred D. and Jan Beam",
+      "evidence": "Title: \"Retiree - Fred D. and Jan Beam\" at /missionary/1015800",
+      "recommendation": "Do not emit. Retirees are supported BY the fund rather than raising support, failing Tier A test entirely. Per BRIEF instructions, any title beginning 'Retiree' must be excluded."
+    },
+    {
+      "issue": "First-name-only record",
+      "finding": "Lea Shabangi",
+      "evidence": "Page at /missionary/1053920 appears to list only first name 'Lea'. AIM works in several sensitive areas.",
+      "recommendation": "Do not emit. Per BRIEF: first-name-only or initials-only must go to needs_review, never emitted, never resolved from elsewhere. May indicate sensitive-region worker protection."
+    },
+    {
+      "issue": "No personal page found",
+      "finding": "Samuel and Hanna Kingsbury",
+      "evidence": "Mentioned in search results but only directory page (/missionaries?page=10) returned. No personal missionary page at /missionary/<id> format found.",
+      "recommendation": "Cannot cite directory page per hard rules. Kingsbury couple mentioned in Kijabe/RVA search snippets but personal page not located in available search results."
+    },
+    {
+      "issue": "First-name-only mentioned in snippet",
+      "finding": "Abigail (nurse in Tanzania)",
+      "evidence": "Snippet from healthcare search mentioned 'Abigail graduated from Biola in 2020 with a BSN degree, now works as a nurse in Maternal-Child Health through AIM's work in Tanzania' but no URL or personal page found.",
+      "recommendation": "Cannot emit without surname and personal page. First-name-only per BRIEF rules."
+    },
+    {
+      "issue": "First-name-only mentioned in snippet",
+      "finding": "Kim (Alagwa translator)",
+      "evidence": "Snippet from Tanzania exclusion search mentioned 'Kim serves among the Alagwa in Tanzania, teaching English at the local primary school' but no URL provided.",
+      "recommendation": "Cannot emit without surname and personal page. First-name-only per BRIEF rules."
+    },
+    {
+      "issue": "Michelle Gennaro Lapp - structure unclear",
+      "finding": "Michelle Gennaro Lapp at /missionary/1031420",
+      "evidence": "Title shows 'Michelle Gennaro Lapp' - appears to be single person (one given name plus two surnames or compound surname) but could be misformatted couple entry.",
+      "recommendation": "Review page directly to determine if this is one person (Michelle with surnames Gennaro Lapp) or a formatting issue. If single, emit as single record Tier A. Cannot determine from snippet alone."
+    }
+  ]
+}

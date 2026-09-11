@@ -1,0 +1,685 @@
+{
+  "wave_id": "w2026-09-11z",
+  "agent": "z-central-west",
+  "target_org": "Africa Inland Mission",
+  "slice": "DR Congo, Central African Republic, Chad, Sudan, South Sudan, Nigeria, Niger, Senegal, Guinea, Ivory Coast, Ghana, Cameroon, Mali, Burkina Faso",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Robert Koehn",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1037870",
+      "fit_reason": "Coupled page; split on title 'Robert and Karis Koehn'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Karis Koehn",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1037870",
+      "fit_reason": "Coupled page; split on title 'Robert and Karis Koehn'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Jordan Bracy",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1018470",
+      "fit_reason": "Coupled page; split on title 'Jordan and Laura Bracy'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Laura Bracy",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1018470",
+      "fit_reason": "Coupled page; split on title 'Jordan and Laura Bracy'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Eric Hansen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/181448",
+      "fit_reason": "Coupled page; split on title 'Eric and Katie Hansen'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Katie Hansen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/181448",
+      "fit_reason": "Coupled page; split on title 'Eric and Katie Hansen'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Ben Pineda",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1048790",
+      "fit_reason": "Coupled page; split on title 'Ben and Christina Pineda'; opaque numeric ID requires medium confidence; serving in Chad"
+    },
+    {
+      "name": "Christina Pineda",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1048790",
+      "fit_reason": "Coupled page; split on title 'Ben and Christina Pineda'; opaque numeric ID requires medium confidence; serving in Chad"
+    },
+    {
+      "name": "Michelle Gennaro Lapp",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1031420",
+      "fit_reason": "Individual; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Paul Hupp",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/131300",
+      "fit_reason": "Coupled page; split on title 'Paul and Deborah Hupp'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Deborah Hupp",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/131300",
+      "fit_reason": "Coupled page; split on title 'Paul and Deborah Hupp'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Colin McDougall",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1043880",
+      "fit_reason": "Coupled page; split on title 'Colin and Rebecca McDougall'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Rebecca McDougall",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1043880",
+      "fit_reason": "Coupled page; split on title 'Colin and Rebecca McDougall'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Evan Young",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Aviation",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1062070",
+      "fit_reason": "Coupled page; split on title 'Evan and Kristal Young'; opaque numeric ID requires medium confidence; serves in AIM AIR"
+    },
+    {
+      "name": "Kristal Young",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Aviation",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1062070",
+      "fit_reason": "Coupled page; split on title 'Evan and Kristal Young'; opaque numeric ID requires medium confidence; serves in AIM AIR"
+    },
+    {
+      "name": "Timothy Carroll",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1019970",
+      "fit_reason": "Coupled page; split on title 'Timothy and Jennifer Carroll'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Jennifer Carroll",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1019970",
+      "fit_reason": "Coupled page; split on title 'Timothy and Jennifer Carroll'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Shaggy White",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1045080",
+      "fit_reason": "Coupled page; split on title 'Shaggy and Lauren White'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Lauren White",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1045080",
+      "fit_reason": "Coupled page; split on title 'Shaggy and Lauren White'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Paul Makau",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/102093",
+      "fit_reason": "Coupled page; split on title 'Paul and Elizabeth Makau'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Elizabeth Makau",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/102093",
+      "fit_reason": "Coupled page; split on title 'Paul and Elizabeth Makau'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Brian Wagner",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1059440",
+      "fit_reason": "Coupled page; split on title 'Brian and Melissa Wagner'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Melissa Wagner",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1059440",
+      "fit_reason": "Coupled page; split on title 'Brian and Melissa Wagner'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Robert Kulp",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/138660",
+      "fit_reason": "Coupled page; split on title 'Robert and Sarah Kulp'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Sarah Kulp",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/138660",
+      "fit_reason": "Coupled page; split on title 'Robert and Sarah Kulp'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Matthew Hansen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1032110",
+      "fit_reason": "Coupled page; split on title 'Matthew and Eva Hansen'; opaque numeric ID requires medium confidence; serve as teachers at Rift Valley Academy"
+    },
+    {
+      "name": "Eva Hansen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1032110",
+      "fit_reason": "Coupled page; split on title 'Matthew and Eva Hansen'; opaque numeric ID requires medium confidence; serve as teachers at Rift Valley Academy"
+    },
+    {
+      "name": "Roger Brown",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Healthcare",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1019270",
+      "fit_reason": "Coupled page; split on title 'Roger and Shirley Brown'; opaque numeric ID requires medium confidence; psychiatrist serving at Tumaini Counseling Center"
+    },
+    {
+      "name": "Shirley Brown",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Healthcare",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1019270",
+      "fit_reason": "Coupled page; split on title 'Roger and Shirley Brown'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Rodney Kraybill",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Healthcare",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1038220",
+      "fit_reason": "Coupled page; split on title 'P. Rodney and Lori Kraybill'; opaque numeric ID requires medium confidence; title shows 'P. Rodney' (initial + first name) with clear surname"
+    },
+    {
+      "name": "Lori Kraybill",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1038220",
+      "fit_reason": "Coupled page; split on title 'P. Rodney and Lori Kraybill'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Jennifer Jacobs",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1035470",
+      "fit_reason": "Individual; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Andrew Andersen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1011150",
+      "fit_reason": "Coupled page; split on title 'Andrew and Margaret Andersen'; opaque numeric ID requires medium confidence; church planter and disciple maker"
+    },
+    {
+      "name": "Margaret Andersen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1011150",
+      "fit_reason": "Coupled page; split on title 'Andrew and Margaret Andersen'; opaque numeric ID requires medium confidence; 30 years service with current assignment since 2015"
+    },
+    {
+      "name": "Daniel Miller",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Aviation",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1044410",
+      "fit_reason": "Coupled page; split on title 'Daniel and Anna Miller'; opaque numeric ID requires medium confidence; works in avionics and aircraft maintenance with AIM AIR"
+    },
+    {
+      "name": "Anna Miller",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Aviation",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1044410",
+      "fit_reason": "Coupled page; split on title 'Daniel and Anna Miller'; opaque numeric ID requires medium confidence; serves with AIM AIR"
+    },
+    {
+      "name": "Andrew Robertson",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Healthcare",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1051440",
+      "fit_reason": "Coupled page; split on title 'Andrew and Cari Robertson'; opaque numeric ID requires medium confidence; serving in Chad; pediatrician"
+    },
+    {
+      "name": "Cari Robertson",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Teacher",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1051440",
+      "fit_reason": "Coupled page; split on title 'Andrew and Cari Robertson'; opaque numeric ID requires medium confidence; serving in Chad; math/English teacher"
+    },
+    {
+      "name": "Peter Barnhart",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1013450",
+      "fit_reason": "Coupled page; split on title 'Peter and Angela Barnhart'; opaque numeric ID requires medium confidence; team leader in Chad"
+    },
+    {
+      "name": "Angela Barnhart",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1013450",
+      "fit_reason": "Coupled page; split on title 'Peter and Angela Barnhart'; opaque numeric ID requires medium confidence; team leader in Chad"
+    },
+    {
+      "name": "Paul Tanner",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1057500",
+      "fit_reason": "Coupled page; split on title 'Paul and Virginia Tanner'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Virginia Tanner",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1057500",
+      "fit_reason": "Coupled page; split on title 'Paul and Virginia Tanner'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Jim Simmons",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/154060",
+      "fit_reason": "Coupled page; split on title 'Jim and Susan Simmons'; opaque numeric ID requires medium confidence; serving in Cameroon"
+    },
+    {
+      "name": "Susan Simmons",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/154060",
+      "fit_reason": "Coupled page; split on title 'Jim and Susan Simmons'; opaque numeric ID requires medium confidence; serving in Cameroon"
+    },
+    {
+      "name": "Nathan Hunter",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/181475",
+      "fit_reason": "Coupled page; split on title 'Nathan and Nicole Hunter'; opaque numeric ID requires medium confidence; serving in Cameroon"
+    },
+    {
+      "name": "Nicole Hunter",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/181475",
+      "fit_reason": "Coupled page; split on title 'Nathan and Nicole Hunter'; opaque numeric ID requires medium confidence; serving in Cameroon"
+    },
+    {
+      "name": "Justin Raymer",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1050420",
+      "fit_reason": "Coupled page; split on title 'Justin and Kristen Raymer'; opaque numeric ID requires medium confidence; serving in Mali"
+    },
+    {
+      "name": "Kristen Raymer",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1050420",
+      "fit_reason": "Coupled page; split on title 'Justin and Kristen Raymer'; opaque numeric ID requires medium confidence; serving in Mali"
+    },
+    {
+      "name": "Mark Shaw",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1053900",
+      "fit_reason": "Coupled page; split on title 'Mark and Lois Shaw'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Lois Shaw",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1053900",
+      "fit_reason": "Coupled page; split on title 'Mark and Lois Shaw'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Ellen Admiraal",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1010030",
+      "fit_reason": "Individual; opaque numeric ID requires medium confidence; serving among Didinga people in South Sudan"
+    },
+    {
+      "name": "David Vandenbroek",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1018560",
+      "fit_reason": "Coupled page; split on title 'David and Tessa Vandenbroek'; opaque numeric ID requires medium confidence; serving among Laarim people in South Sudan"
+    },
+    {
+      "name": "Tessa Vandenbroek",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1018560",
+      "fit_reason": "Coupled page; split on title 'David and Tessa Vandenbroek'; opaque numeric ID requires medium confidence; serving among Laarim people in South Sudan"
+    },
+    {
+      "name": "Edward Andersen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1011180",
+      "fit_reason": "Coupled page; split on title 'Edward and Rachel Andersen'; opaque numeric ID requires medium confidence; church planter"
+    },
+    {
+      "name": "Rachel Andersen",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1011180",
+      "fit_reason": "Coupled page; split on title 'Edward and Rachel Andersen'; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Shara Tanner",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/157620",
+      "fit_reason": "Individual; opaque numeric ID requires medium confidence"
+    },
+    {
+      "name": "Lea Shabangi",
+      "org": "Africa Inland Mission",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://usgiving.aimint.org/missionary/1053920",
+      "fit_reason": "Individual; opaque numeric ID requires medium confidence; serving in Burkina Faso"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Congo",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Nigeria",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Ghana",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org teacher",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org healthcare",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org aviation",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Chad",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Cameroon",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Mali",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Senegal",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org \"Ivory Coast\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Guinea",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Sudan",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org \"church planter\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org Niger",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org \"Central African Republic\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org \"Burkina Faso\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:usgiving.aimint.org \"South Sudan\"",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Retiree excluded",
+      "finding": "Stephen and Debbie Wolcott",
+      "evidence": "Title: 'Retiree - Stephen and Debbie Wolcott' at /missionary/1061450; also noted in wave brief as example of labeled retiree trap",
+      "recommendation": "Exclude from prospects; retirees are supported by fund, not raising support, so fail Tier A"
+    },
+    {
+      "issue": "Retiree excluded",
+      "finding": "Fred D. and Jan Beam",
+      "evidence": "Title: 'Retiree - Fred D. and Jan Beam' at /missionary/1015800; serving in Mali",
+      "recommendation": "Exclude from prospects; labeled retiree"
+    }
+  ]
+}
