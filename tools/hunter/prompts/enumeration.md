@@ -299,3 +299,21 @@ different shapes still should not stop a run when a query of one of those shapes
 has already succeeded earlier in the same run: that proves the surface, and the
 qualifier is the variable. An agent that made this call went on to produce 34 of
 its 48 records.
+
+## From wave w2026-09-12d — `blocked_domains` in a live wave
+
+**It works in production, not just in tests.** The ISI university axis went
+from 9-of-24 productive to **24-of-24** with `blocked_domains:
+["en.wikipedia.org"]` on every query. Zero off-domain URLs. **Any `site:` query
+whose path word has a common English meaning** (`/team`, `/staff`, `/people`,
+`/partner`) **should carry `blocked_domains: ["en.wikipedia.org"]` by default.**
+
+**Build a replication brief from the prior wave's `coverage` array, not from
+its brief.** Wave d claimed to re-run wave c's list and did not: the wave-c
+agent had substituted six names as it went. The brief is what was asked; the
+coverage array is what was run.
+
+**A finding's verdict and its reasoning can fail independently.** Wave c said
+ISI was exhausted, for a reason that was wrong. Wave d fixed the reason and got
+the same verdict. When a measurement is found to be broken, re-run it — do not
+assume the conclusion flips.
