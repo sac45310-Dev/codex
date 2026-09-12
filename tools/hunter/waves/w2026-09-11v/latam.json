@@ -1,0 +1,692 @@
+{
+  "wave_id": "w2026-09-11v",
+  "agent": "v-latam",
+  "target_org": "Baptist Bible Fellowship International",
+  "slice": "Mexico, Brazil, Peru, Argentina, Chile, Colombia, Venezuela, Guatemala, Honduras, Costa Rica, Panama, Paraguay, Uruguay, Bolivia, Ecuador, Dominican Republic, Puerto Rico, Nicaragua, El Salvador",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Brian Brown",
+      "spouse": "Jaidy Brown",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/brian-and-jaidy-brown",
+      "fit_reason": "Post-1990 approval (September 1999); per-person giving page; couple on shared URL"
+    },
+    {
+      "name": "Larry Allred",
+      "spouse": "Tammy Allred",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/larry-and-tammy-allred",
+      "fit_reason": "Post-1990 approval (September 2004); couple page; Yucatan Peninsula, Mexico"
+    },
+    {
+      "name": "Steven Reinhold",
+      "spouse": "Heidi Reinhold",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/steven-and-heidi-reinhold",
+      "fit_reason": "Post-1990 approval (May 1997); couple page; Mexico service"
+    },
+    {
+      "name": "Scott Brown",
+      "spouse": "Gloria Brown",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/scott-and-gloria-brown",
+      "fit_reason": "Post-1990 approval (September 1999); 30+ years Mexico service (Acapulco, Chalco, Mexico City)"
+    },
+    {
+      "name": "Fabio Oliveira",
+      "spouse": "Debra Oliveira",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/fabio-and-debra-oliveira",
+      "fit_reason": "Post-1990 approval (May 2019); Brazil service; couple page"
+    },
+    {
+      "name": "Patrick McClure",
+      "spouse": "Ann-Janel McClure",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/patrick-and-ann-janel-mcclure",
+      "fit_reason": "Post-1990 approval (May 2003); Brazil service; couple page"
+    },
+    {
+      "name": "Raquel Avila",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/raquel-avila",
+      "fit_reason": "Post-1990 approval (September 2005); Peru service; single missionary"
+    },
+    {
+      "name": "David Liles",
+      "spouse": "Tonya Liles",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/david-and-tonya-liles",
+      "fit_reason": "Post-1990 approval (September 1994); Peru service; couple page"
+    },
+    {
+      "name": "Elmo Compton",
+      "spouse": "Kathryn Compton",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/elmo-and-kathryn-compton",
+      "fit_reason": "Post-1990 approval (September 2011 TEAM, September 2015 career); Peru then Mexico (May 2022); couple page"
+    },
+    {
+      "name": "Mike Todd",
+      "spouse": "Sandy Todd",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/mike-and-sandy-todd",
+      "fit_reason": "Post-1990 approval (May 1992); Argentina service; couple page"
+    },
+    {
+      "name": "Rickey Freeman",
+      "spouse": "Angela Freeman",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/rickey-and-angela-freeman",
+      "fit_reason": "Post-1990 approval (May 1995); Argentina service; couple page"
+    },
+    {
+      "name": "Ben Metzger",
+      "spouse": "Rachelle Metzger",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/ben-and-rachelle-metzger",
+      "fit_reason": "Post-1990 approval (May 2012); Argentina service; couple page"
+    },
+    {
+      "name": "Jordan Franklin",
+      "spouse": "Laura Franklin",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/franklin-jordan-and-laura",
+      "fit_reason": "Post-1990 approval (September 2025); Argentina service; surname-first slug format"
+    },
+    {
+      "name": "Joel Solomon",
+      "spouse": "Wendy Solomon",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/joel-and-wendy-solomon",
+      "fit_reason": "Post-1990 approval (May 1991); Colombia then Chile (September 2005); couple page"
+    },
+    {
+      "name": "Jonathan Saliba",
+      "spouse": "Anna Saliba",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jonathan-and-anna-saliba",
+      "fit_reason": "Post-1990 approval (May 2015); Colombia service; couple page"
+    },
+    {
+      "name": "Karen Kolb",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/karen-kolb",
+      "fit_reason": "Post-1990 approval (May 2008); Guatemala service; single missionary"
+    },
+    {
+      "name": "Corey Wilcher",
+      "spouse": "Cora Wilcher",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/wilcher-corey-and-cora",
+      "fit_reason": "Post-1990 field change (May 2025) to Guatemala; surname-first slug format; couple page"
+    },
+    {
+      "name": "Eric Woodworth",
+      "spouse": "Ashley Woodworth",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/eric-and-ashley-woodworth",
+      "fit_reason": "Post-1990 approval (July 2020); Honduras (Tegucigalpa) service; couple page"
+    },
+    {
+      "name": "Jonathan Robertson",
+      "spouse": "Sarah Robertson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jonathan-and-sarah-robertson",
+      "fit_reason": "Post-1990 approval (September 2012); Costa Rica service; couple page"
+    },
+    {
+      "name": "Jared Paiz",
+      "spouse": "Haley Paiz",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/paiz-jared-and-haley",
+      "fit_reason": "Post-1990 approval (May 2023); Costa Rica service; surname-first slug format"
+    },
+    {
+      "name": "Stan Sherwood",
+      "spouse": "Jackie Sherwood",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/stan-and-jackie-sherwood",
+      "fit_reason": "Post-1990 approval (September 2011); Panama (Boquete) service; started church 2017"
+    },
+    {
+      "name": "Jeremy Eulberg",
+      "spouse": "Andrea Eulberg",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jeremy-and-andrea-eulberg",
+      "fit_reason": "Post-1990 approval (September 2020); Bolivia service; couple page"
+    },
+    {
+      "name": "Glenn McGhee",
+      "spouse": "Sherri McGhee",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/glenn-and-sherri-mcghee",
+      "fit_reason": "Approved September 1990 (post-1990 cutoff); Ecuador service; son of veteran missionaries"
+    },
+    {
+      "name": "Chris Tignor",
+      "spouse": "Lois Tignor",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/chris-and-lois-tignor",
+      "fit_reason": "Post-1990 approval (September 1997/February 1999); Ecuador service; separate approvals combined"
+    },
+    {
+      "name": "Joshua Lane",
+      "spouse": "Teah Lane",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/joshua-and-teah-lane",
+      "fit_reason": "Post-1990 approval (July 2020); Dominican Republic service; completed TEAM internship"
+    },
+    {
+      "name": "Wesley Lane",
+      "spouse": "Melina Lane",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/wesley-and-melina-lane",
+      "fit_reason": "Approved 1987 to Haiti, current activity in Dominican Republic (moved 1998); continuing ministry both populations"
+    },
+    {
+      "name": "Wade Cooperrider",
+      "spouse": "Shannon Cooperrider",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/wade-and-shannon-cooperrider",
+      "fit_reason": "Post-1990 approval (July 2020); Nicaragua service; couple page"
+    },
+    {
+      "name": "Brian Weed",
+      "spouse": "Rachael Weed",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/brian-and-rachael-weed",
+      "fit_reason": "Post-1990 approval (May 1999); Nicaragua service; couple page"
+    },
+    {
+      "name": "Daniel Palavicini",
+      "spouse": "Luz Palavicini",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/luz-palavicini",
+      "fit_reason": "Post-1990 approval (September 2016); Nicaragua service; single-name URL (Luz) but couple confirmed in search title"
+    },
+    {
+      "name": "Jaron Rogers",
+      "spouse": "Nicki Rogers",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jaron-and-nicki-rogers",
+      "fit_reason": "Post-1990 approval (May 2015); Nicaragua service; couple page"
+    },
+    {
+      "name": "Jason Rogers",
+      "spouse": "Tammy Rogers",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jason-and-tammy-rogers",
+      "fit_reason": "Post-1990 approval (May 1998); Nicaragua service; distinct from Jaron/Nicki Rogers"
+    },
+    {
+      "name": "Max Kennedy",
+      "spouse": "Jennifer Kennedy",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/max-and-jennifer-kennedy",
+      "fit_reason": "Post-1990 approval (May 2014); Nicaragua (Northern) service; Project Epicenter church planting"
+    },
+    {
+      "name": "Tyler Carleton",
+      "spouse": "Brynn Carleton",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/tyler-and-brynn-carleton",
+      "fit_reason": "Post-1990 approval (July 2020); Nicaragua service; couple page (URL shows both names)"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Pre-1990 approval, ambiguous current status",
+      "finding": "Don and Delores Swearingin (May 1983, Mexico)",
+      "evidence": "URL: https://bbfimissions.com/missionary/don-and-delores-swearingin",
+      "recommendation": "Check for retirement or death; 1983 approval makes couple ~90+ years old if living"
+    },
+    {
+      "issue": "Pre-1990 approval, ambiguous current status",
+      "finding": "Leonard and Susan Smith (May 1975, Mexico)",
+      "evidence": "URL: https://bbfimissions.com/missionary/leonard-and-susan-smith",
+      "recommendation": "Pre-1990 approval; verify current activity status"
+    },
+    {
+      "issue": "Pre-1990 approval, title/slug mismatch suggests widow",
+      "finding": "Larry Lilly (September 1970, Mexico). Title shows 'Larry Lilly', URL shows '/larry-and-sharon-lilly'",
+      "evidence": "URL: https://bbfimissions.com/missionary/larry-and-sharon-lilly",
+      "recommendation": "Check if Sharon Lilly is deceased or if page reflects current couple status"
+    },
+    {
+      "issue": "Pre-1990 approval, ambiguous current status",
+      "finding": "Ed and Annita Hoagland (September 1983, Mexico)",
+      "evidence": "URL: https://bbfimissions.com/missionary/ed-and-annita-hoagland",
+      "recommendation": "Pre-1990 approval; verify current activity status"
+    },
+    {
+      "issue": "Retired, pre-1990 approval",
+      "finding": "Rick and Susie Biven (May 1980, Mexico, retired December 31, 2023)",
+      "evidence": "URL: https://bbfimissions.com/missionary/rick-and-susie-biven",
+      "recommendation": "Recently retired but no longer active; exclude from prospect list"
+    },
+    {
+      "issue": "Retired, single-name page, pre-1990 approval",
+      "finding": "Rebecca Terrell (May 1976, Brazil, retired July 1, 2022 after 46 years)",
+      "evidence": "URL: https://bbfimissions.com/missionary/rebecca-terrell",
+      "recommendation": "Recently retired; exclude from prospect list"
+    },
+    {
+      "issue": "Pre-1990 approval",
+      "finding": "Gary and Janet Tomberlin (February 1966, Brazil)",
+      "evidence": "URL: https://bbfimissions.com/missionary/gary-and-janet-tomberlin",
+      "recommendation": "1960s approval; verify if still living and active"
+    },
+    {
+      "issue": "Pre-1990 approval",
+      "finding": "David and Edna Howell (May 1971, Brazil)",
+      "evidence": "URL: https://bbfimissions.com/missionary/david-and-edna-howell",
+      "recommendation": "Pre-1990 approval; verify current activity"
+    },
+    {
+      "issue": "Pre-1990 approval, title/slug mismatch",
+      "finding": "Deloris McClure (September 1965, Brazil). Title shows 'Deloris McClure', snippet references 'Dean and Deloris McClure'",
+      "evidence": "URL: https://bbfimissions.com/missionary/deloris-mcclure",
+      "recommendation": "Check if Dean is deceased or if page focuses on Deloris only; 1965 approval is critical trap age"
+    },
+    {
+      "issue": "Pre-1990 approval",
+      "finding": "George and Betty Lewis (May 1967, Brazil, changed to Romania 1993, back to Brazil 2003)",
+      "evidence": "URL: https://bbfimissions.com/missionary/george-and-betty-lewis",
+      "recommendation": "1960s approval; verify current status and activity level"
+    },
+    {
+      "issue": "Pre-1990 approval",
+      "finding": "Russ and Diane Dean (September 1979, Brazil)",
+      "evidence": "URL: https://bbfimissions.com/missionary/russ-and-diane-dean",
+      "recommendation": "Pre-1990 approval; verify current activity"
+    },
+    {
+      "issue": "Pre-1990 approval",
+      "finding": "Mark and Michele Hale (September 1987, Brazil)",
+      "evidence": "URL: https://bbfimissions.com/missionary/mark-and-michele-hale",
+      "recommendation": "Pre-1990 approval; verify current activity"
+    },
+    {
+      "issue": "Pre-1990 approval",
+      "finding": "Bob and Cala Williams (May 1972, Brazil, served 7 years)",
+      "evidence": "URL: https://bbfimissions.com/missionary/bob-and-cala-williams",
+      "recommendation": "Pre-1990 approval with limited service window; likely retired"
+    },
+    {
+      "issue": "Pre-1990 approval, retired",
+      "finding": "Len and Cyndy Myers (1972, Peru, reinstated 1992, retired December 2012)",
+      "evidence": "URL: https://bbfimissions.com/missionary/len-and-cyndy-myers",
+      "recommendation": "Retired 2012; exclude from prospect list"
+    },
+    {
+      "issue": "Pre-1990 approval, title/slug mismatch suggests widow",
+      "finding": "Wilma Surrett (September 1972, Peru). Title shows 'Wilma Surrett', snippet references 'Dave and Wilma Surrett' (51-year service)",
+      "evidence": "URL: https://bbfimissions.com/missionary/wilma-surrett",
+      "recommendation": "Verify if Dave is deceased; couple approved 1972, likely retired"
+    },
+    {
+      "issue": "Pre-1990 approval",
+      "finding": "Max and Debbie Harmon (May 1982, Peru)",
+      "evidence": "URL: https://bbfimissions.com/missionary/max-and-debbie-harmon",
+      "recommendation": "Pre-1990 approval; verify current activity"
+    },
+    {
+      "issue": "Pre-1990 approval, widow, retired",
+      "finding": "Lucy Smith (1967 as Lucy Nevels, Argentina. Don deceased August 2014, Lucy retired December 2018)",
+      "evidence": "URL: https://bbfimissions.com/missionary/lucy-smith",
+      "recommendation": "Surviving spouse of deceased missionary; retired 2018. Exclude from prospect list"
+    },
+    {
+      "issue": "Pre-1990 approval, retired",
+      "finding": "Charlene Espinosa (September 1972, Argentina, retired March 26, 2004)",
+      "evidence": "URL: https://bbfimissions.com/missionary/charlene-espinosa",
+      "recommendation": "Retired 2004; exclude from prospect list. Note: full name likely Cherie (nickname Charlene?)"
+    },
+    {
+      "issue": "Pre-1990 approval, widow, retired",
+      "finding": "Lynda Todd (May 1964, Argentina. Richard deceased January 2019, Lynda retired August 2015)",
+      "evidence": "URL: https://bbfimissions.com/missionary/lynda-todd",
+      "recommendation": "Surviving spouse of deceased missionary; retired 2015. Exclude from prospect list"
+    },
+    {
+      "issue": "Pre-1990 approval, widow, recently retired",
+      "finding": "Frances Lingo (September 1971, Colombia. Craig deceased July 18, 2021, Frances retired December 2024)",
+      "evidence": "URL: https://bbfimissions.com/missionary/frances-lingo",
+      "recommendation": "Recently retired surviving spouse; TRAP case - exclude from prospect list"
+    },
+    {
+      "issue": "Pre-1990 approval, field transitions",
+      "finding": "Robert and Sandra Frazier (February 1969, Venezuela; served two terms, then Colombia, then Mexico 1979)",
+      "evidence": "URL: https://bbfimissions.com/missionary/robert-and-sandra-frazier",
+      "recommendation": "1969 approval, service transitioned away from LATAM by 1979; verify current status"
+    },
+    {
+      "issue": "Pre-1990 approval",
+      "finding": "James and Phyllis Childress (September 1976, Panama)",
+      "evidence": "URL: https://bbfimissions.com/missionary/james-and-phyllis-childress",
+      "recommendation": "Pre-1990 approval; verify current activity"
+    },
+    {
+      "issue": "Ambiguous data, no approval date found",
+      "finding": "Louise Warner (Panama)",
+      "evidence": "URL: https://bbfimissions.com/missionary/louise-warner",
+      "recommendation": "Single-name page; no approval date in search results. Verify age and current activity status"
+    },
+    {
+      "issue": "Pre-1990 approval",
+      "finding": "James and Carolyn Leatherwood (September 1980, Paraguay)",
+      "evidence": "URL: https://bbfimissions.com/missionary/james-and-carolyn-leatherwood",
+      "recommendation": "Pre-1990 approval; verify current activity"
+    },
+    {
+      "issue": "Pre-1990 approval",
+      "finding": "Jesse and Glenna Parnell (May 1980, Uruguay)",
+      "evidence": "URL: https://bbfimissions.com/missionary/jesse-and-glenna-parnell",
+      "recommendation": "Pre-1990 approval; verify current activity. Note: Esteban and Emily Alvarez are their daughter (valid separate record)"
+    },
+    {
+      "issue": "Very old approval, field change outside LATAM",
+      "finding": "Lavon and Carolyn Waters (May 1958, Uruguay, changed to Spain February 1970)",
+      "evidence": "URL: https://bbfimissions.com/missionary/lavon-and-carolyn-waters",
+      "recommendation": "1958 approval (critical trap age); left LATAM 1970. Exclude from LATAM slice"
+    },
+    {
+      "issue": "Pre-1990 approval",
+      "finding": "Dennis and Janette Horn (September 1985, Bolivia)",
+      "evidence": "URL: https://bbfimissions.com/missionary/dennis-and-janette-horn",
+      "recommendation": "Pre-1990 approval; verify current activity"
+    },
+    {
+      "issue": "Pre-1990 approval, field transitions outside LATAM",
+      "finding": "Eddie and Janet Urey (September 1978, Bolivia, changed to Spain 1982, USLG May 2005)",
+      "evidence": "URL: https://bbfimissions.com/missionary/eddie-and-janet-urey",
+      "recommendation": "Pre-1990 approval; left LATAM 1982. Exclude from LATAM slice"
+    },
+    {
+      "issue": "Pre-1990 approval, retired",
+      "finding": "Joe and Sylvia Wells (September 1975, Ecuador, retired November 2011 after 46 years)",
+      "evidence": "URL: https://bbfimissions.com/missionary/joe-and-sylvia-wells",
+      "recommendation": "Retired 2011; exclude from prospect list. First BBFI missionaries to Ecuador"
+    },
+    {
+      "issue": "Pre-1990 approval, widow, limited service window",
+      "finding": "Bill Amberg (May 1973, Puerto Rico, worked 1976-1982). Title shows 'Bill and Kay Amberg' but title in search showed 'Kay Amberg'",
+      "evidence": "URL: https://bbfimissions.com/missionary/bill-and-kay-amberg",
+      "recommendation": "Pre-1990 approval; served Puerto Rico only 1976-1982 (limited window). Verify current status"
+    },
+    {
+      "issue": "Ambiguous data, limited LATAM service",
+      "finding": "Bill and Vicki Hoving (field change from Wales to Puerto Rico February 2006, changed to England February 2014, retired September 1, 2021)",
+      "evidence": "URL: https://bbfimissions.com/missionary/bill-and-vicki-hoving",
+      "recommendation": "Puerto Rico service 2006-2014; recently retired. Include in LATAM for their PR tenure, but mark as retired"
+    },
+    {
+      "issue": "Ambiguous data, no approval date found",
+      "finding": "Ed and Joyce Butler (Puerto Rico)",
+      "evidence": "URL: https://bbfimissions.com/missionary/ed-and-joyce-butler",
+      "recommendation": "No approval date in search results. Verify approval date and current activity status"
+    },
+    {
+      "issue": "Unknown approval date",
+      "finding": "Eugene and Glenda Worley (Guatemala)",
+      "evidence": "URL pattern suggests: https://bbfimissions.com/missionary/eugene-and-glenda-worley",
+      "recommendation": "No approval date found in search results; verify approval year and current activity"
+    },
+    {
+      "issue": "Unknown approval date",
+      "finding": "Bill and Debbie Crawford (Guatemala)",
+      "evidence": "URL pattern suggests: https://bbfimissions.com/missionary/bill-and-debbie-crawford",
+      "recommendation": "No approval date found in search results; verify approval year and current activity"
+    },
+    {
+      "issue": "Unknown approval date",
+      "finding": "Jonathan and Olivia Solomon (Venezuela)",
+      "evidence": "URL: https://bbfimissions.com/missionary/jonathan-and-olivia-solomon",
+      "recommendation": "No approval date found in search results; verify to distinguish from Joel/Wendy Solomon (Colombia)"
+    },
+    {
+      "issue": "Unknown approval date, single-name page",
+      "finding": "Christine Enoch (Venezuela)",
+      "evidence": "URL: https://bbfimissions.com/missionary/christine-enoch",
+      "recommendation": "No approval date or spouse info found; verify current activity and single vs widow status"
+    },
+    {
+      "issue": "Unknown approval date",
+      "finding": "James and Cristina Sinde (Venezuela)",
+      "evidence": "URL: https://bbfimissions.com/missionary/james-and-cristina-sinde",
+      "recommendation": "No approval date found in search results; verify approval year and current activity"
+    },
+    {
+      "issue": "Unknown approval date",
+      "finding": "Lance and Amy Auterson (Venezuela)",
+      "evidence": "URL: https://bbfimissions.com/missionary/lance-and-amy-auterson",
+      "recommendation": "No approval date found in search results; verify approval year and current activity"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Mexico",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Brazil",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Peru",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Argentina",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Colombia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Venezuela",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Guatemala",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Honduras",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Costa Rica",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Panama",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Paraguay",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Uruguay",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Bolivia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Ecuador",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Dominican Republic",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Puerto Rico",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Nicaragua",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary El Salvador",
+      "outcome": "no_people"
+    }
+  ]
+}

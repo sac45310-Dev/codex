@@ -1,0 +1,373 @@
+{
+  "wave_id": "w2026-09-11y",
+  "agent": "y-asia",
+  "target_org": "Encompass World Partners",
+  "slice": "Japan, Thailand, Cambodia, Philippines, Indonesia, Vietnam, India, Nepal, Malaysia, and Central Asia references",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Will Ferguson",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/will-and-emma",
+      "fit_reason": "Couple page split on title; Will Ferguson joining team in Yamanishi, Japan for six-year assignment. Slug carries both first names, title confirms both spouses."
+    },
+    {
+      "name": "Emma Ferguson",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/will-and-emma",
+      "fit_reason": "Couple page split on title; Emma Ferguson joining team in Yamanishi, Japan for six-year assignment. Shared /person/ page with spouse."
+    },
+    {
+      "name": "Ted Offutt",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/tedandkaylin",
+      "fit_reason": "Couple page split on title; served in Central Asia for twelve years reaching Muslim culture, then four years in Thailand. Career signals: multi-year assignments with stated years of service."
+    },
+    {
+      "name": "Kaylin Offutt",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/tedandkaylin",
+      "fit_reason": "Couple page split on title; served in Central Asia for twelve years, then four years in Thailand. Shared /person/ page with spouse."
+    },
+    {
+      "name": "Matt Higby",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mattandmai",
+      "fit_reason": "Couple page split on title; serving in Japan. Appears across multiple Asia searches indicating established service."
+    },
+    {
+      "name": "Mai Higby",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mattandmai",
+      "fit_reason": "Couple page split on title; serving in Japan. Shared /person/ page with spouse."
+    },
+    {
+      "name": "Junko Saito",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/junko",
+      "fit_reason": "Slug carries first name only; title confirms 'Junko Saito #315'. Grade high per rule: slug carries first name, title carries full name."
+    },
+    {
+      "name": "Elise Klawitter",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/eliseklawitter",
+      "fit_reason": "Surname in slug, title confirms identity. Serving in Cambodia and Southeast Asia."
+    },
+    {
+      "name": "Greg Burgess",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/gregandsandrine",
+      "fit_reason": "Couple page split on title; serving in Cambodia. Slug carries both first names, title confirms both spouses."
+    },
+    {
+      "name": "Sandrine Burgess",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/gregandsandrine",
+      "fit_reason": "Couple page split on title; serving in Cambodia. Shared /person/ page with spouse."
+    },
+    {
+      "name": "Betsy",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/betsy20",
+      "fit_reason": "Slug carries first name only (betsy20); surname absent but career signal is definitive: 'served through church planting and transformation works in Central Asia for nearly two decades and now member of Encompass Mobilization Team.' Clear career in slice."
+    },
+    {
+      "name": "Brian Baughman",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/brian",
+      "fit_reason": "Slug carries first name only; title confirms 'Brian Baughman #3043'. Appears in Japan, Thailand, India, Cambodia, Central Asia searches indicating multi-region Asia service."
+    },
+    {
+      "name": "JB Brown",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Director of Training and Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/jb-brown-33",
+      "fit_reason": "Title 'JB Brown #33' confirms identity. Served ten years in Indonesia with IMB as team leader; now Encompass leadership staff. Career signal: decade of field service."
+    },
+    {
+      "name": "Diana Davis",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/dianadavis",
+      "fit_reason": "Surname in slug, title confirms 'Diana Davis #56'. Appears in India search results."
+    },
+    {
+      "name": "Thierry Mirone",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/thierryandvalerie",
+      "fit_reason": "Couple page split on title; title confirms 'Thierry & Valérie Mirone #255'. Appears in India and Asia searches."
+    },
+    {
+      "name": "Valérie Mirone",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/thierryandvalerie",
+      "fit_reason": "Couple page split on title; title confirms 'Thierry & Valérie Mirone #255'. Shared /person/ page with spouse."
+    },
+    {
+      "name": "Gary McCaman",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/garyandlinda",
+      "fit_reason": "Couple page split on title; title confirms 'Gary & Linda McCaman #237'. Appears in Thailand search results."
+    },
+    {
+      "name": "Linda McCaman",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/garyandlinda",
+      "fit_reason": "Couple page split on title; title confirms 'Gary & Linda McCaman #237'. Shared /person/ page with spouse."
+    },
+    {
+      "name": "Mike Yoder",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Executive Director",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mike-and-letitia",
+      "fit_reason": "Couple page split on title; title confirms 'Mike & Letitia Yoder #448'. Appears in Thailand, Cambodia, India, Malaysia searches. Now leadership role but on giving page."
+    },
+    {
+      "name": "Letitia Yoder",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mike-and-letitia",
+      "fit_reason": "Couple page split on title; title confirms 'Mike & Letitia Yoder #448'. Shared /person/ page with spouse; appears in multiple Asia searches."
+    },
+    {
+      "name": "Joan Justiniano",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/ralphandjoan",
+      "fit_reason": "Couple page URL is /ralph-and-joan but title shows only 'Joan Justiniano #185'. Split on title per rule: only Joan appears in current title; Ralph likely deceased or departed (slug outlived one spouse). Appears in Japan and Philippines searches."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Japan",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Thailand",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Cambodia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Philippines",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Indonesia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Vietnam",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person India",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Nepal",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Malaysia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person \"Central Asia\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person church planter Asia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person \"Bible institute\" Asia",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person teacher Asia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person \"joined the team\" Asia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person \"serving for\" Asia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person missionary Asia -Japan -Thailand -Cambodia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Pakistan Afghanistan Asia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Laos Myanmar Burma Asia",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Short-term intern status with unclear duration",
+      "finding": "Kya Bolding (#3057) serving as Encompass intern in Yamanishi and Osaka, discerning long-term role",
+      "evidence": "Title: 'Kya Bolding #3057'; snippet: 'serving as an Encompass intern...to discern her long-term role in Japanese church planting'",
+      "recommendation": "Verify duration of internship and whether commitment extends to career assignment. 'Intern' is trip signal per TRAP 1."
+    },
+    {
+      "issue": "Episodic short-term mission trips, not career resident",
+      "finding": "Malachi Saunders (#321) served on mission with Encompass twice in Central Asia",
+      "evidence": "Title: 'Malachi Saunders #321'; snippet: 'has served on mission with Encompass twice in Central Asia'",
+      "recommendation": "Trip signals: 'served twice' indicates episodic participation, not resident assignment. Not career material per TRAP 1."
+    },
+    {
+      "issue": "Short-term trip participant; need to verify Asia service component",
+      "finding": "Charity Reist (#3641) going to France May-June 2026; appears in Asia-related searches",
+      "evidence": "Title: 'Charity Reist #3641'; snippet: 'going to France in May and June 2026' (two-month trip). Appears in India, Malaysia, Central Asia, Nepal, Pakistan/Afghanistan searches.",
+      "recommendation": "Trip signal for Europe component confirmed. Determine if Asia service exists; if so, whether it is career-based or exploratory. Currently off-slice focus is France."
+    },
+    {
+      "issue": "Annual short-term mentoring/support trips, not permanent assignment",
+      "finding": "Randy & Susan Clark (#3096) plan annual travel to Japan to support team in Osaka",
+      "evidence": "Title: 'Randy & Susan Clark #3096'; snippet: 'work with Encompass Japanese Returnee ministry and plan to travel to Japan at least once a year to support the team in Osaka'",
+      "recommendation": "Trip signals: 'plan to travel...at least once a year' indicates recurrent short-term mentoring, not career resident assignment. Does not manage ongoing personal donor base."
+    },
+    {
+      "issue": "Anonymized couple, initials-only surname in sensitive region",
+      "finding": "E. & S. N. (#3515) located in Central Asia with initials-only presentation",
+      "evidence": "URL: /person/esn; Title: 'E. & S. N. #3515'. Central Asia appears in BRIEF as highest anonymization risk. No surnames given.",
+      "recommendation": "Sensitive-region anonymization protocol: initials-only entries never emitted per BRIEF TRAP 2. Do not resolve name from other sources. Maintain anonymization as agency intended."
+    },
+    {
+      "issue": "Surname shown as initial only; ambiguous anonymization status",
+      "finding": "Roy & Holly A. (#8) appear in Asia-related searches with surname reduced to initial",
+      "evidence": "Title: 'Roy & Holly A. #8'; slug: royandholly. Appears in Thailand, Central Asia, Laos/Myanmar searches.",
+      "recommendation": "Verify if intentional anonymization (initials-only protection) or data presentation quirk. Anonymization ambiguity warrants review before emitting."
+    },
+    {
+      "issue": "Appears retired; transferred from field service to home office",
+      "finding": "Cecil O'Dell (#280) spent 17 years in Japan, moved to California, launched Japanese Returnee ministry",
+      "evidence": "Title: 'Cecil O'Dell #280'; snippet: 'spent 17 years in Japan...moved to California and launched the Japanese Returnee ministry'",
+      "recommendation": "Retiree check per enumeration rules: Check for retired/legacy/emeritus label. Language ('spent', 'moved', 'launched ministry' as office function) suggests retired from field. Verify status before emitting."
+    },
+    {
+      "issue": "Exploratory trip to Cambodia; established Asia service status unclear",
+      "finding": "Etienne & Myriam Patin (#3574) will travel to Cambodia September 2026 to explore cross-cultural service opportunities",
+      "evidence": "Title: 'Etienne & Myriam Patin #3574'; snippet: 'the family will travel to Cambodia for a month in September 2026 to explore cross-cultural service opportunities'. Appears in Japan and India searches.",
+      "recommendation": "Trip signal for Cambodia: 'will travel...to explore' indicates reconnaissance, not established assignment. Verify if Japan or India service is established and career-based; Cambodia appears exploratory only."
+    },
+    {
+      "issue": "Off-slice focus (Africa); surname shown as initial only",
+      "finding": "Jason & Christy C. (#34) work in Cameroon on Bible institute; no clear Asia assignment",
+      "evidence": "Title: 'Jason & Christy C. #34'; snippet mentions 'founder and first director of the Grace Brethren Bible Institute of Cameroon' and 'Assistant Director of Formal Theological Training in Africa'",
+      "recommendation": "Off-slice (Africa focus, not Asia slice). Also shows surname as initial 'C.' only—verify if this represents anonymization before considering for future waves."
+    },
+    {
+      "issue": "Insufficient evidence; limited data from search results",
+      "finding": "Alfredo & Rita Abreu (#3002) mentioned in one search result with no clear Asia service detail",
+      "evidence": "Result from search 16 only; listed as 'National Ministry Partners' but no specific Asia location or service details in snippet",
+      "recommendation": "Insufficient evidence from search results to classify. Consider targeted search by name in future wave if Asian service is known."
+    }
+  ]
+}

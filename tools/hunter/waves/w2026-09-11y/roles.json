@@ -1,0 +1,565 @@
+{
+  "wave_id": "w2026-09-11y",
+  "agent": "y-roles",
+  "target_org": "Encompass World Partners",
+  "slice": "NO country qualifiers - roles rotation",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Kyler Malarae",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/kylerandclaire",
+      "fit_reason": "Couple page, split on title. Surname in slug portion, title names both. Former teacher in Japan ministry."
+    },
+    {
+      "name": "Claire Malarae",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/kylerandclaire",
+      "fit_reason": "Couple page, split on title. Spouse named in title on couple page."
+    },
+    {
+      "name": "Steve Kern",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/steveandceleste",
+      "fit_reason": "Couple page, split on title. Surname in slug, title names both."
+    },
+    {
+      "name": "Celeste Kern",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/steveandceleste",
+      "fit_reason": "Couple page, split on title. Spouse named in title."
+    },
+    {
+      "name": "MaryAnn Barlow",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/tomandmaryann",
+      "fit_reason": "Title shows MaryAnn Barlow only; couple slug indicates spouse Tom exists but not named in title. Emitted for MaryAnn per title."
+    },
+    {
+      "name": "Dave Guiles",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/dsguiles",
+      "fit_reason": "Couple page, split on title. Surname in slug."
+    },
+    {
+      "name": "Sue Guiles",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/dsguiles",
+      "fit_reason": "Couple page, split on title. Spouse named with husband."
+    },
+    {
+      "name": "Mike Yoder",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Executive Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mike-and-letitia",
+      "fit_reason": "Couple page, split on title. Served Berlin 1997+, returned 2023, now Executive Director. Clear career signal. Tier A: home office and leadership staff raise personal support per org policy."
+    },
+    {
+      "name": "Letitia Yoder",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mike-and-letitia",
+      "fit_reason": "Couple page, split on title. Spouse named with husband on shared family page."
+    },
+    {
+      "name": "Will Ferguson",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/will-and-emma",
+      "fit_reason": "Couple page, split on title. Six-year assignment mentioned = multi-year career signal. Joining team in Japan."
+    },
+    {
+      "name": "Emma Ferguson",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/will-and-emma",
+      "fit_reason": "Couple page, split on title. Spouse on shared family page."
+    },
+    {
+      "name": "Elise Klawitter",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary - Creative Support",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/eliseklawitter",
+      "fit_reason": "Single person page. Provides creative support to organization. Tier A: support functions at faith mission still raise personal salary per org policy."
+    },
+    {
+      "name": "Jason",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary - Theological Education / Bible Institute Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/jasonandchristy",
+      "fit_reason": "Founder and director of Grace Brethren Bible Institute of Cameroon, transitioning to Assistant Director of Formal Theological Training in Africa. Surname withheld in title (Christy C.); Jason emitted as named in title."
+    },
+    {
+      "name": "Thierry Mirone",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary - Church Planter / Team Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/thierryandvalerie",
+      "fit_reason": "Couple page, split on title. Church planter and team leader roles visible."
+    },
+    {
+      "name": "Valérie Mirone",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/thierryandvalerie",
+      "fit_reason": "Couple page, split on title. Spouse on family page."
+    },
+    {
+      "name": "Joan Justiniano",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/ralphandjoan",
+      "fit_reason": "Title shows Joan Justiniano; couple slug indicates spouse Ralph but not named in title. Emitted for Joan per title."
+    },
+    {
+      "name": "Greg Burgess",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/gregandsandrine",
+      "fit_reason": "Couple page, split on title. Surname in slug."
+    },
+    {
+      "name": "Sandrine Burgess",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/gregandsandrine",
+      "fit_reason": "Couple page, split on title. Spouse named."
+    },
+    {
+      "name": "April McKee",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Church Planting Network Coordinator",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/april",
+      "fit_reason": "Single person page. Assists CPN Director's schedule, coordinates large gatherings. Home office/administrative role, still raises personal support per org policy."
+    },
+    {
+      "name": "Junko Saito",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/junko",
+      "fit_reason": "Single person page with first name only in slug. Clear personal page URL."
+    },
+    {
+      "name": "Betsy",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary - Mobilization Team",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/betsy20",
+      "fit_reason": "Served in church planting and transformation works in Central Asia for nearly two decades. Now member of Encompass Mobilization Team. Clear career signal: multi-year service history and current role title."
+    },
+    {
+      "name": "Matt Higby",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mattandmai",
+      "fit_reason": "Couple page, split on title. Surname in slug."
+    },
+    {
+      "name": "Mai Higby",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mattandmai",
+      "fit_reason": "Couple page, split on title. Spouse named with husband."
+    },
+    {
+      "name": "Brian Baughman",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Church Planting - Hispanic Ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/brian",
+      "fit_reason": "Joining Encompass to lead Hispanic church planting in Indiana, writing discipleship materials for Church Equipping Network. Role title and ongoing assignment signal career path."
+    },
+    {
+      "name": "Kya Bolding",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/kya-bolding-3057",
+      "fit_reason": "Single person page. Slug contains first name, surname, and member number (strip number per instructions). Clear personal page."
+    },
+    {
+      "name": "Roy",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/royandholly",
+      "fit_reason": "Couple page, split on title. First name in slug, both first names visible."
+    },
+    {
+      "name": "Holly",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/royandholly",
+      "fit_reason": "Couple page, split on title. Spouse named with husband."
+    },
+    {
+      "name": "Randy Clark",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary - Team Leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/randy-and-susan-clark-3096",
+      "fit_reason": "Couple page, split on title. Surname in slug with number appended (strip number per instructions). Team leader role visible."
+    },
+    {
+      "name": "Susan Clark",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/randy-and-susan-clark-3096",
+      "fit_reason": "Couple page, split on title. Spouse named with husband."
+    },
+    {
+      "name": "JB Brown",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Director of Training and Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/jb-brown-33",
+      "fit_reason": "Leadership/home office role. Tier A: home office staff raise personal support per org policy. Ten years prior field experience in Indonesia (IMB). Clear career signal."
+    },
+    {
+      "name": "Gary McCaman",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary - Member Care",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/garyandlinda",
+      "fit_reason": "Couple page, split on title. Looks after spiritual wellbeing of cross-cultural workers as part of Member Care team."
+    },
+    {
+      "name": "Linda McCaman",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/garyandlinda",
+      "fit_reason": "Couple page, split on title. Spouse on shared family page."
+    },
+    {
+      "name": "Ted Offutt",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary - Theological Education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/tedandkaylin",
+      "fit_reason": "Couple page, split on title. Slug has both first names, confirmed by title showing both. Theological education role visible."
+    },
+    {
+      "name": "Kaylin Offutt",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/tedandkaylin",
+      "fit_reason": "Couple page, split on title. Spouse named with husband."
+    },
+    {
+      "name": "Cecil O'Dell",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary - Theological Education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/cecil",
+      "fit_reason": "Single person page. Slug has first name only; title provides full name. Theological education involvement visible."
+    },
+    {
+      "name": "Vicki DeArmey",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/vickidearmey",
+      "fit_reason": "Single person page. Surname in slug. Clear personal page."
+    },
+    {
+      "name": "Diana Davis",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/dianadavis",
+      "fit_reason": "Single person page. Surname in slug. Appears on both main and give domains."
+    },
+    {
+      "name": "Eddie Mensinger",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary - Medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/eddieandlinda",
+      "fit_reason": "Couple page, split on title. Medical role indicated."
+    },
+    {
+      "name": "Linda Mensinger",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/eddieandlinda",
+      "fit_reason": "Couple page, split on title. Spouse named with husband."
+    },
+    {
+      "name": "Tom Julien",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/tomjulien",
+      "fit_reason": "Single person page. Surname in slug."
+    },
+    {
+      "name": "Paul Klawitter",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Senior Director - Church Planting Network",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/paulandlouise",
+      "fit_reason": "Couple page, split on title. Leadership role: served as Europe Director for 10 years, now Senior Director of Church Planting Network. Clear career signal."
+    },
+    {
+      "name": "Louise Klawitter",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/paulandlouise",
+      "fit_reason": "Couple page, split on title. Spouse named with husband."
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person church planter",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person team leader",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person theological education",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person Bible institute",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person seminary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person medical",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person nurse",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person teacher",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person MK education",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person community development",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person business as mission",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person member care",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person executive director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person regional director",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person mobilizer",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person home office",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:encompassworldpartners.org/person \"joined the team\"",
+      "outcome": "no_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "TRAP 2: Anonymized worker",
+      "finding": "E. & S. N. #3515",
+      "evidence": "Slug /person/esn shows initials only, title shows 'E. & S. N. #3515'. Couple anonymized, works Central Asia.",
+      "recommendation": "Do not emit. Put in needs_review per TRAP 2. Surnames withheld on purpose by agency for protection. Member number is not a name."
+    },
+    {
+      "issue": "TRAP 2: Surname withheld",
+      "finding": "Christy (from Jason & Christy C.)",
+      "evidence": "Page jasonandchristy titled 'Jason & Christy C.' Christy's surname reduced to initial only. Jason emitted; Christy's name incomplete.",
+      "recommendation": "Do not emit Christy as separate record. Surname is withheld (only 'C.' visible). Per TRAP 2, initials-only or withheld-surname entries go to needs_review. Cannot resolve from another source."
+    },
+    {
+      "issue": "TRAP 2: Possible spouse on couple page not named in title",
+      "finding": "Tom (from couple slug tomandmaryann)",
+      "evidence": "Slug shows tomandmaryann (#14) but title shows only 'MaryAnn Barlow #14'. Couple page structure implies Tom exists but not named in title.",
+      "recommendation": "Do not emit Tom. MaryAnn was emitted per title. Per split-couple rule, put spouse in needs_review rather than guessing when not named in title."
+    },
+    {
+      "issue": "TRAP 2: Possible spouse on couple page not named in title",
+      "finding": "Ralph (from couple slug ralphandjoan)",
+      "evidence": "Slug shows ralphandjoan (#185) but title shows only 'Joan Justiniano #185'. Couple page structure implies Ralph exists but not named in title.",
+      "recommendation": "Do not emit Ralph. Joan was emitted per title. Per split-couple rule, put spouse in needs_review rather than guessing."
+    },
+    {
+      "issue": "TRAP 1: Short-term trip participant vs career missionary",
+      "finding": "Charity Reist #3641",
+      "evidence": "Search snippet: 'going to France in May and June 2026' - explicit date range of 2 months.",
+      "recommendation": "Put in needs_review, not emitted. Trip signal: date range of weeks/months (May-June = 2 months). Does not manage ongoing personal donor base, only raises for one trip. Trip_duration: 2 months."
+    },
+    {
+      "issue": "TRAP 1: Episodic service / student status ambiguity",
+      "finding": "Malachi Saunders #321",
+      "evidence": "Search snippet: 'has served on mission with Encompass twice in Central Asia' (episodic signal). Also described as 'Lancaster Bible College class of 2024' (student status) and recruiting team member (ongoing role). Mixed signals.",
+      "recommendation": "Put in needs_review. Cannot clearly determine career vs short-term from available evidence. 'Served twice' signals episodic/short-term rather than resident assignment. Student status suggests may still be in training."
+    },
+    {
+      "issue": "TRAP 1: Exploratory trip - career status ambiguous",
+      "finding": "Etienne & Myriam Patin #3574",
+      "evidence": "Search snippet: 'The family will travel to Cambodia for a month in September 2026 to explore how they might be able to use their gifts to serve cross-culturally.' Trip for exploratory purpose; full career history not accessible from snippets.",
+      "recommendation": "Put in needs_review. Cannot definitively determine if established career staff on exploratory assignment or newer exploratory trip. Trip duration is 1 month. 'Explore' language suggests not yet committed. Patin serves as school nurse - possibly established role - but Cambodia trip signal is ambiguous without full page access."
+    }
+  ]
+}

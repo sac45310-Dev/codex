@@ -1,0 +1,2175 @@
+{
+  "wave_id": "w2026-09-11w",
+  "agent": "w-roles",
+  "target_org": "Mission to the World",
+  "slice": "roles: church planter, campus ministry, theological education, seminary, teacher, MK school, business as mission, mercy ministry, medical, counseling, youth, music/worship, administration, team leader, regional director, refugee ministry, translation, women's ministry",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Adriana Wood",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/kenton-wood/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Alex Halbert",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/halbert-alex-and-maggie",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Alysha Menkis",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "women's ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/andrew-alysha-menkis/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Amanda Meadows",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/meadows-amanda/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Amy Newsome",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/wayne-and-amy-newsome",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Andrea Burnham",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "refugee ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bob-and-andrea-burnham/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Andrew Menkis",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "women's ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/andrew-alysha-menkis/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Anita Chambers",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/garry-and-anita-chambers/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Ann Austin",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/tom-and-ann-austin/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Ash Aeschliman",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/aeschliman-ash-and-betsy",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Ashley Essig",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/essig-chris-and-ashley/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Becky Young",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dan-and-becky-young/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Beth Beaver",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "business as mission",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/beaver-franklin-and-beth/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Betsy Aeschliman",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/aeschliman-ash-and-betsy",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Betty Aschmann",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/richard-and-betty-aschmann/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Beverly Fitzpatrick",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/joe-and-bev-fitzpatrick/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Beyongseob Han",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "business as mission",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/beyongseob-and-kyungsoon-han",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Bill Carr",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bill-and-susan-carr-1",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Bill Letchworth",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bill-and-mae-lee-letchworth/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Bob Burnham",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "refugee ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bob-and-andrea-burnham/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Bob Drews",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "women's ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bob-and-sharon-drews/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Brent Kooi",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/brent-kooi/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Brett Rayl",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/brett-and-taylor-rayl/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Carla Stevens",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/carla-stevens/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Carly Chase",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/matt-and-carly-chase/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Carol Iverson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dan-and-carol-iverson/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Caroline Newkirk",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/matt-and-caroline-newkirk/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Charlie Alvarenga",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/alvarenga-charlie/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Charline Jacobs",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "youth",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/j-joshua/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Cheryl Crocker",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/cheryl-crocker/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Chris Essig",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/essig-chris-and-ashley/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Christopher Andino",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/andino-christopher/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Cindy Sproull",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/todd-and-cindy-sproull/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Claudia Jung",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jim-and-claudia-jung/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Claudia Profire",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/romania-national-partner-raul-profire/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Coby McGinty",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/coby-and-pamela-mcginty/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Craig Chapin",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/craig-and-yumiko-chapin/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Craig Coulbourne",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/craig-and-ree-coulbourne/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Craig Gahagen",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.mtw.org/missionaries/details/craig-and-heather-gahagen",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Crystal Bagby",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/titus-and-crystal-bagby/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Dan Iverson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dan-and-carol-iverson/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Dan McBride",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://mtw.org/missionaries/details/14701/",
+      "fit_reason": "Numeric ID in URL; person identified from title 'Dan & Janet McBride'"
+    },
+    {
+      "name": "Dan Young",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dan-and-becky-young/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Dave Culmer",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dave-culmer/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "David Brooks",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-gwen-brooks-1/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "David Diaso",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-dawn-diaso/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "David Nam",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/nam-david-and-susanna/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "David Pervis",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "refugee ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-erin-pervis/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "David Rogers",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rogers-david-and-kelly/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "David Stoddard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-eowyn-stoddard/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "David White",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-robin-white/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Dawn Diaso",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-dawn-diaso/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Deborah Hale",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/robert-and-deborah-hale",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Dennis Conroy",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dennis-and-rhonda-conroy-1/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Derek Ebbers",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "team leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/derek-and-shannon-ebbers/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Derek Tu",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/tu-derek-and-nancy/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Doug Shepherd",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "team leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/doug-and-masha-shepherd/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Elizabeth Johnson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/johnson-josh-and-elizabeth/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Ellen Barnett",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ellen-barnett/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Ellen Buerger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/buerger-john-ellen/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Emily Henry",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/henry-dh-and-emily",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Emma Hegler",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "youth",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hegler-matt-and-emma/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Eowyn Stoddard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-eowyn-stoddard/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Eric Larsen",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "youth",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/eric-and-rebecca-larsen/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Erin Pervis",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "refugee ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-erin-pervis/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Erin Taylor",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "youth",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/taylor-nate-and-erin/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Esaie Etienne",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/esaie-and-natacha-etienne",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Esther Jeong",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jeong-mark-and-esther/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Ewa Otremba",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/krystian-ewa-otremba/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Felicity Congdon",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/joe-and-felicity-congdon/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Frank Matthews",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/matthews-frank-and-suzanne/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Franklin Beaver",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "business as mission",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/beaver-franklin-and-beth/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Garry Chambers",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/garry-and-anita-chambers/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Glenn Grubb",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.mtw.org/missionaries/details/glenn-and-sharlene-grubb",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Gloria Kang",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/kang-sam/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Grace Chung",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "refugee ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/chung-grace/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Gwen Brooks",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-gwen-brooks-1/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Heather Gahagen",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.mtw.org/missionaries/details/craig-and-heather-gahagen",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Heidi Hill",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hill-heidi/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Holly Hoppe",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hoppe-holly/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Hugh Wessel",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hugh-and-martine-wessel/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Jamie Burkemper",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jamie-and-jennifer-burkemper/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Janet McBride",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://mtw.org/missionaries/details/14701/",
+      "fit_reason": "Numeric ID in URL; person identified from title 'Dan & Janet McBride'"
+    },
+    {
+      "name": "Jennifer Burkemper",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jamie-and-jennifer-burkemper/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Jenny Ilderton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rob-and-jenny-ilderton/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Jim Jung",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jim-and-claudia-jung/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Joe Congdon",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/joe-and-felicity-congdon/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Joe Fitzpatrick",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/joe-and-bev-fitzpatrick/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "John Buerger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/buerger-john-ellen/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "John Clow",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/john-and-kathy-clow/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "John McCall",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mccall-john-lorena/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "John Stodghill",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/john-and-karen-stodghill/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Jonathan Eide",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jonathan-and-tracy-eide/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Jonathan Lee",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "refugee ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jonathan-lee-and-joy/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Josh Johnson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/johnson-josh-and-elizabeth/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Joshua Jacobs",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "youth",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/j-joshua/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Joy Lee",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "refugee ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jonathan-lee-and-joy/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Joy Ramsey",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/ramsey-joy/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Kaja Sylwestrowicz",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/michal-and-kaja-sylwestrowicz/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Karen Adjei",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/karen-adjei/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Karen Nantz",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/quentin-and-karen-nantz",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Karen Stodghill",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/john-and-karen-stodghill/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Kathryn Winenger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/winenger-matt-and-kathryn/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Kathy Clow",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/john-and-kathy-clow/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Katie Jacobson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jacobson-katie/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Keith Knowlton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/knowlton-keith-and-rachel/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Kelly Rogers",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rogers-david-and-kelly/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Kenton Wood",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/kenton-wood/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Kiki Adams",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.mtw.org/missionaries/details/trey-and-kiki-adams",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Kim Pierce",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/pierce-oliver-and-kim/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Kristina Swanson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "youth",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/swanson-ryan-and-kristina/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Krystian Otremba",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/krystian-ewa-otremba/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Kyungsoon Han",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "business as mission",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/beyongseob-and-kyungsoon-han",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Laura Ambrose",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ambrose-mark-and-laura/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Laura Love",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/love-dr-tim-and-laura",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Lauren Adair Evans",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/evans-lauren/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Linda Karner",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/linda-karner",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Liz Crusey",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "refugee ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/crusey-todd-and-liz/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Lorena McCall",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mccall-john-lorena/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Lucy Wright",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/wright-tom-and-lucy/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Luke Smith",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/luke-and-sokha-smith/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Luke Stannard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stannard-luke-and-michelle/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Mae Lee Letchworth",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bill-and-mae-lee-letchworth/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Maggie Halbert",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/halbert-alex-and-maggie",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Mark Ambrose",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ambrose-mark-and-laura/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Mark Bocanegra",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mark-and-megumi-bocanegra-1/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Mark Jeong",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jeong-mark-and-esther/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Mark Kim",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/kim-mark-rachel/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Martine Wessel",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hugh-and-martine-wessel/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Mary Ellen Garofalo",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/garofalo-santo-and-mary-ellen/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Masakuni Hotta",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hotta-masakuni/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Masha Shepherd",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "team leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/doug-and-masha-shepherd/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Matt Chase",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/matt-and-carly-chase/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Matt Hegler",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "youth",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/hegler-matt-and-emma/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Matt Newkirk",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/matt-and-caroline-newkirk/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Matt Winenger",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/winenger-matt-and-kathryn/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Meghan Dillon",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "team leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/scott-and-meghan-dillon/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Megumi Bocanegra",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/mark-and-megumi-bocanegra-1/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Melanie Johnson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "youth",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/melanie-johnson",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Michal Sylwestrowicz",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "seminary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/michal-and-kaja-sylwestrowicz/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Michele Call",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ray-and-michele-call",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Michelle Stannard",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stannard-luke-and-michelle/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Miriam Grady",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/miriam-grady/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Molly De Bruin",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/de-bruin-molly",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Mylicah Smith",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "team leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/smith-tom-and-mylicah/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Nancy Tu",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/tu-derek-and-nancy/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Natacha Etienne",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/esaie-and-natacha-etienne",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Nate Taylor",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "youth",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/taylor-nate-and-erin/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Nathan Bonham",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/nate-and-nikki-bonham/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Nikki Bonham",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/nate-and-nikki-bonham/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Nosizo Nakah",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/victor-and-nosizo-nakah/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Oliver Pierce",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/pierce-oliver-and-kim/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Pamela McGinty",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/coby-and-pamela-mcginty/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Pamyla Burrack",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/pamyla-burrack/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Paul Ham",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "refugee ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ham-paul/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Pete Mitchell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "team leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/pete-and-ruth-mitchell/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Phil Stogner",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stogner-phil-wendy",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Quentin Nantz",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/quentin-and-karen-nantz",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Rachel Calbert",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rachel-calbert/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Rachel Kim",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/kim-mark-rachel/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Rachel Knowlton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/knowlton-keith-and-rachel/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Raul Profire",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/romania-national-partner-raul-profire/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Ray Call",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/ray-and-michele-call",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Rebecca Larsen",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "youth",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/eric-and-rebecca-larsen/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Ree Coulbourne",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/craig-and-ree-coulbourne/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Rhonda Conroy",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/dennis-and-rhonda-conroy-1/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Richard Aschmann",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/richard-and-betty-aschmann/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Rob Ilderton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rob-and-jenny-ilderton/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Robert Hale",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/robert-and-deborah-hale",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Robin Price",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/robin-price/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Robin White",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/david-and-robin-white/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Rosemary Bolton",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/rosemary-bolton/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Ruth Mitchell",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "team leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/pete-and-ruth-mitchell/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Ryan Swanson",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "youth",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/swanson-ryan-and-kristina/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Sally Cathcart",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/cathcart-sally/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Sam Kang",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/kang-sam/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Santo Garofalo",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "administration",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/garofalo-santo-and-mary-ellen/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Sarah Roberts",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "teacher",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/sarah-roberts/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Scott Dillon",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "team leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/scott-and-meghan-dillon/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Shannon DeBoer",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/deboer-shannon/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Shannon Ebbers",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "team leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/derek-and-shannon-ebbers/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Sharlene Grubb",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "translation",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.mtw.org/missionaries/details/glenn-and-sharlene-grubb",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Sharon Drews",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "women's ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bob-and-sharon-drews/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Sokha Smith",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/luke-and-sokha-smith/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Susan Carr",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/bill-and-susan-carr-1",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Susanna Nam",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/nam-david-and-susanna/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Suzanne Matthews",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/matthews-frank-and-suzanne/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Taylor Rayl",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/brett-and-taylor-rayl/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Therese Galage",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/tim-and-therese-galage/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Tim Galage",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/tim-and-therese-galage/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Tim Love",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/love-dr-tim-and-laura",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Titus Bagby",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/titus-and-crystal-bagby/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Todd Crusey",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "refugee ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/crusey-todd-and-liz/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Todd Sproull",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "mercy ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/todd-and-cindy-sproull/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Tom Austin",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "theological education",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/tom-and-ann-austin/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Tom Smith",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "team leader",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/smith-tom-and-mylicah/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Tom Wright",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "medical",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/wright-tom-and-lucy/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Tracy Eide",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "regional director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/jonathan-and-tracy-eide/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Trey Adams",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://www.mtw.org/missionaries/details/trey-and-kiki-adams",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Victor Nakah",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "campus ministry",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/victor-and-nosizo-nakah/",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Wayne Newsome",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "counseling",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/wayne-and-amy-newsome",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Wendy Stogner",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "church planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/stogner-phil-wendy",
+      "fit_reason": "Tier A; personal giving page"
+    },
+    {
+      "name": "Yumiko Chapin",
+      "org": "Mission to the World",
+      "tier": "A",
+      "role": "music/worship",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://mtw.org/missionaries/details/craig-and-yumiko-chapin/",
+      "fit_reason": "Tier A; personal giving page"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries church planter",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries campus ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries theological education",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries seminary",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries teacher",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries \"MK school\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries \"business as mission\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries mercy ministry",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries medical",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries counseling",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries youth",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries music worship",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries administration",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries \"team leader\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries \"regional director\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries refugee",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries translation",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:mtw.org/missionaries \"women's ministry\"",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
+      "finding": "Charles T.",
+      "evidence": "URL: https://mtw.org/missionaries/details/400932, Title: Charles & Irene T.",
+      "recommendation": "Do not emit - agency designates secure location workers with initials only"
+    },
+    {
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
+      "finding": "Irene T.",
+      "evidence": "URL: https://mtw.org/missionaries/details/400932, Title: Charles & Irene T.",
+      "recommendation": "Do not emit - agency designates secure location workers with initials only"
+    },
+    {
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
+      "finding": "DH Henry",
+      "evidence": "URL: https://mtw.org/missionaries/details/henry-dh-and-emily, Title: DH & Emily Henry",
+      "recommendation": "Do not emit - agency designates secure location workers with initials only"
+    },
+    {
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
+      "finding": "Jim W.",
+      "evidence": "URL: https://mtw.org/missionaries/details/18391/, Title: Jim & Karen W.",
+      "recommendation": "Do not emit - agency designates secure location workers with initials only"
+    },
+    {
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
+      "finding": "Karen W.",
+      "evidence": "URL: https://mtw.org/missionaries/details/18391/, Title: Jim & Karen W.",
+      "recommendation": "Do not emit - agency designates secure location workers with initials only"
+    },
+    {
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
+      "finding": "Keith K.",
+      "evidence": "URL: https://www.mtw.org/missionaries/details/13900, Title: Keith & Debbie K.",
+      "recommendation": "Do not emit - agency designates secure location workers with initials only"
+    },
+    {
+      "issue": "Abbreviated or initial-only name component (secure location worker)",
+      "finding": "Debbie K.",
+      "evidence": "URL: https://www.mtw.org/missionaries/details/13900, Title: Keith & Debbie K.",
+      "recommendation": "Do not emit - agency designates secure location workers with initials only"
+    }
+  ]
+}

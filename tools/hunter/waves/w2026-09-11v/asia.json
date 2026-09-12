@@ -1,0 +1,903 @@
+{
+  "wave_id": "w2026-09-11v",
+  "agent": "v-asia",
+  "target_org": "Baptist Bible Fellowship International",
+  "slice": "Japan, Philippines, Taiwan, Korea, Thailand, Indonesia, Singapore, Malaysia, India, Cambodia, Guam, Micronesia",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Chris Shirrell",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/chris-and-miranda-shirrell",
+      "fit_reason": "Couple page titled Chris and Miranda Shirrell; Chris in slug and title; approved Japan May 2021"
+    },
+    {
+      "name": "Miranda Shirrell",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/chris-and-miranda-shirrell",
+      "fit_reason": "Couple page; Miranda in title; shared support-raising page with spouse"
+    },
+    {
+      "name": "Lance Patterson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/lance-and-leah-patterson",
+      "fit_reason": "Couple page titled Lance and Leah Patterson; approved Philippines May 2012 after Kenya assignment"
+    },
+    {
+      "name": "Leah Patterson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/lance-and-leah-patterson",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Brian Cain",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/brian-and-jezel-cain",
+      "fit_reason": "Couple page titled Brian and Jezel Cain; approved Philippines September 2015"
+    },
+    {
+      "name": "Jezel Cain",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/brian-and-jezel-cain",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Andrew Perez",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/andrew-and-kelsey-perez",
+      "fit_reason": "Couple page titled Andrew and Kelsey Perez; approved Philippines May 2022"
+    },
+    {
+      "name": "Kelsey Perez",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/andrew-and-kelsey-perez",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Jordan Nisly",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jordan-and-nikki-nisly",
+      "fit_reason": "Couple page titled Jordan and Nikki Nisly; approved Philippines May 2014"
+    },
+    {
+      "name": "Nikki Nisly",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jordan-and-nikki-nisly",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Cory Lyons",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/cory-and-jessie-lyons",
+      "fit_reason": "Couple page titled Cory and Jessie Lyons; approved Philippines September 2013"
+    },
+    {
+      "name": "Jessie Lyons",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/cory-and-jessie-lyons",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Aaron Stephens",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/aaron-and-lani-stephens",
+      "fit_reason": "Couple page titled Aaron and Lani Stephens; approved Philippines May 2022"
+    },
+    {
+      "name": "Lani Stephens",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/aaron-and-lani-stephens",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Tyler Carleton",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/tyler-and-brynn-carleton",
+      "fit_reason": "Couple page titled Tyler and Brynn Carleton; approved Philippines May 2023, transitioning September 2025"
+    },
+    {
+      "name": "Brynn Carleton",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/tyler-and-brynn-carleton",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Shane Salmon",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/shane-and-kayti-salmon",
+      "fit_reason": "Couple page titled Shane and Kayti Salmon; approved Thailand May 2014"
+    },
+    {
+      "name": "Kayti Salmon",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/shane-and-kayti-salmon",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Justin Trill",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/justin-and-becka-trill",
+      "fit_reason": "Couple page titled Justin and Becka Trill; approved Thailand September 2018; multi-country"
+    },
+    {
+      "name": "Becka Trill",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/justin-and-becka-trill",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Louise Warner",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/louise-warner",
+      "fit_reason": "Single-name page; approved Philippines September 2012; multi-country"
+    },
+    {
+      "name": "Sam Beard",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/sam-and-megan-beard",
+      "fit_reason": "Couple page titled Sam and Megan Beard; approved South Korea September 2011; internship began 2007"
+    },
+    {
+      "name": "Megan Beard",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/sam-and-megan-beard",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Andy Simpson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/andrew-and-lisa-simpson",
+      "fit_reason": "Couple page titled Andy and Lisa Simpson; approved Taiwan May 1991; serving Taichung since 1993"
+    },
+    {
+      "name": "Lisa Simpson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/andrew-and-lisa-simpson",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "David Homer",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/david-homer",
+      "fit_reason": "Single-name page; USLG missionary February 2000, transitioned Taiwan May 2004"
+    },
+    {
+      "name": "Ian Richards",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/ian-and-amanda-richards",
+      "fit_reason": "Couple page titled Ian and Amanda Richards; approved Australia September 2017, field changed Pacific Islands (Guam) May 2022"
+    },
+    {
+      "name": "Amanda Richards",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/ian-and-amanda-richards",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Ray Crocker",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/ray-and-ginger-crocker",
+      "fit_reason": "Couple page titled Ray and Ginger Crocker; approved Korea May 1979, transitioned Singapore May 1993"
+    },
+    {
+      "name": "Ginger Crocker",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/ray-and-ginger-crocker",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Mike Ivey",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/mike-and-jill-ivey",
+      "fit_reason": "Couple page titled Mike and Jill Ivey; approved Korea September 1986; current activity confirmed (working since 1986, permanently relocated to Jeju)"
+    },
+    {
+      "name": "Jill Ivey",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/mike-and-jill-ivey",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Paul Byars",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/paul-and-ellen-byars",
+      "fit_reason": "Couple page titled Paul and Ellen Byars; approved Philippines May 1975, resigned 1990, reinstated May 1992"
+    },
+    {
+      "name": "Ellen Byars",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/paul-and-ellen-byars",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "James Sinde",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/james-and-cristina-sinde",
+      "fit_reason": "Couple page titled James and Cristina Sinde; found in Singapore/Malaysia/India searches; no approval date in snippets"
+    },
+    {
+      "name": "Cristina Sinde",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/james-and-cristina-sinde",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Christine Enoch",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/christine-enoch",
+      "fit_reason": "Single-name page; found in Singapore/Malaysia/India/Cambodia searches; no approval date in snippets"
+    },
+    {
+      "name": "Steven Khoury",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/steven-khoury",
+      "fit_reason": "Single-name page; found in Singapore/Cambodia searches; no approval date in snippets"
+    },
+    {
+      "name": "Lance Auterson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/lance-and-amy-auterson",
+      "fit_reason": "Couple page titled Lance and Amy Auterson; found in Singapore/India searches; no approval date in snippets"
+    },
+    {
+      "name": "Amy Auterson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/lance-and-amy-auterson",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Elmo Compton",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/elmo-and-kathryn-compton",
+      "fit_reason": "Couple page titled Elmo and Kat Compton; found in Malaysia/Taiwan/India/Cambodia searches; no approval date in snippets"
+    },
+    {
+      "name": "Kat Compton",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/elmo-and-kathryn-compton",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Dalton Walker",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/dalton-and-paulette-walker",
+      "fit_reason": "Couple page titled Dalton and Paulette Walker; found in Malaysia search; no approval date in snippets"
+    },
+    {
+      "name": "Paulette Walker",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/dalton-and-paulette-walker",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Bill Crawford",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/bill-and-debbie-crawford",
+      "fit_reason": "Couple page titled Bill and Debbie Crawford; found in Malaysia/India searches; no approval date in snippets"
+    },
+    {
+      "name": "Debbie Crawford",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/bill-and-debbie-crawford",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Phil Long",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/phil-and-vala-long",
+      "fit_reason": "Couple page titled Phil and Vala Long; found in Indonesia/Guam searches; no approval date in snippets"
+    },
+    {
+      "name": "Vala Long",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/phil-and-vala-long",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Ed Butler",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/ed-and-joyce-butler",
+      "fit_reason": "Couple page titled Ed and Joyce Butler; found in Indonesia/Malaysia/Micronesia searches; no approval date in snippets"
+    },
+    {
+      "name": "Joyce Butler",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/ed-and-joyce-butler",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Bob Williams",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/bob-and-cala-williams",
+      "fit_reason": "Couple page titled Bob and Cala Williams; found in India search; no approval date in snippets"
+    },
+    {
+      "name": "Cala Williams",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/bob-and-cala-williams",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Eugene Worley",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/eugene-and-glenda-worley",
+      "fit_reason": "Couple page titled Eugene and Glenda Worley; found in India/Japan searches; no approval date in snippets"
+    },
+    {
+      "name": "Glenda Worley",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/eugene-and-glenda-worley",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Dave Green",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/dave-and-terri-green",
+      "fit_reason": "Couple page titled Dave and Terri Green; found in Taiwan search; no approval date in snippets"
+    },
+    {
+      "name": "Terri Green",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/dave-and-terri-green",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Keith Sampson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/keith-and-lisa-sampson",
+      "fit_reason": "Couple page titled Keith and Lisa Sampson; found in Taiwan search; no approval date in snippets"
+    },
+    {
+      "name": "Lisa Sampson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/keith-and-lisa-sampson",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Luke Lyons",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/luke-and-kelly-lyons",
+      "fit_reason": "Couple page titled Luke and Kelly Lyons; found in Cambodia search; no approval date in snippets"
+    },
+    {
+      "name": "Kelly Lyons",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/luke-and-kelly-lyons",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Daniel Bowles",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/dan-and-meshelle-bowles",
+      "fit_reason": "Couple page titled Daniel and Meshelle Bowles; found in Korea/Guam searches; no approval date in snippets"
+    },
+    {
+      "name": "Meshelle Bowles",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/dan-and-meshelle-bowles",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Jonathan Solomon",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jonathan-and-olivia-solomon",
+      "fit_reason": "Couple page titled Jonathan and Olivia Solomon; found in Thailand/Singapore/Malaysia/Cambodia searches; no approval date in snippets"
+    },
+    {
+      "name": "Olivia Solomon",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jonathan-and-olivia-solomon",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Corey Wilcher",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/wilcher-corey-and-cora",
+      "fit_reason": "Couple page titled Corey and Cora Wilcher; found in Thailand/Malaysia/Cambodia searches; no approval date in snippets"
+    },
+    {
+      "name": "Cora Wilcher",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/wilcher-corey-and-cora",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Fabio Oliveira",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/fabio-and-debra-oliveira",
+      "fit_reason": "Couple page titled Fabio and Debra Oliveira; found in Japan exclusion search; no approval date or country in snippets"
+    },
+    {
+      "name": "Debra Oliveira",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/fabio-and-debra-oliveira",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Jaron Rogers",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jaron-and-nicki-rogers",
+      "fit_reason": "Couple page titled Jaron and Nicki Rogers; found in Japan exclusion search; no approval date or country in snippets"
+    },
+    {
+      "name": "Nicki Rogers",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jaron-and-nicki-rogers",
+      "fit_reason": "Couple page; support-raising spouse"
+    },
+    {
+      "name": "Barbara Neel",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/barbara-neel",
+      "fit_reason": "Single-name page; found in Japan search; no approval date in snippets"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Japan",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Philippines",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Thailand",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Korea",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Indonesia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Singapore",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Malaysia",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary India",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Taiwan",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Cambodia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Guam",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Micronesia",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"church planter\"",
+      "outcome": "offtopic"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"on deputation\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary aviation",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Japan -Piatt -Smith -Burgett -King -Shirrell -Wyatt -Hathaway -McCown -Neel",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Philippines -Lyons -Reap -Patterson -Cain -Perez -Mislan -Nisly -Byars -Stephens",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary Thailand -Salmon -Trill -Rogers -Warner -Solomon -Wilcher",
+      "outcome": "no_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Pre-1990 approval, retired",
+      "finding": "Ken Board",
+      "evidence": "Approved Japan September 1966; retired June 2021. Also found couple reference to Louise Board in snippet but page titled Ken Board only.",
+      "recommendation": "Withhold Ken (retired). If Louise Board is still serving, verify on separate page and emit with current activity confirmation."
+    },
+    {
+      "issue": "Pre-1990 approval, no current activity stated",
+      "finding": "Greg and LuAnn Lyons",
+      "evidence": "Approved Philippines May 1985. Snippet mentions approval date only, no statement of current activity or retirement.",
+      "recommendation": "Verify on page whether currently active in Philippines or retired/transitioned."
+    },
+    {
+      "issue": "Pre-1990 approval, no current activity stated",
+      "finding": "Mike and Sandie Reap",
+      "evidence": "Approved Philippines September 1982. Snippet mentions approval date only.",
+      "recommendation": "Verify current activity status."
+    },
+    {
+      "issue": "Retired from active service",
+      "finding": "Mike and Lenore Mislan",
+      "evidence": "Approved Philippines May 1991; retired from active missionary service December 31, 2023.",
+      "recommendation": "Withhold from active list; not currently prospect."
+    },
+    {
+      "issue": "Pre-1990 approval, no clear current activity",
+      "finding": "Ricky and Tammy Salmon",
+      "evidence": "Approved Thailand May 1988. No current activity statement in snippet.",
+      "recommendation": "Verify on page whether still active or retired/transitioned."
+    },
+    {
+      "issue": "Pre-1990 approval, field change outside slice",
+      "finding": "Will and Dorothy Rogers",
+      "evidence": "Approved Thailand May 1987; changed fields to Canada September 1996.",
+      "recommendation": "No longer in slice; withhold from Asia-Pacific output."
+    },
+    {
+      "issue": "Pre-1990 approval, no clear current activity",
+      "finding": "Cliff and Neoma McGhee",
+      "evidence": "Approved Korea February 1967; resigned 1980; reinstated May 1988. Post-reinstatement approval before 1990.",
+      "recommendation": "Verify current activity status; if retired, withhold."
+    },
+    {
+      "issue": "Pre-1990 approval, no current activity stated",
+      "finding": "Frank and Mary Bosler",
+      "evidence": "Approved Korea May 1982. No current activity statement in snippet.",
+      "recommendation": "Verify current activity."
+    },
+    {
+      "issue": "Pre-1990 approval, field change outside slice",
+      "finding": "Mike and Caroline Tester",
+      "evidence": "Approved Taiwan May 1976; changed fields to Canada February 1993.",
+      "recommendation": "No longer in slice; withhold."
+    },
+    {
+      "issue": "Pre-1990 approval, field change outside slice",
+      "finding": "Fred and Joyce Davis",
+      "evidence": "Approved Taiwan February 1971; transitioned to Canada September 1990.",
+      "recommendation": "No longer in slice; withhold."
+    },
+    {
+      "issue": "Pre-1990 approval, single-name page, spouse status unclear",
+      "finding": "Uldine Steffy",
+      "evidence": "Approved Philippines September 1958. Page titled Uldine Steffy only; David mentioned in snippet but not title.",
+      "recommendation": "Verify whether David Steffy is deceased or no longer serving; emit Uldine only if currently active and approve date trap resolved."
+    },
+    {
+      "issue": "Pre-1990 approval, no current activity stated",
+      "finding": "Delbert and Lora Lee Hooge",
+      "evidence": "Approved Philippines February 1967. Snippet mentions approval date only.",
+      "recommendation": "Verify current activity; likely needs_review due to age and pre-1990 approval."
+    },
+    {
+      "issue": "Pre-1990 approval, single-name page, spouse status unclear",
+      "finding": "Pam Quinlan",
+      "evidence": "Approved Philippines May 1978. Page titled Pam Quinlan only; John mentioned in snippet but not title.",
+      "recommendation": "Verify whether John Quinlan is deceased or no longer serving; emit Pam only if currently active."
+    },
+    {
+      "issue": "Pre-1990 approval, single-name page, spouse status unclear",
+      "finding": "Mary Moody",
+      "evidence": "Approved Philippines May 1967. Page titled Mary Moody only; David mentioned in snippet but not title.",
+      "recommendation": "Verify whether David Moody is deceased or no longer serving; emit Mary only if currently active."
+    },
+    {
+      "issue": "Pre-1990 approval, single-name page, likely widow",
+      "finding": "Faye Woods",
+      "evidence": "Approved Philippines 1957. Single-name page strongly suggests widowed or deceased spouse.",
+      "recommendation": "Verify current activity status; likely not a prospect if spouse deceased and she is elderly."
+    }
+  ]
+}

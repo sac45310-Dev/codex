@@ -1,0 +1,769 @@
+{
+  "wave_id": "w2026-09-11v",
+  "agent": "v-roles",
+  "target_org": "Baptist Bible Fellowship International",
+  "slice": "v-roles: church planter, Bible college, radio, literature, camp, deaf ministry, aviation, medical, orphanage, national pastor training, church planting team, approved as missionaries, on deputation, field director, regional director, national director, serving since, APEX",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Joe Roberts",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "APEX Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/roberts-joe-church-planter",
+      "fit_reason": "Domestic APEX church planter serving in Abilene, TX; per-person giving page with role in slug"
+    },
+    {
+      "name": "Sean Adkins",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "APEX Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/adkins-sean-church-planter",
+      "fit_reason": "Domestic APEX church planter serving in Blanchard, Oklahoma; per-person giving page"
+    },
+    {
+      "name": "Arthur Goncalves",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "APEX Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/arthur-goncalves-church-planter",
+      "fit_reason": "Domestic APEX church planter serving in Sanford, Florida; per-person giving page"
+    },
+    {
+      "name": "Blake Housley",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "APEX Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/housley-blake-church-planter",
+      "fit_reason": "Domestic APEX church planter serving at Journey Church in Nashville, Tennessee; per-person giving page"
+    },
+    {
+      "name": "Tim Hale",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "APEX Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/hale-tim-church-planter",
+      "fit_reason": "Domestic APEX church planter serving in Midlothian, TX; per-person giving page"
+    },
+    {
+      "name": "Elvis Leon",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/leon-elvis-church-planter",
+      "fit_reason": "Church planter serving in New York City; per-person giving page"
+    },
+    {
+      "name": "Scott Brown",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/scott-and-gloria-brown",
+      "fit_reason": "Church planter and spouse on shared page; title and slug both name both spouses; over 30 years in Mexico"
+    },
+    {
+      "name": "Gloria Brown",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/scott-and-gloria-brown",
+      "fit_reason": "Church planter and spouse on shared page; title and slug both name both spouses"
+    },
+    {
+      "name": "Bill Hoving",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/bill-and-vicki-hoving",
+      "fit_reason": "Bible college educator; couple on shared page with both names in slug and title"
+    },
+    {
+      "name": "Vicki Hoving",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/bill-and-vicki-hoving",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Eddie Urey",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/eddie-and-janet-urey",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Janet Urey",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/eddie-and-janet-urey",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Richard Moeller",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/richard-and-cheryl-moeller",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Cheryl Moeller",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/richard-and-cheryl-moeller",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Greg Lyons",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/greg-and-luann-lyons",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "LuAnn Lyons",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/greg-and-luann-lyons",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Mike Reap",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/mike-and-sandie-reap",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Sandie Reap",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/mike-and-sandie-reap",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "James Childress",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/james-and-phyllis-childress",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Phyllis Childress",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/james-and-phyllis-childress",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Bill Crawford",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/bill-and-debbie-crawford",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Debbie Crawford",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/bill-and-debbie-crawford",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Steve Mowery",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/steve-and-kelli-mowery",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Kelli Mowery",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/steve-and-kelli-mowery",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Daniel Max",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/max-and-debbie-harmon",
+      "fit_reason": "Bible college educator; couple on shared page with alternate slug format (surname-first)"
+    },
+    {
+      "name": "Deborah Harmon",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/max-and-debbie-harmon",
+      "fit_reason": "Bible college educator; couple on shared page, spouse surname used"
+    },
+    {
+      "name": "Wesley Lane",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/wesley-and-melina-lane",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Melina Lane",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Bible College",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/wesley-and-melina-lane",
+      "fit_reason": "Bible college educator; couple on shared page"
+    },
+    {
+      "name": "Steven Khoury",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/steven-khoury",
+      "fit_reason": "Single missionary with dedicated per-person giving page"
+    },
+    {
+      "name": "Dalton Walker",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/dalton-and-paulette-walker",
+      "fit_reason": "Medical-focused missionary; couple on shared page"
+    },
+    {
+      "name": "Paulette Walker",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/dalton-and-paulette-walker",
+      "fit_reason": "Medical-focused missionary; couple on shared page"
+    },
+    {
+      "name": "Tom Franklin",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/tom-and-regina-franklin",
+      "fit_reason": "Medical-focused missionary; couple on shared page; approved September 2000 to Cuba"
+    },
+    {
+      "name": "Regina Franklin",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/tom-and-regina-franklin",
+      "fit_reason": "Medical-focused missionary; couple on shared page"
+    },
+    {
+      "name": "Esteban Alvarez",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/esteban-and-emily-alvarez",
+      "fit_reason": "Medical-focused missionary; couple on shared page"
+    },
+    {
+      "name": "Emily Alvarez",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/esteban-and-emily-alvarez",
+      "fit_reason": "Medical-focused missionary; couple on shared page"
+    },
+    {
+      "name": "Bill Hathaway",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/bill-hathaway",
+      "fit_reason": "Single missionary with dedicated per-person giving page"
+    },
+    {
+      "name": "Dave Green",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/dave-and-terri-green",
+      "fit_reason": "Missionary; couple on shared page"
+    },
+    {
+      "name": "Terri Green",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/dave-and-terri-green",
+      "fit_reason": "Missionary; couple on shared page"
+    },
+    {
+      "name": "Karen Kolb",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/karen-kolb",
+      "fit_reason": "Single missionary with dedicated per-person giving page"
+    },
+    {
+      "name": "Steven Pratt",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/steven-and-laura-pratt",
+      "fit_reason": "Church planter; couple on shared page; approved May 2021 to Canada, church planting in Calgary"
+    },
+    {
+      "name": "Laura Pratt",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/steven-and-laura-pratt",
+      "fit_reason": "Church planter; couple on shared page"
+    },
+    {
+      "name": "Jordan Franklin",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/franklin-jordan-and-laura",
+      "fit_reason": "Church planter; couple on shared page with alternate slug format (surname-first); approved September 2025 to Argentina"
+    },
+    {
+      "name": "Laura Franklin",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/franklin-jordan-and-laura",
+      "fit_reason": "Church planter; couple on shared page"
+    },
+    {
+      "name": "Vernon Smith",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/vernon-and-mary-smith",
+      "fit_reason": "Missionary; couple on shared page"
+    },
+    {
+      "name": "Mary Smith",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/vernon-and-mary-smith",
+      "fit_reason": "Missionary; couple on shared page"
+    },
+    {
+      "name": "James Sinde",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/james-and-cristina-sinde",
+      "fit_reason": "Approved as missionary; couple on shared page; approved September 2012 to Greece"
+    },
+    {
+      "name": "Cristina Sinde",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/james-and-cristina-sinde",
+      "fit_reason": "Approved as missionary; couple on shared page"
+    },
+    {
+      "name": "Jonathan Solomon",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jonathan-and-olivia-solomon",
+      "fit_reason": "Approved as missionary; couple on shared page; approved September 2025 to Chile"
+    },
+    {
+      "name": "Olivia Solomon",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jonathan-and-olivia-solomon",
+      "fit_reason": "Approved as missionary; couple on shared page"
+    },
+    {
+      "name": "Kshitiz Ghimire",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/ghimire-kshitiz-and-brenna",
+      "fit_reason": "Approved as missionary; couple on shared page with alternate slug format (surname-first); approved September 2024 to Nepal"
+    },
+    {
+      "name": "Brenna Ghimire",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/ghimire-kshitiz-and-brenna",
+      "fit_reason": "Approved as missionary; couple on shared page"
+    },
+    {
+      "name": "James Smith",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/james-and-amy-smith",
+      "fit_reason": "Approved as missionary; couple on shared page; approved May 2004 to Japan"
+    },
+    {
+      "name": "Amy Smith",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/james-and-amy-smith",
+      "fit_reason": "Approved as missionary; couple on shared page"
+    },
+    {
+      "name": "Eric Shadle",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/eric-and-amanda-shadle",
+      "fit_reason": "Approved as missionary; couple on shared page; approved September 2006 to Ethiopia"
+    },
+    {
+      "name": "Amanda Shadle",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/eric-and-amanda-shadle",
+      "fit_reason": "Approved as missionary; couple on shared page"
+    },
+    {
+      "name": "Jonathan Robertson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jonathan-and-sarah-robertson",
+      "fit_reason": "Approved as missionary; couple on shared page; approved September 2012 to Costa Rica"
+    },
+    {
+      "name": "Sarah Robertson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/jonathan-and-sarah-robertson",
+      "fit_reason": "Approved as missionary; couple on shared page"
+    },
+    {
+      "name": "Lance Auterson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/lance-and-amy-auterson",
+      "fit_reason": "Approved as missionary; couple on shared page; approved September 2000 to France"
+    },
+    {
+      "name": "Amy Auterson",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/lance-and-amy-auterson",
+      "fit_reason": "Approved as missionary; couple on shared page"
+    },
+    {
+      "name": "Corey Wilcher",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "APEX Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/wilcher-corey-and-cora",
+      "fit_reason": "APEX church planter; couple on shared page with alternate slug format (surname-first)"
+    },
+    {
+      "name": "Cora Wilcher",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "APEX Church Planter",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/wilcher-corey-and-cora",
+      "fit_reason": "APEX church planter; couple on shared page"
+    },
+    {
+      "name": "Christine Enoch",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/christine-enoch",
+      "fit_reason": "Single missionary with dedicated per-person giving page; found via APEX search"
+    },
+    {
+      "name": "Larry Allred",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/larry-and-tammy-allred",
+      "fit_reason": "Bible institute-educated missionary; couple on shared page"
+    },
+    {
+      "name": "Tammy Allred",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/larry-and-tammy-allred",
+      "fit_reason": "Bible institute-educated missionary (Decatur Baptist Bible Institute); couple on shared page"
+    },
+    {
+      "name": "Daniel Camacho",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/daniel-and-laura-camacho",
+      "fit_reason": "Bible institute-educated missionary (Spanish Baptist Bible Institute); couple on shared page"
+    },
+    {
+      "name": "Laura Camacho",
+      "org": "Baptist Bible Fellowship International",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bbfimissions.com/missionary/daniel-and-laura-camacho",
+      "fit_reason": "Bible institute-educated missionary (Liberty Home Bible Institute); couple on shared page"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary church planter",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"Bible college\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary radio",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary literature",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"deaf ministry\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary aviation",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary medical",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary orphanage",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"national pastor training\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"church planting team\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"approved as missionaries\"",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"on deputation\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"field director\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"regional director\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"national director\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"serving since\"",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary APEX",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bbfimissions.com/missionary \"Bible institute\"",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Pre-1990 approval with unclear current activity status",
+      "finding": "Leonard and Susan Smith",
+      "evidence": "Approved May 1975 to Mexico; snippet indicates historical approval date without explicit statement of current activity",
+      "recommendation": "Verify current service status and activity before adding to prospects. Per wave brief, pre-1990 approvals with no documented current activity should route to needs_review."
+    }
+  ]
+}

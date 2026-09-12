@@ -1,0 +1,315 @@
+{
+  "wave_id": "w2026-09-11y",
+  "agent": "y-europe",
+  "target_org": "Encompass World Partners",
+  "slice": "France, Germany, Spain, Portugal, Italy, Czech Republic, Slovakia, Poland, Ukraine, Ireland, UK, Albania, Greece, Austria, Hungary",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Mike Yoder",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Executive Director",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mike-and-letitia",
+      "fit_reason": "Slug `/mike-and-letitia` names Mike; title shows Executive Director and spouse Letitia; multi-year career assignment in Berlin 1997-2007, now leading organization. Tier A on leadership role and organization policy."
+    },
+    {
+      "name": "Letitia Yoder",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/mike-and-letitia",
+      "fit_reason": "Slug `/mike-and-letitia` names both; title shows both spouses on shared family page. Career assignment Berlin 1997-2007, multi-year commitment. Tier A on organizational policy."
+    },
+    {
+      "name": "Thierry Mirone",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/thierryandvalerie",
+      "fit_reason": "Slug `/thierryandvalerie` names Thierry; title shows both spouses. Appears across France and Portugal searches indicating multi-country European assignment, career signal."
+    },
+    {
+      "name": "Valérie Mirone",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/thierryandvalerie",
+      "fit_reason": "Slug `/thierryandvalerie` names Valérie; title shows both spouses on shared page. Multi-country European assignment (France, Portugal), career signal."
+    },
+    {
+      "name": "Steve Kern",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/steveandceleste",
+      "fit_reason": "Slug `/steveandceleste` names Steve; serving in Germany as part of international disciple-making team. Career signal (team member, active assignment)."
+    },
+    {
+      "name": "Celeste Kern",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/steveandceleste",
+      "fit_reason": "Slug `/steveandceleste` names both; serving in Germany as part of disciple-making team. Career assignment signal."
+    },
+    {
+      "name": "David Manduka",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/davidandkathy",
+      "fit_reason": "Slug `/davidandkathy` names David; currently serving in Germany. Career assignment."
+    },
+    {
+      "name": "Kathy Manduka",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/davidandkathy",
+      "fit_reason": "Slug `/davidandkathy` names both; currently serving in Germany. Career assignment."
+    },
+    {
+      "name": "Florent Varak",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/florentandlori",
+      "fit_reason": "Slug `/florentandlori` names Florent; serving in France. Career assignment."
+    },
+    {
+      "name": "Lori Varak",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/florentandlori",
+      "fit_reason": "Slug `/florentandlori` names both; serving in France. Career assignment."
+    },
+    {
+      "name": "Etienne Patin",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/etienne-and-myriam",
+      "fit_reason": "Slug `/etienne-and-myriam` names Etienne; appears across multiple European country searches (France, Poland, Spain, Italy, Portugal, Ireland, Greece, Albania, Austria, Hungary), multi-country career assignment."
+    },
+    {
+      "name": "Myriam Patin",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/etienne-and-myriam",
+      "fit_reason": "Slug `/etienne-and-myriam` names both; multi-country European assignment (France, Poland, Spain, Italy, Portugal, Ireland, Greece, Albania, Austria, Hungary), career assignment."
+    },
+    {
+      "name": "Greg Burgess",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://encompassworldpartners.org/person/gregandsandrine",
+      "fit_reason": "Slug `/gregandsandrine` names Greg; appears across 7 country searches (France, Spain, Poland, Greece, Austria, Hungary, Albania), suggesting multi-country European involvement. Career signal from breadth of European presence."
+    },
+    {
+      "name": "Sandrine Burgess",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://encompassworldpartners.org/person/gregandsandrine",
+      "fit_reason": "Slug `/gregandsandrine` names both; multi-country European involvement (France, Spain, Poland, Greece, Austria, Hungary, Albania), career assignment."
+    },
+    {
+      "name": "Alfredo Abreu",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "National Ministry Partner",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/alfredoandrita",
+      "fit_reason": "Slug `/alfredoandrita` names Alfredo; serving in Portugal as National Ministry Partner. Dedicated believer sent by sister church, career assignment."
+    },
+    {
+      "name": "Rita Abreu",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "National Ministry Partner",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://give.encompassworldpartners.org/person/alfredoandrita",
+      "fit_reason": "Slug `/alfredoandrita` names both; serving in Portugal as National Ministry Partner. Career assignment."
+    },
+    {
+      "name": "Matt Higby",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://encompassworldpartners.org/person/mattandmai",
+      "fit_reason": "Slug `/mattandmai` names Matt; appears across 5 European country searches (Poland, Italy, Spain, Austria, Greece), multi-country European involvement, career signal."
+    },
+    {
+      "name": "Mai Higby",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "medium",
+      "evidence_basis": "staff_directory",
+      "source_url": "https://encompassworldpartners.org/person/mattandmai",
+      "fit_reason": "Slug `/mattandmai` names both; multi-country European assignment (Poland, Italy, Spain, Austria, Greece), career assignment."
+    },
+    {
+      "name": "Randy Clark",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/randy-and-susan-clark-3096",
+      "fit_reason": "Slug `/randy-and-susan-clark-3096` names Randy; married 28 years with decades of ministry experience, 5 years in South Africa, appears in multiple European searches. Career assignment with strong experience base."
+    },
+    {
+      "name": "Susan Clark",
+      "org": "Encompass World Partners",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://encompassworldpartners.org/person/randy-and-susan-clark-3096",
+      "fit_reason": "Slug `/randy-and-susan-clark-3096` names both; married 28 years with ministry experience, appears in multiple European searches. Career assignment."
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "site:encompassworldpartners.org/person France", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Germany", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Spain", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Italy", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Poland", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person UK", "outcome": "no_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Ukraine", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Czech", "outcome": "no_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Slovakia", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Austria", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Hungary", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Portugal", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Ireland", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Greece", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person Albania", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person \"church planter\"", "outcome": "no_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person \"joined the team\"", "outcome": "found_people"},
+    {"kind": "query", "value": "site:encompassworldpartners.org/person serving years", "outcome": "found_people"}
+  ],
+  "needs_review": [
+    {
+      "issue": "Short-term trip participant",
+      "finding": "Charity Reist #3641",
+      "evidence": "Slug `/charity-reist` in search results titled 'Charity Reist #3641'; search results explicitly state 'going to France in May and June 2026'",
+      "recommendation": "This is a two-month trip, not a career assignment. Does not manage ongoing personal donor base. Place in review pile with trip duration: May-June 2026 (2 months)."
+    },
+    {
+      "issue": "Episodic/short-term mission participant",
+      "finding": "Malachi Saunders #321",
+      "evidence": "Slug `/malachi-saunders` in Poland search; search results state 'has served on mission with Encompass twice in Central Asia'",
+      "recommendation": "Episodic service (served twice) rather than career assignment. Raise money for individual trips, not ongoing personal donor base. Place in review with signal: served twice (episodic)."
+    },
+    {
+      "issue": "Anonymized worker - initials only",
+      "finding": "E. & S. N. #3515",
+      "evidence": "Slug `/esn` and title 'E. & S. N. #3515' - initials only for couple, no full surnames provided. Per BRIEF: Encompass works Central Asia among other fields; this anonymization is deliberate protection.",
+      "recommendation": "Never emit. Sensitive-region worker deliberately anonymized. Member number #3515 is not a name. Place in needs_review per TRAP 2; never resolve name from other sources."
+    },
+    {
+      "issue": "Unclear location assignment - not clearly Europe",
+      "finding": "Betsy #20",
+      "evidence": "Slug `/betsy20` appears in multiple European country searches, but search results state 'Central Asia for nearly two decades' - not Europe",
+      "recommendation": "Europe slice does not include Central Asia. This person belongs in Asia wave, not Europe wave. Exclude from Europe output."
+    },
+    {
+      "issue": "Unclear location assignment - Japan, not Europe",
+      "finding": "Will and Emma Ferguson #3202",
+      "evidence": "Slug `/will-and-emma` in 'joined the team' search; search results state 'joining our team in Yamanishi, Japan for a six-year assignment'",
+      "recommendation": "Japan is Asia slice, not Europe. Six-year assignment is career signal but location is wrong for this wave. Exclude from Europe, route to Asia wave."
+    },
+    {
+      "issue": "Home office role, not field missionary",
+      "finding": "JB Brown #33",
+      "evidence": "Slug `/jb-brown-33` in 'serving years' search; search results state 'JB started his new roles in May 2025...Director of Training and Member Care'",
+      "recommendation": "Home office support function, not field missionary in Europe. Leadership role may qualify for Tier A but location is USA-based. Not part of geographic Europe enumeration."
+    },
+    {
+      "issue": "Support/coordination role, may be home office",
+      "finding": "April McKee #239",
+      "evidence": "Slug `/april` in 'church planter' search; results state 'oversees coordination of large gatherings and events...frees up church planters'",
+      "recommendation": "Support function coordinating events. Need to verify if Europe-based or home office. If Europe-based, may qualify as Tier A staff. Currently uncertain; review for location."
+    },
+    {
+      "issue": "Limited information - single first name only",
+      "finding": "Diana Davis #56",
+      "evidence": "Slug `/dianadavis` names Diana; appears in multiple European country searches. No career/trip signals visible in search results.",
+      "recommendation": "Full name present. Appears in multiple searches but search results do not show sufficient detail about assignment type. Requires direct page review to determine career vs trip status and confirm European assignment."
+    },
+    {
+      "issue": "Limited information - incomplete slug",
+      "finding": "Cecil O'Dell #280",
+      "evidence": "Slug `/cecil` (single name) titles 'Cecil O'Dell #280'; appears in Austria and Portugal searches. Limited career signal in search results.",
+      "recommendation": "Surname O'Dell visible in title. Appears in Europe searches but search results lack detail on career vs trip. Requires page review to confirm assignment type."
+    },
+    {
+      "issue": "Limited information - partial name in slug",
+      "finding": "Joan Justiniano #185",
+      "evidence": "Slug `/ralphandjoan` names Joan but also 'Ralph'; title 'Joan Justiniano #185' shows Joan only. Appears in multiple European searches.",
+      "recommendation": "Slug shows two people (Ralph and Joan), title shows one (Joan). Per TRAP: split on title. Ralph deceased or no longer active; Joan is the active person. Need page verification. May be emittable but requires confirmation that Ralph is not current."
+    },
+    {
+      "issue": "Limited information - initials in first name portion",
+      "finding": "Frank & Pam DiGioia #52",
+      "evidence": "Slug `/FrankAndPam` or `/frankandpam`; appears in France search. Search results note 'developed a heart for France and planned to relocate in June 2023' but unclear if relocation completed.",
+      "recommendation": "Planned relocation in 2023, but unclear if actually in France now in 2026. If relocate happened, likely career. Requires page review to confirm current location and assignment status."
+    },
+    {
+      "issue": "Location unclear from search results",
+      "finding": "Brian Baughman #3043",
+      "evidence": "Slug `/brian` appears in France and Spain searches. Search results mention 'joining Encompass to lead Hispanic church planting in Indiana' - USA location",
+      "recommendation": "Slug is single first name only. Results show Indiana assignment (USA), not Europe. Exclude from Europe wave. Hispanic church planting suggests Tier A (leader, raise support) but wrong geography."
+    },
+    {
+      "issue": "Not Europe - Central Asia/Cameroon assignment",
+      "finding": "Ted & Kaylin Offutt #282; Jason & Christy C. #34",
+      "evidence": "Ted & Kaylin: search results 'twelve years in Central Asia, four years in Thailand'; Jason & Christy: 'fifteen years as pastor in Ohio, then Yaoundé, Cameroon in 2014'",
+      "recommendation": "Central Asia and Cameroon are outside Europe slice. Exclude from Europe wave."
+    },
+    {
+      "issue": "Insufficient information to classify",
+      "finding": "Kya Bolding #3057; Roy & Holly A. #8; Elise Klawitter #205; MaryAnn Barlow #14",
+      "evidence": "These people appear in Europe search results but search results do not contain sufficient detail about assignment type (career vs trip), current location, or role.",
+      "recommendation": "All have reasonable European presence signals (multiple country searches, full names, member numbers). Require direct page review to classify as career vs trip, confirm Europe location, and verify Tier A support-raising status. Flag as candidates for secondary review."
+    }
+  ]
+}

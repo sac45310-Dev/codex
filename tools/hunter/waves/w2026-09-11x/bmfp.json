@@ -1,0 +1,355 @@
+{
+  "wave_id": "w2026-09-11x",
+  "agent": "x-bmfp",
+  "target_org": "Baptist Missions to Forgotten Peoples",
+  "slice": "the whole agency. Continuation of wave q.",
+  "searches_used": 18,
+  "people": [
+    {
+      "name": "Romeo Cerico",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/romeo-victoria-cerico/",
+      "fit_reason": "Couple page, names in slug and title both present"
+    },
+    {
+      "name": "Victoria Cerico",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/romeo-victoria-cerico/",
+      "fit_reason": "Couple page, names in slug and title both present"
+    },
+    {
+      "name": "Leo Diaz",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/leo-karen-diaz/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Karen Diaz",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/leo-karen-diaz/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Gordon Woods",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/gordon-pat-woods/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Pat Woods",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/gordon-pat-woods/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Gib Wood",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/gib-kathy-wood/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Kathy Wood",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/gib-kathy-wood/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Patty Carman",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/patty-carman/",
+      "fit_reason": "Single page, name in slug and title"
+    },
+    {
+      "name": "Earl Yates",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/earl-yolanda-yates/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Yolanda Yates",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/earl-yolanda-yates/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Jon De Rusha",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/jon-carolyn-de-rusha/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Carolyn De Rusha",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/jon-carolyn-de-rusha/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Russell Ray",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/russell-swany-ray/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Swany Ray",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/russell-swany-ray/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Daniel Crumbaugh",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/daniel-sheri-crumbaugh/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Sheri Crumbaugh",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/daniel-sheri-crumbaugh/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Stephen Lyons",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/lyons-stephen-victoria/",
+      "fit_reason": "Couple page, names in slug and title. Distinct from Jonathan & Rachelle Lyons"
+    },
+    {
+      "name": "Victoria Lyons",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/lyons-stephen-victoria/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Bhim Ghimire",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/bhim-charity-ghimire/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Charity Ghimire",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/bhim-charity-ghimire/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Jennifer Andrews",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/jennifer-andrews/",
+      "fit_reason": "Single page, name in slug and title"
+    },
+    {
+      "name": "William Weimer",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/weimer-william-phyllis/",
+      "fit_reason": "Couple page, names in slug and title"
+    },
+    {
+      "name": "Phyllis Weimer",
+      "org": "Baptist Missions to Forgotten Peoples",
+      "tier": "A",
+      "role": "Missionary",
+      "confidence": "high",
+      "evidence_basis": "personal_page",
+      "source_url": "https://bmfp.org/missionaries/weimer-william-phyllis/",
+      "fit_reason": "Couple page, names in slug and title"
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Kenya",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Uganda",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Peru -Lyons -Thomas -Burge -Quitter -Sharpe -Hernandez -Weimer -Buitrago",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Colombia -Aquise -Emigh -Crevar -Alexander -Thiessen -Radank -Cepec -Mason",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Nigeria -Catrow -Sears -Dodson -George -Gastrock -Teague -Whitfield -Alderman",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ director -Heppen -Evans -Meyer -Spear -Guiltner -Wood -Moore -Rosko",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ orphan -Lyons -Thomas -Burge -Quitter -Sharpe -Hernandez -Weimer -Buitrago",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ refugee -Aquise -Emigh -Crevar -Alexander -Thiessen -Radank -Cepec -Mason",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ tribal -Catrow -Sears -Dodson -George -Gastrock -Teague -Whitfield -Alderman",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Myanmar -Heppen -Evans -Meyer -Spear -Guiltner -Wood -Moore -Rosko",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Laos -Lyons -Thomas -Burge -Quitter -Sharpe -Hernandez -Weimer -Buitrago",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Thailand -Aquise -Emigh -Crevar -Alexander -Thiessen -Radank -Cepec -Mason",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ medical -Catrow -Sears -Dodson -George -Gastrock -Teague -Whitfield -Alderman",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Ecuador -Heppen -Evans -Meyer -Spear -Guiltner -Wood -Moore -Rosko",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ translator -Lyons -Thomas -Burge -Quitter -Sharpe -Hernandez -Weimer -Buitrago",
+      "outcome": "no_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Ethiopia -Aquise -Emigh -Crevar -Alexander -Thiessen -Radank -Cepec -Mason",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Indonesia -Catrow -Sears -Dodson -George -Gastrock -Teague -Whitfield -Alderman",
+      "outcome": "found_people"
+    },
+    {
+      "kind": "query",
+      "value": "site:bmfp.org/missionaries/ Zimbabwe -Heppen -Evans -Meyer -Spear -Guiltner -Wood -Moore -Rosko",
+      "outcome": "found_people"
+    }
+  ],
+  "needs_review": [
+    {
+      "issue": "Exclusion operator effectiveness",
+      "finding": "Multiple searches with 8-surname exclusions returned excluded names in results. Engine may be silently dropping operators after a threshold or not processing complex exclusion strings optimally.",
+      "evidence": "Searches 5, 12, 14, 16 explicitly excluded surnames but those surnames appeared in result titles (Teague, Sears, Gastrock, Crevar, Mason, Alexander, Thiessen)",
+      "recommendation": "Wave budget was well-spent on new geography qualifiers (Kenya, Uganda, Peru, Colombia, Laos, Myanmar). Ministry-type qualifiers (orphan, refugee, tribal, translator, medical) yielded minimal new results. Pattern holds: bmfp.org/missionaries/<slug> confirmed solid. Consider role/position qualifiers in future waves rather than ministry type."
+    },
+    {
+      "issue": "No date/approval information accessible",
+      "finding": "Per BBFI age lesson, pre-1990 dates without current activity should be marked needs_review. Search result titles and URLs did not surface approval/start date information.",
+      "evidence": "Page fetching blocked per assignment. Enumeration worked from titles and URLs only; no date data available.",
+      "recommendation": "Cannot apply BBFI age-lesson screening at enumeration stage. Recommend applying this rule at review/ingest stage when page content is fetched. All 24 records emitted as high confidence with Tier A, pending date verification in review."
+    }
+  ]
+}

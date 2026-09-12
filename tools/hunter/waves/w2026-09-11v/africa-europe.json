@@ -1,0 +1,283 @@
+{
+  "wave_id": "w2026-09-11v",
+  "agent": "v-africa-europe",
+  "target_org": "Baptist Bible Fellowship International",
+  "slice": "Kenya, Ghana, Nigeria, South Africa, Uganda, Zambia, Tanzania, Ivory Coast, Togo, Benin, Zimbabwe, Malawi; Germany, Spain, Portugal, Italy, France, UK, Ireland, Poland, Romania, Ukraine, Czech Republic, Hungary",
+  "searches_used": 18,
+  "people": [
+    {"name": "Jim Eberhard", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/jim-and-sybil-eberhard",
+     "fit_reason": "Approved May 2007, Kenya field, couple page; split on title into two individuals"},
+
+    {"name": "Sybil Eberhard", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/jim-and-sybil-eberhard",
+     "fit_reason": "Approved May 2007, Kenya field, couple page; split on title into two individuals"},
+
+    {"name": "Jane Coley", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/jane-coley",
+     "fit_reason": "Approved September 1995, Kenya field, single-name page but continues ministry stated; likely widowed but actively serving"},
+
+    {"name": "Christine Enoch", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/christine-enoch",
+     "fit_reason": "Reactivated September 2024, Kenya assignment with explicit current activity statement (teaching at Nairobi Baptist Bible College)"},
+
+    {"name": "Blake Hunter", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/blake-and-megan-hunter",
+     "fit_reason": "Approved September 2016, South Africa field, couple page; split on title into two individuals"},
+
+    {"name": "Megan Hunter", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/blake-and-megan-hunter",
+     "fit_reason": "Approved September 2016, South Africa field, couple page; split on title into two individuals"},
+
+    {"name": "Robert Graham", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/robert-and-joanna-graham",
+     "fit_reason": "Approved September 2004, South Africa field, couple page; split on title into two individuals"},
+
+    {"name": "Joanna Graham", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/robert-and-joanna-graham",
+     "fit_reason": "Approved September 2004, South Africa field, couple page; split on title into two individuals"},
+
+    {"name": "Dawson Schoening", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/schoening-dawson-and-kayla",
+     "fit_reason": "Approved May 2024, South Africa field, slug uses surname-first format; couple page; split on title into two individuals"},
+
+    {"name": "Kayla Schoening", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/schoening-dawson-and-kayla",
+     "fit_reason": "Approved May 2024, South Africa field, surname-first slug format; couple page; split on title into two individuals"},
+
+    {"name": "Brent Moeller", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/brent-and-sheila-moeller",
+     "fit_reason": "Approved May 1990 (threshold year), South Africa field, no retirement noted; couple page; split on title into two individuals"},
+
+    {"name": "Sheila Moeller", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/brent-and-sheila-moeller",
+     "fit_reason": "Approved May 1990 (threshold year), South Africa field, no retirement noted; couple page; split on title into two individuals"},
+
+    {"name": "TJ Gritts", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/tj-and-kimberly-gritts",
+     "fit_reason": "Approved May 2015, Spain field, couple page; split on title into two individuals"},
+
+    {"name": "Kimberly Gritts", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/tj-and-kimberly-gritts",
+     "fit_reason": "Approved May 2015, Spain field, couple page; split on title into two individuals"},
+
+    {"name": "Arnold Belasco", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/arnold-and-leslie-belasco",
+     "fit_reason": "Approved September 2008, Spain field, couple page; split on title into two individuals"},
+
+    {"name": "Leslie Belasco", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/arnold-and-leslie-belasco",
+     "fit_reason": "Approved September 2008, Spain field, couple page; split on title into two individuals"},
+
+    {"name": "Adolfo Ruesga", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/adolfo-and-april-ruesga",
+     "fit_reason": "Changed fields to Spain May 2018, couple page; split on title into two individuals"},
+
+    {"name": "April Ruesga", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/adolfo-and-april-ruesga",
+     "fit_reason": "Changed fields to Spain May 2018, couple page; split on title into two individuals"},
+
+    {"name": "Scott Pethtel", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/scott-and-dominique-pethtel",
+     "fit_reason": "Approved May 2011, Italy field, couple page; split on title into two individuals"},
+
+    {"name": "Dominique Pethtel", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/scott-and-dominique-pethtel",
+     "fit_reason": "Approved May 2011, Italy field, couple page; split on title into two individuals"},
+
+    {"name": "Jacob Mulford", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/mulford-jacob-and-sydney",
+     "fit_reason": "Approved May 2023, Portugal field, surname-first slug format; couple page; split on title into two individuals"},
+
+    {"name": "Sydney Mulford", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/mulford-jacob-and-sydney",
+     "fit_reason": "Approved May 2023, Portugal field, surname-first slug format; couple page; split on title into two individuals"},
+
+    {"name": "Beau Moore", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/beau-and-valerie-moore",
+     "fit_reason": "Approved September 2007, Portugal field, couple page; split on title into two individuals"},
+
+    {"name": "Valerie Moore", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/beau-and-valerie-moore",
+     "fit_reason": "Approved September 2007, Portugal field, daughter of Lionel and Carol Martin (also BBFI missionaries); couple page; split on title into two individuals"},
+
+    {"name": "Mark Hale", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/mark-and-michele-hale",
+     "fit_reason": "Transitioned to Portugal May 2006, couple page; split on title into two individuals"},
+
+    {"name": "Michele Hale", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/mark-and-michele-hale",
+     "fit_reason": "Transitioned to Portugal May 2006, couple page; split on title into two individuals"},
+
+    {"name": "Tyler Prince", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/prince-tyler-and-sarah",
+     "fit_reason": "Approved May 2023, Ireland field, surname-first slug format; couple page; split on title into two individuals"},
+
+    {"name": "Sarah Prince", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/prince-tyler-and-sarah",
+     "fit_reason": "Approved May 2023, Ireland field, surname-first slug format; couple page; split on title into two individuals"},
+
+    {"name": "Sever Gonciulea", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "high", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/sever-gonciulea",
+     "fit_reason": "Approved September 2003, Romania field, single-name page but originally couple with Cathy; split on name basis"},
+
+    {"name": "Cathy Gonciulea", "org": "Baptist Bible Fellowship International", "tier": "A", "role": "Missionary",
+     "confidence": "medium", "evidence_basis": "personal_page",
+     "source_url": "https://bbfimissions.com/missionary/sever-gonciulea",
+     "fit_reason": "Approved September 2003 as part of Sever/Cathy couple, Romania field, name from source page text rather than slug"}
+  ],
+  "coverage": [
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Kenya", "outcome": "found_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Nigeria", "outcome": "no_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary South Africa", "outcome": "found_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Ghana", "outcome": "no_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Uganda", "outcome": "no_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Zambia", "outcome": "no_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Tanzania", "outcome": "no_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary France", "outcome": "no_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Germany", "outcome": "no_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary UK", "outcome": "no_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Spain", "outcome": "found_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Italy", "outcome": "found_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Poland", "outcome": "no_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Portugal", "outcome": "found_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Ireland", "outcome": "found_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Romania", "outcome": "found_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Czech", "outcome": "no_people"},
+    {"kind": "query", "value": "site:bbfimissions.com/missionary Hungary", "outcome": "no_people"}
+  ],
+  "needs_review": [
+    {"issue": "approval_before_1990_no_current_activity", "finding": "Jerry Novak",
+     "evidence": "Approved May 1980, Kenya. Spouse Nancy deceased March 2023. No explicit current activity statement. Widower on single-name page. Would be ~95 years old if alive.",
+     "recommendation": "Verify current status; likely retired or deceased"},
+
+    {"issue": "pre_1990_inactive", "finding": "Jerry and Sharon Daniels",
+     "evidence": "Approved May 1972, Kenya. Explicitly listed as 'Former Kenya Missionaries'.",
+     "recommendation": "Route to inactive; pre-1990 approval with no current activity in slice"},
+
+    {"issue": "resigned", "finding": "Steve and Pam Workman",
+     "evidence": "Approved May 1983, Kenya. 'Until resigning in May 1995'.",
+     "recommendation": "No longer active; explicit resignation"},
+
+    {"issue": "field_relocation_outside_slice", "finding": "Lance and Leah Patterson",
+     "evidence": "Approved May 1997, Kenya, 'changed their field of service to the Philippines in May 2012'.",
+     "recommendation": "Outside Africa-Europe slice; not active in target slice"},
+
+    {"issue": "historical_entry_unclear", "finding": "Lonnie and Georgine Brooks",
+     "evidence": "Kenya. 'Returned to Africa in 1978 to begin their service'. Past-tense phrasing.",
+     "recommendation": "Very old entry with unclear current status; verify if still active"},
+
+    {"issue": "approval_before_1990_unclear", "finding": "Doug and Donna Stamper",
+     "evidence": "South Africa search returned link but no snippet; approval date unknown.",
+     "recommendation": "Need page review to determine approval date and current status"},
+
+    {"issue": "retired_recently", "finding": "Ross and Ellen Ligon",
+     "evidence": "Approved September 1994, Nigeria. 'Retired in June 2015'.",
+     "recommendation": "Retirees fail Tier A test; not a prospect"},
+
+    {"issue": "field_relocation_outside_slice", "finding": "Richard and Cheryl Moeller",
+     "evidence": "Approved May 1980, South Africa. 'Returned to South Africa in August 2002 until transitioning to Scotland in February 2009'.",
+     "recommendation": "Outside Africa-Europe slice (Scotland); not current in target region"},
+
+    {"issue": "approved_pre_1990_resigned", "finding": "Don and Kathy Mingo",
+     "evidence": "Approved 1984, South Africa. 'Until their resignation in 2006'.",
+     "recommendation": "Pre-1990 approval with resignation; no longer active"},
+
+    {"issue": "approved_pre_1990_field_change", "finding": "Bonnie Clark",
+     "evidence": "Approved September 1983, South Africa. 'Reinstated on February 19, 2008 to the field of Botswana'. Single-name page (originally Carl and Bonnie).",
+     "recommendation": "Outside Africa-Europe slice (Botswana); field changed from target slice"},
+
+    {"issue": "approved_pre_1990_no_activity", "finding": "Steve and Kelli Mowery",
+     "evidence": "Approved May 1987, Spain. No current activity mentioned.",
+     "recommendation": "Pre-1990 approval without current activity statement"},
+
+    {"issue": "approved_pre_1990_no_activity", "finding": "Fernando and Carolyn Torres",
+     "evidence": "Approved May 1985, Spain. Single-name page (Carolyn Torres) but originally couple.",
+     "recommendation": "Pre-1990 approval; no current activity stated"},
+
+    {"issue": "approved_pre_1990_no_activity", "finding": "Jack and Joy Loveday",
+     "evidence": "Approved May 1981, Spain. No current activity mentioned.",
+     "recommendation": "Pre-1990 approval without current activity statement"},
+
+    {"issue": "approved_pre_1990_no_activity", "finding": "Marvin and Becky Robertson",
+     "evidence": "Approved May 1971, Spain. No current activity mentioned.",
+     "recommendation": "Pre-1990 approval without current activity statement"},
+
+    {"issue": "approved_pre_1990_no_activity", "finding": "Eddie and Janet Urey",
+     "evidence": "Changed field to Spain 1982. Pre-1990 timeframe. No current activity mentioned.",
+     "recommendation": "Pre-1990 without current activity statement"},
+
+    {"issue": "approved_pre_1990_no_activity", "finding": "Lavon and Carolyn Waters",
+     "evidence": "Changed fields to Spain May 1970. No current activity mentioned.",
+     "recommendation": "Pre-1970 activity; no current status statement"},
+
+    {"issue": "field_relocation_outside_slice", "finding": "Bill and Theresé Williams",
+     "evidence": "Approved May 1986, Spain. 'In September 2024, they transitioned to work with Displaced People Groups in south Texas'.",
+     "recommendation": "Relocated outside Africa-Europe slice (Texas); no longer in target region"},
+
+    {"issue": "deceased_spouse_pre_1990", "finding": "Paul and Alexis Dedeyan",
+     "evidence": "Approved May 1970, France. 'Retired August 31, 2021, and Paul went to meet the Lord on April 27, 2023'.",
+     "recommendation": "Deceased spouse (Paul); both retired; pre-1990 approval with no current activity"},
+
+    {"issue": "approved_pre_1990_no_activity", "finding": "Linda Fitzgerald",
+     "evidence": "Approved May 1985, Germany. Single-name page. Graduated 1974; would be ~70+ years old; no current activity mentioned.",
+     "recommendation": "Pre-1990 approval without current activity statement"},
+
+    {"issue": "approved_pre_1990_no_activity", "finding": "Keith and Debra Gandy",
+     "evidence": "Approved September 1980, Germany. No current activity mentioned.",
+     "recommendation": "Pre-1990 approval without current activity statement"},
+
+    {"issue": "approved_pre_1990_no_activity", "finding": "Lionel and Carol Martin",
+     "evidence": "Approved May 1987, Portugal. 'First Baptist Bible Fellowship missionaries to Portugal'. No current activity mentioned.",
+     "recommendation": "Pre-1990 approval without explicit current activity statement"},
+
+    {"issue": "approved_pre_1990_resigned_field_change", "finding": "Ron and Frances Maggard",
+     "evidence": "Approved May 1981, Ireland. 'Resigned in December 1982 and were reinstated to Cuba in September 1996'.",
+     "recommendation": "Pre-1990 approval; moved to different country (Cuba) outside slice"},
+
+    {"issue": "approved_1990_retired_recently", "finding": "Garry and Nancy Matheny",
+     "evidence": "Approved September 1990 (threshold year), Romania. 'Retired October 1, 2021'.",
+     "recommendation": "Recent retirees; fail Tier A test for prospects"},
+
+    {"issue": "insufficient_data", "finding": "Daniel and Meshelle Bowles",
+     "evidence": "Ghana. Link found but no approval date or current activity status in search snippet.",
+     "recommendation": "Need page review to extract approval date and current status"},
+
+    {"issue": "insufficient_data", "finding": "Steven Khoury",
+     "evidence": "Uganda. Link found but no approval date or current activity status in search snippet.",
+     "recommendation": "Need page review to extract approval date and current status"},
+
+    {"issue": "duplicate_slug_unclear", "finding": "Rich Moeller",
+     "evidence": "South Africa. Both /rich-moeller (single) and /moeller-rich-and-krista (couple with Krista) found. Unclear which is current.",
+     "recommendation": "Need page review to clarify whether Rich/Krista is active couple or if pages are outdated"}
+  ]
+}
