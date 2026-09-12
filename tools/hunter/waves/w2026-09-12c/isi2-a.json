@@ -1,0 +1,1809 @@
+{
+  "wave_id": "w2026-09-12c",
+  "agent": "roster:isi2-a",
+  "target_org": "International Students, Inc.",
+  "roster_verdict": "rostered",
+  "people": [
+    {
+      "org_name": "Rebekah Lassiter",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/lassiters/",
+      "city": "Durham",
+      "state": "NC",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/lassiters/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jason Casper",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/caspers/",
+      "city": "Brooklyn",
+      "state": "NY",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/caspers/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Hollie Casper",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/caspers/",
+      "city": "Brooklyn",
+      "state": "NY",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/caspers/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Andy Mull",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/mulls/",
+      "city": "Leesville",
+      "state": "SC",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/mulls/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Diane Mull",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/mulls/",
+      "city": "Leesville",
+      "state": "SC",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/mulls/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Terry Yu",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/terry-yu/",
+      "city": "San Jose",
+      "state": "CA",
+      "summary": "International Students, Inc. — Campus Staff — Silicon Valley & Steinbeck Coast",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff — Silicon Valley & Steinbeck Coast",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/terry-yu/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nancy Parlette",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/nancy-parlette/",
+      "city": "Clarksville",
+      "state": "MD",
+      "summary": "International Students, Inc. — Campus Staff — UMBC",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff — UMBC",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/nancy-parlette/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Judy Billings",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/judy-billings/",
+      "city": "Wauconda",
+      "state": "IL",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/judy-billings/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kathy Tse",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/kathy-tse/",
+      "city": "Newark",
+      "state": "CA",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/kathy-tse/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Derrah Jackson",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/jacksons/",
+      "city": "Dallas",
+      "state": "TX",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/jacksons/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Pam Jackson",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/jacksons/",
+      "city": "Dallas",
+      "state": "TX",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/jacksons/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Craig Mosher",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/craig-mosher/",
+      "city": "Culver City",
+      "state": "CA",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/craig-mosher/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tim Notehelfer",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/notehelfers/",
+      "city": "Davis",
+      "state": "CA",
+      "summary": "International Students, Inc. — Campus Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/notehelfers/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dawn Dorning",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/dawn-dorning/",
+      "city": "Madison",
+      "state": "WI",
+      "summary": "International Students, Inc. — Campus Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/dawn-dorning/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "David Krehbiel",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/krehbiels/",
+      "city": "Urbana",
+      "state": "IL",
+      "summary": "International Students, Inc. — Campus Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/krehbiels/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ruth Krehbiel",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/krehbiels/",
+      "city": "Urbana",
+      "state": "IL",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/krehbiels/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Charles Boyle",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/boyles/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/boyles/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tracey Boyle",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/boyles/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/boyles/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Brett LaShelle",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/lashelles/",
+      "city": "Bozeman",
+      "state": "MT",
+      "summary": "International Students, Inc. — Campus Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/lashelles/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Roberta LaShelle",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/lashelles/",
+      "city": "Bozeman",
+      "state": "MT",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/lashelles/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Daniel McGhee",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/mcghees/",
+      "city": "Astoria",
+      "state": "NY",
+      "summary": "International Students, Inc. — Area Director — New York City & Long Island",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director — New York City & Long Island",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/mcghees/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kari McGhee",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/mcghees/",
+      "city": "Astoria",
+      "state": "NY",
+      "summary": "International Students, Inc. — Campus Staff / NYC Hospitality Ministry Coordinator",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff / NYC Hospitality Ministry Coordinator",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/mcghees/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tim Sigman",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/sigmans/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Director of Prayer Initiatives / Front Range Area Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Director of Prayer Initiatives / Front Range Area Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/sigmans/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Julie Sigman",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/sigmans/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/sigmans/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Leon Harper",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/leon-harper/",
+      "city": "San Leandro",
+      "state": "CA",
+      "summary": "International Students, Inc. — Area Director — East Bay",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director — East Bay",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/leon-harper/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Valerie Althouse",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/valerie-althouse/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Area Director — Mid-Atlantic North / Director of Training",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director — Mid-Atlantic North / Director of Training",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/valerie-althouse/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ian Downs",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/downs/",
+      "city": "Pullman",
+      "state": "WA",
+      "summary": "International Students, Inc. — Area Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/downs/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Erin Downs",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/downs/",
+      "city": "Pullman",
+      "state": "WA",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/downs/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ron Ingram",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/ron-ingram/",
+      "city": "Chicago",
+      "state": "IL",
+      "summary": "International Students, Inc. — Area Director / Campus Coordinator",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director / Campus Coordinator",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/ron-ingram/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dan Kronstad",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/kronstads/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Triangle Area Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Triangle Area Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/kronstads/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tanya Kronstad",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/kronstads/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Team Leader — TRUE Leadership conference",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Team Leader — TRUE Leadership conference",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/kronstads/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Andy Pearce",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/pearces/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Director of Church Partnerships / Area Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Director of Church Partnerships / Area Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/pearces/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Sandy Pearce",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/pearces/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/pearces/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Bob Louer",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/louers/",
+      "city": "",
+      "state": "NJ",
+      "summary": "International Students, Inc. — Area Director — Central New Jersey",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director — Central New Jersey",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/louers/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Carrie Louer",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/louers/",
+      "city": "",
+      "state": "NJ",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/louers/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Travis Pierce",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/pierces/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Area Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Area Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/pierces/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Holly Pierce",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/pierces/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/pierces/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tim Weston",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/tim-weston/",
+      "city": "Seattle",
+      "state": "WA",
+      "summary": "International Students, Inc. — City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/tim-weston/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Carol Douglass",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/carol-douglass/",
+      "city": "Lenexa",
+      "state": "KS",
+      "summary": "International Students, Inc. — City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/carol-douglass/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kerry Sinclair",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/sinclairs/",
+      "city": "Portland",
+      "state": "OR",
+      "summary": "International Students, Inc. — Portland City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Portland City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/sinclairs/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Josie Sinclair",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/sinclairs/",
+      "city": "Portland",
+      "state": "OR",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/sinclairs/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Steve Dunne",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/dunnes/",
+      "city": "Boise",
+      "state": "ID",
+      "summary": "International Students, Inc. — City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/dunnes/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rod Bevan",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/bevans/",
+      "city": "Wichita",
+      "state": "KS",
+      "summary": "International Students, Inc. — City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/bevans/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joyce Bevan",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/bevans/",
+      "city": "Wichita",
+      "state": "KS",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/bevans/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Gary Kuechle",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/gary-kuechle/",
+      "city": "Buffalo",
+      "state": "NY",
+      "summary": "International Students, Inc. — City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/gary-kuechle/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Patrick Flynn",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/flynns/",
+      "city": "Charlottesville",
+      "state": "VA",
+      "summary": "International Students, Inc. — City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/flynns/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jeff Newpher",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/jeff-newpher/",
+      "city": "Houston",
+      "state": "TX",
+      "summary": "International Students, Inc. — Houston City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Houston City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/jeff-newpher/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Kimberly Daniel",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/kimberly-daniel/",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "summary": "International Students, Inc. — City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/kimberly-daniel/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Steve Hope",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/hopes/",
+      "city": "Boston",
+      "state": "MA",
+      "summary": "International Students, Inc. — Greater Boston City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Greater Boston City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/hopes/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Natasha Hope",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/hopes/",
+      "city": "Boston",
+      "state": "MA",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/hopes/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Richard Herring",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/richard-herring/",
+      "city": "",
+      "state": "DE",
+      "summary": "International Students, Inc. — Campus Staff — University of Delaware (prior Asia-Pacific Regional Director 1983-2016)",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; closed 1983-2016 regional-director range but a current ISI role is stated (on staff at the University of Delaware since 2017).",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff — University of Delaware (prior Asia-Pacific Regional Director 1983-2016)",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/richard-herring/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Roy Yabuki",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/yabukis/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Regional Field Director — Rocky Mountain/Plains",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Regional Field Director — Rocky Mountain/Plains",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/yabukis/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Lisa Yabuki",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/yabukis/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/yabukis/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ed Germann",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/germanns/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Regional Field Director — Southeast & Great Lakes",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Regional Field Director — Southeast & Great Lakes",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/germanns/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Vicki Germann",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/germanns/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/germanns/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Simon Zeigler",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/zeiglers/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Western Regional Field Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Western Regional Field Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/zeiglers/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Becky Zeigler",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/zeiglers/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Staff (part-time, since 1998)",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff (part-time, since 1998)",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/zeiglers/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Mike Cutler",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/mike-and-angel-cutler/",
+      "city": "Reno",
+      "state": "NV",
+      "summary": "International Students, Inc. — Team Leader",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Team Leader",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/mike-and-angel-cutler/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Angel Cutler",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/mike-and-angel-cutler/",
+      "city": "Reno",
+      "state": "NV",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/mike-and-angel-cutler/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Dan Smith",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/smiths/",
+      "city": "Eugene",
+      "state": "OR",
+      "summary": "International Students, Inc. — Team Leader",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Team Leader",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/smiths/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jan Smith",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/smiths/",
+      "city": "Eugene",
+      "state": "OR",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/smiths/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Laura Compton",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/laura-compton/",
+      "city": "Denver",
+      "state": "CO",
+      "summary": "International Students, Inc. — Team Leader",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Team Leader",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/laura-compton/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ava Schaeffer",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/ava-schaeffer/",
+      "city": "St. Charles",
+      "state": "MO",
+      "summary": "International Students, Inc. — Team Leader",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Team Leader",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/ava-schaeffer/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Josh Tidd",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/josh-tidd/",
+      "city": "Lincoln",
+      "state": "NE",
+      "summary": "International Students, Inc. — Campus Staff — University of Nebraska-Lincoln",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff — University of Nebraska-Lincoln",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/josh-tidd/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Tim Skinner",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/skinners/",
+      "city": "Los Angeles",
+      "state": "CA",
+      "summary": "International Students, Inc. — Campus Staff — University of Southern California",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff — University of Southern California",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/skinners/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Elisa Skinner",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/skinners/",
+      "city": "Los Angeles",
+      "state": "CA",
+      "summary": "International Students, Inc. — Campus Staff — University of Southern California",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff — University of Southern California",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/skinners/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jon Alumbaugh",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/alumbaughs/",
+      "city": "Storrs",
+      "state": "CT",
+      "summary": "International Students, Inc. — Campus Staff — University of Connecticut",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff — University of Connecticut",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/alumbaughs/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Ruth Alumbaugh",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/alumbaughs/",
+      "city": "Storrs",
+      "state": "CT",
+      "summary": "International Students, Inc. — Campus Staff — University of Connecticut",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff — University of Connecticut",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/alumbaughs/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Samuel Carroll",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/carrolls/",
+      "city": "Urbana",
+      "state": "IL",
+      "summary": "International Students, Inc. — Campus Staff — University of Illinois",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff — University of Illinois",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/carrolls/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Joanne Carroll",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/carrolls/",
+      "city": "Urbana",
+      "state": "IL",
+      "summary": "International Students, Inc. — Campus Staff — University of Illinois",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff — University of Illinois",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/carrolls/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "John Berger",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/bergers/",
+      "city": "Bloomington",
+      "state": "IN",
+      "summary": "International Students, Inc. — City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/bergers/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jeff Townsend",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/jeff-townsend/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — National Director of Field Development",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "National Director of Field Development",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/jeff-townsend/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nick Miller",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/nick-and-nicole-miller/",
+      "city": "Wichita",
+      "state": "KS",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/nick-and-nicole-miller/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Nicole Miller",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/nick-and-nicole-miller/",
+      "city": "Wichita",
+      "state": "KS",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/nick-and-nicole-miller/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Peggy Pollard",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/peggy-pollard/",
+      "city": "Santa Cruz",
+      "state": "CA",
+      "summary": "International Students, Inc. — Directs ISI ministry at UC Santa Cruz",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Directs ISI ministry at UC Santa Cruz",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/peggy-pollard/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Andrew Yim",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/andrew-yim/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; role not stated in snippet; page matched the quoted phrase \"Campus Staff\".",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/andrew-yim/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Jessica Wang",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/jessica-wang/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Staff / Team Leader",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; role not stated in snippet; page matched a quoted \"Campus Staff\" OR \"Team Leader\" phrase filter.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff / Team Leader",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/jessica-wang/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Erik Racz",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/racz/",
+      "city": "Phoenix",
+      "state": "AZ",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/racz/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Leah Racz",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/racz/",
+      "city": "Phoenix",
+      "state": "AZ",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/racz/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Anne Adrian",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/anne-adrian/",
+      "city": "",
+      "state": "FL",
+      "summary": "International Students, Inc. — Campus Staff — Central Florida",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff — Central Florida",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/anne-adrian/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "In Cheol Kim",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/kims/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/kims/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Priscilla Kim",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/kims/",
+      "city": "",
+      "state": "",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/kims/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Shirley Innis",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/innis/",
+      "city": "Stillwater",
+      "state": "OK",
+      "summary": "International Students, Inc. — City Director",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "City Director",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/innis/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    },
+    {
+      "org_name": "Rod Innis",
+      "org_type": "individual",
+      "website": "https://internationalstudents.org/team/innis/",
+      "city": "Stillwater",
+      "state": "OK",
+      "summary": "International Students, Inc. — Campus Staff",
+      "fit_score": 9,
+      "fit_reason": "Tier A; ISI per-person /team/ page, title is the person's name; surname present in the slug; couple page, both names taken from the page title and sharing one URL.",
+      "source_query": "hunter:w2026-09-12c:isi2-a",
+      "meta": {
+        "tier": "A",
+        "role": "Campus Staff",
+        "target_org": "International Students, Inc.",
+        "evidence_url": "https://internationalstudents.org/team/innis/",
+        "evidence_basis": "personal_page",
+        "confidence": "high"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Campus Staff\"",
+      "outcome": "found_people",
+      "people_found": 12
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Campus Director\"",
+      "outcome": "found_people",
+      "people_found": 8
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Area Director\"",
+      "outcome": "found_people",
+      "people_found": 17
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"City Director\"",
+      "outcome": "found_people",
+      "people_found": 13
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Regional Director\"",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Regional Field Director\"",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Team Leader\"",
+      "outcome": "found_people",
+      "people_found": 6
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Campus Coordinator\"",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Ministry Leader\"",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Director of Training\"",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"ministry partners\"",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"prayer and financial support\"",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Campus Staff\" university",
+      "outcome": "found_people",
+      "people_found": 7
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Area Director\" Southeast",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"City Director\" ministry international students",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Campus Director\" international students friendship",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Director of Field Development\" OR \"Field Director\" OR \"National Director\"",
+      "outcome": "found_people",
+      "people_found": 1
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Ministry Coordinator\" OR \"Staff Associate\" OR \"Assistant Director\"",
+      "outcome": "no_people",
+      "people_found": 0
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Campus Staff\" Bible study volunteers",
+      "outcome": "found_people",
+      "people_found": 4
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Team Leader\" OR \"Campus Staff\" scholars hospitality",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Campus Staff\" OR \"Team Leader\" graduate students English conversation",
+      "outcome": "found_people",
+      "people_found": 3
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Area Director\" OR \"City Director\" staff and volunteers team",
+      "outcome": "found_people",
+      "people_found": 2
+    },
+    {
+      "kind": "query",
+      "value": "site:internationalstudents.org/team \"Member Care\" OR \"Ministry Coach\" OR \"Director of Prayer\" OR \"Coordinator\" staff",
+      "outcome": "no_people",
+      "people_found": 0
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Kim Notehelfer",
+      "org": "International Students, Inc.",
+      "question": "Identified on the page as a Ministry Representative, not staff — held under the wave rule that routes Ministry Reps to review.",
+      "evidence_url": "https://internationalstudents.org/team/notehelfers/",
+      "notes": "Title 'Tim and Kim Notehelfer' names her, but ISI runs a separate Ministry Representative track. Tim Notehelfer (Campus Director, Davis CA) was emitted."
+    },
+    {
+      "name": "Lia Dunne",
+      "org": "International Students, Inc.",
+      "question": "Identified on the page as a Ministry Representative, not staff.",
+      "evidence_url": "https://internationalstudents.org/team/dunnes/",
+      "notes": "Title 'Steve and Lia Dunne' names her. Steve Dunne (City Director, Boise ID) was emitted."
+    },
+    {
+      "name": "Christy Lynn Flynn",
+      "org": "International Students, Inc.",
+      "question": "Identified on the page as a Ministry Representative, not staff.",
+      "evidence_url": "https://internationalstudents.org/team/flynns/",
+      "notes": "Title 'Patrick and Christy Lynn Flynn' names her. Patrick Flynn (City Director, Charlottesville VA) was emitted."
+    },
+    {
+      "name": "Linda Berger",
+      "org": "International Students, Inc.",
+      "question": "Identified on the page as a Ministry Representative, not staff.",
+      "evidence_url": "https://internationalstudents.org/team/bergers/",
+      "notes": "Title 'John and Linda Berger' names her. John Berger (City Director, Bloomington IN) was emitted."
+    },
+    {
+      "name": "Jordan Lassiter",
+      "org": "International Students, Inc.",
+      "question": "Named in a snippet as part of the Lassiter household but the page title is 'Rebekah Lassiter' only — spouse not confirmed by the title.",
+      "evidence_url": "https://internationalstudents.org/team/lassiters/",
+      "notes": "Rule: emit a second person only when the title names them."
+    },
+    {
+      "name": "Emily Tidd",
+      "org": "International Students, Inc.",
+      "question": "Named in a snippet ('Josh and Emily Tidd') but the page title is 'Josh Tidd' only.",
+      "evidence_url": "https://internationalstudents.org/team/josh-tidd/",
+      "notes": "Rule: emit a second person only when the title names them."
+    },
+    {
+      "name": "Wendy Herring",
+      "org": "International Students, Inc.",
+      "question": "Named in a snippet ('Richard and Wendy Herring') but the page title is 'Richard Herring' only.",
+      "evidence_url": "https://internationalstudents.org/team/richard-herring/",
+      "notes": "Rule: emit a second person only when the title names them."
+    },
+    {
+      "name": "(non-person /team/ pages)",
+      "org": "International Students, Inc.",
+      "question": "Confirmation that the /team/ path continues to carry non-person entries that must never be emitted.",
+      "evidence_url": "https://internationalstudents.org/team/",
+      "notes": "'Campus Staff Archive - ISI' at https://internationalstudents.org/team/ is a listing page, not a person; consistent with wave b's /team/denver_auraria/ (location) and /team/isi-memorial-gift/ (fund). Path is necessary, never sufficient — the title decides."
+    },
+    {
+      "name": "Simon Zeigler and Becky Zeigler; Samuel Carroll and Joanne Carroll",
+      "org": "International Students, Inc.",
+      "question": "Prior-wave protection conflict: in wave w2026-09-12b one agent held the Zeiglers and the Carrolls under the retiree/volunteer rule while other agents emitted them.",
+      "evidence_url": "https://internationalstudents.org/team/zeiglers/",
+      "notes": "This agent's snippets show current roles (Simon Zeigler: Western Regional Field Director; Becky Zeigler: part-time Campus Staff since 1998; Carrolls: joined ISI as campus staff in 2016), so they were emitted here. Flagging so the ingest-side hold, which wins unconditionally, is applied deliberately rather than by majority. Carroll page: https://internationalstudents.org/team/carrolls/"
+    }
+  ]
+}
