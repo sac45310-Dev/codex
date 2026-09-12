@@ -255,3 +255,30 @@ a human can check the live page. Never resolve the conflict by majority.
 Corollary on namespaces: "under the person path" is necessary, never sufficient.
 ISI's `/team/` also contains `/team/denver_auraria/` (a location) and
 `/team/isi-memorial-gift/` (a fund). The title decides, not the path.
+
+## From wave w2026-09-12c (ISI second pass, 23 net-new from 65 searches)
+
+**A couple page's role title belongs to whichever spouse the page names in it,
+not to both.** Wave b split couple pages into two records and copied the single
+page-level role onto each. Wave c re-read eight of those pages and found four
+spouses labelled *Ministry Representative* — a non-ICP track — while their
+partners were genuinely staff. Emit the second person, but leave `role` null on
+them unless the page states their role separately. Never inherit a role across
+a couple.
+
+**Negative search operators do nothing on this backend.** `-football
+-basketball -Commodores` changed the result set not at all. This is worse than
+the ~10–12 term exclusion ceiling: those terms are limited, these are inert.
+Never spend budget on a negative operator; change the positive terms instead.
+
+**A `site:` path segment is a search token and will collide.** `site:<host>/team`
+matches "*University* football team" on Wikipedia, which killed 15 of 24 queries
+on the university axis — the same failure bare state names produced on the
+geographic axis, arriving by a different route. Before choosing an axis, ask
+what else the path word means.
+
+**One more carve-out for the stop rule.** Three consecutive empties across three
+different shapes still should not stop a run when a query of one of those shapes
+has already succeeded earlier in the same run: that proves the surface, and the
+qualifier is the variable. An agent that made this call went on to produce 34 of
+its 48 records.
