@@ -229,3 +229,29 @@ you have already worked.
   Do not generalise "vanity slugs are not people" from `/paratext` and
   `/LangTech` — judge the slug's *shape*. A name-shaped slug ties the URL to the
   person and earns `high`, where the numeric form only earns `medium`.
+
+## Three corrections from wave w2026-09-12b (ISI, 4 agents, 147 people)
+
+**Per-agent yield is not wave yield.** Each of four agents reported 2.5–3.5
+new-per-query against its own running set. Merged and deduped against the CRM
+the wave was **1.53**, because 79 of 153 names were found by two or more agents:
+role queries cut across geographic slices and pull the same people into every
+one. Always recompute the metric after the merge, against the database, before
+judging a wave.
+
+**Scope the stop-early rule to the query shape.** Three of four agents hit three
+consecutive empty searches and all three were right to keep going — the dry
+spell was one shape failing, not the surface exhausting. One agent sat through
+six empties, switched shape, and then produced the four largest yields of its
+run. The rule should read: *stop after three consecutive empty searches **on
+different query shapes**.*
+
+**A protection held by any agent binds every agent.** Four agents emitted the
+Zeiglers, the Millses and the Carrolls; one agent in each case held them back
+under the retiree or volunteer rule. At ingest the hold wins, unconditionally,
+and the record is written as `skipped` with the reason rather than dropped, so
+a human can check the live page. Never resolve the conflict by majority.
+
+Corollary on namespaces: "under the person path" is necessary, never sufficient.
+ISI's `/team/` also contains `/team/denver_auraria/` (a location) and
+`/team/isi-memorial-gift/` (a fund). The title decides, not the path.
