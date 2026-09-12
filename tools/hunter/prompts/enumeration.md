@@ -201,3 +201,31 @@ inflation; it is a number produced by recollection rather than by counting.
 A figure that is right by coin flip is worse than no figure, because whoever
 reads it may act on it without opening the file. Describe what you did, what
 patterns held, and what defeated you. Let the orchestrator count.
+
+## Before the surface probe: does the agency fund its own people?
+
+Wave w2026-09-12a spent three agents and 47 searches on SIL International, an
+agency picked because it is large and adjacent to the best wave on record. Both
+signals were real; both were irrelevant. SIL members raise support through their
+*sending* organisation, so SIL's own giving domain carries three people and
+several dozen programmes.
+
+Run this test before the surface probe, not after:
+
+> **Does the agency's own giving domain return more people than programmes?**
+
+Six searches answer it. If the domain returns funds, regional projects and
+software campaigns while people appear only in ones and twos, the agency is a
+pass-through and the roster lives somewhere else — usually at the sending org
+you have already worked.
+
+## Two page-shape rules learned on give.sil.org
+
+- **A numeric ID space shared with funds cannot be walked.** `give/484793` is a
+  country fund sitting numerically between two people. Enumeration by ID returns
+  mostly non-people and cannot be validated while fetching is blocked.
+- **A `Firstname-Lastname` vanity slug is a person; a programme slug is not.**
+  `give.sil.org/Terry-Dehart` and `give.sil.org/give/533493` are one page.
+  Do not generalise "vanity slugs are not people" from `/paratext` and
+  `/LangTech` — judge the slug's *shape*. A name-shaped slug ties the URL to the
+  person and earns `high`, where the numeric form only earns `medium`.

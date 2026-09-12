@@ -1,0 +1,81 @@
+{
+  "wave_id": "w2026-09-12a",
+  "agent": "roster:sil-b",
+  "target_org": "SIL International",
+  "roster_verdict": "exhausted",
+  "slice": "Americas, Eurasia, Pacific",
+  "searches_used": 14,
+  "people": [
+    {
+      "org_name": "Terry Dehart",
+      "org_type": "individual",
+      "website": "https://give.sil.org/give/533493/",
+      "summary": "SIL International — SIL member with a personal support page on give.sil.org; region not stated on the indexed page",
+      "fit_score": 7,
+      "fit_reason": "Tier A; per-person giving page at give.sil.org/give/533493 titled \"Donate to Terry Dehart Support\" (title confirmed in full via the vanity alias give.sil.org/Terry-Dehart); confidence medium because the slug is an opaque numeric ID that does not tie the page to the name",
+      "source_query": "hunter:w2026-09-12a:sil-b",
+      "meta": {
+        "tier": "A",
+        "role": "SIL member (support-raised)",
+        "target_org": "SIL International",
+        "evidence_url": "https://give.sil.org/give/533493/",
+        "donation_page": "https://give.sil.org/give/533493/",
+        "evidence_basis": "personal_page",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Oliver Dixon",
+      "org_type": "individual",
+      "website": "https://give.sil.org/give/484678",
+      "summary": "SIL International — SIL member with a personal support page on give.sil.org; region not stated on the indexed page",
+      "fit_score": 7,
+      "fit_reason": "Tier A; per-person giving page at give.sil.org/give/484678 titled \"Donate to Oliver Dixon Support\"; confidence medium because the slug is an opaque numeric ID that does not tie the page to the name",
+      "source_query": "hunter:w2026-09-12a:sil-b",
+      "meta": {
+        "tier": "A",
+        "role": "SIL member (support-raised)",
+        "target_org": "SIL International",
+        "evidence_url": "https://give.sil.org/give/484678",
+        "donation_page": "https://give.sil.org/give/484678",
+        "evidence_basis": "personal_page",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Saul Delgado",
+      "org_type": "individual",
+      "website": "https://give.sil.org/give/500598/",
+      "summary": "SIL International — SIL member with a personal support page on give.sil.org; region not stated on the indexed page",
+      "fit_score": 7,
+      "fit_reason": "Tier A; per-person giving page at give.sil.org/give/500598 titled \"Donate to Saul Delgado Support Page\"; confidence medium because the slug is an opaque numeric ID that does not tie the page to the name",
+      "source_query": "hunter:w2026-09-12a:sil-b",
+      "meta": {
+        "tier": "A",
+        "role": "SIL member (support-raised)",
+        "target_org": "SIL International",
+        "evidence_url": "https://give.sil.org/give/500598/",
+        "donation_page": "https://give.sil.org/give/500598/",
+        "evidence_basis": "personal_page",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" \"Support\"", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" Support Mexico", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org/give\" \"Donate to\" \"Support Page\"", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" Support Guatemala Peru Brazil", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "site:give.sil.org \"Donate to\" \"Support Page\"", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "site:give.sil.org \"Donate to\" Support Americas Mexico Colombia", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "site:give.sil.org \"Donate to\" Support Eurasia Caucasus Central Asia Turkey", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "site:give.sil.org \"Donate to\" Support Pacific Papua New Guinea Solomon Islands Vanuatu", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "give.sil.org \"Terry Dehart Support\"", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "site:give.sil.org \"Support\" family missionary Dallas North Carolina translator", "outcome": "found_people", "people_found": 3},
+    {"kind": "query", "value": "\"give.sil.org/\" \"Donate to\" Support -campaign -Paratext -LangTech -archives", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "site:give.sil.org \"Donate to\" Support Bolivia Paraguay Suriname Canada", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "\"give.sil.org\" \"Support\" \"our family\" OR \"monthly support\" OR \"ministry partners\"", "outcome": "offtopic", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org\" personal support page SIL member Americas Eurasia Pacific donate name", "outcome": "no_people", "people_found": 0}
+  ],
+  "needs_review": []
+}
