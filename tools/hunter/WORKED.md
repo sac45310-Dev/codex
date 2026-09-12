@@ -67,3 +67,51 @@ Intl 3 · TEAM 3 · World Medical Mission 3 · Ratio Christi 2
    continuetogive.com) are not support-raised missionary staff and should
    be reviewed out. Roughly 60–80 rows. Not urgent, but it inflates the
    headline count.
+
+## The holdings check, done properly (2026-09-12)
+
+`AUDIT-2026-09-12.md` replaces the list above as the authoritative answer to
+"have we worked this agency". The list is a snapshot; the query is not.
+
+**Before dispatching a wave, run this — keyed on org name and the FK, never on a
+domain you typed from memory:**
+
+```sql
+select t.id, t.org_name, t.website, t.roster_status, t.headcount_found,
+       count(c.*) held, count(*) filter (where c.status='approved') approved
+from sales.hunt_targets t
+left join sales.scout_candidates c
+  on  c.org_type in ('individual','Individual','missionary')
+  and (c.hunt_target_id = t.id
+       or btrim(regexp_replace(lower(translate(coalesce(c.meta->>'target_org',''),'.''-"/,&',' ')),'\s+',' ','g'))
+        = btrim(regexp_replace(lower(translate(t.org_name,'.''-"/,&',' ')),'\s+',' ','g')))
+where t.org_name ilike '%<agency>%'
+group by 1,2,3,4,5;
+```
+
+`roster_status` and `headcount_found` are **not** trustworthy on their own: the
+audit found 32 targets reading `unrostered, 0` that already held people, including
+BIMI (153), Converge (105), FBMI (94) and AIM (82). Those are now `partial`.
+
+Domain matching is for confirmation only. 93 targets share `usachurches.org`,
+eleven Campus Outreach locals share two regional staff pages, and `Ratio Christi -
+Board` swallows 59 people belonging to `Ratio Christi`.
+
+## Two more kinds of debt in the table
+
+3. **Competitor platforms are not recorded.** 109 person records sit on
+   `modernday.org/profile/` — Modern Day Missions runs its own donor-management
+   and giving software for ~1,700 missionaries. 96 of those records are approved.
+   `hunt_targets.crm_incumbent` exists and is empty on every row. Person records
+   now carry `meta.platform_incumbent`; the target-level column is still unused.
+4. **Nine people are cited to organisation directories** (GuideStar, BBB). An org
+   profile cannot evidence an individual's support-raised role. Tagged
+   `meta.citation_quality = 'org_directory'`.
+
+## Never sweep on a keyword alone
+
+The short-term audit would have destroyed good data if run as a keyword sweep:
+78 RUF records say "intern" and the RUF internship is a **two-year, support-raised
+role**; the BIMI records that say "trip" are career missionaries who **host** trips.
+Only two genuine short-term participants existed in 6,691 records, and both had
+already been scored 5.
