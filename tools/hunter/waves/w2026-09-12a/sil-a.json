@@ -1,0 +1,67 @@
+{
+  "wave_id": "w2026-09-12a",
+  "agent": "roster:sil-a",
+  "target_org": "SIL International",
+  "roster_verdict": "exhausted",
+  "slice": "Africa and Asia",
+  "searches_used": 18,
+  "people": [
+    {
+      "org_name": "Oliver Dixon",
+      "org_type": "individual",
+      "website": "https://give.sil.org/give/484678",
+      "summary": "SIL International — SIL member with a personal support page on give.sil.org",
+      "fit_score": 7,
+      "fit_reason": "Tier A; personal support page titled 'Donate to Oliver Dixon Support' on give.sil.org. Confidence medium: the slug (484678) is an opaque numeric ID and does not tie the page to the name; the name appears only in the title. Region unattributed — no country signal in any indexed title or snippet.",
+      "source_query": "hunter:w2026-09-12a:sil-a",
+      "meta": {
+        "tier": "A",
+        "role": "SIL member (support-raised)",
+        "target_org": "SIL International",
+        "evidence_url": "https://give.sil.org/give/484678",
+        "donation_page": "https://give.sil.org/give/484678",
+        "evidence_basis": "personal_page",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Saul Delgado",
+      "org_type": "individual",
+      "website": "https://give.sil.org/give/500598",
+      "summary": "SIL International — SIL member with a personal support page on give.sil.org",
+      "fit_score": 7,
+      "fit_reason": "Tier A; personal support page titled 'Donate to Saul Delgado Support Page' on give.sil.org. Confidence medium: the slug (500598) is an opaque numeric ID and does not tie the page to the name; the name appears only in the title. Region unattributed — no country signal in any indexed title or snippet.",
+      "source_query": "hunter:w2026-09-12a:sil-a",
+      "meta": {
+        "tier": "A",
+        "role": "SIL member (support-raised)",
+        "target_org": "SIL International",
+        "evidence_url": "https://give.sil.org/give/500598",
+        "donation_page": "https://give.sil.org/give/500598",
+        "evidence_basis": "personal_page",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" \"Support\" Cameroon", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" \"Support\" Nigeria", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" \"Support\" Africa", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org/give\" \"Donate to\" \"Support Page\"", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "\"give.sil.org/give\" \"Donate to\" \"Support\" Kenya Tanzania Ethiopia", "outcome": "offtopic", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" \"Support\" Papua New Guinea", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" \"Support\" Philippines Indonesia", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" \"Support\" Ghana Togo Benin", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"Donate to\" \"Support\" site give.sil.org missionary support page [allowed_domains: give.sil.org]", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "\"give.sil.org/give\" \"Support Page\" translator", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"Donate to\" \"Support\" give.sil.org SIL Africa member support [allowed_domains: give.sil.org]", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org/give\" \"Donate to\" \"Support\" Chad Mali Burkina Faso Senegal", "outcome": "offtopic", "people_found": 0},
+    {"kind": "query", "value": "give.sil.org give Donate Support Uganda Kenya SIL personal support page [allowed_domains: give.sil.org]", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "give.sil.org Donate to Support Page Asia Thailand Nepal India Bangladesh Vietnam [allowed_domains: give.sil.org]", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "\"give.sil.org/give\" \"Donate to\" \"Support\" family serving SIL Ethiopia South Sudan", "outcome": "offtopic", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" \"Support\" DRC Congo Mozambique Uganda", "outcome": "offtopic", "people_found": 0},
+    {"kind": "query", "value": "\"Donate to\" \"Support Page\" give.sil.org SIL Global members serving in Africa Asia [allowed_domains: give.sil.org]", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "\"give.sil.org/give/5\" OR \"give.sil.org/give/4\" \"Donate to\" Support", "outcome": "no_people", "people_found": 0}
+  ],
+  "needs_review": []
+}

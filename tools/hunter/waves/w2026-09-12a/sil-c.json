@@ -1,0 +1,62 @@
+{
+  "wave_id": "w2026-09-12a",
+  "agent": "roster:sil-c",
+  "target_org": "SIL International",
+  "roster_verdict": "exhausted",
+  "slice": "roles, disciplines and generic name-shaped queries",
+  "searches_used": 12,
+  "people": [
+    {
+      "org_name": "Oliver Dixon",
+      "org_type": "individual",
+      "website": "https://give.sil.org/give/484678",
+      "summary": "SIL International — member with a personal support page on give.sil.org",
+      "fit_score": 7,
+      "fit_reason": "Tier A; personal giving page titled \"Donate to Oliver Dixon Support\" on give.sil.org; medium confidence because the slug is an opaque numeric ID (484678) that does not tie the page to the name — the name appears only in the title.",
+      "source_query": "hunter:w2026-09-12a:sil-c",
+      "meta": {
+        "tier": "A",
+        "role": "SIL member (role not stated in indexed title or snippet)",
+        "target_org": "SIL International",
+        "evidence_url": "https://give.sil.org/give/484678",
+        "donation_page": "https://give.sil.org/give/484678",
+        "evidence_basis": "personal_page",
+        "confidence": "medium"
+      }
+    },
+    {
+      "org_name": "Saul Delgado",
+      "org_type": "individual",
+      "website": "https://give.sil.org/give/500598/",
+      "summary": "SIL International — member with a personal support page on give.sil.org",
+      "fit_score": 7,
+      "fit_reason": "Tier A; personal giving page titled \"Donate to Saul Delgado Support Page\" on give.sil.org; medium confidence because the slug is an opaque numeric ID (500598) that does not tie the page to the name — the name appears only in the title.",
+      "source_query": "hunter:w2026-09-12a:sil-c",
+      "meta": {
+        "tier": "A",
+        "role": "SIL member (role not stated in indexed title or snippet)",
+        "target_org": "SIL International",
+        "evidence_url": "https://give.sil.org/give/500598/",
+        "donation_page": "https://give.sil.org/give/500598/",
+        "evidence_basis": "personal_page",
+        "confidence": "medium"
+      }
+    }
+  ],
+  "coverage": [
+    {"kind": "query", "value": "\"give.sil.org/give\" \"Donate to\" \"Support\"", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" \"Support\" translator", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" \"Support\" linguist", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org/give\" \"Support Page\"", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" \"Smith Support\"", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"Donate to\" \"Support\" SIL member support page [allowed_domains: give.sil.org]", "outcome": "found_people", "people_found": 2},
+    {"kind": "query", "value": "\"Donate to\" \"Support Page\" translation consultant [allowed_domains: give.sil.org]", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "give.sil.org \"Donate to\" ethnomusicologist OR ethnoarts OR \"literacy specialist\" Support", "outcome": "no_people", "people_found": 0},
+    {"kind": "query", "value": "\"give.sil.org/give\" \"Donate to\" \"and\" \"Support Page\" family", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "\"give.sil.org\" \"Support Page\" -campaign -Paratext -Technology -Archives", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "\"Donate to\" \"Support\" site give.sil.org aviation OR finance OR IT OR trainer OR administrator SIL [allowed_domains: give.sil.org]", "outcome": "found_people", "people_found": 1},
+    {"kind": "query", "value": "\"give.sil.org\" \"Donate to\" Johnson OR Brown OR Miller OR Anderson \"Support\"", "outcome": "offtopic", "people_found": 0}
+  ],
+  "negatives": [],
+  "needs_review": []
+}
