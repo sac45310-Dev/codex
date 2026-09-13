@@ -1,0 +1,2384 @@
+{
+ "wave_id": "w2026-09-12d",
+ "agent": "roster:isi3-u",
+ "target_org": "International Students, Inc.",
+ "roster_verdict": "rostered",
+ "people": [
+  {
+   "org_name": "Jon Alumbaugh",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/alumbaughs/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Jon and Ruth (Hartunian) Alumbaugh') names the person and whose slug '/alumbaughs/' carries the surname; first surfaced by query 'UCLA'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/alumbaughs/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Ruth Alumbaugh",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/alumbaughs/",
+   "summary": "International Students, Inc. — Campus Staff",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Jon and Ruth (Hartunian) Alumbaugh') names the person and whose slug '/alumbaughs/' carries the surname; first surfaced by query 'UCLA'. Role for this person specifically, quoted from the search result text: \"Ruth, as of June first, is now Campus Staff and raising support to step into her official role\"; not applied to the spouse.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/alumbaughs/",
+    "evidence_basis": "personal_page",
+    "confidence": "high",
+    "role": "Campus Staff"
+   }
+  },
+  {
+   "org_name": "Anne Adrian",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/anne-adrian/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Anne Adrian') names the person and whose slug '/anne-adrian/' carries the surname; first surfaced by query 'Penn State'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/anne-adrian/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Bethany Fletcher",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/bethany-fletcher/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Bethany Fletcher') names the person and whose slug '/bethany-fletcher/' carries the surname; first surfaced by query 'Berkeley'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/bethany-fletcher/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Joyce Bevan",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/bevans/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Rod and Joyce Bevan') names the person and whose slug '/bevans/' carries the surname; first surfaced by query 'Kansas State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/bevans/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Rod Bevan",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/bevans/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Rod and Joyce Bevan') names the person and whose slug '/bevans/' carries the surname; first surfaced by query 'Kansas State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/bevans/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Calen Thomas",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/calen-thomas/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Calen Thomas') names the person and whose slug '/calen-thomas/' carries the surname; first surfaced by query 'Vanderbilt'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/calen-thomas/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Hollie Casper",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/caspers/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Jason and Hollie Casper') names the person and whose slug '/caspers/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/caspers/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Jason Casper",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/caspers/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Jason and Hollie Casper') names the person and whose slug '/caspers/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/caspers/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Gary Claassen",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/claassens/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Gary Claassen') names the person and whose slug '/claassens/' carries the surname; first surfaced by query 'Ohio State'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/claassens/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Claire Duckett",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/claire-duckett-drevets/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Claire Duckett (Drevets)') names the person and whose slug '/claire-duckett-drevets/' carries the surname; first surfaced by query 'Kansas State'. No role stated in the result text; role left unset. Title carries '(Drevets)' as a parenthetical; name recorded as in the prior-wave record.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/claire-duckett-drevets/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Laurie Cotton",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/cottons/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Ray and Laurie Cotton') names the person and whose slug '/cottons/' carries the surname; first surfaced by query 'Texas A&M'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/cottons/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Ray Cotton",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/cottons/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Ray and Laurie Cotton') names the person and whose slug '/cottons/' carries the surname; first surfaced by query 'Texas A&M'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/cottons/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Jude De Padua",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/de-paduas/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Jude and Maria \"Anto\" De Padua') names the person and whose slug '/de-paduas/' carries the surname; first surfaced by query 'Ohio State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/de-paduas/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Maria De Padua",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/de-paduas/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Jude and Maria \"Anto\" De Padua') names the person and whose slug '/de-paduas/' carries the surname; first surfaced by query 'Ohio State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/de-paduas/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Debbie Egan",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/debbie-egan/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Debbie Egan') names the person and whose slug '/debbie-egan/' carries the surname; first surfaced by query 'Purdue'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/debbie-egan/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Doug Sawyer",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/doug-sawyer/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Doug Sawyer') names the person and whose slug '/doug-sawyer/' carries the surname; first surfaced by query 'Michigan State'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/doug-sawyer/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Steve Dunne",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/dunnes/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Steve and Lia Dunne') names the person and whose slug '/dunnes/' carries the surname; first surfaced by query 'Ohio State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/dunnes/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Heather Fannin",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/fannins/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Kevin and Heather Fannin') names the person and whose slug '/fannins/' carries the surname; first surfaced by query 'Rutgers'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/fannins/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Kevin Fannin",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/fannins/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Kevin and Heather Fannin') names the person and whose slug '/fannins/' carries the surname; first surfaced by query 'Rutgers'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/fannins/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Sandy Flammini",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/flamminis/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Steve and Sandy Flammini') names the person and whose slug '/flamminis/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/flamminis/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Steve Flammini",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/flamminis/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Steve and Sandy Flammini') names the person and whose slug '/flamminis/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/flamminis/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Patrick Flynn",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/flynns/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Patrick and Christy Lynn Flynn') names the person and whose slug '/flynns/' carries the surname; first surfaced by query 'Virginia Tech'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/flynns/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "James Frailey",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/fraileys/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('James and Paige Frailey') names the person and whose slug '/fraileys/' carries the surname; first surfaced by query 'Texas A&M'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/fraileys/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Paige Frailey",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/fraileys/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('James and Paige Frailey') names the person and whose slug '/fraileys/' carries the surname; first surfaced by query 'Texas A&M'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/fraileys/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Gary Kuechle",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/gary-kuechle/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Gary Kuechle') names the person and whose slug '/gary-kuechle/' carries the surname; first surfaced by query 'Syracuse'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/gary-kuechle/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Ed Germann",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/germanns/",
+   "summary": "International Students, Inc. — Regional Field Director, Great Lakes Region",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Ed and Vicki Germann') names the person and whose slug '/germanns/' carries the surname; first surfaced by query 'Ohio State'. Role for this person specifically, quoted from the search result text: \"Ed Germann serves as the Regional Field Director for ISI covering the Great Lakes Region\"; not applied to the spouse.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/germanns/",
+    "evidence_basis": "personal_page",
+    "confidence": "high",
+    "role": "Regional Field Director, Great Lakes Region"
+   }
+  },
+  {
+   "org_name": "Vicki Germann",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/germanns/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Ed and Vicki Germann') names the person and whose slug '/germanns/' carries the surname; first surfaced by query 'Ohio State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/germanns/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Gordon Decker",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/gordon-decker/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Gordon \"Gordy\" Decker') names the person and whose slug '/gordon-decker/' carries the surname; first surfaced by query 'Cornell'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/gordon-decker/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Natasha Hope",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/hopes/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Steve and Natasha Hope') names the person and whose slug '/hopes/' carries the surname; first surfaced by query 'Berkeley'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/hopes/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Steve Hope",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/hopes/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Steve and Natasha Hope') names the person and whose slug '/hopes/' carries the surname; first surfaced by query 'Berkeley'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/hopes/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Derrah Jackson",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/jacksons/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Derrah and Pam Jackson') names the person and whose slug '/jacksons/' carries the surname; first surfaced by query 'Texas A&M'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/jacksons/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Pam Jackson",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/jacksons/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Derrah and Pam Jackson') names the person and whose slug '/jacksons/' carries the surname; first surfaced by query 'Texas A&M'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/jacksons/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Jean Anthony",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/jeff-and-jean-anthony/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Jeff and Jean Anthony') names the person and whose slug '/jeff-and-jean-anthony/' carries the surname; first surfaced by query 'Buffalo'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/jeff-and-jean-anthony/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Jeff Anthony",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/jeff-and-jean-anthony/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Jeff and Jean Anthony') names the person and whose slug '/jeff-and-jean-anthony/' carries the surname; first surfaced by query 'Buffalo'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/jeff-and-jean-anthony/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Jennifer Cote",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/jennifer-cote/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Jennifer Cote') names the person and whose slug '/jennifer-cote/' carries the surname; first surfaced by query 'Texas A&M'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/jennifer-cote/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Jessica Wang",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/jessica-wang/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Jessica Wang') names the person and whose slug '/jessica-wang/' carries the surname; first surfaced by query 'Texas A&M'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/jessica-wang/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Judy Billings",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/judy-billings/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Judy Billings') names the person and whose slug '/judy-billings/' carries the surname; first surfaced by query 'Vanderbilt'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/judy-billings/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Kathy Tse",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/kathy-tse/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Kathy Tse') names the person and whose slug '/kathy-tse/' carries the surname; first surfaced by query 'Rutgers'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/kathy-tse/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "In Cheol Kim",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/kims/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('In Cheol (Aquila) and Priscilla Kim') names the person and whose slug '/kims/' carries the surname; first surfaced by query 'UCLA'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/kims/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Priscilla Kim",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/kims/",
+   "summary": "International Students, Inc. — Campus Staff",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('In Cheol (Aquila) and Priscilla Kim') names the person and whose slug '/kims/' carries the surname; first surfaced by query 'UCLA'. Role for this person specifically, quoted from the search result text: \"Priscilla joined ISI as campus staff in May 2020\"; not applied to the spouse.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/kims/",
+    "evidence_basis": "personal_page",
+    "confidence": "high",
+    "role": "Campus Staff"
+   }
+  },
+  {
+   "org_name": "Dan Kronstad",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/kronstads/",
+   "summary": "International Students, Inc. — Triangle Area Director (Duke & NC State)",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Dan and Tanya Kronstad') names the person and whose slug '/kronstads/' carries the surname; first surfaced by query 'NC State'. Role for this person specifically, quoted from the search result text: \"Dan Kronstad is the Triangle Area Director for ISI, leading the ministries at Duke & NC State Universities\"; not applied to the spouse.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/kronstads/",
+    "evidence_basis": "personal_page",
+    "confidence": "high",
+    "role": "Triangle Area Director (Duke & NC State)"
+   }
+  },
+  {
+   "org_name": "Tanya Kronstad",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/kronstads/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Dan and Tanya Kronstad') names the person and whose slug '/kronstads/' carries the surname; first surfaced by query 'NC State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/kronstads/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Beth Larson",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/larsons/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('David and Beth Larson') names the person and whose slug '/larsons/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/larsons/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "David Larson",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/larsons/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('David and Beth Larson') names the person and whose slug '/larsons/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/larsons/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Brett LaShelle",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/lashelles/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Brett and Roberta LaShelle') names the person and whose slug '/lashelles/' carries the surname; first surfaced by query 'Ohio State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/lashelles/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Roberta LaShelle",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/lashelles/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Brett and Roberta LaShelle') names the person and whose slug '/lashelles/' carries the surname; first surfaced by query 'Ohio State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/lashelles/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Rebekah Lassiter",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/lassiters/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Rebekah Lassiter') names the person and whose slug '/lassiters/' carries the surname; first surfaced by query 'NC State'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/lassiters/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Laura Compton",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/laura-compton/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Laura Compton') names the person and whose slug '/laura-compton/' carries the surname; first surfaced by query 'UCLA'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/laura-compton/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Leon Harper",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/leon-harper/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Leon Harper') names the person and whose slug '/leon-harper/' carries the surname; first surfaced by query 'UCLA'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/leon-harper/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Lewis Hu",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/lewis-hu/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Lewis Hu') names the person and whose slug '/lewis-hu/' carries the surname; first surfaced by query 'Duke'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/lewis-hu/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Dan Lockwood",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/lockwoods/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Dan and Toshiko Lockwood') names the person and whose slug '/lockwoods/' carries the surname; first surfaced by query 'Oregon State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/lockwoods/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Toshiko Lockwood",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/lockwoods/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Dan and Toshiko Lockwood') names the person and whose slug '/lockwoods/' carries the surname; first surfaced by query 'Oregon State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/lockwoods/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Lonnie Holbrook",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/lonnie-holbrook/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Lonnie Holbrook') names the person and whose slug '/lonnie-holbrook/' carries the surname; first surfaced by query 'UCLA'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/lonnie-holbrook/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Ly Nguyen",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/ly-nguyen/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Ly Nguyen') names the person and whose slug '/ly-nguyen/' carries the surname; first surfaced by query 'Georgia Tech'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/ly-nguyen/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Betsy Manila",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/manilas/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Ron and Betsy Manila') names the person and whose slug '/manilas/' carries the surname; first surfaced by query 'NC State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/manilas/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Ron Manila",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/manilas/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Ron and Betsy Manila') names the person and whose slug '/manilas/' carries the surname; first surfaced by query 'NC State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/manilas/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Kathy Matheny",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/mathenys/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Scott and Kathy Matheny') names the person and whose slug '/mathenys/' carries the surname; first surfaced by query 'Vanderbilt'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/mathenys/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Scott Matheny",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/mathenys/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Scott and Kathy Matheny') names the person and whose slug '/mathenys/' carries the surname; first surfaced by query 'Vanderbilt'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/mathenys/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Aaron Mehner",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/mehners/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Aaron and Taylor Mehner') names the person and whose slug '/mehners/' carries the surname; first surfaced by query 'Arizona State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/mehners/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Taylor Mehner",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/mehners/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Aaron and Taylor Mehner') names the person and whose slug '/mehners/' carries the surname; first surfaced by query 'Arizona State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/mehners/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Leanna Meyer",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/meyer/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Mark and Leanna Meyer') names the person and whose slug '/meyer/' carries the surname; first surfaced by query 'Vanderbilt'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/meyer/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Mark Meyer",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/meyer/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Mark and Leanna Meyer') names the person and whose slug '/meyer/' carries the surname; first surfaced by query 'Vanderbilt'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/meyer/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Amarildo Moreira",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/moreiras/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Amarildo and Laura Moreira') names the person and whose slug '/moreiras/' carries the surname; first surfaced by query 'Virginia Tech'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/moreiras/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Laura Moreira",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/moreiras/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Amarildo and Laura Moreira') names the person and whose slug '/moreiras/' carries the surname; first surfaced by query 'Virginia Tech'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/moreiras/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Nick Miller",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/nick-and-nicole-miller/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Nick and Nicole Miller') names the person and whose slug '/nick-and-nicole-miller/' carries the surname; first surfaced by query 'Penn State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/nick-and-nicole-miller/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Nicole Miller",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/nick-and-nicole-miller/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Nick and Nicole Miller') names the person and whose slug '/nick-and-nicole-miller/' carries the surname; first surfaced by query 'Penn State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/nick-and-nicole-miller/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Patricia Bull",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/patricia-bull/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Patricia Bull') names the person and whose slug '/patricia-bull/' carries the surname; first surfaced by query 'Georgia Tech'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/patricia-bull/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Perla Macias",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/perla-macias/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Perla Macias') names the person and whose slug '/perla-macias/' carries the surname; first surfaced by query 'Virginia Tech'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/perla-macias/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Holly Pierce",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/pierces/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Travis and Holly Pierce') names the person and whose slug '/pierces/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/pierces/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Travis Pierce",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/pierces/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Travis and Holly Pierce') names the person and whose slug '/pierces/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/pierces/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Erik Racz",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/racz/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Erik and Leah Racz') names the person and whose slug '/racz/' carries the surname; first surfaced by query 'Arizona State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/racz/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Leah Racz",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/racz/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Erik and Leah Racz') names the person and whose slug '/racz/' carries the surname; first surfaced by query 'Arizona State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/racz/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Richard Herring",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/richard-herring/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Richard Herring') names the person and whose slug '/richard-herring/' carries the surname; first surfaced by query 'Ohio State'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/richard-herring/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Ron Ingram",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/ron-ingram/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Ron Ingram') names the person and whose slug '/ron-ingram/' carries the surname; first surfaced by query 'Berkeley'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/ron-ingram/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Chris Rowley",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/rowleys/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Chris and Kelly Rowley') names the person and whose slug '/rowleys/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/rowleys/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Kelly Rowley",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/rowleys/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Chris and Kelly Rowley') names the person and whose slug '/rowleys/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/rowleys/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Sabu Joseph",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/sabu-joseph/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Sabu Joseph') names the person and whose slug '/sabu-joseph/' carries the surname; first surfaced by query 'Cornell'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/sabu-joseph/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Sandeep Thomas",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/sandeep-thomas/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Sandeep Thomas') names the person and whose slug '/sandeep-thomas/' carries the surname; first surfaced by query 'Kansas State'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/sandeep-thomas/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Sarah Halferty",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/sarah-halferty/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Sarah Halferty') names the person and whose slug '/sarah-halferty/' carries the surname; first surfaced by query 'Texas A&M'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/sarah-halferty/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Scott Hawkins",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/scott-hawkins/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Scott Hawkins') names the person and whose slug '/scott-hawkins/' carries the surname; first surfaced by query 'NC State'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/scott-hawkins/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Jenn Sforza",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/sforzas/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Joey and Jenn Sforza') names the person and whose slug '/sforzas/' carries the surname; first surfaced by query 'Berkeley'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/sforzas/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Joey Sforza",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/sforzas/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Joey and Jenn Sforza') names the person and whose slug '/sforzas/' carries the surname; first surfaced by query 'Berkeley'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/sforzas/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Carl Shirk",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/shirks/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Carl Shirk') names the person and whose slug '/shirks/' carries the surname; first surfaced by query 'Texas A&M'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/shirks/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Shola Silumbu",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/silumbus/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Shola and Susan Silumbu') names the person and whose slug '/silumbus/' carries the surname; first surfaced by query 'Texas A&M'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/silumbus/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Susan Silumbu",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/silumbus/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Shola and Susan Silumbu') names the person and whose slug '/silumbus/' carries the surname; first surfaced by query 'Texas A&M'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/silumbus/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Josie Sinclair",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/sinclairs/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Kerry and Josie Sinclair') names the person and whose slug '/sinclairs/' carries the surname; first surfaced by query 'Oregon State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/sinclairs/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Kerry Sinclair",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/sinclairs/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Kerry and Josie Sinclair') names the person and whose slug '/sinclairs/' carries the surname; first surfaced by query 'Oregon State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/sinclairs/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Elisa Skinner",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/skinners/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Tim and Elisa Skinner') names the person and whose slug '/skinners/' carries the surname; first surfaced by query 'Michigan State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/skinners/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Tim Skinner",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/skinners/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Tim and Elisa Skinner') names the person and whose slug '/skinners/' carries the surname; first surfaced by query 'Michigan State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/skinners/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Holly Smucker",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/smuckers/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Matt and Holly Smucker') names the person and whose slug '/smuckers/' carries the surname; first surfaced by query 'Ohio State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/smuckers/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Matt Smucker",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/smuckers/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Matt and Holly Smucker') names the person and whose slug '/smuckers/' carries the surname; first surfaced by query 'Ohio State'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/smuckers/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "John Steers",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/steers/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('John and Joyce Steers') names the person and whose slug '/steers/' carries the surname; first surfaced by query 'Berkeley'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/steers/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Joyce Steers",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/steers/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('John and Joyce Steers') names the person and whose slug '/steers/' carries the surname; first surfaced by query 'Berkeley'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/steers/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Allison Stroud",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/strouds/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Daniel and Allison Stroud') names the person and whose slug '/strouds/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/strouds/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Daniel Stroud",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/strouds/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Daniel and Allison Stroud') names the person and whose slug '/strouds/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/strouds/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Sue Johnston",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/sue-johnston/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Sue Johnston') names the person and whose slug '/sue-johnston/' carries the surname; first surfaced by query 'Ohio State'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/sue-johnston/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Katie Sultan",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/sultans/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Paul and Katie Sultan') names the person and whose slug '/sultans/' carries the surname; first surfaced by query 'Georgia Tech'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/sultans/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Paul Sultan",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/sultans/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Paul and Katie Sultan') names the person and whose slug '/sultans/' carries the surname; first surfaced by query 'Georgia Tech'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/sultans/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Sundeep Malickal",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/sundeep-malickal/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Sundeep Malickal') names the person and whose slug '/sundeep-malickal/' carries the surname; first surfaced by query 'Penn State'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/sundeep-malickal/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Terry Yu",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/terry-yu/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Terry Yu') names the person and whose slug '/terry-yu/' carries the surname; first surfaced by query 'Iowa State'. No role stated in the result text; role left unset.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/terry-yu/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Ben Wilson",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/wilsons/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Ben (Beni) and Rachel Wilson') names the person and whose slug '/wilsons/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/wilsons/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Rachel Wilson",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/wilsons/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Ben (Beni) and Rachel Wilson') names the person and whose slug '/wilsons/' carries the surname; first surfaced by query 'Purdue'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/wilsons/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Lisa Yabuki",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/yabukis/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Roy and Lisa Yabuki') names the person and whose slug '/yabukis/' carries the surname; first surfaced by query 'Texas A&M'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/yabukis/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  },
+  {
+   "org_name": "Roy Yabuki",
+   "org_type": "individual",
+   "website": "https://internationalstudents.org/team/yabukis/",
+   "summary": "International Students, Inc. — /team/ personal page; role not stated in result",
+   "fit_score": 9,
+   "fit_reason": "Tier A - ISI /team/ personal page whose title ('Roy and Lisa Yabuki') names the person and whose slug '/yabukis/' carries the surname; first surfaced by query 'Texas A&M'. Couple page; no role is stated for this spouse in the result text, so role is left unset rather than inherited.",
+   "source_query": "hunter:w2026-09-12d:isi3-u",
+   "meta": {
+    "tier": "A",
+    "target_org": "International Students, Inc.",
+    "evidence_url": "https://internationalstudents.org/team/yabukis/",
+    "evidence_basis": "personal_page",
+    "confidence": "high"
+   }
+  }
+ ],
+ "coverage": [
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Purdue",
+   "outcome": "found_people",
+   "people_found": 8,
+   "university": "Purdue",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 8,
+   "non_person_team_urls": [
+    "denver_auraria",
+    "isi-memorial-gift"
+   ],
+   "new_to_running_set": 8,
+   "new_slugs": [
+    "flamminis",
+    "wilsons",
+    "pierces",
+    "strouds",
+    "caspers",
+    "larsons",
+    "rowleys",
+    "debbie-egan"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "found_people (14 records)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Ohio State",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Ohio State",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 8,
+   "new_slugs": [
+    "dunnes",
+    "germanns",
+    "de-paduas",
+    "richard-herring",
+    "smuckers",
+    "claassens",
+    "lashelles",
+    "sue-johnston"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "no_people x2 (quoted shape + campus-staff shape)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Michigan State",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Michigan State",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 2,
+   "new_slugs": [
+    "doug-sawyer",
+    "skinners"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [
+    "doug-sawyer"
+   ],
+   "wave_c_result": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Penn State",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Penn State",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 3,
+   "new_slugs": [
+    "sundeep-malickal",
+    "anne-adrian",
+    "nick-and-nicole-miller"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [
+    "sundeep-malickal"
+   ],
+   "wave_c_result": "no_people (quoted)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Texas A&M",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Texas A&M",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 9,
+   "new_slugs": [
+    "shirks",
+    "jacksons",
+    "cottons",
+    "fraileys",
+    "sarah-halferty",
+    "yabukis",
+    "jessica-wang",
+    "silumbus",
+    "jennifer-cote"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [
+    "fraileys",
+    "sarah-halferty"
+   ],
+   "wave_c_result": "no_people (quoted)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Georgia Tech",
+   "outcome": "found_people",
+   "people_found": 9,
+   "university": "Georgia Tech",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 9,
+   "non_person_team_urls": [
+    "isi-memorial-gift"
+   ],
+   "new_to_running_set": 3,
+   "new_slugs": [
+    "ly-nguyen",
+    "sultans",
+    "patricia-bull"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [
+    "sultans"
+   ],
+   "wave_c_result": "no_people (quoted)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Virginia Tech",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Virginia Tech",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 4,
+   "new_slugs": [
+    "flynns",
+    "moreiras",
+    "perla-macias",
+    "zeiglers"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [
+    "moreiras",
+    "perla-macias"
+   ],
+   "wave_c_result": "not run by wave c"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team NC State",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "NC State",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 5,
+   "new_slugs": [
+    "kronstads",
+    "manilas",
+    "lassiters",
+    "scott-hawkins",
+    "ginger-ehmann"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [
+    "manilas",
+    "scott-hawkins"
+   ],
+   "wave_c_result": "not run by wave c"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Iowa State",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Iowa State",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 1,
+   "new_slugs": [
+    "terry-yu"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "not run by wave c"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Kansas State",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Kansas State",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 4,
+   "new_slugs": [
+    "sandeep-thomas",
+    "jill-mitchell",
+    "claire-duckett-drevets",
+    "bevans"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "not run by wave c"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Arizona State",
+   "outcome": "found_people",
+   "people_found": 9,
+   "university": "Arizona State",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 9,
+   "non_person_team_urls": [
+    "denver_auraria"
+   ],
+   "new_to_running_set": 2,
+   "new_slugs": [
+    "mehners",
+    "racz"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "not run by wave c"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Oregon State",
+   "outcome": "found_people",
+   "people_found": 9,
+   "university": "Oregon State",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 9,
+   "non_person_team_urls": [
+    "denver_auraria"
+   ],
+   "new_to_running_set": 2,
+   "new_slugs": [
+    "lockwoods",
+    "sinclairs"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "not run by wave c"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team UCLA",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "UCLA",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 6,
+   "new_slugs": [
+    "kims",
+    "craig-mosher",
+    "alumbaughs",
+    "lonnie-holbrook",
+    "laura-compton",
+    "leon-harper"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "found_people (9)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Berkeley",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Berkeley",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 5,
+   "new_slugs": [
+    "hopes",
+    "steers",
+    "sforzas",
+    "bethany-fletcher",
+    "ron-ingram"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "found_people (7)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Duke",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Duke",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 1,
+   "new_slugs": [
+    "lewis-hu"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "found_people (1)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Emory",
+   "outcome": "found_people",
+   "people_found": 7,
+   "university": "Emory",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 9,
+   "person_pages": 7,
+   "non_person_team_urls": [
+    "isi-memorial-gift",
+    "denver_auraria"
+   ],
+   "new_to_running_set": 0,
+   "new_slugs": [],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "no_people"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Vanderbilt",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Vanderbilt",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 4,
+   "new_slugs": [
+    "judy-billings",
+    "mathenys",
+    "meyer",
+    "calen-thomas"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [
+    "mathenys",
+    "calen-thomas"
+   ],
+   "wave_c_result": "offtopic x2 (Wikipedia collision; -football -basketball did nothing)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Rice",
+   "outcome": "found_people",
+   "people_found": 8,
+   "university": "Rice",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 8,
+   "non_person_team_urls": [
+    "denver_auraria",
+    "isi-memorial-gift"
+   ],
+   "new_to_running_set": 0,
+   "new_slugs": [],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "found_people (1; shape \"Rice University Houston\")"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Cornell",
+   "outcome": "found_people",
+   "people_found": 9,
+   "university": "Cornell",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 9,
+   "person_pages": 9,
+   "non_person_team_urls": [],
+   "new_to_running_set": 2,
+   "new_slugs": [
+    "gordon-decker",
+    "sabu-joseph"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "found_people (11)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Rutgers",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Rutgers",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 2,
+   "new_slugs": [
+    "fannins",
+    "kathy-tse"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "offtopic (Wikipedia collision)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team UMass",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "UMass",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 0,
+   "new_slugs": [],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "no_people (shape \"UMass Amherst\")"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team UConn",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "UConn",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 0,
+   "new_slugs": [],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "found_people (1)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Syracuse",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Syracuse",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 1,
+   "new_slugs": [
+    "gary-kuechle"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "offtopic (Wikipedia collision)"
+  },
+  {
+   "kind": "query",
+   "value": "site:internationalstudents.org/team Buffalo",
+   "outcome": "found_people",
+   "people_found": 10,
+   "university": "Buffalo",
+   "blocked_domains": [
+    "en.wikipedia.org"
+   ],
+   "wikipedia_present": false,
+   "off_domain_urls": 0,
+   "result_urls": 10,
+   "person_pages": 10,
+   "non_person_team_urls": [],
+   "new_to_running_set": 1,
+   "new_slugs": [
+    "jeff-and-jean-anthony"
+   ],
+   "pages_absent_from_all_prior_wave_outputs": [],
+   "wave_c_result": "offtopic (Wikipedia collision)"
+  }
+ ],
+ "needs_review": [
+  {
+   "name": "Simon Zeigler",
+   "org": "International Students, Inc.",
+   "question": "Held, not emitted. wave-b protection hold (closed 1998-2011 range, no current role; suspected retiree), re-held by wave c. Existing holds bind across waves; the hold owner decides.",
+   "evidence_url": "https://internationalstudents.org/team/zeiglers/",
+   "notes": "Page title: 'Simon and Becky Zeigler'. Surfaced under query/queries for: Virginia Tech (first)."
+  },
+  {
+   "name": "Becky Zeigler",
+   "org": "International Students, Inc.",
+   "question": "Held, not emitted. wave-b protection hold (same closed range, no current role), re-held by wave c. Existing holds bind across waves; the hold owner decides.",
+   "evidence_url": "https://internationalstudents.org/team/zeiglers/",
+   "notes": "Page title: 'Simon and Becky Zeigler'. Surfaced under query/queries for: Virginia Tech (first)."
+  },
+  {
+   "name": "Lia Dunne",
+   "org": "International Students, Inc.",
+   "question": "Held, not emitted. wave-c hold: identified on the page as a Ministry Representative (rule 4); Steve Dunne is emitted separately with no role. Existing holds bind across waves; the hold owner decides.",
+   "evidence_url": "https://internationalstudents.org/team/dunnes/",
+   "notes": "Page title: 'Steve and Lia Dunne'. Surfaced under query/queries for: Ohio State (first)."
+  },
+  {
+   "name": "Craig Mosher",
+   "org": "International Students, Inc.",
+   "question": "Held, not emitted. wave-c hold: volunteer label plus closed 1990-1996 and 2003-06 UCLA ranges with no current ISI role (rules 4 and 8); result text in this run repeats both. Existing holds bind across waves; the hold owner decides.",
+   "evidence_url": "https://internationalstudents.org/team/craig-mosher/",
+   "notes": "Page title: 'Craig Mosher'. Surfaced under query/queries for: UCLA (first)."
+  },
+  {
+   "name": "Jill Mitchell",
+   "org": "International Students, Inc.",
+   "question": "Held, not emitted. wave-b hold: identified as a Ministry Representative (rule 4). Existing holds bind across waves; the hold owner decides.",
+   "evidence_url": "https://internationalstudents.org/team/jill-mitchell/",
+   "notes": "Page title: 'Jill Mitchell'. Surfaced under query/queries for: Kansas State (first)."
+  },
+  {
+   "name": "Ginger Ehmann",
+   "org": "International Students, Inc.",
+   "question": "Held, not emitted. wave-c hold: page identifies her as a Ministry Representative at Duke (rule 4); result text in this run repeats that label. Existing holds bind across waves; the hold owner decides.",
+   "evidence_url": "https://internationalstudents.org/team/ginger-ehmann/",
+   "notes": "Page title: 'Ginger Ehmann'. Surfaced under query/queries for: NC State (first)."
+  },
+  {
+   "name": "Christy Lynn Flynn",
+   "org": "International Students, Inc.",
+   "question": "Held, not emitted. wave-c hold: identified on the page as a Ministry Representative (rule 4); Patrick Flynn is emitted separately with no role. Existing holds bind across waves; the hold owner decides.",
+   "evidence_url": "https://internationalstudents.org/team/flynns/",
+   "notes": "Page title: 'Patrick and Christy Lynn Flynn'. Surfaced under query/queries for: Virginia Tech (first)."
+  },
+  {
+   "name": "Unnamed possible second person on /team/claassens/",
+   "org": "International Students, Inc.",
+   "question": "Plural slug '/claassens/' (the site's couple-page convention) but the title names one person only ('Gary Claassen'). Rule 6: a second person is emitted only when the title names them; page body not readable here (fetch blocked).",
+   "evidence_url": "https://internationalstudents.org/team/claassens/"
+  },
+  {
+   "name": "Unnamed possible second person on /team/shirks/",
+   "org": "International Students, Inc.",
+   "question": "Plural slug '/shirks/' (the site's couple-page convention) but the title names one person only ('Carl Shirk'). Rule 6: a second person is emitted only when the title names them; page body not readable here (fetch blocked).",
+   "evidence_url": "https://internationalstudents.org/team/shirks/"
+  }
+ ],
+ "notes": {
+  "purpose": "Measurement re-run of wave c agent C's university-name axis with blocked_domains=['en.wikipedia.org'] on every query; 24 searches, one per university, unquoted shape 'site:internationalstudents.org/team <University>'.",
+  "wikipedia_urls_in_any_result_list": 0,
+  "off_domain_hosts_seen": [],
+  "additional_blocked_domains_needed": [],
+  "page_fetch": "blocked (EGRESS_BLOCKED for internationalstudents.org); records built from result-list URLs and titles only; roles set only where the result text stated a title for that specific person",
+  "distinct_person_pages": 73,
+  "queries_returning_person_pages": 24,
+  "queries_with_new_to_running_set": 20,
+  "pages_absent_from_all_prior_wave_outputs": [
+   "calen-thomas",
+   "doug-sawyer",
+   "fraileys",
+   "manilas",
+   "mathenys",
+   "moreiras",
+   "perla-macias",
+   "sarah-halferty",
+   "scott-hawkins",
+   "sultans",
+   "sundeep-malickal"
+  ],
+  "people_absent_from_all_prior_wave_outputs": 16,
+  "stop_rule": "not triggered - no query returned zero person pages",
+  "state_token_degradation": "not observed - Ohio/Michigan/Penn/Iowa/Kansas/Arizona/Oregon/NC State and Georgia/Virginia Tech all returned person pages only, no ISI landing pages",
+  "coverage_fields": "people_found = person pages in the result list (non-person /team/ URLs excluded); new_to_running_set = pages not seen in an earlier query of this run; pages_absent_from_all_prior_wave_outputs = slugs with no emitted person in any waves/*/*.json; hold pages (zeiglers, ginger-ehmann, jill-mitchell, craig-mosher) are prior-wave needs_review holds and are excluded from that 'absent' metric",
+  "unheld_people": [
+   "Amarildo Moreira",
+   "Betsy Manila",
+   "Calen Thomas",
+   "Doug Sawyer",
+   "James Frailey",
+   "Kathy Matheny",
+   "Katie Sultan",
+   "Laura Moreira",
+   "Paige Frailey",
+   "Paul Sultan",
+   "Perla Macias",
+   "Ron Manila",
+   "Sarah Halferty",
+   "Scott Hawkins",
+   "Scott Matheny",
+   "Sundeep Malickal"
+  ]
+ }
+}

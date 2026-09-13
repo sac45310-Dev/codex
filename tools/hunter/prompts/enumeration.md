@@ -33,12 +33,25 @@ inside it and bringing back named people.
    ("church planter", "teacher", "aviation", "translator"), ministry names.
    Stay in your slice; a sibling agent has the rest and duplicated searches are
    wasted budget.
-3. When results repeat, append **8–10** `-surname` exclusions. Do not attempt
-   forty. This is a measured limit: at ~76 held records a 15-token exclusion
-   query returned seven results of which zero were new, because the terms that
-   would exclude the rest do not fit in a working query.
+3. When results repeat, narrow the result set. Two mechanisms, and they are not
+   equally good — full detail in `../SEARCH-OPERATORS.md`:
+   - **`blocked_domains: [...]`** is reliable. It worked in every test. Use it
+     to kill the off-domain noise that swamps `site:` queries (Wikipedia
+     college-sports pages, directory sites).
+   - **`-surname` exclusions are best-effort.** They often work and there is
+     **no ~10–12 term ceiling** — twenty behave exactly like three. But they
+     fail unpredictably on some terms, so never treat a name's absence as proof
+     it was excluded. `-"quoted phrases"` and `-site:` do not work at all.
+   The old rule here capped exclusions at 8–10 on the theory that a longer query
+   stops working. That was never tested and is wrong: the failures were
+   term-specific, not count-specific.
 4. Stop early if three consecutive searches return nothing new, and say so.
-   An exhausted domain is a finding, not a failure.
+   An exhausted domain is a finding, not a failure. See the two carve-outs
+   below: the three empties must be on three *different* query shapes, and not
+   when a query of one of those shapes already succeeded earlier in the run.
+5. **A tool's prose summary is not a tool result.** This backend's summary has
+   claimed an exclusion was applied when it was not, and claimed exclusions are
+   unsupported when they demonstrably worked. Read the URL list, always.
 
 ## Reading the citation
 
@@ -266,10 +279,14 @@ partners were genuinely staff. Emit the second person, but leave `role` null on
 them unless the page states their role separately. Never inherit a role across
 a couple.
 
-**Negative search operators do nothing on this backend.** `-football
--basketball -Commodores` changed the result set not at all. This is worse than
-the ~10–12 term exclusion ceiling: those terms are limited, these are inert.
-Never spend budget on a negative operator; change the positive terms instead.
+**Negative search operators: see `../SEARCH-OPERATORS.md`.** Wave c concluded
+from one failed attempt that they are inert. That was tested on 2026-09-12 and
+is **wrong** — bare-token negatives work often, and 20 of them work as well as
+three. The earlier "~10–12 term ceiling" is also wrong. What is true: inline
+negatives are best-effort and fail unpredictably, `-"quoted phrases"` and
+`-site:` do not work at all, and **`blocked_domains` is the only mechanism that
+worked in every test**. Use it — it is what solves the Wikipedia-collision
+problem that cost wave c 15 of 24 queries.
 
 **A `site:` path segment is a search token and will collide.** `site:<host>/team`
 matches "*University* football team" on Wikipedia, which killed 15 of 24 queries
@@ -282,3 +299,21 @@ different shapes still should not stop a run when a query of one of those shapes
 has already succeeded earlier in the same run: that proves the surface, and the
 qualifier is the variable. An agent that made this call went on to produce 34 of
 its 48 records.
+
+## From wave w2026-09-12d — `blocked_domains` in a live wave
+
+**It works in production, not just in tests.** The ISI university axis went
+from 9-of-24 productive to **24-of-24** with `blocked_domains:
+["en.wikipedia.org"]` on every query. Zero off-domain URLs. **Any `site:` query
+whose path word has a common English meaning** (`/team`, `/staff`, `/people`,
+`/partner`) **should carry `blocked_domains: ["en.wikipedia.org"]` by default.**
+
+**Build a replication brief from the prior wave's `coverage` array, not from
+its brief.** Wave d claimed to re-run wave c's list and did not: the wave-c
+agent had substituted six names as it went. The brief is what was asked; the
+coverage array is what was run.
+
+**A finding's verdict and its reasoning can fail independently.** Wave c said
+ISI was exhausted, for a reason that was wrong. Wave d fixed the reason and got
+the same verdict. When a measurement is found to be broken, re-run it — do not
+assume the conclusion flips.
