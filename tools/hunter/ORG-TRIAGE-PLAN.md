@@ -219,9 +219,29 @@ An hour with the list.
 
 ---
 
-## 3. Decisions that are the owner's
+## 3. Decisions that are the owner's — answered 2026-09-13
 
-I have not made these and the plan does not execute without them.
+Decisions 1–4 were given on 2026-09-13 and are now rules in
+`prompts/enumeration.md` under *Owner scope rules*. Decision 5 is still open.
+
+| # | decision | answer |
+|---|---|---|
+| 1 | Local churches out of ICP? | **Yes, out.** `church_salaried`. Planters are Tier A *people*. |
+| 2 | Pastors filed as organisations? | **Out**, unless staff of a non-church-affiliated non-profit or ministry. |
+| 3 | Faith orientation | **Christian (any variation), Catholic, or non-religious only.** LDS/Mormon, other faiths and interfaith bodies out. Owner-set; agents flag, never classify. |
+| 4 | Canadian organisations | **In scope**, alongside US. |
+| 5 | Run the ~250-search screening wave, or hand-pick the 19 first? | *open* |
+
+**Added the same day — owner keyword exclusions.** Organisations that promote
+or reference LGBT / LGBTQ+ / gay / lesbian / queer / transgender / nonbinary /
+Pride / "gender identity" / "gender affirming" / "gender diverse" / "sexual
+orientation" / "Two-Spirit" are rejected with `reason_code = keyword_exclusion`
+until the product adds the functionality such organisations would need. The
+rule matches organisation rows only — never a person's record — and the
+standing prohibition on inferring any individual's attributes is unchanged.
+Full text and the scope boundary are in the template.
+
+The original wording of the questions, for the record:
 
 1. **Are local churches out of ICP?** 269 rows here, 93 more in `hunt_targets`.
    Precedent says yes (`church_salaried` ×215). Confirm, or name the exception.
@@ -298,6 +318,20 @@ Add it as an ingest check: a person-shaped name on a non-`individual` record
 is refused with a message, not coerced. It is a tripwire, not a classifier —
 the human decides.
 
+**Known bias, found in execution.** That pattern requires a plain
+`Firstname Lastname` and so **systematically under-catches titled and non-Anglo
+names** — *Dr. Stephen Coertze*, *Rev. Abson P. Joseph*, *Chee Hoe Koay*,
+*Antoinette Van Kuik*, *Viktor Rózsa* all slipped past it into the
+"organisation" bucket. Two fixes, both applied on 2026-09-13:
+
+- In an import whose source already says the rows are people (`"<Agency> -
+  Missionary"`), **invert the default**: everything is a person unless the name
+  carries an organisation word. Do not ask a regex to recognise people; ask it
+  to recognise organisations, which is the smaller and more regular set.
+- Where a person-shape test is still needed, strip honorifics (`Dr.`, `Rev.`,
+  `The Revd`, suffixes like `Jr`, `APR`) and allow particles and accented
+  letters before matching.
+
 ### D. The organisation triage rubric, in order
 
 Every new organisation, whether from an import or a wave's `orgs_discovered[]`,
@@ -308,9 +342,10 @@ the next and the early ones remove most rows.
 |---|---|---|---|
 | 1 | Do we already know it? | normalised name **and acronym** vs `hunt_targets`; registrable domain to confirm, never to decide; name vs `hunt_negatives` | link, or stop |
 | 2 | Is it an organisation at all? | name-shape tripwire | re-type as person |
-| 3 | Does it have personally support-raised people? | keyword pre-screen on the summary, then the giving-domain test: *does its own domain return more people than programmes?* | `unrostered` + priority, or `rejected` + reason |
-| 4 | Faith orientation | **owner sets it**; agents never infer it | `faith_orientation` |
-| 5 | Do not pursue | **manual review only**; agents never classify | `do_not_pursue` |
+| 3 | Is it a local church, or a keyword-excluded organisation? | rule 1 (`church_salaried`) and the owner keyword list (`keyword_exclusion`) against the org's own name/site/summary | `rejected` + reason + negative |
+| 4 | Does it have personally support-raised people? | keyword pre-screen on the summary, then the giving-domain test: *does its own domain return more people than programmes?* | `unrostered` + priority, or `rejected` + reason |
+| 5 | Faith orientation | **owner sets it** — Christian / Catholic / non-religious in, all else out; agents flag, never infer | `faith_orientation`, or `rejected other_faith` |
+| 6 | Do not pursue | **manual review only**; agents never classify | `do_not_pursue` |
 
 Rejections always write a `hunt_negatives` row with the reason code, so the
 same org cannot be re-discovered and re-probed by a later wave — the lesson
@@ -348,3 +383,56 @@ After step 1, the "organisation queue" is 763 rows, not 1,263. After step 3 it
 is about 400. After step 4 it is empty — everything real lives in
 `hunt_targets` where the waves can see it, and everything else has a reason
 code in the ledger.
+
+---
+
+## 6. Execution notes — 2026-09-13
+
+Steps 1, 3, 4 and 6 of §5 were executed on 2026-09-13 once decisions 1–4 were
+given. Counts are in the commit that carries this section. Two operational
+findings from the run belong in the plan itself, because they will bite the
+next person too.
+
+### `hunt_targets` has a per-row trigger that makes bulk inserts slow
+
+`hunt_target_link_candidates()` fires `AFTER INSERT OR UPDATE OF website,
+org_name … FOR EACH ROW` and runs:
+
+```sql
+update sales.scout_candidates c set hunt_target_id = r.target_id
+  from (select c2.id, sales.resolve_hunt_target(c2.website, c2.org_name)
+          from sales.scout_candidates c2
+         where c2.hunt_target_id is null
+           and (sales.url_domain(c2.website) = sales.url_domain(new.website)
+                or lower(trim(c2.org_name)) = lower(trim(new.org_name)))) r
+ where c.id = r.id and r.target_id is not null;
+```
+
+That is a regex over every unlinked candidate row, once per inserted target.
+Inserting 291 targets ran past two minutes and timed out twice at the tool
+layer. The work it does — linking people to their target by domain or name —
+is worth keeping; the shape is not. **For any insert of more than a handful of
+targets: disable the trigger, insert, re-enable it in the same transaction so
+it cannot be left off, then do the linking once as a set-based join over the
+new targets only.** A longer-term fix is to rewrite the trigger as a statement-
+level trigger over the transition table, which is the same join.
+
+### The tool's 60-second timeout does not cancel the server query
+
+Both timed-out attempts kept running on the server after the tool gave up —
+the second was found still `active` in `pg_stat_activity` nearly two minutes
+later, holding its transaction open. Nothing committed, so no harm, but a
+retry issued while the first is still running blocks on its locks and looks
+like a second slow query. **Every write now begins with
+`SET LOCAL statement_timeout = '50s'`** so the server cancels first and there
+is never a ghost query to chase; and any write that might be slow gets its own
+call rather than sharing a batch with table creation, so a timeout can never
+leave the question "did the earlier statements commit?" open.
+
+### The person-shape regex has a bias (see §4.C)
+
+It under-catches titled and non-Anglo names. Fifty-one people in the
+`missionary_hunt` import were classified as organisations because of it
+(*Dr. Stephen Coertze*, *Chee Hoe Koay*, *Antoinette Van Kuik*). The correct
+default for an import whose source says the rows are people is to treat
+everything as a person unless the name carries an organisation word.
