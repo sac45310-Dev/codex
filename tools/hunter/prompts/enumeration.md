@@ -317,3 +317,59 @@ coverage array is what was run.
 ISI was exhausted, for a reason that was wrong. Wave d fixed the reason and got
 the same verdict. When a measurement is found to be broken, re-run it — do not
 assume the conclusion flips.
+
+## Owner scope rules — set 2026-09-13, apply to every wave and every ingest
+
+These are the owner's decisions, not agent judgements. Agents apply them to
+**organisations**; they never classify a person.
+
+1. **Local churches are out.** Pastors are salaried; `church_salaried`. A church
+   plant with a named planter raising support is Tier A — captured as the
+   *planter*, never as the church.
+2. **Pastors are out** unless they are staff of a non-profit or ministry that is
+   **not** church-affiliated.
+3. **Faith orientation: Christian (any variation), Catholic, or non-religious
+   only.** LDS / Mormon and every other religion are out; interfaith bodies are
+   out. `faith_orientation` is **set by the owner** from the organisation's own
+   name and self-description. An agent that meets an org whose orientation is
+   unclear flags it in `needs_review` — it does not decide. Messianic and
+   Catholic organisations are Christian for this purpose.
+4. **US and Canadian organisations are both in scope.**
+
+### Owner keyword exclusions
+
+Organisations that **promote or reference** any of the following are skipped and
+rejected — reason code `keyword_exclusion`, with the matched term in `detail` —
+until the product adds the functionality such organisations would need. The
+list is the owner's and is applied verbatim, case-insensitive, on word
+boundaries:
+
+```
+LGBT · LGBTQ+ · gay · lesbian · queer · transgender · nonbinary · Pride
+"gender identity" · "gender affirming" · "gender diverse" · "sexual orientation"
+"Two-Spirit"
+```
+
+**What the rule matches.** An organisation's **name**, and its **own
+description of the services it provides** — summary, site, notes. Both trigger
+it: an organisation called *Woonsocket Pride* is out by name; one whose service
+description promotes these things is out by description.
+
+**Scope boundary, which is absolute.** The rule is **never** run against a
+person's record, and a person's **surname or given name never triggers it** —
+*Pride* and *Gay* are family names and first names, and a person called Gay
+Brown is not an exclusion match. It and it does not change the standing rule that agents never record or
+infer any individual's demographic or identity attributes. A person whose
+*organisation* is excluded stays exactly as they are — individuals are never
+contacted; organisations are — and the exclusion simply means no approach is
+made to that organisation.
+
+Two of the terms are ordinary English and personal names: `pride` and `gay`.
+On 2026-09-13 the whole system held seven matches — six genuine organisations
+and one person named Gay, who was correctly left alone. When a hit sits in a
+name-shaped row, or reads as the idiom rather than the movement, route it to
+`needs_review` rather than rejecting it.
+
+Agents encountering such an organisation put it in `negatives[]` with
+`reason_code: keyword_exclusion` and the term in `detail`; the ingest gate does
+the same for imports.
