@@ -436,3 +436,14 @@ It under-catches titled and non-Anglo names. Fifty-one people in the
 (*Dr. Stephen Coertze*, *Chee Hoe Koay*, *Antoinette Van Kuik*). The correct
 default for an import whose source says the rows are people is to treat
 everything as a person unless the name carries an organisation word.
+
+### The July import's "citations" are method labels
+
+`meta.source` on the `missionary_hunt` rows holds the words `website`, `search`
+or `enrichment` — how the agent found the person, not where. Of the 343
+re-typed people that scored 7 or better, **only 61 carry a per-person page**;
+the rest have an agency homepage, an email, a LinkedIn URL, a crowdfunding link,
+or nothing. My first scoring pass treated any non-empty `donation_page` as a
+personal page and handed out 9s to homepage- and email-only rows; corrected the
+same day with `meta.citation_quality` and a `score_history` entry on every row.
+**A non-empty URL field is not a citation until its path names the person.**
