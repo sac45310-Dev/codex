@@ -107,9 +107,27 @@ lowercased with punctuation folded to spaces, for example
 - **Contact-to-candidate key is populated on 2,327 of 7,302 rows.** Holdings
   checks keyed on one key alone under-report. `worklist.sql` joins on both.
 
-## Before sending anything
+## How these addresses are used (owner decision, 2026-09-21)
 
-The standing scope rule is that organisations are approached and individuals
-are never contacted directly. Six thousand personal addresses only fit that
-rule if outreach is still directed at the agency. Settle the intended use
-before gathering at scale, not after.
+The organisation is approached first, and individuals are contacted only once
+that organisation has given permission. Personal addresses are in scope for
+two reasons: they are the only reliable unique identifier for a person inside
+an agency, and they are what the permissioned outreach runs on once the agency
+agrees.
+
+Two consequences for this tool:
+
+- **`direct` is the address class that matters.** A personal address
+  identifies one person; `role` and `org` addresses identify nobody and
+  cannot disambiguate two staff with the same name. The shared-address
+  demotion exists to keep those classes apart, so do not raise
+  `--shared-max` to inflate the `direct` count.
+- **Permission is per organisation, and this tool does not track it.** The
+  extractor records addresses; nothing in it marks an agency as having
+  agreed to outreach. That state belongs on the organisation
+  (`sales.hunt_targets`), and the send path is what must check it. Gathering
+  an address is not permission to use it.
+
+Deliverability is still an open item and separate from permission. No email
+in the CRM is marked verified, so a validation pass should run before any
+send regardless of which agency has agreed.

@@ -4,7 +4,8 @@
 -- Why this exists: approving a scout candidate had no downstream effect. As of
 -- 2026-09-10 there were 1,262 approved candidates and 21 with a lead_id, so the
 -- review queue was producing decisions that nothing consumed. Organizations are
--- the unit we approach -- individuals are never contacted directly -- so the
+-- the unit we approach first -- individuals are contacted only once their
+-- organization has given permission (owner decision, 2026-09-21) -- so the
 -- promotion is an aggregate: one lead per org, carrying its tier headcounts.
 --
 -- SCORING

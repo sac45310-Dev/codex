@@ -1,7 +1,7 @@
 # DonorSend Hunter Agent — System Design & Operating Plan
 
 **Version:** 1.0 · 2026-08-29
-**Goal:** A scalable, repeatable agent system that scours the public internet for potential DonorSend users — individuals connected to fundraising organizations (including very small ones) — so DonorSend can approach each **organization** with headcounts and differentiated member details. Individuals are never contacted directly.
+**Goal:** A scalable, repeatable agent system that scours the public internet for potential DonorSend users — individuals connected to fundraising organizations (including very small ones) — so DonorSend can approach each **organization** with headcounts and differentiated member details. The organization is always approached first; individuals are contacted only once that organization has given permission (owner decision, 2026-09-21). Personal email addresses are collected because they uniquely identify each person within an organization, and because that permissioned outreach needs them.
 
 ---
 
