@@ -243,6 +243,37 @@ you have already worked.
   `/LangTech` — judge the slug's *shape*. A name-shaped slug ties the URL to the
   person and earns `high`, where the numeric form only earns `medium`.
 
+## A person can be named three ways, not one — wave w2026-09-22a
+
+The giving-domain screen scored **Pioneers** as a near-miss because its
+per-person giving is `give.pioneers.org/s-donate?ProjectCode=…&firstname=…
+&lastname=…` behind a "Give to a Missionary" hub. The person is named in the
+**query string**, not the path, and a path-only rule cannot see it. Pioneers
+is plainly a support-raising agency, so that was a defect in the rule rather
+than a fact about the agency. Every agency on that donation platform fails
+the same way.
+
+Count a person as identified when **any** of these holds:
+
+1. **A path segment names them** — `/give/jane-smith`, `/missionaries/the-smiths`
+2. **A query parameter names them** — `?firstname=…&lastname=…`, or a
+   per-person `?ProjectCode=…` reached from a give-to-a-worker hub
+3. **The page title names them**, even where the URL is an opaque id
+
+And two shapes that look like people but are not:
+
+- **Third-party directory bios.** `PlanterMatch` lists named `/coach/<name>`
+  pages and `Praxis Labs` lists named `/entrepreneurs/<name>` pages. In both
+  cases the named people are not that organisation's own support-raised
+  staff, and capital is pooled. A rule that auto-promotes a named path
+  wrongly qualifies both.
+- **Memorial and tribute donation forms** that carry a name.
+
+When per-person designation clearly exists but sits behind a search form or
+a giving code with nothing indexed — IHOP Kansas City and Lifesong for
+Orphans both do this — the verdict is `unknown`, never `none`. The roster
+exists; you just cannot see it from search.
+
 ## Three corrections from wave w2026-09-12b (ISI, 4 agents, 147 people)
 
 **Per-agent yield is not wave yield.** Each of four agents reported 2.5–3.5
