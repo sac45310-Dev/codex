@@ -358,11 +358,12 @@ description promotes these things is out by description.
 **Scope boundary, which is absolute.** The rule is **never** run against a
 person's record, and a person's **surname or given name never triggers it** —
 *Pride* and *Gay* are family names and first names, and a person called Gay
-Brown is not an exclusion match. It and it does not change the standing rule that agents never record or
+Brown is not an exclusion match. It does not change the standing rule that agents never record or
 infer any individual's demographic or identity attributes. A person whose
-*organisation* is excluded stays exactly as they are — individuals are never
-contacted; organisations are — and the exclusion simply means no approach is
-made to that organisation.
+*organisation* is excluded stays exactly as they are, and the exclusion simply
+means no approach is made to that organisation. Since the organisation is the
+one approached first, and an excluded organisation is never approached, no
+person inside it is contacted either.
 
 Two of the terms are ordinary English and personal names: `pride` and `gay`.
 On 2026-09-13 the whole system held seven matches — six genuine organisations
