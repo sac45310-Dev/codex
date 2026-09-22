@@ -1,0 +1,14 @@
+# Python bytecode and caches.
+# Added 2026-09-22 after tools/hunter/enrich/__pycache__ was committed by a
+# `git add -A` that ran straight after the test suite.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local output of the hunter tooling. These are per-run working files:
+# fetched HTML, generated worklists and the SQL emitted from them. The
+# reviewed SQL that actually gets applied belongs in a wave directory.
+tools/hunter/enrich/html/
+tools/hunter/enrich/*.csv
+tools/hunter/enrich/*.out.sql
+tools/scout-import/scout_import_out/
