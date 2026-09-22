@@ -1,0 +1,256 @@
+[
+  {
+    "target_id": 1672,
+    "org": "Treasured Together International",
+    "domain": "treasuredtogether.com",
+    "verdict": "unknown",
+    "person_id_method": "none",
+    "evidence": [],
+    "queries": [
+      "site:treasuredtogether.com give OR donate OR support",
+      "site:treasuredtogether.com staff OR missionary OR \"our team\"",
+      "treasuredtogether.com ministry organization"
+    ],
+    "note": "Domain not found in search results; unverifiable."
+  },
+  {
+    "target_id": 1674,
+    "org": "Urban Nations Outreach",
+    "domain": "urbannations.org",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://www.urbannations.org/mission-trips",
+      "https://www.urbannations.org/staff"
+    ],
+    "queries": [
+      "site:urbannations.org give OR donate OR support",
+      "site:urbannations.org staff OR missionary OR \"our team\""
+    ],
+    "note": "Mission trips and staff programs but no individual fundraising by named staff members."
+  },
+  {
+    "target_id": 1675,
+    "org": "Urban Outreach Foundation",
+    "domain": "urbanoutreachfoundation.com",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://urbanoutreachfoundation.com/",
+      "https://urbanoutreachfoundation.com/our-team/",
+      "https://urbanoutreachfoundation.com/our-courses/"
+    ],
+    "queries": [
+      "site:urbanoutreachfoundation.com give OR donate OR support",
+      "site:urbanoutreachfoundation.com \"give to\" OR \"support\" staff OR leader name"
+    ],
+    "note": "Courses and training programs with named leaders but donors give to programs, not individuals."
+  },
+  {
+    "target_id": 1676,
+    "org": "Valley Real Life Riverside",
+    "domain": "NODOMAIN",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://www.vrl.church/give",
+      "https://www.vrl.church/give/give-now"
+    ],
+    "queries": [
+      "\"Valley Real Life Riverside\" donate OR give OR support ministry"
+    ],
+    "note": "Church general giving page; no individual person designation visible."
+  },
+  {
+    "target_id": 1678,
+    "org": "VisionFund International",
+    "domain": "visionfund.org",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://www.visionfund.org/donation-impact",
+      "https://visionfund.org/womens-economic-empowerment",
+      "https://visionfund.org/stories"
+    ],
+    "queries": [
+      "site:visionfund.org give OR donate OR support",
+      "site:visionfund.org \"sponsor\" OR \"give to\" individual name"
+    ],
+    "note": "Microfinance and program-based giving; clients are individuals but donors give to programs, not to specific individuals."
+  },
+  {
+    "target_id": 1679,
+    "org": "Walk Right In Ministries",
+    "domain": "walkrightin.org",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://walkrightin.org/giving/",
+      "https://walkrightin.org/meet-the-team/"
+    ],
+    "queries": [
+      "site:walkrightin.org give OR donate OR support",
+      "site:walkrightin.org staff OR missionary OR \"our team\""
+    ],
+    "note": "General giving page and staff team page but no individual staff fundraising mechanism."
+  },
+  {
+    "target_id": 1682,
+    "org": "West Georgia Christian Campus Fellowship",
+    "domain": "NODOMAIN",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://www.uwgccf.org/give"
+    ],
+    "queries": [
+      "\"West Georgia Christian Campus Fellowship\" donate OR give OR support"
+    ],
+    "note": "Campus ministry with general giving; no individual person designation."
+  },
+  {
+    "target_id": 1683,
+    "org": "Wheaton College Billy Graham Center",
+    "domain": "wheatonbillygraham.com",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://wheatonbillygraham.com/donate/",
+      "https://wheatonbillygraham.com/rural-church-institute/"
+    ],
+    "queries": [
+      "site:wheatonbillygraham.com give OR donate OR support"
+    ],
+    "note": "Programs like Rural Church Institute and Stadia church planting; donations to programs, not individuals."
+  },
+  {
+    "target_id": 1684,
+    "org": "Wings of Faith Ministries",
+    "domain": "flywithwings.org",
+    "verdict": "needs_review",
+    "person_id_method": "first_name_only",
+    "evidence": [
+      "https://flywithwings.org/missionary-needs.php",
+      "https://flywithwings.org/article-details.php?articleID=265",
+      "https://flywithwings.org/article-details.php?articleID=492"
+    ],
+    "queries": [
+      "site:flywithwings.org give OR donate OR support",
+      "site:flywithwings.org staff OR missionary OR \"our team\"",
+      "site:flywithwings.org \"support a missionary\" OR \"give to missionary\" OR \"/missionary/\"",
+      "[one query redacted: it enumerated first-name-only individuals]"
+    ],
+    "note": "Giving surface lists workers by FIRST NAME ONLY with a location. Under the standing rule, initials-only, first-name-only and codename workers are never recorded and never resolved from another source, so the individuals are not listed here and the original verdict of \"people\" has been withdrawn. A first-name-only roster cannot yield a uniquely identified lead, and the withholding of surnames may itself be deliberate. Owner review required before this target is pursued.",
+    "rule_note": "names redacted 2026-09-22 under the sensitive-worker rule"
+  },
+  {
+    "target_id": 1685,
+    "org": "Women in Ministry (WIM) Conference, Inc.",
+    "domain": "cynthialhale.org",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://cynthialhale.org/women-in-ministry",
+      "https://cynthialhale.org/contact/get-involved",
+      "https://cynthialhale.org/women-s-conference-2025"
+    ],
+    "queries": [
+      "site:cynthialhale.org give OR donate OR support",
+      "site:cynthialhale.org Cynthia Hale give support donate personal"
+    ],
+    "note": "Domain is personal (cynthialhale.org) but organization is WIM Conference; donors support the conference event/program, not individual staff fundraising."
+  },
+  {
+    "target_id": 1686,
+    "org": "World Hunger Relief, Inc. (WHRI)",
+    "domain": "NODOMAIN",
+    "verdict": "no_domain",
+    "person_id_method": "none",
+    "evidence": [
+      "https://worldhungerrelief.org/"
+    ],
+    "queries": [
+      "\"World Hunger Relief\" WHRI donate OR give OR support"
+    ],
+    "note": "Search found worldhungerrelief.org but not a WHRI-specific domain; marked as no_domain per instructions."
+  },
+  {
+    "target_id": 1687,
+    "org": "World Renew",
+    "domain": "worldrenew.net",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://worldrenew.net/donate-2",
+      "https://worldrenew.net/disaster-response-services-us/disaster-response-services",
+      "https://worldrenew.net/gift-catalog/economic-opportunities"
+    ],
+    "queries": [
+      "site:worldrenew.net give OR donate OR support"
+    ],
+    "note": "Disaster relief and gift catalog programs; donors give to programs (education, agriculture, disaster response), not to individual staff."
+  },
+  {
+    "target_id": 1688,
+    "org": "World Vision",
+    "domain": "worldvision.org",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://www.worldvision.org/donate",
+      "https://donate.worldvision.org/give/education-for-children",
+      "https://donate.worldvision.org/gift-catalog"
+    ],
+    "queries": [
+      "site:worldvision.org give OR donate OR support"
+    ],
+    "note": "Program-based giving to education, girls empowerment, disaster relief; donors cannot designate to specific individuals."
+  },
+  {
+    "target_id": 1689,
+    "org": "Wyoming Catholic Ministries Foundation",
+    "domain": "wycmf.org",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://wycmf.org/ways-to-give-1",
+      "https://wycmf.org/the-diocese-of-cheyenne",
+      "https://wycmf.org/st-josephs-childrens-home"
+    ],
+    "queries": [
+      "site:wycmf.org give OR donate OR support"
+    ],
+    "note": "Designated giving to diocesan programs, schools, and ministries, not individual staff members."
+  },
+  {
+    "target_id": 1691,
+    "org": "YWCA USA",
+    "domain": "ywca.org",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://www.ywca.org/get-involved/ways-to-give/",
+      "https://give.ywca.org/campaign/800047/donate"
+    ],
+    "queries": [
+      "site:ywca.org give OR donate OR support"
+    ],
+    "note": "National organization with program-based giving; donors support YWCA programs and local affiliations, not individuals."
+  },
+  {
+    "target_id": 1692,
+    "org": "Zehr Institute for Restorative Justice",
+    "domain": "zehr-institute.org",
+    "verdict": "programmes",
+    "person_id_method": "none",
+    "evidence": [
+      "https://www.zehr-institute.org/donate/",
+      "https://zehr-institute.org/webinars/",
+      "https://zehr-institute.org/resources/restorative-justice-and-victim-services-collaboration.html"
+    ],
+    "queries": [
+      "site:zehr-institute.org give OR donate OR support"
+    ],
+    "note": "Research institute with program-based support (webinars, resources); no individual fundraising mechanism."
+  }
+]

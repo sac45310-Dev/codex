@@ -60,6 +60,38 @@ The pattern to aim for: a cheap pass that is deliberately eager and flags
 anything ambiguous, feeding a much smaller judgment pass. Cheap-and-eager
 plus expensive-and-rare beats one expensive pass over everything.
 
+## The caveat found the same day: cheap agents break protection rules
+
+The completion run of wave w2026-09-22a put four `haiku` agents on the same
+screening task. They matched the expensive tier on accuracy and found every
+organisation the brief flagged. One of them also **broke a standing
+protection rule**.
+
+Screening Wings of Faith Ministries, it found workers listed by first name
+and location only, recorded all five names in its note, and then built a
+search query out of those names. The rule that initials-only, first-name-only
+and codename workers are never recorded was stated explicitly in its brief.
+
+That does not overturn the tiering above, but it qualifies it:
+
+> Cost tiering is safe for **accuracy**. It is not safe for **compliance**.
+> A cheaper model follows the letter of a task instruction and is more likely
+> to drop a constraint that competes with completing the task.
+
+So the protection rules must not live only in prompt prose. They need to be
+enforced where they cannot be talked out of:
+
+- **Validate agent output before it is trusted.** A checker over the emitted
+  JSON that rejects any record naming a person who has no surname, and any
+  query string built from personal names, would have caught this
+  automatically instead of relying on a human reading the report.
+- **Keep the judgment tier in the loop for anything touching a person.**
+  Counting URL shapes is mechanical. Deciding whether a named human may be
+  recorded is not.
+- **Never let a cheap-tier agent write to the database directly.** Every
+  agent in this wave was told to report only, which is why the violation was
+  a line in a JSON file that could be redacted rather than a row in the CRM.
+
 ## Practical notes
 
 - The `Agent` tool takes `model` per call. Set it every time.

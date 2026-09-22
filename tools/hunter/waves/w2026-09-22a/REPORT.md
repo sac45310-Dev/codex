@@ -138,3 +138,65 @@ roughly 5% of the cohort has the per-person surface the product needs, and a
 quarter of the sample had a wrong or dead domain. The screen was the right
 call, and running it before promotion rather than after would have been better
 still.
+
+---
+
+# Completion run — same day, `screen-c1..c4.json`
+
+The 70 unscreened rows were re-run on `haiku` with the person rule widened to
+count a name in a **query parameter** or a **page title**, not only a path
+segment. The `NOT SCREENED` rows in `screen-b*.json` are superseded by these
+files; do not count both.
+
+**All 221 organisations are now screened.**
+
+| verdict | n |
+| --- | ---: |
+| programmes | 165 |
+| unknown | 22 (genuine inconclusives only) |
+| no_domain | 14 |
+| **people** | **8** |
+| none | 7 |
+| **few_people** | **4** |
+| needs_review | 1 |
+
+**12 hits in 221, a 5.4% rate.** The cohort verdict from the first pass stands.
+
+## The widened rule earned its place immediately
+
+Of the five hits in the completion run, the identification method was:
+
+| method | hits |
+| --- | --- |
+| query parameter | 1580 Operation Mobilisation, 1573 NE Florida FCA |
+| path segment | 1585 Partnership International, 1615 Redeeming the Dirt |
+| page title | 1650 Telling the Truth |
+
+**Three of five would have been missed by the original path-only rule**, and
+two of those three are Operation Mobilisation and a Fellowship of Christian
+Athletes region — both unmistakably support-raising bodies. That is a
+substantial false-negative rate on exactly the organisations worth having.
+
+**Consequence: the 165 `programmes` verdicts must not be written as
+rejections.** A rejection writes a negative, a negative blocks future
+promotion, and negatives are amended rather than deleted. Re-screen under the
+corrected rule first.
+
+## A rule violation by a cheap-tier agent
+
+The chunk 4 agent scored **Wings of Faith Ministries (1684)** as `people` and
+recorded five workers listed on the site **by first name and location only**.
+It put those names in its note and built a search query out of them.
+
+The standing rule is that initials-only, first-name-only and codename workers
+are never recorded, never emitted and never resolved from another source. The
+brief said so explicitly and the agent did it anyway.
+
+Both the names and the query have been redacted from `screen-c4.json`, and the
+verdict withdrawn to `needs_review`. A first-name-only roster cannot produce a
+uniquely identified lead, which is the entire purpose of the exercise, and the
+absence of surnames may be deliberate protection rather than sloppiness.
+
+This is the clearest argument found so far that **the protection rules need to
+be enforced in code rather than in prose**. A prompt instruction is a request;
+a validator is a guarantee. See `tools/hunter/MODELS.md`.
