@@ -1,0 +1,131 @@
+[
+{"target_id": 1589, "org": "Pioneer Bible Translators - Deaf Ministries", "domain": "pioneerbible.org",
+ "verdict": "unknown",
+ "evidence": ["https://pioneerbible.org/donate/support-missionaries-and-projects/", "https://pioneerbible.org/donate/", "https://pioneerbible.org/giving/", "https://pioneerbible.org/roles/", "https://pioneerbible.org/roles/missionary-care/"],
+ "queries": ["site:pioneerbible.org give OR donate OR support", "site:pioneerbible.org missionary OR staff OR \"our team\""],
+ "note": "Giving surface exists and one page is titled 'Support Missionaries and Projects', but every indexed URL is programme- or role-shaped (/roles/media, /roles/teacher); no per-person URL surfaced in either query shape, so individual designation is likely behind an unindexed search form."},
+
+{"target_id": 1590, "org": "Pioneers (missions agency)", "domain": "pioneers.org",
+ "verdict": "few_people",
+ "evidence": ["https://give.pioneers.org/s-donate", "https://give.pioneers.org/s-donate?amount=100&firstname=%5BPII_NM_8e2a65985cbdff75%5D&gifttype=M&lastname=%5BPII_NM_ca1822c1906e385b%5D&projectcode=112205", "https://give.pioneers.org/s-donate?ProjectCode=111943&firstname=%5BPII_NM_6455a69ca200d718%5D&lastname=%5BPII_NM_2aba22b34df53f68%5D", "https://pioneers.org/give"],
+ "queries": ["site:pioneers.org give OR donate OR support", "site:give.pioneers.org missionary donate"],
+ "note": "Two distinct indexed per-missionary giving URLs on give.pioneers.org (different project codes, name carried as query params rather than path), alongside a 'Give to a Missionary' hub; remaining /donate/ URLs are funds and regional appeals. Person-level giving is real here but parameterised, so the path-based test undercounts it."},
+
+{"target_id": 1591, "org": "Plant With Purpose", "domain": "plantwithpurpose.org",
+ "verdict": "programmes",
+ "evidence": ["https://plantwithpurpose.org/give/", "https://plantwithpurpose.org/plant-a-tree/", "https://plantwithpurpose.org/gift-trees/", "https://plantwithpurpose.org/plant-a-tree-campaign/"],
+ "queries": ["site:plantwithpurpose.org give OR donate OR support"],
+ "note": "Giving surface returns tree-planting campaigns, gift trees and corporate partnerships; no person in any URL path."},
+
+{"target_id": 1595, "org": "PlanterMatch", "domain": "plantermatch.org",
+ "verdict": "programmes",
+ "evidence": ["https://plantermatch.org/", "https://plantermatch.org/networks/", "https://plantermatch.org/coaches/", "https://plantermatch.org/coach/tom-fay/", "https://plantermatch.org/network/austin-church-planting-network/"],
+ "queries": ["PlanterMatch church planting organization website", "site:plantermatch.org give OR donate OR coach"],
+ "note": "Domain resolved to plantermatch.org, a free Fuller-hosted directory. Named /coach/<name>/ pages exist, but they are third-party coaches listed in a directory, not the organisation's own support-raising workers, and there is no per-person giving surface."},
+
+{"target_id": 1596, "org": "Play Like a Champion Today (Notre Dame)", "domain": "playlikeachampion.org",
+ "verdict": "programmes",
+ "evidence": ["https://www.playlikeachampion.org/donate", "https://www.playlikeachampion.org/programs", "https://www.playlikeachampion.org/conference", "https://www.playlikeachampion.org/community-partners"],
+ "queries": ["site:playlikeachampion.org give OR donate OR support"],
+ "note": "Single general /donate page plus programme and event pages; no per-person giving or staff URLs."},
+
+{"target_id": 1597, "org": "Praxis Labs", "domain": "praxislabs.org",
+ "verdict": "programmes",
+ "evidence": ["https://praxislabs.org/nonprofit/program", "https://praxislabs.org/business/program", "https://praxislabs.org/team/venture-partners", "https://praxislabs.org/entrepreneurs/david-simnick"],
+ "queries": ["site:praxislabs.org give OR donate OR support"],
+ "note": "Named /entrepreneurs/<name> profile pages exist, but they are portfolio-fellow bios; the capital surface is accelerator grants and a pooled capital-partners fund, not personal support accounts."},
+
+{"target_id": 1598, "org": "Pregnancy Help Center", "domain": "pregnancyhelpcenter.org",
+ "verdict": "programmes",
+ "evidence": ["https://pregnancyhelpcenter.org/donate/", "https://pregnancyhelpcenter.org/donate-items", "https://www.pregnancyhelpcenter.org/event-details/2025-annual-banquet"],
+ "queries": ["site:pregnancyhelpcenter.org give OR donate OR support"],
+ "note": "Lake Jackson TX centre; giving surface is a general donate page, in-kind item list and a bottle-drive event. No person URLs."},
+
+{"target_id": 1599, "org": "Prison Fellowship International (PFI)", "domain": "pfi.org",
+ "verdict": "programmes",
+ "evidence": ["https://pfi.org/donate/", "https://pfi.org/donate/sponsor-child/", "https://pfi.org/donate/promisepath/", "https://pfi.org/donate/lamplighter/", "https://pfi.org/donate/employer-donation-matching/"],
+ "queries": ["site:pfi.org give OR donate OR support"],
+ "note": "All /donate/ children are named programmes (PromisePath, Lamplighter, child sponsorship, employer matching); no per-person paths."},
+
+{"target_id": 1600, "org": "Promise686", "domain": "promise686.org",
+ "verdict": "programmes",
+ "evidence": ["https://www.promise686.org/give", "https://give.promise686.org/give/f2735944/", "https://give.promise686.org/give/313061/#!/donation/checkout", "https://promise686.org/tough-campaign/"],
+ "queries": ["site:promise686.org give OR donate OR support"],
+ "note": "Giving subdomain uses numeric fund IDs for races, regional initiatives and campaigns; no named person pages."},
+
+{"target_id": 1601, "org": "Proverbs 22 Project", "domain": "proverbs22project.org",
+ "verdict": "unknown",
+ "evidence": [],
+ "queries": ["site:proverbs22project.org give OR donate OR support"],
+ "note": "The site: query returned zero results on this domain (only unrelated Proverbs-named ministries). Domain may be dead, unindexed or misspelled; could not be confirmed before the session search budget was exhausted."},
+
+{"target_id": 1602, "org": "Proverbs 22:3", "domain": "proverbs223.org",
+ "verdict": "unknown",
+ "evidence": [],
+ "queries": ["site:proverbs223.org give OR donate OR support"],
+ "note": "The site: query returned zero results on this domain. The follow-up name search to confirm the real domain could not run because the session search budget was exhausted."},
+
+{"target_id": 1604, "org": "Raceway Ministries Atlanta", "domain": null,
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget (200/200) exhausted before this row; WebFetch and curl are blocked by the network egress proxy, so no fallback was available."},
+
+{"target_id": 1605, "org": "Ransomed Heart Ministries - Women's Division", "domain": "ransomedheart.com",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."},
+
+{"target_id": 1606, "org": "Ravi Zacharias International Ministries", "domain": "rzim.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."},
+
+{"target_id": 1607, "org": "RCE (Resourcing Christian Education International)", "domain": "rce-international.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."},
+
+{"target_id": 1608, "org": "ReachNetwork EFCA", "domain": null,
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - NODOMAIN row; session WebSearch budget exhausted before the name lookup could run."},
+
+{"target_id": 1609, "org": "Reasonable Faith", "domain": "reasonablefaith.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."},
+
+{"target_id": 1610, "org": "Reasons to Believe", "domain": "reasonstoblieve.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted. Domain on file appears misspelled; the likely correct domain reasons.org was not verified."},
+
+{"target_id": 1612, "org": "Redeemed Girl Ministries", "domain": "redeemedgirl.com",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."},
+
+{"target_id": 1613, "org": "Redeemer City to City", "domain": null,
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - NODOMAIN row; session WebSearch budget exhausted before the name lookup could run."},
+
+{"target_id": 1615, "org": "Redeeming the Dirt", "domain": "redeemingthedirt.com",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."},
+
+{"target_id": 1616, "org": "ReGeneration Ministries", "domain": "regenerationministries.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."},
+
+{"target_id": 1621, "org": "Salvation Army USA National Women's Ministries", "domain": "salvationarmy.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."},
+
+{"target_id": 1622, "org": "Samaritan's Purse International Relief", "domain": "samaritanspurse.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."},
+
+{"target_id": 1623, "org": "San Antonio Pregnancy Care Center", "domain": "sapregnancy.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."},
+
+{"target_id": 1624, "org": "Save The Storks", "domain": "savethestorks.com",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."},
+
+{"target_id": 1625, "org": "School of the Spirit Ministry", "domain": "schoolofthespirit.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "NOT SCREENED - session WebSearch budget exhausted; WebFetch/curl blocked by egress proxy."}
+]

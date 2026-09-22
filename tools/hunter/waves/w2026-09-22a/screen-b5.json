@@ -1,0 +1,156 @@
+[
+{"target_id": 1555, "org": "Mending Hearts Ministries", "domain": "mendingheartsministries.org",
+ "verdict": "no_domain",
+ "evidence": ["https://www.mendinghearts.org/", "https://www.mendinghearts.org/about-us.html"],
+ "queries": ["site:mendingheartsministries.org give OR donate OR support", "\"mendingheartsministries.org\""],
+ "note": "No page on the listed domain is indexed and it would not resolve through the proxy; a similarly named site (mendinghearts.org) exists but nothing confirms it is this row's org and no giving/person URLs surfaced."},
+
+{"target_id": 1556, "org": "Mennonite Central Committee (MCC)", "domain": "mcc.org",
+ "verdict": "programmes",
+ "evidence": ["https://mcc.org/get-involved/giving", "https://mcc.org/get-involved/giving/worker", "https://mcc.org/get-involved/giving/frequently-asked-questions", "https://mcc.org/get-involved/kits"],
+ "queries": ["site:mcc.org give OR donate OR support", "site:mcc.org \"support a worker\" OR \"giving/worker\""],
+ "note": "Giving URLs are funds, kits and country programmes; the single /giving/worker page is generic and the FAQ states long-term workers are not asked to raise their own support. No per-person URLs."},
+
+{"target_id": 1557, "org": "Mercy Center Auburn", "domain": "mercycenter.org",
+ "verdict": "programmes",
+ "evidence": ["https://www.mercycenter.org/donations/", "https://www.mercycenter.org/scholarships"],
+ "queries": ["site:mercycenter.org give OR donate OR support"],
+ "note": "Single general donations page plus retreat/scholarship pages; no staff or per-person giving URLs."},
+
+{"target_id": 1560, "org": "Mighty Oak Housing", "domain": "mightyoakhousing.org",
+ "verdict": "no_domain",
+ "evidence": [],
+ "queries": ["site:mightyoakhousing.org give OR donate OR support", "\"mightyoakhousing.org\""],
+ "note": "No indexed page on the domain and it did not resolve through the proxy; results returned only unrelated housing and Mighty Oaks veteran organisations."},
+
+{"target_id": 1561, "org": "Missio Nexus", "domain": "missionexus.org",
+ "verdict": "programmes",
+ "evidence": ["https://missionexus.org/donate/", "https://missionexus.org/partnership/partnership-resources/"],
+ "queries": ["site:missionexus.org give OR donate OR support"],
+ "note": "One /donate/ page with fund designations; remaining URLs are articles about support raising, not per-person giving pages."},
+
+{"target_id": 1562, "org": "Mission to North America (PCA Native American & First Nations Ministry)", "domain": "pcamna.org",
+ "verdict": "people",
+ "evidence": ["https://give.pcamna.org/", "https://give.pcamna.org/to/1446/", "https://give.pcamna.org/to/1919/", "https://give.pcamna.org/to/1489/", "https://give.pcamna.org/to/1346/", "https://www.pcamna.org/give"],
+ "queries": ["site:pcamna.org give OR donate OR support"],
+ "note": "give.pcamna.org hosts numbered per-person donation pages whose titles are individual named workers and church planters, alongside separate general-fund pages."},
+
+{"target_id": 1563, "org": "Mission Training International (MTI)", "domain": "mti.org",
+ "verdict": "programmes",
+ "evidence": ["https://www.mti.org/donate", "https://www.mti.org/leadershipteam", "https://www.mti.org/join"],
+ "queries": ["site:mti.org give OR donate OR support", "site:mti.org staff OR missionary OR \"our team\" donate"],
+ "note": "Donate page mentions a staff-support designation but there is one shared leadership page and no per-person giving or staff URLs."},
+
+{"target_id": 1564, "org": "Mission Youth and Family", "domain": "regnumchristidc.org",
+ "verdict": "programmes",
+ "evidence": ["https://regnumchristidc.org/donate/", "https://regnumchristidc.org/womens-section/", "https://regnumchristidc.org/consecrated-women/"],
+ "queries": ["site:regnumchristidc.org give OR donate OR support"],
+ "note": "Single donate page plus section pages; giving is to sections and the mission, no per-person URLs."},
+
+{"target_id": 1565, "org": "Mississippi Missionary Network", "domain": "msmissionarynet.org",
+ "verdict": "no_domain",
+ "evidence": [],
+ "queries": ["site:msmissionarynet.org give OR donate OR support", "\"Mississippi Missionary Network\" missionaries give"],
+ "note": "No indexed page on the domain; a name search returned only Mississippi Baptist Convention Board and other unrelated bodies, so no working domain established."},
+
+{"target_id": 1567, "org": "MOPS International (Mothers of Preschoolers)", "domain": "mopsintl.org",
+ "verdict": "programmes",
+ "evidence": ["https://www.mops.org/donate-now/", "https://www.mops.org/invest-in-moms/", "https://swww.mops.org/giving/"],
+ "queries": ["site:mopsintl.org give OR donate OR support"],
+ "note": "Giving surface lives on mops.org as general donate and campaign pages; no per-person URLs."},
+
+{"target_id": 1568, "org": "Mountain Sky UMC", "domain": "mtnskyumc.org",
+ "verdict": "programmes",
+ "evidence": ["https://www.mtnskyumc.org/donate", "https://www.mtnskyumc.org/missionaries", "https://www.mtnskyumc.org/statsmissionshares", "https://www.mtnskyumc.org/emerging-faith-community-grants"],
+ "queries": ["site:mtnskyumc.org give OR donate OR support", "site:mtnskyumc.org missionaries"],
+ "note": "One shared /missionaries list page and general donate/mission-share pages; individuals appear only inside numeric /newsdetail/ articles, not as per-person giving pages."},
+
+{"target_id": 1569, "org": "National Center for Fathering", "domain": "fathers.com",
+ "verdict": "programmes",
+ "evidence": ["https://fathers.com/give", "https://fathers.com/get-involved/", "https://fathers.com/financials/"],
+ "queries": ["site:fathers.com give OR donate OR support"],
+ "note": "General /give and /get-involved pages funding research and trainer networks; no per-person URLs."},
+
+{"target_id": 1570, "org": "National Institute for Family and Life Advocates (NIFLA)", "domain": "nifla.org",
+ "verdict": "programmes",
+ "evidence": ["https://nifla.org/donate-now/", "https://membership.nifla.org/membership-map.asp"],
+ "queries": ["site:nifla.org give OR donate OR support"],
+ "note": "One donate page with giving societies and planned-giving options, plus a member-centre map; no per-person URLs."},
+
+{"target_id": 1571, "org": "Native Ministry", "domain": "nativeministry.org",
+ "verdict": "programmes",
+ "evidence": ["https://nativeministry.org/partner/", "https://nativeministry.org/thank-you/", "https://nativeministry.org/about/"],
+ "queries": ["site:nativeministry.org give OR donate OR support"],
+ "note": "A single /partner/ giving page for the ministry as a whole; remaining URLs are dated prayer letters, not per-person giving pages."},
+
+{"target_id": 1572, "org": "Native Ways Federation", "domain": "nativeways.org",
+ "verdict": "programmes",
+ "evidence": ["https://www.nativeways.org/donate/", "https://www.nativeways.org/power-of-ten/", "https://www.nativeways.org/givenative/", "https://www.nativeways.org/native-nonprofit-day/"],
+ "queries": ["site:nativeways.org give OR donate OR support"],
+ "note": "Giving surface is campaigns and a funder-support page routing to member nonprofits; a pass-through with no per-person URLs."},
+
+{"target_id": 1573, "org": "NE Florida FCA (Northeast Florida)", "domain": "nefloridafca.org",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:nefloridafca.org give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted (200/200) and direct fetch blocked by the network egress proxy."},
+
+{"target_id": 1574, "org": "Network of Native Ministries", "domain": "chief.org",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:chief.org give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted and direct fetch blocked by the network egress proxy."},
+
+{"target_id": 1575, "org": "Network of Women Ministers (Assemblies of God)", "domain": "womenministers.ag.org",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:womenministers.ag.org give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted and direct fetch blocked by the network egress proxy."},
+
+{"target_id": 1577, "org": "Nineveh Network", "domain": null,
+ "verdict": "unknown", "evidence": [],
+ "queries": ["Nineveh Network website (not executed)"],
+ "note": "NOT SCREENED: row was NODOMAIN and the name search could not be run; web search budget exhausted and direct fetch blocked."},
+
+{"target_id": 1578, "org": "Not for Sale Campaign", "domain": "notforsale.org",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:notforsale.org give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted and direct fetch blocked by the network egress proxy."},
+
+{"target_id": 1579, "org": "On the Third Day (OTTD) Renewal and Formation Center", "domain": "spiritualformation.center",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:spiritualformation.center give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted and direct fetch blocked by the network egress proxy."},
+
+{"target_id": 1580, "org": "Operation Mobilisation (OM)", "domain": "omusa.org",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:omusa.org give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted; a direct fetch of https://www.omusa.org/give was blocked by the egress proxy. Flagged as a likely support-raising body needing a careful re-run."},
+
+{"target_id": 1581, "org": "Opportunity International", "domain": "opportunity.org",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:opportunity.org give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted and direct fetch blocked by the network egress proxy."},
+
+{"target_id": 1583, "org": "Outreach (Chicago)", "domain": "weareoutreach.org",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:weareoutreach.org give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted and direct fetch blocked by the network egress proxy."},
+
+{"target_id": 1584, "org": "Partners Worldwide", "domain": "partnersworldwide.org",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:partnersworldwide.org give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted and direct fetch blocked by the network egress proxy."},
+
+{"target_id": 1585, "org": "Partnership International", "domain": "pitrips.com",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:pitrips.com give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted and direct fetch blocked by the network egress proxy."},
+
+{"target_id": 1587, "org": "Peacemaker Ministries", "domain": "peacemakerministries.org",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:peacemakerministries.org give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted and direct fetch blocked by the network egress proxy."},
+
+{"target_id": 1588, "org": "Pillar Network Arizona", "domain": "pillaraz.org",
+ "verdict": "unknown", "evidence": [],
+ "queries": ["site:pillaraz.org give OR donate OR support (not executed)"],
+ "note": "NOT SCREENED: web search budget exhausted and direct fetch blocked by the network egress proxy."}
+]

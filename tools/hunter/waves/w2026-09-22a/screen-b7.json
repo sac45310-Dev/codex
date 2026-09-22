@@ -1,0 +1,131 @@
+[
+{"target_id": 1626, "org": "Send Network", "domain": "sendnetwork.com",
+ "verdict": "programmes",
+ "evidence": ["https://www.sendnetwork.com/send/", "https://www.sendnetwork.com/article/5-reasons-to-lead-your-church-to-invest-in-the-annie-armstrong-easter-offering/"],
+ "queries": ["site:sendnetwork.com give OR donate OR support", "site:sendnetwork.com staff OR missionary OR \"our team\""],
+ "note": "Both query shapes returned only /send/ and /article/... URLs; giving is routed to the Annie Armstrong offering (a fund), no per-person give or staff paths."},
+
+{"target_id": 1627, "org": "Send Network SBTC", "domain": null,
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: session web-search budget (200/200) was exhausted before this row and direct fetching is blocked by the egress proxy."},
+
+{"target_id": 1628, "org": "Send Network Spanish Resources", "domain": null,
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted; no domain established."},
+
+{"target_id": 1629, "org": "Serge (World Harvest Mission)", "domain": "serge.org",
+ "verdict": "people",
+ "evidence": ["https://give.serge.org/donate/carlan-and-michelle-wendler/", "https://give.serge.org/donate/peter-and-rebekah-stafford/", "https://give.serge.org/donate/patrick-and-alexis-mcclure/", "https://give.serge.org/donate/julia-sloan/", "https://give.serge.org/donate/matt-and-janelle-h/"],
+ "queries": ["site:serge.org give OR donate OR support"],
+ "note": "give.serge.org/donate/<name> per-person giving pages returned alongside fund pages (missionary-care, where-needed-most); clear per-worker support surface."},
+
+{"target_id": 1630, "org": "Servants of Christ Prison Ministry", "domain": null,
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted; no domain established."},
+
+{"target_id": 1631, "org": "Shalem Institute for Spiritual Formation", "domain": "shalem.org",
+ "verdict": "programmes",
+ "evidence": ["https://shalem.org/ways-to-give/", "https://shalem.org/programs/spiritual-guidance-program-2026/", "https://shalem.org/programs/types/long-term-programs/"],
+ "queries": ["site:shalem.org give OR donate OR support"],
+ "note": "Single /ways-to-give/ page plus /programs/... URLs; giving is general/planned-giving and a memorial fund, no per-person pages."},
+
+{"target_id": 1632, "org": "She Leads Academy", "domain": "sheleadsacademy.com",
+ "verdict": "none",
+ "evidence": ["https://www.sheleadsacademy.com/about-us/", "https://www.sheleadsacademy.com/work-with-us/"],
+ "queries": ["site:sheleadsacademy.com give OR donate OR support"],
+ "note": "Only three results, all marketing/blog pages for a coaching business; no giving or staff-support surface at all."},
+
+{"target_id": 1633, "org": "She Reads Truth", "domain": "shereadstruth.com",
+ "verdict": "none",
+ "evidence": ["https://shereadstruth.com/lets-build-app/", "https://shereadstruth.com/love-displayed/"],
+ "queries": ["site:shereadstruth.com give OR donate OR support"],
+ "note": "Every hit is a devotional post whose text happens to use the word give/donate; no giving page on the domain (one historical Kickstarter mention)."},
+
+{"target_id": 1634, "org": "Shepherd's Center National Office", "domain": "shepherdscenter.org",
+ "verdict": "programmes",
+ "evidence": ["https://www.shepherdscenter.org/donate-now", "https://www.shepherdscenter.org/donate-other", "https://www.shepherdscenter.org/vital-living-program"],
+ "queries": ["site:shepherdscenter.org give OR donate OR support"],
+ "note": "Domain actually serves the Greater Winston-Salem centre, not a national office; /donate-now and /donate-other are general gift pages, no per-person paths."},
+
+{"target_id": 1636, "org": "SIM International (USA)", "domain": "simusa.org",
+ "verdict": "programmes",
+ "evidence": ["https://www.simusa.org/give/", "https://www.simusa.org/ways-to-give/", "https://partner.simusa.org/simusa/give-2024305", "https://partner.simusa.org/Archive/simusa/give", "https://www.simusa.org/give/planned-giving/"],
+ "queries": ["site:simusa.org give OR donate OR support", "site:simusa.org missionary support OR \"give to\" workers", "partner.simusa.org give worker donate"],
+ "note": "Alternative shape tried as instructed. simusa.org carries no per-person URL; giving is handed off to partner.simusa.org, whose indexed pages are generic /simusa/give ids, and copy directs donors to a Send More Workers general fund with worker designation chosen inside the form rather than via a per-person page. No per-person surface evidenced on its own domain."},
+
+{"target_id": 1638, "org": "Special Touch Ministry", "domain": null,
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted; no domain established."},
+
+{"target_id": 1639, "org": "Sports Chaplaincy International", "domain": "sportschaplaincy.com",
+ "verdict": "programmes",
+ "evidence": ["https://sportschaplaincy.com/donations/", "https://sportschaplaincy.com/", "https://www.sportschaplaincy.org.uk/Groups/426073/Donate.aspx"],
+ "queries": ["site:sportschaplaincy.org give OR donate OR support"],
+ "note": "Listed domain sportschaplaincy.org returned nothing of its own; the global body is sportschaplaincy.com, whose /donations/ page is a single general appeal (chaplain training costs), and the UK arm is a separate .org.uk. No per-person pages."},
+
+{"target_id": 1640, "org": "Sports Outreach International", "domain": "sportsoutreach.net",
+ "verdict": "programmes",
+ "evidence": ["https://www.sportsoutreach.net/give", "https://www.sportsoutreach.net/education", "https://www.sportsoutreach.net/feeding", "https://www.sportsoutreach.net/vocational-training"],
+ "queries": ["site:sportsoutreach.net give OR donate OR support"],
+ "note": "/give plus programme URLs (education, feeding, vocational-training, womens-empowerment); gifts go to a General Fund or named programmes, no per-person paths."},
+
+{"target_id": 1642, "org": "Stadia Churches - Coaching Ministry", "domain": null,
+ "verdict": "unknown",
+ "evidence": ["https://stadia.org/give/"],
+ "queries": ["site:stadiacoaches.com give OR donate OR support"],
+ "note": "stadiacoaches.com does not resolve (NXDOMAIN) and returned no indexed pages; the parent body appears to be stadia.org with a /give/ page, but that page could not be fetched (egress blocked) so its shape is unverified."},
+
+{"target_id": 1643, "org": "Stand to Reason (STR)", "domain": "str.org",
+ "verdict": "programmes",
+ "evidence": ["https://str.org/donate", "https://donate.str.org/donate/redpen", "https://donate.str.org/home", "https://str.org/donation-questions", "https://alt.str.org/stewardship"],
+ "queries": ["site:str.org give OR donate OR support"],
+ "note": "Giving surface is /donate plus a named programme (Red Pen Logic) and planned-giving pages; no per-person or per-speaker giving URLs."},
+
+{"target_id": 1644, "org": "Steve Addison - Movements.org", "domain": "movements.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted and movements.org is blocked by the egress proxy."},
+
+{"target_id": 1645, "org": "Streetlights USA", "domain": "streetlightsusa.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted."},
+
+{"target_id": 1646, "org": "Sunset International Bible Institute", "domain": "sunset.bible",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted."},
+
+{"target_id": 1648, "org": "Tearfund", "domain": "tearfund.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted and tearfund.org is blocked by the egress proxy."},
+
+{"target_id": 1649, "org": "Teen Challenge International", "domain": "teenchallenge.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted."},
+
+{"target_id": 1650, "org": "Telling the Truth", "domain": "tellingthetruthonline.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted."},
+
+{"target_id": 1652, "org": "The AND Campaign", "domain": "theandcampaign.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted."},
+
+{"target_id": 1654, "org": "The Christian Athlete", "domain": "thechristianathlete.com",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted."},
+
+{"target_id": 1656, "org": "The Convene", "domain": "theconvene.com",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted."},
+
+{"target_id": 1657, "org": "The Cornerstone Single Parent Initiative", "domain": "cornerstonespninitiative.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted."},
+
+{"target_id": 1658, "org": "The Crucible (Young Men's Ministry)", "domain": "crucibleministry.org",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted."},
+
+{"target_id": 1660, "org": "The Founder's Forum (Christian Tech Leaders Network)", "domain": "foundersforum.com",
+ "verdict": "unknown", "evidence": [], "queries": [],
+ "note": "Not screened: search budget exhausted."}
+]
