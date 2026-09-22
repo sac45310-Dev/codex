@@ -1,7 +1,69 @@
-# Email extraction
+# Email extraction — SUPERSEDED, DO NOT RUN
 
-Adding emails to the CRM is not a hunt. As of 2026-09-21 the addresses are
-already behind URLs we hold and have never been read off the page.
+> **This tool duplicates work that already exists and already ran, and it is
+> the worse of the two implementations. Use
+> `tools/hunter/harvest-contacts.mjs` in the `sac45310-Dev/donor-send`
+> repository instead.**
+>
+> Written 2026-09-22, deprecated the same day on discovering the real one.
+
+## What was wrong with the premise
+
+This directory was built on the belief that 5,705 people had a stored
+per-person page whose published email had never been read. That belief was
+false. `harvest-contacts.mjs` ran across **the whole rostered population** on
+2026-09-21 — twenty organisations with the most people lacking an address,
+then the 113-organisation tail — and the results are already in the database.
+The people still without an email overwhelmingly do not have one published.
+
+Measured yields from that run, which this tool would merely have repeated:
+
+| agency | people | emails found |
+| --- | ---: | ---: |
+| FOCUS | 1,770 | 568 (plus 1,196 phone) |
+| Every Nation | 410 | 320 |
+| Mission to the World | 537 | 282 |
+| Baptist Mid-Missions | 456 | 160 |
+| Africa Inland Mission | 365 | 109 |
+| Baptist Bible Fellowship | 468 | **0** — one office address on all 263 pages |
+| Baptist Missions to Forgotten Peoples | 207 | **0** — 115 pages fetched clean, nothing published |
+| SIM Canada / Australia / UK | 469 | **0** — Australia's "addresses" were a form placeholder |
+| Wycliffe, Ethnos360, RUF, ISI, CCO | — | **0** on re-measurement |
+
+The recommendation this directory was built to serve — "run FOCUS first for
+roughly 1,188 more addresses" — was wrong. FOCUS was already harvested and
+yielded 568. The remaining FOCUS people have no published address.
+
+## What the real tool does that this one does not
+
+- **`emailNamesSomeoneElse`** — on a couple's page, the first address is not
+  automatically this person's. On FOCUS, 23 of 113 would have been attributed
+  to the wrong spouse.
+- **`stripSharedContacts` with real thresholds** — it needs 4 sharing pages
+  before the share rule fires at all, and 25 pages for the absolute rule.
+  This tool's `--shared-max 3` default is below that, and on a small sample
+  strips nothing, so every repeated switchboard address reads as personal.
+  A two-page probe cost the other pipeline a wasted run for exactly this
+  reason: RUF's 2-page probe looked like a hit, and the full 84 pages showed
+  one office address on every single one.
+- **Role addresses are kept and labelled, not dropped** — owner's ruling of
+  2026-09-20. A shared inbox is still how you reach that person; what it needs
+  is an honest `email_kind`. This tool demotes them instead.
+
+## The one idea here worth keeping
+
+Nothing in the other pipeline re-tests a number written in a comment. Mission
+to the World sat recorded as "0, 403 on all 220 pages, Cloudflare" until
+2026-09-18, when a re-run against the same people returned 203 published
+addresses — the block had simply lifted. A yield of 203 was invisible for
+weeks because a stale comment told every future session not to bother.
+
+**Blocked and zero-yield agencies deserve periodic re-testing.** That is the
+only thing this directory contributes, and it belongs in the real tool.
+
+---
+
+*Original content follows, retained for the record. Its numbers are wrong.*
 
 | Measure | Count |
 | --- | ---: |
